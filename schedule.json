@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-24T17:46:03.180Z",
+  "generatedAt": "2026-07-24T17:51:12.222Z",
   "schemaVersion": 1,
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-07-24T17:46:03.149Z",
+    "updatedAt": "2026-07-24T17:51:12.187Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 597,
+    "entryCount": 605,
     "firstDate": "2026-03-27",
-    "lastDate": "2026-07-26"
+    "lastDate": "2026-07-30"
   },
   "entries": [
     {
@@ -9343,6 +9343,22 @@
       "url": "https://www.twitch.tv/wispy_witch"
     },
     {
+      "id": "evt_1784915472184_p15ff4",
+      "date": "2026-07-19",
+      "dateLabel": "Sunday, July 19th",
+      "weekday": "Sunday",
+      "streamer": "JaxsBerryPatch",
+      "title": "Decorating a Greek Gods area",
+      "notes": "",
+      "timeMinutes": 360,
+      "timeLabel": "6:00 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
       "id": "evt_1783533557550_0x36va",
       "date": "2026-07-19",
       "dateLabel": "Sunday, July 19th",
@@ -9455,6 +9471,38 @@
       "url": "https://www.twitch.tv/faytefireix"
     },
     {
+      "id": "evt_1784915472183_d7hfxj",
+      "date": "2026-07-22",
+      "dateLabel": "Wednesday, July 22nd",
+      "weekday": "Wednesday",
+      "streamer": "JaxsBerryPatch",
+      "title": "DreamSnap for the new week, weekly routine duties, and premium shop",
+      "notes": "",
+      "timeMinutes": 930,
+      "timeLabel": "3:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
+      "id": "evt_1784915365913_mhhqyc",
+      "date": "2026-07-22",
+      "dateLabel": "Wednesday, July 22nd",
+      "weekday": "Wednesday",
+      "streamer": "Horror_Heather",
+      "title": "Shift at Midnight",
+      "notes": "",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
       "id": "evt_1784915143742_ljpaub",
       "date": "2026-07-22",
       "dateLabel": "Wednesday, July 22nd",
@@ -9535,6 +9583,22 @@
       "url": "https://www.twitch.tv/wispy_witch"
     },
     {
+      "id": "evt_1784915472183_17s8t9",
+      "date": "2026-07-24",
+      "dateLabel": "Friday, July 24th",
+      "weekday": "Friday",
+      "streamer": "JaxsBerryPatch",
+      "title": "Opening our donation island",
+      "notes": "",
+      "timeMinutes": 930,
+      "timeLabel": "3:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
       "id": "evt_1784915143743_7jp20w",
       "date": "2026-07-24",
       "dateLabel": "Friday, July 24th",
@@ -9551,6 +9615,38 @@
       "url": "https://www.twitch.tv/faytefireix"
     },
     {
+      "id": "evt_1784915472184_5jrzxp",
+      "date": "2026-07-25",
+      "dateLabel": "Saturday, July 25th",
+      "weekday": "Saturday",
+      "streamer": "JaxsBerryPatch",
+      "title": "100% journey, recipes and crafting",
+      "notes": "",
+      "timeMinutes": 360,
+      "timeLabel": "6:00 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
+      "id": "evt_1784915472184_58jb3d",
+      "date": "2026-07-25",
+      "dateLabel": "Saturday, July 25th",
+      "weekday": "Saturday",
+      "streamer": "JaxsBerryPatch",
+      "title": "Valley Visits",
+      "notes": "",
+      "timeMinutes": 540,
+      "timeLabel": "9:00 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
       "id": "evt_1784915163145_5q5nxv",
       "date": "2026-07-26",
       "dateLabel": "Sunday, July 26th",
@@ -9565,6 +9661,38 @@
       "sourceType": "dated",
       "recurrenceId": "",
       "url": "https://www.twitch.tv/wispy_witch"
+    },
+    {
+      "id": "evt_1784915365913_jj026s",
+      "date": "2026-07-27",
+      "dateLabel": "Mon, Jul 27",
+      "weekday": "",
+      "streamer": "Horror_Heather",
+      "title": "Alan Wake II",
+      "notes": "",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1784915365913_bx6u1v",
+      "date": "2026-07-30",
+      "dateLabel": "Thu, Jul 30",
+      "weekday": "",
+      "streamer": "Horror_Heather",
+      "title": "Alan Wake II",
+      "notes": "",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/horror_heather"
     }
   ]
 }
