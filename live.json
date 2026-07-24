@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-24T22:32:03.713Z",
+  "generatedAt": "2026-07-24T22:37:03.205Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-24T22:32:03.695Z",
+    "fetchedAt": "2026-07-24T22:37:03.188Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 5,
-    "offlineCount": 48
+    "liveCount": 6,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "hewoo pwincesses🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 88,
+      "viewer_count": 81,
       "follower_count": 10408,
       "language": "en",
       "started_at": "2026-07-24T17:59:36Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "New month new giveaway!! |Weekly Reset stream!! |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 70,
+      "viewer_count": 76,
       "follower_count": 2598,
       "language": "en",
       "started_at": "2026-07-24T21:58:57Z",
@@ -50,8 +50,8 @@
       "is_live": true,
       "title": "FORTNITE FRIYAY | MICROSCAPE DROP FESTIVAL | !commands For Fun!",
       "game_name": "Fortnite",
-      "viewer_count": 26,
-      "follower_count": 555,
+      "viewer_count": 31,
+      "follower_count": 559,
       "language": "en",
       "started_at": "2026-07-24T22:03:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohgoshimjosh-960x540.jpg",
@@ -60,12 +60,27 @@
       "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Just Chatting",
+      "viewer_count": 30,
+      "follower_count": 2352,
+      "language": "en",
+      "started_at": "2026-07-24T22:34:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
       "user_login": "wispy_witch",
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "MECCHA CHAMELEON | VERY COOL! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "MECCHA CHAMELEON",
-      "viewer_count": 10,
+      "viewer_count": 14,
       "follower_count": 1715,
       "language": "en",
       "started_at": "2026-07-24T19:56:50Z",
@@ -79,8 +94,8 @@
       "user_name": "KILLUJAH",
       "is_live": true,
       "title": "whoopin ahh FRIED!!!🍃💨| !yt !socials !discord | JOIN THE AGENCY🌐",
-      "game_name": "Call of Duty: Warzone",
-      "viewer_count": 6,
+      "game_name": "Marvel Rivals",
+      "viewer_count": 5,
       "follower_count": 791,
       "language": "en",
       "started_at": "2026-07-24T21:46:57Z",
@@ -178,21 +193,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": "Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
-    },
-    {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 2352,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
