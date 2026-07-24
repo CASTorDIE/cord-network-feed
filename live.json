@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-24T20:07:03.313Z",
+  "generatedAt": "2026-07-24T20:12:03.367Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-24T20:07:03.297Z",
+    "fetchedAt": "2026-07-24T20:12:03.350Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "hewoo pwincesses🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 59,
+      "viewer_count": 56,
       "follower_count": 10406,
       "language": "en",
       "started_at": "2026-07-24T17:59:36Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "MECCHA CHAMELEON | VERY COOL! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "MECCHA CHAMELEON",
-      "viewer_count": 7,
+      "viewer_count": 10,
       "follower_count": 1714,
       "language": "en",
       "started_at": "2026-07-24T19:56:50Z",
