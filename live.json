@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-24T18:17:03.326Z",
+  "generatedAt": "2026-07-24T18:22:03.402Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-24T18:17:03.308Z",
+    "fetchedAt": "2026-07-24T18:22:03.386Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "hewoo pwincesses🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 38,
+      "viewer_count": 49,
       "follower_count": 10403,
       "language": "en",
       "started_at": "2026-07-24T17:59:36Z",
