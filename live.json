@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-24T17:54:10.557Z",
+  "generatedAt": "2026-07-24T17:57:03.357Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-24T17:54:10.540Z",
+    "fetchedAt": "2026-07-24T17:57:03.341Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✝️🍵IRL JAPANESE GARDEN 🌳✝️ JESUS IS KING",
       "game_name": "IRL",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "follower_count": 39,
       "language": "en",
       "started_at": "2026-07-24T17:31:05Z",
