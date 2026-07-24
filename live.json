@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-24T18:22:03.402Z",
+  "generatedAt": "2026-07-24T18:27:03.349Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-24T18:22:03.386Z",
+    "fetchedAt": "2026-07-24T18:27:03.332Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "hewoo pwincesses🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 49,
-      "follower_count": 10403,
+      "viewer_count": 61,
+      "follower_count": 10402,
       "language": "en",
       "started_at": "2026-07-24T17:59:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
