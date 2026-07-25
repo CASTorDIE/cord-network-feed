@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-25T06:17:03.363Z",
+  "generatedAt": "2026-07-25T06:22:03.284Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T06:17:03.347Z",
+    "fetchedAt": "2026-07-25T06:22:03.267Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| We're Going Back to HALO #GiftedByXbox #HaloCampaignEvolved | !discord !telegram !micro !pizza | 200 bits or more covers my screen!",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 154,
+      "viewer_count": 152,
       "follower_count": 10044,
       "language": "en",
       "started_at": "2026-07-25T02:01:12Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "sipping and grinding ft one margarita ♡ ranked grind",
       "game_name": "Apex Legends",
-      "viewer_count": 21,
-      "follower_count": 4989,
+      "viewer_count": 24,
+      "follower_count": 4988,
       "language": "en",
       "started_at": "2026-07-25T05:51:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
