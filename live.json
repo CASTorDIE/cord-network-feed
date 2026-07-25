@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-25T05:47:03.393Z",
+  "generatedAt": "2026-07-25T05:52:03.253Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T05:47:03.377Z",
+    "fetchedAt": "2026-07-25T05:52:03.236Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 2,
-    "offlineCount": 51
+    "liveCount": 3,
+    "offlineCount": 50
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| We're Going Back to HALO #GiftedByXbox #HaloCampaignEvolved | !discord !telegram !micro !pizza | 200 bits or more covers my screen!",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 158,
+      "viewer_count": 163,
       "follower_count": 10041,
       "language": "en",
       "started_at": "2026-07-25T02:01:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I'M IN PAIN | !raffle !social !rank !burp",
       "game_name": "Shift at Midnight",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 308,
       "language": "en",
       "started_at": "2026-07-25T05:05:41Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c376db32-fb72-4987-97f5-e1c21d93b622-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/taixiao",
       "description": "The woman with the 3 missing fingers on her keyboard hand."
+    },
+    {
+      "user_login": "angelicdomi",
+      "user_name": "AngelicDomi",
+      "is_live": true,
+      "title": "sipping and grinding ft one margarita ♡ ranked grind",
+      "game_name": "Apex Legends",
+      "viewer_count": 0,
+      "follower_count": 4991,
+      "language": "en",
+      "started_at": "2026-07-25T05:51:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/angelicdomi",
+      "description": "probably having a coffee at this very moment"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -88,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/allyreggie",
       "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
-    },
-    {
-      "user_login": "angelicdomi",
-      "user_name": "AngelicDomi",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 4991,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/angelicdomi",
-      "description": "probably having a coffee at this very moment"
     },
     {
       "user_login": "ao_zora_",
