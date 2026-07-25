@@ -1,34 +1,19 @@
 {
-  "generatedAt": "2026-07-25T11:07:02.292Z",
+  "generatedAt": "2026-07-25T11:12:02.390Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T11:07:02.276Z",
+    "fetchedAt": "2026-07-25T11:12:02.374Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 1,
-    "offlineCount": 52
+    "liveCount": 0,
+    "offlineCount": 53
   },
   "streamers": [
-    {
-      "user_login": "taixiao",
-      "user_name": "TaiXiao",
-      "is_live": true,
-      "title": "I'M IN PAIN | !raffle !social !rank !burp",
-      "game_name": "Shift at Midnight",
-      "viewer_count": 3,
-      "follower_count": 311,
-      "language": "en",
-      "started_at": "2026-07-25T05:05:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taixiao-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c376db32-fb72-4987-97f5-e1c21d93b622-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/taixiao",
-      "description": "The woman with the 3 missing fingers on her keyboard hand."
-    },
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
@@ -598,6 +583,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/slimchungusgaming",
       "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
+    },
+    {
+      "user_login": "taixiao",
+      "user_name": "TaiXiao",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 311,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c376db32-fb72-4987-97f5-e1c21d93b622-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/taixiao",
+      "description": "The woman with the 3 missing fingers on her keyboard hand."
     },
     {
       "user_login": "tdub60live",
