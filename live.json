@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-25T15:17:02.324Z",
+  "generatedAt": "2026-07-25T15:22:02.332Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T15:17:02.306Z",
+    "fetchedAt": "2026-07-25T15:22:02.315Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I Finally Need Echo Amber... Help | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 34,
+      "viewer_count": 39,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-07-25T13:03:15Z",
