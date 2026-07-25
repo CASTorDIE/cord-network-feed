@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-25T07:47:02.348Z",
+  "generatedAt": "2026-07-25T07:52:02.257Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T07:47:02.332Z",
+    "fetchedAt": "2026-07-25T07:52:02.240Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "sipping and grinding ft one margarita ♡ ranked grind",
       "game_name": "Apex Legends",
-      "viewer_count": 14,
+      "viewer_count": 12,
       "follower_count": 4989,
       "language": "en",
       "started_at": "2026-07-25T05:51:51Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I'M IN PAIN | !raffle !social !rank !burp",
       "game_name": "Shift at Midnight",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 309,
       "language": "en",
       "started_at": "2026-07-25T05:05:41Z",
