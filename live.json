@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-25T10:12:02.383Z",
+  "generatedAt": "2026-07-25T10:17:03.096Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T10:12:02.366Z",
+    "fetchedAt": "2026-07-25T10:17:03.079Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I'M IN PAIN | !raffle !social !rank !burp",
       "game_name": "Shift at Midnight",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 310,
       "language": "en",
       "started_at": "2026-07-25T05:05:41Z",
@@ -741,7 +741,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8387,
+      "follower_count": 8388,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
