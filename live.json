@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-25T20:32:02.318Z",
+  "generatedAt": "2026-07-25T20:37:02.444Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T20:32:02.302Z",
+    "fetchedAt": "2026-07-25T20:37:02.428Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Welcome to Gati in the morning  (Short short)",
       "game_name": "Games + Demos",
-      "viewer_count": 6,
+      "viewer_count": 4,
       "follower_count": 319,
       "language": "en",
       "started_at": "2026-07-25T18:40:52Z",
