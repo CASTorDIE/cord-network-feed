@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-25T05:02:03.288Z",
+  "generatedAt": "2026-07-25T05:07:03.339Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T05:02:03.271Z",
+    "fetchedAt": "2026-07-25T05:07:03.323Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 2,
-    "offlineCount": 51
+    "liveCount": 3,
+    "offlineCount": 50
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| We're Going Back to HALO #GiftedByXbox #HaloCampaignEvolved | !discord !telegram !micro !pizza | 200 bits or more covers my screen!",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 114,
-      "follower_count": 10040,
+      "viewer_count": 107,
+      "follower_count": 10041,
       "language": "en",
       "started_at": "2026-07-25T02:01:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Father First Gaming Podcast - Time Management | Episode 01 | Family Friendly",
       "game_name": "Talk Shows & Podcasts",
-      "viewer_count": 6,
+      "viewer_count": 8,
       "follower_count": 722,
       "language": "en",
       "started_at": "2026-07-25T03:02:49Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
+    },
+    {
+      "user_login": "taixiao",
+      "user_name": "TaiXiao",
+      "is_live": true,
+      "title": "I'M IN PAIN | !raffle !social !rank !burp",
+      "game_name": "Just Chatting",
+      "viewer_count": 1,
+      "follower_count": 308,
+      "language": "en",
+      "started_at": "2026-07-25T05:05:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taixiao-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c376db32-fb72-4987-97f5-e1c21d93b622-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/taixiao",
+      "description": "The woman with the 3 missing fingers on her keyboard hand."
     },
     {
       "user_login": "4kaizen_gaming",
@@ -598,21 +613,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/slimchungusgaming",
       "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
-    },
-    {
-      "user_login": "taixiao",
-      "user_name": "TaiXiao",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 308,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c376db32-fb72-4987-97f5-e1c21d93b622-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/taixiao",
-      "description": "The woman with the 3 missing fingers on her keyboard hand."
     },
     {
       "user_login": "tdub60live",
