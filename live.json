@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-25T05:07:03.339Z",
+  "generatedAt": "2026-07-25T05:12:03.386Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T05:07:03.323Z",
+    "fetchedAt": "2026-07-25T05:12:03.370Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 3,
-    "offlineCount": 50
+    "liveCount": 2,
+    "offlineCount": 51
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| We're Going Back to HALO #GiftedByXbox #HaloCampaignEvolved | !discord !telegram !micro !pizza | 200 bits or more covers my screen!",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 107,
+      "viewer_count": 111,
       "follower_count": 10041,
       "language": "en",
       "started_at": "2026-07-25T02:01:12Z",
@@ -30,27 +30,12 @@
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": true,
-      "title": "Father First Gaming Podcast - Time Management | Episode 01 | Family Friendly",
-      "game_name": "Talk Shows & Podcasts",
-      "viewer_count": 8,
-      "follower_count": 722,
-      "language": "en",
-      "started_at": "2026-07-25T03:02:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
-    },
-    {
       "user_login": "taixiao",
       "user_name": "TaiXiao",
       "is_live": true,
       "title": "I'M IN PAIN | !raffle !social !rank !burp",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 9,
       "follower_count": 308,
       "language": "en",
       "started_at": "2026-07-25T05:05:41Z",
@@ -313,6 +298,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/649c4972-2538-4400-b328-6f92c7d48038-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faestarlight",
       "description": "Hi! I'm Fae and welcome to my little corner of the galaxy! I have a love for terrible jokes and spoopy games. You’ll usually find me streaming on Tuesdays and Wednesdays at 10 A.M. CST and Thursdays at 4 P.M CST, so stop by and say hi! For inquiries message me at: faestarlightinquiries@gmail.com"
+    },
+    {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 723,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "floodwater_",
