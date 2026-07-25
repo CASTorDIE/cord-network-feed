@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-07-25T17:32:02.353Z",
+  "generatedAt": "2026-07-25T17:37:02.263Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T17:32:02.337Z",
+    "fetchedAt": "2026-07-25T17:37:02.246Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 2,
-    "offlineCount": 51
+    "liveCount": 1,
+    "offlineCount": 52
   },
   "streamers": [
-    {
-      "user_login": "beckybplays",
-      "user_name": "BeckyBPlays",
-      "is_live": true,
-      "title": "I Like Rocket | Everyone Welcomed !hype !discord",
-      "game_name": "Marvel Rivals",
-      "viewer_count": 25,
-      "follower_count": 5135,
-      "language": "en",
-      "started_at": "2026-07-25T13:03:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/beckybplays",
-      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too."
-    },
     {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "Welcome to Gati in the morning  (Short short)",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 319,
       "language": "en",
       "started_at": "2026-07-25T17:02:45Z",
@@ -148,6 +133,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "beckybplays",
+      "user_name": "BeckyBPlays",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 5135,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/beckybplays",
+      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too."
     },
     {
       "user_login": "bigpapaxx8",
