@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-25T23:27:02.414Z",
+  "generatedAt": "2026-07-25T23:32:02.305Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T23:27:02.398Z",
+    "fetchedAt": "2026-07-25T23:32:02.288Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "JACKBOX PARTY NIGHT | !commands For Fun! |",
       "game_name": "Jackbox Party Packs",
-      "viewer_count": 20,
+      "viewer_count": 18,
       "follower_count": 632,
       "language": "en",
       "started_at": "2026-07-25T22:12:33Z",
