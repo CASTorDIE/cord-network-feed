@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-25T05:17:03.408Z",
+  "generatedAt": "2026-07-25T05:22:03.330Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T05:17:03.391Z",
+    "fetchedAt": "2026-07-25T05:22:03.314Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I'M IN PAIN | !raffle !social !rank !burp",
       "game_name": "Just Chatting",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 308,
       "language": "en",
       "started_at": "2026-07-25T05:05:41Z",
