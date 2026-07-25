@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-25T01:57:03.305Z",
+  "generatedAt": "2026-07-25T02:02:03.339Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T01:57:03.288Z",
+    "fetchedAt": "2026-07-25T02:02:03.322Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 5,
-    "offlineCount": 48
+    "liveCount": 6,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -21,7 +21,7 @@
       "title": "✅24/7 DROP STREAM✅DAY 924🍧!discord🍧YOU KNOW WHAT TIME IT IS🍧ITS FRIDAY🍧THAT MEANS WE ARE FREAKING FANS WHEN THEY DROP A FIVER ON THIS FR",
       "game_name": "Rocket League",
       "viewer_count": 462,
-      "follower_count": 107328,
+      "follower_count": 107331,
       "language": "en",
       "started_at": "2026-07-25T00:02:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 80,
+      "viewer_count": 78,
       "follower_count": 2357,
       "language": "en",
       "started_at": "2026-07-24T23:11:19Z",
@@ -50,8 +50,8 @@
       "is_live": true,
       "title": "FORTNITE FRIYAY | MICROSCAPE DROP FESTIVAL | !commands For Fun! | Drops Enabled",
       "game_name": "Fortnite",
-      "viewer_count": 31,
-      "follower_count": 622,
+      "viewer_count": 32,
+      "follower_count": 623,
       "language": "en",
       "started_at": "2026-07-24T22:03:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohgoshimjosh-960x540.jpg",
@@ -60,12 +60,27 @@
       "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": true,
+      "title": "Nine Sols Complete! Day 1 of Cuphead is a go!",
+      "game_name": "Cuphead",
+      "viewer_count": 8,
+      "follower_count": 251,
+      "language": "en",
+      "started_at": "2026-07-25T00:55:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
+    },
+    {
       "user_login": "killujah",
       "user_name": "KILLUJAH",
       "is_live": true,
       "title": "whoopin ahh FRIED!!!🍃💨| !yt !socials !discord | JOIN THE AGENCY🌐",
       "game_name": "Nickelodeon All-Star Brawl 2",
-      "viewer_count": 11,
+      "viewer_count": 8,
       "follower_count": 792,
       "language": "en",
       "started_at": "2026-07-24T21:46:57Z",
@@ -75,19 +90,19 @@
       "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
     },
     {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
+      "user_login": "zaldar87",
+      "user_name": "Zaldar87",
       "is_live": true,
-      "title": "Nine Sols Complete! Day 1 of Cuphead is a go!",
-      "game_name": "Cuphead",
-      "viewer_count": 9,
-      "follower_count": 251,
+      "title": "🦊🦇| We're Going Back to HALO #GiftedByXbox #HaloCampaignEvolved | !discord !telegram !micro !pizza | 200 bits or more covers my screen!",
+      "game_name": "Halo: Campaign Evolved",
+      "viewer_count": 0,
+      "follower_count": 10040,
       "language": "en",
-      "started_at": "2026-07-25T00:55:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
+      "started_at": "2026-07-25T02:01:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zaldar87",
+      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "alfieduu",
@@ -763,21 +778,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-    },
-    {
-      "user_login": "zaldar87",
-      "user_name": "Zaldar87",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 10040,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zaldar87",
-      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "zoddric",
