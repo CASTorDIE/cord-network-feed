@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-25T23:52:02.400Z",
+  "generatedAt": "2026-07-25T23:57:02.427Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T23:52:02.384Z",
+    "fetchedAt": "2026-07-25T23:57:02.410Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "💢I'm not gonna make it 😭186/300 | !discord !merch",
       "game_name": "Just Chatting",
-      "viewer_count": 100,
+      "viewer_count": 115,
       "follower_count": 13836,
       "language": "en",
       "started_at": "2026-07-25T23:35:47Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "JACKBOX PARTY NIGHT | !commands For Fun! |",
       "game_name": "Jackbox Party Packs",
-      "viewer_count": 21,
+      "viewer_count": 23,
       "follower_count": 632,
       "language": "en",
       "started_at": "2026-07-25T22:12:33Z",
