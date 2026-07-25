@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-25T03:02:03.389Z",
+  "generatedAt": "2026-07-25T03:07:03.303Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T03:02:03.373Z",
+    "fetchedAt": "2026-07-25T03:07:03.287Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 6,
-    "offlineCount": 47
+    "liveCount": 7,
+    "offlineCount": 46
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 924🍧!discord🍧YOU KNOW WHAT TIME IT IS🍧ITS FRIDAY🍧THAT MEANS WE ARE FREAKING FANS WHEN THEY DROP A FIVER ON THIS FR",
       "game_name": "Rocket League",
-      "viewer_count": 534,
-      "follower_count": 107374,
+      "viewer_count": 497,
+      "follower_count": 107376,
       "language": "en",
       "started_at": "2026-07-25T00:02:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Games + Demos",
-      "viewer_count": 88,
-      "follower_count": 2358,
-      "language": "en",
-      "started_at": "2026-07-24T23:11:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| We're Going Back to HALO #GiftedByXbox #HaloCampaignEvolved | !discord !telegram !micro !pizza | 200 bits or more covers my screen!",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 87,
+      "viewer_count": 97,
       "follower_count": 10040,
       "language": "en",
       "started_at": "2026-07-25T02:01:12Z",
@@ -60,12 +45,27 @@
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Games + Demos",
+      "viewer_count": 85,
+      "follower_count": 2358,
+      "language": "en",
+      "started_at": "2026-07-24T23:11:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
       "user_login": "ohgoshimjosh",
       "user_name": "OhGoshImJosh",
       "is_live": true,
       "title": "FORTNITE FRIYAY | MICROSCAPE DROP FESTIVAL | !commands For Fun! | Drops Enabled",
-      "game_name": "Fortnite",
-      "viewer_count": 27,
+      "game_name": "Just Chatting",
+      "viewer_count": 26,
       "follower_count": 632,
       "language": "en",
       "started_at": "2026-07-24T22:03:33Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "Nine Sols Complete! Day 1 of Cuphead is a go!",
       "game_name": "Cuphead",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 251,
       "language": "en",
       "started_at": "2026-07-25T00:55:38Z",
@@ -95,7 +95,7 @@
       "is_live": true,
       "title": "whoopin ahh FRIED!!!🍃💨| !yt !socials !discord | JOIN THE AGENCY🌐",
       "game_name": "Nickelodeon All-Star Brawl 2",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 792,
       "language": "en",
       "started_at": "2026-07-24T21:46:57Z",
@@ -103,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/killujah",
       "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
+    },
+    {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": true,
+      "title": "Father First Gaming Podcast - Time Management | Episode 01 | Family Friendly",
+      "game_name": "Talk Shows & Podcasts",
+      "viewer_count": 2,
+      "follower_count": 722,
+      "language": "en",
+      "started_at": "2026-07-25T03:02:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "alfieduu",
@@ -313,21 +328,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/649c4972-2538-4400-b328-6f92c7d48038-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faestarlight",
       "description": "Hi! I'm Fae and welcome to my little corner of the galaxy! I have a love for terrible jokes and spoopy games. You’ll usually find me streaming on Tuesdays and Wednesdays at 10 A.M. CST and Thursdays at 4 P.M CST, so stop by and say hi! For inquiries message me at: faestarlightinquiries@gmail.com"
-    },
-    {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 722,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "floodwater_",
