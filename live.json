@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-25T16:32:02.290Z",
+  "generatedAt": "2026-07-25T16:37:02.439Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T16:32:02.273Z",
+    "fetchedAt": "2026-07-25T16:37:02.422Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I Like Rocket | Everyone Welcomed !hype !discord",
       "game_name": "Marvel Rivals",
-      "viewer_count": 30,
+      "viewer_count": 35,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-07-25T13:03:15Z",
