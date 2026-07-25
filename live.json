@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-25T03:52:03.355Z",
+  "generatedAt": "2026-07-25T03:57:03.334Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-25T03:52:03.339Z",
+    "fetchedAt": "2026-07-25T03:57:03.318Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 6,
-    "offlineCount": 47
+    "liveCount": 5,
+    "offlineCount": 48
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 924🍧!discord🍧YOU KNOW WHAT TIME IT IS🍧ITS FRIDAY🍧THAT MEANS WE ARE FREAKING FANS WHEN THEY DROP A FIVER ON THIS FR",
       "game_name": "Rocket League",
-      "viewer_count": 402,
-      "follower_count": 107423,
+      "viewer_count": 384,
+      "follower_count": 107427,
       "language": "en",
       "started_at": "2026-07-25T00:02:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| We're Going Back to HALO #GiftedByXbox #HaloCampaignEvolved | !discord !telegram !micro !pizza | 200 bits or more covers my screen!",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 99,
+      "viewer_count": 103,
       "follower_count": 10040,
       "language": "en",
       "started_at": "2026-07-25T02:01:12Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 84,
+      "viewer_count": 79,
       "follower_count": 2358,
       "language": "en",
       "started_at": "2026-07-24T23:11:19Z",
@@ -60,27 +60,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "ohgoshimjosh",
-      "user_name": "OhGoshImJosh",
-      "is_live": true,
-      "title": "FORTNITE FRIYAY | MICROSCAPE DROP FESTIVAL | !commands For Fun! | Drops Enabled",
-      "game_name": "Just Chatting",
-      "viewer_count": 23,
-      "follower_count": 633,
-      "language": "en",
-      "started_at": "2026-07-24T22:03:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohgoshimjosh-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
-      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Nine Sols Complete! Day 1 of Cuphead is a go!",
       "game_name": "Cuphead",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 251,
       "language": "en",
       "started_at": "2026-07-25T00:55:38Z",
@@ -538,6 +523,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": ""
+    },
+    {
+      "user_login": "ohgoshimjosh",
+      "user_name": "OhGoshImJosh",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 634,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
+      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
       "user_login": "padbae",
