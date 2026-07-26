@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-26T04:27:02.442Z",
+  "generatedAt": "2026-07-26T04:32:02.459Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-26T04:27:02.425Z",
+    "fetchedAt": "2026-07-26T04:32:02.443Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "💢I'm not gonna make it 😭186/300 | !discord !merch",
       "game_name": "The Mound: Omen of Cthulhu",
-      "viewer_count": 114,
+      "viewer_count": 113,
       "follower_count": 13839,
       "language": "en",
       "started_at": "2026-07-25T23:35:47Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Blind cuphead, DLC included",
       "game_name": "Cuphead",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 253,
       "language": "en",
       "started_at": "2026-07-26T00:58:14Z",
