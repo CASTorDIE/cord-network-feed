@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-26T22:37:37.444Z",
+  "generatedAt": "2026-07-26T22:42:52.851Z",
   "schemaVersion": 1,
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-07-26T22:37:37.402Z",
+    "updatedAt": "2026-07-26T22:42:52.811Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 610,
+    "entryCount": 615,
     "firstDate": "2026-03-27",
     "lastDate": "2026-08-02"
   },
@@ -9711,6 +9711,38 @@
       "url": "https://www.twitch.tv/horror_heather"
     },
     {
+      "id": "evt_1785105772806_mofamr",
+      "date": "2026-07-27",
+      "dateLabel": "Monday, July 27th",
+      "weekday": "Monday",
+      "streamer": "FayteFireix",
+      "title": "Metroid Prime 4: Beyond",
+      "notes": "",
+      "timeMinutes": 1320,
+      "timeLabel": "10:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/faytefireix"
+    },
+    {
+      "id": "evt_1785105772807_6q38se",
+      "date": "2026-07-28",
+      "dateLabel": "Tuesday, July 28th",
+      "weekday": "Tuesday",
+      "streamer": "FayteFireix",
+      "title": "Super Metroid",
+      "notes": "",
+      "timeMinutes": 1200,
+      "timeLabel": "8:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/faytefireix"
+    },
+    {
       "id": "evt_1785105455769_47a5lm",
       "date": "2026-07-29",
       "dateLabel": "Wednesday, July 29th",
@@ -9725,6 +9757,38 @@
       "sourceType": "dated",
       "recurrenceId": "",
       "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
+      "id": "evt_1785105772807_ujl9vc",
+      "date": "2026-07-29",
+      "dateLabel": "Wednesday, July 29th",
+      "weekday": "Wednesday",
+      "streamer": "FayteFireix",
+      "title": "Ghost of Tsushima",
+      "notes": "",
+      "timeMinutes": 1320,
+      "timeLabel": "10:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/faytefireix"
+    },
+    {
+      "id": "evt_1785105772807_98tf4q",
+      "date": "2026-07-30",
+      "dateLabel": "Thursday, July 30th",
+      "weekday": "Thursday",
+      "streamer": "FayteFireix",
+      "title": "Destiny 2",
+      "notes": "",
+      "timeMinutes": 840,
+      "timeLabel": "2:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/faytefireix"
     },
     {
       "id": "evt_1784915365913_bx6u1v",
@@ -9757,6 +9821,22 @@
       "sourceType": "dated",
       "recurrenceId": "",
       "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
+      "id": "evt_1785105772807_l4boj8",
+      "date": "2026-07-31",
+      "dateLabel": "Friday, July 31st",
+      "weekday": "Friday",
+      "streamer": "FayteFireix",
+      "title": "Metroid Dread",
+      "notes": "",
+      "timeMinutes": 1320,
+      "timeLabel": "10:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/faytefireix"
     },
     {
       "id": "evt_1785105455769_0oen29",
