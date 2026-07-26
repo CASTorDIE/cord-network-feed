@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-26T08:27:02.542Z",
+  "generatedAt": "2026-07-26T08:32:02.494Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-26T08:27:02.523Z",
+    "fetchedAt": "2026-07-26T08:32:02.477Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "KYLE ODOM'S MANIFESTO",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 58,
       "language": "en",
       "started_at": "2026-07-26T06:59:13Z",
