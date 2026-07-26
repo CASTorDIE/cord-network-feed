@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-26T04:57:02.445Z",
+  "generatedAt": "2026-07-26T05:02:02.479Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-26T04:57:02.428Z",
+    "fetchedAt": "2026-07-26T05:02:02.462Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "💢I'm not gonna make it 😭186/300 | !discord !merch",
       "game_name": "The Mound: Omen of Cthulhu",
-      "viewer_count": 115,
-      "follower_count": 13839,
+      "viewer_count": 119,
+      "follower_count": 13840,
       "language": "en",
       "started_at": "2026-07-25T23:35:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -756,7 +756,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 1716,
+      "follower_count": 1715,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
