@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-26T16:12:02.394Z",
+  "generatedAt": "2026-07-26T16:17:02.486Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-26T16:12:02.378Z",
+    "fetchedAt": "2026-07-26T16:17:02.469Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Helping Everyone Complete Their Monthly Bundles! | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 36,
+      "viewer_count": 33,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-07-26T13:15:31Z",
