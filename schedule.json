@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-26T23:10:59.824Z",
+  "generatedAt": "2026-07-26T23:12:11.548Z",
   "schemaVersion": 1,
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-07-26T23:08:50.430Z",
+    "updatedAt": "2026-07-26T23:08:30.703Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 618,
+    "entryCount": 620,
     "firstDate": "2026-03-27",
     "lastDate": "2026-08-06"
   },
@@ -9711,6 +9711,22 @@
       "url": "https://www.twitch.tv/horror_heather"
     },
     {
+      "id": "evt_1785107309047_4b93ef",
+      "date": "2026-07-27",
+      "dateLabel": "Monday, July 27th",
+      "weekday": "Monday",
+      "streamer": "Horror_Heather",
+      "title": "Alan Wake II",
+      "notes": "",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
       "id": "evt_1785105772806_mofamr",
       "date": "2026-07-27",
       "dateLabel": "Monday, July 27th",
@@ -9792,6 +9808,22 @@
     },
     {
       "id": "evt_1784915365913_bx6u1v",
+      "date": "2026-07-30",
+      "dateLabel": "Thursday, July 30th",
+      "weekday": "Thursday",
+      "streamer": "Horror_Heather",
+      "title": "Alan Wake II",
+      "notes": "",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1785107309048_nw8kph",
       "date": "2026-07-30",
       "dateLabel": "Thursday, July 30th",
       "weekday": "Thursday",
