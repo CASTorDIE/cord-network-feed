@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-26T00:02:02.293Z",
+  "generatedAt": "2026-07-26T00:07:02.412Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-26T00:02:02.277Z",
+    "fetchedAt": "2026-07-26T00:07:02.396Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 2,
-    "offlineCount": 51
+    "liveCount": 4,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "💢I'm not gonna make it 😭186/300 | !discord !merch",
       "game_name": "Just Chatting",
-      "viewer_count": 110,
+      "viewer_count": 164,
       "follower_count": 13838,
       "language": "en",
       "started_at": "2026-07-25T23:35:47Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "JACKBOX PARTY NIGHT | !commands For Fun! |",
       "game_name": "Jackbox Party Packs",
-      "viewer_count": 25,
+      "viewer_count": 27,
       "follower_count": 632,
       "language": "en",
       "started_at": "2026-07-25T22:12:33Z",
@@ -43,6 +43,36 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
       "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 925😍!discord😍WE HIT 5K SUBS😍THAT MEANS WE ARE CELEBRATIN😍WE ARE GOING TO START WITH RL BUT GUESS WHAT FOLKS😍VARIE",
+      "game_name": "Rocket League",
+      "viewer_count": 2,
+      "follower_count": 107466,
+      "language": "en",
+      "started_at": "2026-07-26T00:05:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": true,
+      "title": "*RECORDING for yt* Shift at Midnight with @deddwolf and @zaldar87",
+      "game_name": "Shift at Midnight",
+      "viewer_count": 0,
+      "follower_count": 1042,
+      "language": "en",
+      "started_at": "2026-07-26T00:05:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -195,21 +225,6 @@
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 107467,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
-    {
       "user_login": "daniii_phantommm",
       "user_name": "daniii_phantommm",
       "is_live": false,
@@ -253,21 +268,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10fbac99-b892-40b3-88cb-3ba197ba88f8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/darkdemocracytv",
       "description": "Healthcare by day, streaming by night! I'm Adam a dad, who love all things games, anime, and entertainment, and I'm so glad you're here with us!"
-    },
-    {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1042,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "dingo_dynasty",
