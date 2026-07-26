@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-26T21:12:02.439Z",
+  "generatedAt": "2026-07-26T21:17:02.435Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-26T21:12:02.422Z",
+    "fetchedAt": "2026-07-26T21:17:02.419Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 926🏆!discord🏆PLAYING IN THE AVOCADO CUP🏆WE ARE LIVE EARLY I DONT KNOW HOW I FEEL ABOUT IT🏆HONESTLY I MAY BE A LITT",
       "game_name": "Rocket League",
-      "viewer_count": 210,
-      "follower_count": 107583,
+      "viewer_count": 253,
+      "follower_count": 107584,
       "language": "en",
       "started_at": "2026-07-26T21:03:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Pokemon Infinite Fusion | What was I doing again? | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Pokémon",
-      "viewer_count": 12,
+      "viewer_count": 18,
       "follower_count": 1715,
       "language": "en",
       "started_at": "2026-07-26T19:54:30Z",
