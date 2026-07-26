@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-07-26T07:17:02.442Z",
+  "generatedAt": "2026-07-26T07:22:02.472Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-26T07:17:02.425Z",
+    "fetchedAt": "2026-07-26T07:22:02.455Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 2,
-    "offlineCount": 51
+    "liveCount": 1,
+    "offlineCount": 52
   },
   "streamers": [
-    {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "💢I'm not gonna make it 😭186/300 | !discord !merch",
-      "game_name": "The Mound: Omen of Cthulhu",
-      "viewer_count": 107,
-      "follower_count": 13841,
-      "language": "en",
-      "started_at": "2026-07-25T23:35:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
     {
       "user_login": "joreeezy",
       "user_name": "JOREEEZY",
       "is_live": true,
       "title": "KYLE ODOM'S MANIFESTO",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "follower_count": 58,
       "language": "en",
       "started_at": "2026-07-26T06:59:13Z",
@@ -568,6 +553,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc761090-7b8f-477b-9d96-670e2774f1ed-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/predicatenate",
       "description": "Some call me Nate The Great."
+    },
+    {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 13841,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "slimchungusgaming",
