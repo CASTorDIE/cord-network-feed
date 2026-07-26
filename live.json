@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-26T02:22:02.352Z",
+  "generatedAt": "2026-07-26T02:27:02.446Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-26T02:22:02.335Z",
+    "fetchedAt": "2026-07-26T02:27:02.429Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 6,
-    "offlineCount": 47
+    "liveCount": 5,
+    "offlineCount": 48
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 925😍!discord😍WE HIT 5K SUBS😍THAT MEANS WE ARE CELEBRATIN😍WE ARE GOING TO START WITH RL BUT GUESS WHAT FOLKS😍VARIE",
       "game_name": "Fears to Fathom: Ironbark Lookout",
-      "viewer_count": 355,
+      "viewer_count": 347,
       "follower_count": 107543,
       "language": "en",
       "started_at": "2026-07-26T00:05:16Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "💢I'm not gonna make it 😭186/300 | !discord !merch",
       "game_name": "The Mound: Omen of Cthulhu",
-      "viewer_count": 116,
+      "viewer_count": 119,
       "follower_count": 13843,
       "language": "en",
       "started_at": "2026-07-25T23:35:47Z",
@@ -45,42 +45,12 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": true,
-      "title": "*RECORDING for yt* Shift at Midnight with @deddwolf and @zaldar87",
-      "game_name": "Shift at Midnight",
-      "viewer_count": 9,
-      "follower_count": 1042,
-      "language": "en",
-      "started_at": "2026-07-26T00:05:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
-      "user_login": "zombaesempai",
-      "user_name": "ZombaeSempai",
-      "is_live": true,
-      "title": "Persona 5 Royal Pt. 3 | ANNOUNEMENTS! | Thanks for being here! You're amazing!",
-      "game_name": "Persona 5 Royal",
-      "viewer_count": 9,
-      "follower_count": 521,
-      "language": "en",
-      "started_at": "2026-07-26T01:09:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zombaesempai",
-      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Blind cuphead, DLC included",
       "game_name": "Cuphead",
-      "viewer_count": 6,
+      "viewer_count": 8,
       "follower_count": 253,
       "language": "en",
       "started_at": "2026-07-26T00:58:14Z",
@@ -95,7 +65,7 @@
       "is_live": true,
       "title": "HAPPY SATURDAY!! | !yt !socials !discord | JOIN THE AGENCY🌐",
       "game_name": "Minecraft",
-      "viewer_count": 5,
+      "viewer_count": 7,
       "follower_count": 791,
       "language": "en",
       "started_at": "2026-07-26T00:26:47Z",
@@ -103,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/killujah",
       "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
+    },
+    {
+      "user_login": "zombaesempai",
+      "user_name": "ZombaeSempai",
+      "is_live": true,
+      "title": "Persona 5 Royal Pt. 3 | ANNOUNEMENTS! | Thanks for being here! You're amazing!",
+      "game_name": "Persona 5 Royal",
+      "viewer_count": 6,
+      "follower_count": 521,
+      "language": "en",
+      "started_at": "2026-07-26T01:09:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zombaesempai",
+      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     },
     {
       "user_login": "alfieduu",
@@ -283,6 +268,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10fbac99-b892-40b3-88cb-3ba197ba88f8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/darkdemocracytv",
       "description": "Healthcare by day, streaming by night! I'm Adam a dad, who love all things games, anime, and entertainment, and I'm so glad you're here with us!"
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1042,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "dingo_dynasty",
@@ -786,7 +786,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10046,
+      "follower_count": 10047,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
