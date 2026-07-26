@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-26T15:42:02.369Z",
+  "generatedAt": "2026-07-26T15:47:02.583Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-26T15:42:02.353Z",
+    "fetchedAt": "2026-07-26T15:47:02.567Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "New month new giveaway!! |Lets do some update prep and decorating!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 94,
+      "viewer_count": 87,
       "follower_count": 2625,
       "language": "en",
       "started_at": "2026-07-26T12:00:54Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Helping Everyone Complete Their Monthly Bundles! | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 34,
+      "viewer_count": 40,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-07-26T13:15:31Z",
