@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-26T22:42:52.851Z",
+  "generatedAt": "2026-07-26T23:10:59.824Z",
   "schemaVersion": 1,
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-07-26T22:42:52.811Z",
+    "updatedAt": "2026-07-26T23:08:50.430Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 615,
+    "entryCount": 618,
     "firstDate": "2026-03-27",
-    "lastDate": "2026-08-02"
+    "lastDate": "2026-08-06"
   },
   "entries": [
     {
@@ -9839,6 +9839,22 @@
       "url": "https://www.twitch.tv/faytefireix"
     },
     {
+      "id": "evt_1785107309048_zpwffr",
+      "date": "2026-08-02",
+      "dateLabel": "Sunday, August 2nd",
+      "weekday": "Sunday",
+      "streamer": "Horror_Heather",
+      "title": "Tormentum II and Horror Demos",
+      "notes": "",
+      "timeMinutes": 750,
+      "timeLabel": "12:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
       "id": "evt_1785105455769_0oen29",
       "date": "2026-08-02",
       "dateLabel": "Sunday, August 2nd",
@@ -9853,6 +9869,38 @@
       "sourceType": "dated",
       "recurrenceId": "",
       "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
+      "id": "evt_1785107309048_0a0tuj",
+      "date": "2026-08-02",
+      "dateLabel": "Sunday, August 2nd",
+      "weekday": "Sunday",
+      "streamer": "Horror_Heather",
+      "title": "Movie Night",
+      "notes": "",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1785107309048_0kqhqv",
+      "date": "2026-08-06",
+      "dateLabel": "Thu, Aug 6",
+      "weekday": "",
+      "streamer": "Horror_Heather",
+      "title": "Alan Wake II",
+      "notes": "",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/horror_heather"
     }
   ]
 }
