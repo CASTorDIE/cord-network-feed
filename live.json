@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-26T06:57:02.444Z",
+  "generatedAt": "2026-07-26T07:02:02.366Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-26T06:57:02.427Z",
+    "fetchedAt": "2026-07-26T07:02:02.349Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 1,
-    "offlineCount": 52
+    "liveCount": 2,
+    "offlineCount": 51
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "💢I'm not gonna make it 😭186/300 | !discord !merch",
       "game_name": "The Mound: Omen of Cthulhu",
-      "viewer_count": 106,
+      "viewer_count": 126,
       "follower_count": 13840,
       "language": "en",
       "started_at": "2026-07-25T23:35:47Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/skavstheworld",
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
+      "user_login": "joreeezy",
+      "user_name": "JOREEEZY",
+      "is_live": true,
+      "title": "KYLE ODOM'S MANIFESTO",
+      "game_name": "Just Chatting",
+      "viewer_count": 1,
+      "follower_count": 58,
+      "language": "en",
+      "started_at": "2026-07-26T06:59:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_joreeezy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/joreeezy",
+      "description": "You found me... Follow me on X/Twitter for updates 🔔"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -418,21 +433,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
       "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
-    },
-    {
-      "user_login": "joreeezy",
-      "user_name": "JOREEEZY",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 58,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/joreeezy",
-      "description": "You found me... Follow me on X/Twitter for updates 🔔"
     },
     {
       "user_login": "killujah",
