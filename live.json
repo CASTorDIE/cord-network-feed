@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-26T06:17:02.403Z",
+  "generatedAt": "2026-07-26T06:22:02.481Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-26T06:17:02.386Z",
+    "fetchedAt": "2026-07-26T06:22:02.464Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "💢I'm not gonna make it 😭186/300 | !discord !merch",
       "game_name": "The Mound: Omen of Cthulhu",
-      "viewer_count": 111,
+      "viewer_count": 107,
       "follower_count": 13839,
       "language": "en",
       "started_at": "2026-07-25T23:35:47Z",
