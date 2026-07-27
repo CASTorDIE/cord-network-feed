@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-27T21:52:02.512Z",
+  "generatedAt": "2026-07-27T21:57:02.595Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T21:52:02.495Z",
+    "fetchedAt": "2026-07-27T21:57:02.579Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[drops] banana bread at work dude? HELLLL YA🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 240,
+      "viewer_count": 223,
       "follower_count": 10420,
       "language": "en",
       "started_at": "2026-07-27T19:11:50Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "FIRST PLAYTHROUGH | Alan Wake 2 | We got to the Alan Wake part! | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 611,
       "language": "en",
       "started_at": "2026-07-27T21:31:20Z",
