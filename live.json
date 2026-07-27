@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-27T22:02:02.490Z",
+  "generatedAt": "2026-07-27T22:07:02.598Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T22:02:02.473Z",
+    "fetchedAt": "2026-07-27T22:07:02.581Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 2,
-    "offlineCount": 51
+    "liveCount": 3,
+    "offlineCount": 50
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[drops] banana bread at work dude? HELLLL YA🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 190,
-      "follower_count": 10420,
+      "viewer_count": 134,
+      "follower_count": 10421,
       "language": "en",
       "started_at": "2026-07-27T19:11:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/horror_heather",
       "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
+    },
+    {
+      "user_login": "ohgoshimjosh",
+      "user_name": "OhGoshImJosh",
+      "is_live": true,
+      "title": "IS THAT A WHALE? | !commands For Fun! |",
+      "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+      "viewer_count": 0,
+      "follower_count": 632,
+      "language": "en",
+      "started_at": "2026-07-27T22:05:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohgoshimjosh-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
+      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -508,21 +523,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": ""
-    },
-    {
-      "user_login": "ohgoshimjosh",
-      "user_name": "OhGoshImJosh",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 632,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
-      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
       "user_login": "padbae",
