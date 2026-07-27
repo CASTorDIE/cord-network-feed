@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-27T15:07:02.541Z",
+  "generatedAt": "2026-07-27T15:12:02.568Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T15:07:02.525Z",
+    "fetchedAt": "2026-07-27T15:12:02.552Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Hidden Content in The Last of Us Part II | Everyone Welcomed !hype !discord",
       "game_name": "The Last of Us Part II Remastered",
-      "viewer_count": 11,
+      "viewer_count": 15,
       "follower_count": 5136,
       "language": "en",
       "started_at": "2026-07-27T13:15:04Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🍃Making our way to the Temple of the Gales  [Next Stream July 28th @ 9am CST ]🍃",
       "game_name": "Palia",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 146,
       "language": "en",
       "started_at": "2026-07-27T14:05:47Z",
