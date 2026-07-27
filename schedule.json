@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-26T23:12:11.548Z",
+  "generatedAt": "2026-07-27T03:16:43.972Z",
   "schemaVersion": 1,
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-07-26T23:08:30.703Z",
+    "updatedAt": "2026-07-27T03:16:43.935Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 620,
+    "entryCount": 623,
     "firstDate": "2026-03-27",
     "lastDate": "2026-08-06"
   },
@@ -9743,6 +9743,22 @@
       "url": "https://www.twitch.tv/faytefireix"
     },
     {
+      "id": "evt_1785122175353_rva1pt",
+      "date": "2026-07-28",
+      "dateLabel": "Tuesday, July 28th",
+      "weekday": "Tuesday",
+      "streamer": "KindessUrchin",
+      "title": "Backyard Baseball",
+      "notes": "",
+      "timeMinutes": 1110,
+      "timeLabel": "6:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/kindessurchin"
+    },
+    {
       "id": "evt_1785105772807_6q38se",
       "date": "2026-07-28",
       "dateLabel": "Tuesday, July 28th",
@@ -9839,6 +9855,22 @@
       "url": "https://www.twitch.tv/horror_heather"
     },
     {
+      "id": "evt_1785122175353_jc3cfh",
+      "date": "2026-07-30",
+      "dateLabel": "Thursday, July 30th",
+      "weekday": "Thursday",
+      "streamer": "KindessUrchin",
+      "title": "Phasmophobia",
+      "notes": "",
+      "timeMinutes": 1110,
+      "timeLabel": "6:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/kindessurchin"
+    },
+    {
       "id": "evt_1785105455769_hj841u",
       "date": "2026-07-31",
       "dateLabel": "Friday, July 31st",
@@ -9869,6 +9901,22 @@
       "sourceType": "dated",
       "recurrenceId": "",
       "url": "https://www.twitch.tv/faytefireix"
+    },
+    {
+      "id": "evt_1785122175353_xc4plk",
+      "date": "2026-08-01",
+      "dateLabel": "Saturday, August 1st",
+      "weekday": "Saturday",
+      "streamer": "KindessUrchin",
+      "title": "Phasmophobia / Scrutinized",
+      "notes": "",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/kindessurchin"
     },
     {
       "id": "evt_1785107309048_zpwffr",
