@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-27T05:17:02.530Z",
+  "generatedAt": "2026-07-27T05:22:02.648Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T05:17:02.514Z",
+    "fetchedAt": "2026-07-27T05:22:02.632Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🏆⚔️Marvel Tokon: Fight Souls Ranked! 🏆⚔️!discord🏆⚔️Are you ready for 6am?🏆⚔️",
       "game_name": "MARVEL TŌKON: Fighting Souls",
-      "viewer_count": 21,
+      "viewer_count": 22,
       "follower_count": 2079,
       "language": "en",
       "started_at": "2026-07-27T00:49:47Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 107791,
+      "follower_count": 107792,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
