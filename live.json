@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-27T01:02:02.532Z",
+  "generatedAt": "2026-07-27T01:07:02.589Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T01:02:02.516Z",
+    "fetchedAt": "2026-07-27T01:07:02.573Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 7,
-    "offlineCount": 46
+    "liveCount": 8,
+    "offlineCount": 45
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 926🏆!discord🏆PLAYING IN THE AVOCADO CUP🏆WE ARE LIVE EARLY I DONT KNOW HOW I FEEL ABOUT IT🏆HONESTLY I MAY BE A LITT",
       "game_name": "Rocket League",
-      "viewer_count": 633,
-      "follower_count": 107720,
+      "viewer_count": 624,
+      "follower_count": 107723,
       "language": "en",
       "started_at": "2026-07-26T21:03:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| PupTalk Podcast Ep. 33 w/ special guest @neilp_voiceover | !discord !telegram !micro |",
       "game_name": "VRChat",
-      "viewer_count": 110,
+      "viewer_count": 118,
       "follower_count": 10054,
       "language": "en",
       "started_at": "2026-07-26T22:15:08Z",
@@ -50,8 +50,8 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 78,
-      "follower_count": 2368,
+      "viewer_count": 88,
+      "follower_count": 2369,
       "language": "en",
       "started_at": "2026-07-27T00:18:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "You know what time it is! ITS SILLY SUNDAYS!!!  || !commands !whatsnew !streamteam !discord",
       "game_name": "Walk of Life",
-      "viewer_count": 10,
+      "viewer_count": 13,
       "follower_count": 331,
       "language": "en",
       "started_at": "2026-07-26T23:07:47Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "Welcome to Gati in the morning  (Short short)",
       "game_name": "The Outlast Trials",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 322,
       "language": "en",
       "started_at": "2026-07-26T21:38:46Z",
@@ -95,7 +95,7 @@
       "is_live": true,
       "title": "🏆⚔️Marvel Tokon: Fight Souls Ranked! 🏆⚔️!discord🏆⚔️Are you ready for 6am?🏆⚔️",
       "game_name": "Just Chatting",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 2075,
       "language": "en",
       "started_at": "2026-07-27T00:49:47Z",
@@ -110,7 +110,7 @@
       "is_live": true,
       "title": "a gaymer who games.... | !yt !socials !discord | JOIN THE AGENCY🌐",
       "game_name": "RV There Yet?",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 790,
       "language": "en",
       "started_at": "2026-07-26T21:35:12Z",
@@ -118,6 +118,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/killujah",
       "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": true,
+      "title": "I'm FWEAKING exhausted.",
+      "game_name": "Moonlight Peaks",
+      "viewer_count": 1,
+      "follower_count": 1042,
+      "language": "en",
+      "started_at": "2026-07-27T01:03:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -298,21 +313,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10fbac99-b892-40b3-88cb-3ba197ba88f8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/darkdemocracytv",
       "description": "Healthcare by day, streaming by night! I'm Adam a dad, who love all things games, anime, and entertainment, and I'm so glad you're here with us!"
-    },
-    {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1042,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "dingo_dynasty",
