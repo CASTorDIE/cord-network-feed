@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-27T20:02:02.624Z",
+  "generatedAt": "2026-07-27T20:07:02.563Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T20:02:02.606Z",
+    "fetchedAt": "2026-07-27T20:07:02.546Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[drops] banana bread at work dude? HELLLL YA🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 73,
+      "viewer_count": 77,
       "follower_count": 10413,
       "language": "en",
       "started_at": "2026-07-27T19:11:50Z",
