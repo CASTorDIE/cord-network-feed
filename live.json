@@ -1,56 +1,26 @@
 {
-  "generatedAt": "2026-07-27T14:57:02.646Z",
+  "generatedAt": "2026-07-27T15:02:02.511Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T14:57:02.629Z",
+    "fetchedAt": "2026-07-27T15:02:02.494Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 3,
-    "offlineCount": 50
+    "liveCount": 2,
+    "offlineCount": 51
   },
   "streamers": [
-    {
-      "user_login": "gibsontales",
-      "user_name": "GibsonTales",
-      "is_live": true,
-      "title": "Little Hope | Dark Pictures Anthology - Nobody Gets out Easy | Couple Plays",
-      "game_name": "The Dark Pictures Anthology: Little Hope",
-      "viewer_count": 23,
-      "follower_count": 914,
-      "language": "en",
-      "started_at": "2026-07-27T12:39:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gibsontales",
-      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com"
-    },
-    {
-      "user_login": "beckybplays",
-      "user_name": "BeckyBPlays",
-      "is_live": true,
-      "title": "Hidden Content in The Last of Us Part II | Everyone Welcomed !hype !discord",
-      "game_name": "The Last of Us Part II Remastered",
-      "viewer_count": 11,
-      "follower_count": 5136,
-      "language": "en",
-      "started_at": "2026-07-27T13:15:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/beckybplays",
-      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too."
-    },
     {
       "user_login": "laconsgamingnook",
       "user_name": "LaconsGamingNook",
       "is_live": true,
       "title": "🍃Making our way to the Temple of the Gales  [Next Stream July 28th @ 9am CST ]🍃",
       "game_name": "Palia",
-      "viewer_count": 4,
+      "viewer_count": 14,
       "follower_count": 146,
       "language": "en",
       "started_at": "2026-07-27T14:05:47Z",
@@ -58,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/laconsgamingnook",
       "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
+    },
+    {
+      "user_login": "beckybplays",
+      "user_name": "BeckyBPlays",
+      "is_live": true,
+      "title": "Hidden Content in The Last of Us Part II | Everyone Welcomed !hype !discord",
+      "game_name": "The Last of Us Part II Remastered",
+      "viewer_count": 10,
+      "follower_count": 5136,
+      "language": "en",
+      "started_at": "2026-07-27T13:15:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/beckybplays",
+      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too."
     },
     {
       "user_login": "4kaizen_gaming",
@@ -201,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 107795,
+      "follower_count": 107796,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -343,6 +328,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "gibsontales",
+      "user_name": "GibsonTales",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 914,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gibsontales",
+      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com"
     },
     {
       "user_login": "gmclay_",
