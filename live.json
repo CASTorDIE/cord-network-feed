@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-27T13:57:02.569Z",
+  "generatedAt": "2026-07-27T14:02:02.495Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T13:57:02.547Z",
+    "fetchedAt": "2026-07-27T14:02:02.479Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Little Hope | Dark Pictures Anthology - Nobody Gets out Easy | Couple Plays",
       "game_name": "The Dark Pictures Anthology: Little Hope",
-      "viewer_count": 22,
+      "viewer_count": 27,
       "follower_count": 914,
       "language": "en",
       "started_at": "2026-07-27T12:39:16Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Hidden Content in The Last of Us Part II | Everyone Welcomed !hype !discord",
       "game_name": "The Last of Us Part II Remastered",
-      "viewer_count": 16,
+      "viewer_count": 14,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-07-27T13:15:04Z",
