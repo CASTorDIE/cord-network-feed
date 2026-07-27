@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-07-27T15:12:02.568Z",
+  "generatedAt": "2026-07-27T15:17:02.542Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T15:12:02.552Z",
+    "fetchedAt": "2026-07-27T15:17:02.526Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 2,
-    "offlineCount": 51
+    "liveCount": 1,
+    "offlineCount": 52
   },
   "streamers": [
-    {
-      "user_login": "beckybplays",
-      "user_name": "BeckyBPlays",
-      "is_live": true,
-      "title": "Hidden Content in The Last of Us Part II | Everyone Welcomed !hype !discord",
-      "game_name": "The Last of Us Part II Remastered",
-      "viewer_count": 15,
-      "follower_count": 5136,
-      "language": "en",
-      "started_at": "2026-07-27T13:15:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/beckybplays",
-      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too."
-    },
     {
       "user_login": "laconsgamingnook",
       "user_name": "LaconsGamingNook",
       "is_live": true,
       "title": "🍃Making our way to the Temple of the Gales  [Next Stream July 28th @ 9am CST ]🍃",
       "game_name": "Palia",
-      "viewer_count": 9,
+      "viewer_count": 8,
       "follower_count": 146,
       "language": "en",
       "started_at": "2026-07-27T14:05:47Z",
@@ -148,6 +133,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "beckybplays",
+      "user_name": "BeckyBPlays",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 5136,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/beckybplays",
+      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too."
     },
     {
       "user_login": "bigpapaxx8",
