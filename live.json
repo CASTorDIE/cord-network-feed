@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-27T15:37:02.506Z",
+  "generatedAt": "2026-07-27T15:42:02.556Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T15:37:02.489Z",
+    "fetchedAt": "2026-07-27T15:42:02.540Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🍃Making our way to the Temple of the Gales  [Next Stream July 28th @ 9am CST ]🍃",
       "game_name": "Palia",
-      "viewer_count": 8,
+      "viewer_count": 12,
       "follower_count": 146,
       "language": "en",
       "started_at": "2026-07-27T14:05:47Z",
