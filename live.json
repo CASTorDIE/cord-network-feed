@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-27T01:57:02.471Z",
+  "generatedAt": "2026-07-27T02:02:02.463Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T01:57:02.454Z",
+    "fetchedAt": "2026-07-27T02:02:02.446Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 7,
-    "offlineCount": 46
+    "liveCount": 5,
+    "offlineCount": 48
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 926🏆!discord🏆PLAYING IN THE AVOCADO CUP🏆WE ARE LIVE EARLY I DONT KNOW HOW I FEEL ABOUT IT🏆HONESTLY I MAY BE A LITT",
       "game_name": "Rocket League",
-      "viewer_count": 457,
-      "follower_count": 107748,
+      "viewer_count": 588,
+      "follower_count": 107749,
       "language": "en",
       "started_at": "2026-07-26T21:03:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| PupTalk Podcast Ep. 33 w/ special guest @neilp_voiceover | !discord !telegram !micro |",
       "game_name": "VRChat",
-      "viewer_count": 114,
+      "viewer_count": 123,
       "follower_count": 10055,
       "language": "en",
       "started_at": "2026-07-26T22:15:08Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 86,
+      "viewer_count": 85,
       "follower_count": 2370,
       "language": "en",
       "started_at": "2026-07-27T00:18:02Z",
@@ -60,27 +60,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": true,
-      "title": "Welcome to Gati in the morning  (Short short)",
-      "game_name": "The Outlast Trials",
-      "viewer_count": 13,
-      "follower_count": 324,
-      "language": "en",
-      "started_at": "2026-07-26T21:38:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
-    },
-    {
       "user_login": "floodwater_",
       "user_name": "FloodWater_",
       "is_live": true,
       "title": "🏆⚔️Marvel Tokon: Fight Souls Ranked! 🏆⚔️!discord🏆⚔️Are you ready for 6am?🏆⚔️",
       "game_name": "MARVEL TŌKON: Fighting Souls",
-      "viewer_count": 11,
+      "viewer_count": 13,
       "follower_count": 2075,
       "language": "en",
       "started_at": "2026-07-27T00:49:47Z",
@@ -90,27 +75,12 @@
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
-      "user_login": "healzealot",
-      "user_name": "HealZealot",
-      "is_live": true,
-      "title": "You know what time it is! ITS SILLY SUNDAYS!!!  || !commands !whatsnew !streamteam !discord",
-      "game_name": "Walk of Life",
-      "viewer_count": 5,
-      "follower_count": 331,
-      "language": "en",
-      "started_at": "2026-07-26T23:07:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_healzealot-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8e3c734-edb2-4003-b2e7-a5d901c34138-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/healzealot",
-      "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
-    },
-    {
       "user_login": "killujah",
       "user_name": "KILLUJAH",
       "is_live": true,
       "title": "a gaymer who games.... | !yt !socials !discord | JOIN THE AGENCY🌐",
       "game_name": "Call of Duty: Warzone",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 790,
       "language": "en",
       "started_at": "2026-07-26T21:35:12Z",
@@ -360,6 +330,21 @@
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 324,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
       "user_login": "gibsontales",
       "user_name": "GibsonTales",
       "is_live": false,
@@ -405,6 +390,21 @@
       "description": "Chaotic, high-energy, and probably one bad decision away from a jump scare. | Welcome to the Dollhouse | Tue & Thurs 7PM • Sat 5PM | Business Email: guitardoll.official@gmail.com"
     },
     {
+      "user_login": "healzealot",
+      "user_name": "HealZealot",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 331,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8e3c734-edb2-4003-b2e7-a5d901c34138-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/healzealot",
+      "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
+    },
+    {
       "user_login": "horror_heather",
       "user_name": "horror_heather",
       "is_live": false,
@@ -447,7 +447,7 @@
       "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/joreeezy",
-      "description": "You found me... Follow me on X/Twitter for updates 🔔"
+      "description": "Occult | Conspiracy Theories | Martial Arts 🔎"
     },
     {
       "user_login": "kindessurchin",
