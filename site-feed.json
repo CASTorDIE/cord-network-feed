@@ -13,7 +13,7 @@
       "url": "data/schedule.json"
     },
     "events": {
-      "updatedAt": "2026-07-09T17:00:00.000Z",
+      "updatedAt": "2026-07-26T00:00:00.000Z",
       "status": "manual"
     },
     "blog": {
@@ -34,30 +34,13 @@
   "events": {
     "items": [
       {
-        "id": "community-movie-night",
-        "date": "2026-07-11",
-        "time": "7:30 PM CT",
+        "id": "gibson-tales-community-movie-night",
+        "date": "2026-08-02",
+        "time": "5:00 PM CT",
         "headline": "Community Movie Night",
-        "summary": "A relaxed watch-along night for the team and regulars.",
-        "label": "Community",
-        "image": ""
-      },
-      {
-        "id": "open-lobby-friday",
-        "date": "2026-07-12",
-        "time": "8:00 PM CT",
-        "headline": "Open Lobby Friday",
-        "summary": "Members rotate through games, queues, and quick collab slots.",
-        "label": "Open Lobby",
-        "image": ""
-      },
-      {
-        "id": "creator-spotlight",
-        "date": "2026-07-14",
-        "time": "6:00 PM CT",
-        "headline": "Creator Spotlight",
-        "summary": "A short feature slot for one channel's current push.",
-        "label": "Spotlight",
+        "summary": "GibsonTales and Horror_Heather host a community Movie Night in the GibsonTales Discord.",
+        "label": "Movie Night",
+        "url": "https://discord.gg/czFmutKqeb",
         "image": ""
       }
     ]
