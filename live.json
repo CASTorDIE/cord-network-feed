@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-27T03:02:02.953Z",
+  "generatedAt": "2026-07-27T03:07:03.413Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T03:02:02.936Z",
+    "fetchedAt": "2026-07-27T03:07:03.397Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 4,
-    "offlineCount": 49
+    "liveCount": 3,
+    "offlineCount": 50
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 926🏆!discord🏆PLAYING IN THE AVOCADO CUP🏆WE ARE LIVE EARLY I DONT KNOW HOW I FEEL ABOUT IT🏆HONESTLY I MAY BE A LITT",
       "game_name": "Fears to Fathom: Home Alone",
-      "viewer_count": 400,
-      "follower_count": 107782,
+      "viewer_count": 389,
+      "follower_count": 107784,
       "language": "en",
       "started_at": "2026-07-26T21:03:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🏆⚔️Marvel Tokon: Fight Souls Ranked! 🏆⚔️!discord🏆⚔️Are you ready for 6am?🏆⚔️",
       "game_name": "MARVEL TŌKON: Fighting Souls",
-      "viewer_count": 19,
+      "viewer_count": 18,
       "follower_count": 2077,
       "language": "en",
       "started_at": "2026-07-27T00:49:47Z",
@@ -58,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
-    },
-    {
-      "user_login": "killujah",
-      "user_name": "KILLUJAH",
-      "is_live": true,
-      "title": "a gaymer who games.... | !yt !socials !discord | JOIN THE AGENCY🌐",
-      "game_name": "Call of Duty: Warzone",
-      "viewer_count": 3,
-      "follower_count": 790,
-      "language": "en",
-      "started_at": "2026-07-26T21:35:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_killujah-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/killujah",
-      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -435,6 +420,21 @@
       "description": "Occult | Conspiracy Theories | Martial Arts 🔎"
     },
     {
+      "user_login": "killujah",
+      "user_name": "KILLUJAH",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 790,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/killujah",
+      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
+    },
+    {
       "user_login": "kindessurchin",
       "user_name": "kindessurchin",
       "is_live": false,
@@ -786,7 +786,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 307,
+      "follower_count": 306,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
