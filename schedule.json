@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-27T03:16:43.972Z",
+  "generatedAt": "2026-07-27T03:21:13.753Z",
   "schemaVersion": 1,
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-07-27T03:16:43.935Z",
+    "updatedAt": "2026-07-27T03:19:27.885Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 623,
+    "entryCount": 626,
     "firstDate": "2026-03-27",
     "lastDate": "2026-08-06"
   },
@@ -9647,6 +9647,22 @@
       "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
+      "id": "evt_1785122327626_baxfvp",
+      "date": "2026-07-26",
+      "dateLabel": "Sunday, July 26th",
+      "weekday": "Sunday",
+      "streamer": "JaxsBerryPatch",
+      "title": "Starting our City Build",
+      "notes": "",
+      "timeMinutes": 360,
+      "timeLabel": "6:00 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
       "id": "evt_1784915163145_5q5nxv",
       "date": "2026-07-26",
       "dateLabel": "Sunday, July 26th",
@@ -9672,8 +9688,8 @@
       "notes": "",
       "timeMinutes": 1020,
       "timeLabel": "5:00 PM",
-      "highlight": "",
-      "pillLabel": "",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
       "sourceType": "dated",
       "recurrenceId": "",
       "url": "https://www.twitch.tv/gibsontales"
@@ -9791,6 +9807,22 @@
       "url": "https://www.twitch.tv/gibsontales"
     },
     {
+      "id": "evt_1785122327626_za2xny",
+      "date": "2026-07-29",
+      "dateLabel": "Wednesday, July 29th",
+      "weekday": "Wednesday",
+      "streamer": "JaxsBerryPatch",
+      "title": "Update day! Bringing Ralph to the Valley (if we have to...), then Star Path",
+      "notes": "",
+      "timeMinutes": 930,
+      "timeLabel": "3:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
       "id": "evt_1785105772807_ujl9vc",
       "date": "2026-07-29",
       "dateLabel": "Wednesday, July 29th",
@@ -9839,22 +9871,6 @@
       "url": "https://www.twitch.tv/horror_heather"
     },
     {
-      "id": "evt_1785107309048_nw8kph",
-      "date": "2026-07-30",
-      "dateLabel": "Thursday, July 30th",
-      "weekday": "Thursday",
-      "streamer": "Horror_Heather",
-      "title": "Alan Wake II",
-      "notes": "",
-      "timeMinutes": 990,
-      "timeLabel": "4:30 PM",
-      "highlight": "",
-      "pillLabel": "",
-      "sourceType": "dated",
-      "recurrenceId": "",
-      "url": "https://www.twitch.tv/horror_heather"
-    },
-    {
       "id": "evt_1785122175353_jc3cfh",
       "date": "2026-07-30",
       "dateLabel": "Thursday, July 30th",
@@ -9887,6 +9903,22 @@
       "url": "https://www.twitch.tv/gibsontales"
     },
     {
+      "id": "evt_1785122327626_ciyl7c",
+      "date": "2026-07-31",
+      "dateLabel": "Friday, July 31st",
+      "weekday": "Friday",
+      "streamer": "JaxsBerryPatch",
+      "title": "DreamSnapping and Star Path",
+      "notes": "",
+      "timeMinutes": 930,
+      "timeLabel": "3:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
       "id": "evt_1785105772807_l4boj8",
       "date": "2026-07-31",
       "dateLabel": "Friday, July 31st",
@@ -9901,6 +9933,22 @@
       "sourceType": "dated",
       "recurrenceId": "",
       "url": "https://www.twitch.tv/faytefireix"
+    },
+    {
+      "id": "evt_1785122327626_s0417e",
+      "date": "2026-08-01",
+      "dateLabel": "Saturday, August 1st",
+      "weekday": "Saturday",
+      "streamer": "JaxsBerryPatch",
+      "title": "Finishing the Star Path",
+      "notes": "",
+      "timeMinutes": 360,
+      "timeLabel": "6:00 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "sourceType": "dated",
+      "recurrenceId": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
       "id": "evt_1785122175353_xc4plk",
@@ -9944,8 +9992,8 @@
       "notes": "",
       "timeMinutes": 1020,
       "timeLabel": "5:00 PM",
-      "highlight": "",
-      "pillLabel": "",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
       "sourceType": "dated",
       "recurrenceId": "",
       "url": "https://www.twitch.tv/gibsontales"
@@ -9960,8 +10008,8 @@
       "notes": "",
       "timeMinutes": 1020,
       "timeLabel": "5:00 PM",
-      "highlight": "",
-      "pillLabel": "",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
       "sourceType": "dated",
       "recurrenceId": "",
       "url": "https://www.twitch.tv/horror_heather"
