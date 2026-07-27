@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-27T03:32:02.541Z",
+  "generatedAt": "2026-07-27T03:37:02.590Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T03:32:02.525Z",
+    "fetchedAt": "2026-07-27T03:37:02.574Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 82,
+      "viewer_count": 73,
       "follower_count": 2373,
       "language": "en",
       "started_at": "2026-07-27T00:18:02Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🏆⚔️Marvel Tokon: Fight Souls Ranked! 🏆⚔️!discord🏆⚔️Are you ready for 6am?🏆⚔️",
       "game_name": "MARVEL TŌKON: Fighting Souls",
-      "viewer_count": 19,
+      "viewer_count": 17,
       "follower_count": 2077,
       "language": "en",
       "started_at": "2026-07-27T00:49:47Z",
