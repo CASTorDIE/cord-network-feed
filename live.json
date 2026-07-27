@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-27T02:22:02.548Z",
+  "generatedAt": "2026-07-27T02:27:02.499Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T02:22:02.530Z",
+    "fetchedAt": "2026-07-27T02:27:02.482Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 5,
-    "offlineCount": 48
+    "liveCount": 4,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 926🏆!discord🏆PLAYING IN THE AVOCADO CUP🏆WE ARE LIVE EARLY I DONT KNOW HOW I FEEL ABOUT IT🏆HONESTLY I MAY BE A LITT",
       "game_name": "Rocket League",
-      "viewer_count": 552,
-      "follower_count": 107760,
+      "viewer_count": 596,
+      "follower_count": 107764,
       "language": "en",
       "started_at": "2026-07-26T21:03:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "zaldar87",
-      "user_name": "Zaldar87",
-      "is_live": true,
-      "title": "🦊🦇| PupTalk Podcast Ep. 33 w/ special guest @neilp_voiceover | !discord !telegram !micro |",
-      "game_name": "VRChat",
-      "viewer_count": 120,
-      "follower_count": 10055,
-      "language": "en",
-      "started_at": "2026-07-26T22:15:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zaldar87",
-      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 80,
+      "viewer_count": 85,
       "follower_count": 2370,
       "language": "en",
       "started_at": "2026-07-27T00:18:02Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "🏆⚔️Marvel Tokon: Fight Souls Ranked! 🏆⚔️!discord🏆⚔️Are you ready for 6am?🏆⚔️",
       "game_name": "MARVEL TŌKON: Fighting Souls",
-      "viewer_count": 14,
+      "viewer_count": 11,
       "follower_count": 2076,
       "language": "en",
       "started_at": "2026-07-27T00:49:47Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "a gaymer who games.... | !yt !socials !discord | JOIN THE AGENCY🌐",
       "game_name": "Call of Duty: Warzone",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 790,
       "language": "en",
       "started_at": "2026-07-26T21:35:12Z",
@@ -396,7 +381,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 331,
+      "follower_count": 332,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -778,6 +763,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    {
+      "user_login": "zaldar87",
+      "user_name": "Zaldar87",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 10055,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zaldar87",
+      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "zoddric",
