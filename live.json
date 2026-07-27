@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-27T13:07:02.639Z",
+  "generatedAt": "2026-07-27T13:12:02.503Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T13:07:02.623Z",
+    "fetchedAt": "2026-07-27T13:12:02.487Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Little Hope | Dark Pictures Anthology - Nobody Gets out Easy | Couple Plays",
       "game_name": "The Dark Pictures Anthology: Little Hope",
-      "viewer_count": 22,
+      "viewer_count": 24,
       "follower_count": 914,
       "language": "en",
       "started_at": "2026-07-27T12:39:16Z",
