@@ -1,19 +1,34 @@
 {
-  "generatedAt": "2026-07-27T19:07:02.679Z",
+  "generatedAt": "2026-07-27T19:12:02.567Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-27T19:07:02.663Z",
+    "fetchedAt": "2026-07-27T19:12:02.550Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 0,
-    "offlineCount": 53
+    "liveCount": 1,
+    "offlineCount": 52
   },
   "streamers": [
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "[drops] banana bread at work dude? HELLLL YA🎀",
+      "game_name": "Marvel Rivals",
+      "viewer_count": 0,
+      "follower_count": 10414,
+      "language": "en",
+      "started_at": "2026-07-27T19:11:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
@@ -148,21 +163,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/bigpapaxx8",
       "description": ""
-    },
-    {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 10414,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
       "user_login": "brycexd",
@@ -801,7 +801,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 524,
+      "follower_count": 525,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
