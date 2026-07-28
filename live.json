@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T15:07:02.585Z",
+  "generatedAt": "2026-07-28T15:12:02.649Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-28T15:07:02.568Z",
+    "fetchedAt": "2026-07-28T15:12:02.632Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "laconsgamingnook",
-      "user_name": "LaconsGamingNook",
-      "is_live": true,
-      "title": "🍃Cleaning up our Valley and Decorating [Next Stream July 29th @ 9am CST ]🍃",
-      "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 6,
-      "follower_count": 148,
-      "language": "en",
-      "started_at": "2026-07-28T14:01:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_laconsgamingnook-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/laconsgamingnook",
-      "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
-    },
-    {
       "user_login": "faestarlight",
       "user_name": "FaeStarlight",
       "is_live": true,
       "title": "⭐Making Our First Vtuber Model⭐ !fish ⭐!discord⭐",
       "game_name": "Art",
-      "viewer_count": 5,
+      "viewer_count": 12,
       "follower_count": 505,
       "language": "en",
       "started_at": "2026-07-28T14:57:16Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/649c4972-2538-4400-b328-6f92c7d48038-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faestarlight",
       "description": "Hi! I'm Fae and welcome to my little corner of the galaxy! I have a love for terrible jokes and spoopy games. You’ll usually find me streaming on Tuesdays and Wednesdays at 10 A.M. CST and Thursdays at 4 P.M CST, so stop by and say hi! For inquiries message me at: faestarlightinquiries@gmail.com"
+    },
+    {
+      "user_login": "laconsgamingnook",
+      "user_name": "LaconsGamingNook",
+      "is_live": true,
+      "title": "🍃Cleaning up our Valley and Decorating [Next Stream July 29th @ 9am CST ]🍃",
+      "game_name": "Disney Dreamlight Valley",
+      "viewer_count": 5,
+      "follower_count": 148,
+      "language": "en",
+      "started_at": "2026-07-28T14:01:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_laconsgamingnook-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/laconsgamingnook",
+      "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
     },
     {
       "user_login": "4kaizen_gaming",
