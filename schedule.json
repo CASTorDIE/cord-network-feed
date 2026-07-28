@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T15:32:28.816Z",
+  "generatedAt": "2026-07-28T16:00:38.790Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
@@ -10,15 +10,54 @@
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 20,
-    "firstDate": "2026-07-27",
+    "entryCount": 23,
+    "firstDate": "2026-07-26",
     "lastDate": "2026-08-06",
-    "windowStart": "2026-07-27",
+    "windowStart": "2026-07-26",
     "windowEnd": "2026-10-26",
     "invalidEntryCount": 0,
     "duplicateEntryCount": 1
   },
   "entries": [
+    {
+      "id": "evt_1785122327626_baxfvp",
+      "date": "2026-07-26",
+      "dateLabel": "Sunday, July 26th",
+      "weekday": "Sunday",
+      "streamer": "JaxsBerryPatch",
+      "title": "Starting our City Build",
+      "timeMinutes": 360,
+      "timeLabel": "6:00 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
+      "id": "evt_1784915163145_5q5nxv",
+      "date": "2026-07-26",
+      "dateLabel": "Sunday, July 26th",
+      "weekday": "Sunday",
+      "streamer": "Wispy_Witch",
+      "title": "Untitled stream",
+      "timeMinutes": 900,
+      "timeLabel": "3:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/wispy_witch"
+    },
+    {
+      "id": "evt_1785105455768_75l4yw",
+      "date": "2026-07-26",
+      "dateLabel": "Sunday, July 26th",
+      "weekday": "Sunday",
+      "streamer": "GibsonTales",
+      "title": "Community Movie Night",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
     {
       "id": "evt_1785105455769_kxworn",
       "date": "2026-07-27",
