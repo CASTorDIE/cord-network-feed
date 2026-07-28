@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T18:47:02.600Z",
+  "generatedAt": "2026-07-28T18:52:02.626Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-28T18:47:02.584Z",
+    "fetchedAt": "2026-07-28T18:52:02.609Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -15,12 +15,27 @@
   },
   "streamers": [
     {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": true,
+      "title": "ARC Raiders UPDATE & Variety Later! ❤️ 239 / 300 | !discord !merch",
+      "game_name": "Just Chatting",
+      "viewer_count": 19,
+      "follower_count": 13840,
+      "language": "en",
+      "started_at": "2026-07-28T18:46:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
       "user_login": "faestarlight",
       "user_name": "FaeStarlight",
       "is_live": true,
       "title": "⭐Hardcore Challenge Mode⭐ !fish ⭐!discord⭐",
       "game_name": "Resident Evil 4",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 506,
       "language": "en",
       "started_at": "2026-07-28T14:57:16Z",
@@ -35,7 +50,7 @@
       "is_live": true,
       "title": "The Hunt calls, so i must answer the call! Time to get out of my 4 star lobbies  || !commands !whatsnew !streamteam !discord",
       "game_name": "Just Chatting",
-      "viewer_count": 9,
+      "viewer_count": 6,
       "follower_count": 340,
       "language": "en",
       "started_at": "2026-07-28T16:00:01Z",
@@ -43,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8e3c734-edb2-4003-b2e7-a5d901c34138-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/healzealot",
       "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
-    },
-    {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "ARC Raiders UPDATE & Variety Later! ❤️ 239 / 300 | !discord !merch",
-      "game_name": "Just Chatting",
-      "viewer_count": 0,
-      "follower_count": 13840,
-      "language": "en",
-      "started_at": "2026-07-28T18:46:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "4kaizen_gaming",
