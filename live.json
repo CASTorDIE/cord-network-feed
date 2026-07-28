@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T15:47:02.653Z",
+  "generatedAt": "2026-07-28T15:52:02.635Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-28T15:47:02.636Z",
+    "fetchedAt": "2026-07-28T15:52:02.619Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🍃Cleaning up our Valley and Decorating [Next Stream July 29th @ 9am CST ]🍃",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 5,
-      "follower_count": 148,
+      "viewer_count": 6,
+      "follower_count": 149,
       "language": "en",
       "started_at": "2026-07-28T14:01:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_laconsgamingnook-960x540.jpg",
