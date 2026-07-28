@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T15:27:02.717Z",
+  "generatedAt": "2026-07-28T15:32:02.726Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-28T15:27:02.700Z",
+    "fetchedAt": "2026-07-28T15:32:02.709Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐Making Our First Vtuber Model⭐ !fish ⭐!discord⭐",
       "game_name": "Art",
-      "viewer_count": 11,
+      "viewer_count": 10,
       "follower_count": 506,
       "language": "en",
       "started_at": "2026-07-28T14:57:16Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🍃Cleaning up our Valley and Decorating [Next Stream July 29th @ 9am CST ]🍃",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "follower_count": 148,
       "language": "en",
       "started_at": "2026-07-28T14:01:52Z",
