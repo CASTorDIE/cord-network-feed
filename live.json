@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T19:32:02.609Z",
+  "generatedAt": "2026-07-28T19:37:02.725Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-28T19:32:02.593Z",
+    "fetchedAt": "2026-07-28T19:37:02.708Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "ARC Raiders UPDATE & Variety Later! ❤️ 239 / 300 | !discord !merch",
       "game_name": "ARC Raiders",
-      "viewer_count": 101,
+      "viewer_count": 99,
       "follower_count": 13850,
       "language": "en",
       "started_at": "2026-07-28T18:46:15Z",
@@ -411,7 +411,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2629,
+      "follower_count": 2628,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
