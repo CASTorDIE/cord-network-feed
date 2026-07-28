@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-28T23:52:02.745Z",
+  "generatedAt": "2026-07-28T23:57:02.655Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-28T23:52:02.729Z",
+    "fetchedAt": "2026-07-28T23:57:02.639Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 5,
-    "offlineCount": 48
+    "liveCount": 6,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "ARC Raiders UPDATE & Variety Later! ❤️ 239 / 300 | !discord !merch",
       "game_name": "Shift at Midnight",
-      "viewer_count": 125,
+      "viewer_count": 122,
       "follower_count": 13879,
       "language": "en",
       "started_at": "2026-07-28T18:46:15Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| I'M ALIVEEE POOKIES 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 78,
+      "viewer_count": 79,
       "follower_count": 8406,
       "language": "en",
       "started_at": "2026-07-28T22:00:24Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "COOKING ON THE MISSISSIPPI THEN GAMING IN THE RV 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 70,
+      "viewer_count": 69,
       "follower_count": 2378,
       "language": "en",
       "started_at": "2026-07-28T21:52:03Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "LEGENDARY 1st PLAYTHROUGH :) | !lore !yt",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 11,
+      "viewer_count": 16,
       "follower_count": 1830,
       "language": "en",
       "started_at": "2026-07-28T22:27:19Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e6313f4-12f3-439d-814d-449ca874170a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/thecatsmeowxo",
       "description": "Just a small town girl, livin' in a lonely world... until I stumbled across video games & the friends you make from them. Feel free to join in the chatter or rest easy and lurk away - either way I'm glad you stopped by! :) p.s. I only own 3 cats"
+    },
+    {
+      "user_login": "wispy_witch",
+      "user_name": "wispy_witch",
+      "is_live": true,
+      "title": "Palworld | Playing Palworld to Fill the Aniimo Shaped Hole in my Heart | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
+      "game_name": "Palworld",
+      "viewer_count": 2,
+      "follower_count": 1716,
+      "language": "en",
+      "started_at": "2026-07-28T23:54:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wispy_witch",
+      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
       "user_login": "kindessurchin",
@@ -748,21 +763,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/viridisbytes",
       "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
-    },
-    {
-      "user_login": "wispy_witch",
-      "user_name": "wispy_witch",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1716,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
       "user_login": "zaldar87",
