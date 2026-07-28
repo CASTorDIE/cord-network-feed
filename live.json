@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T19:02:02.672Z",
+  "generatedAt": "2026-07-28T19:07:02.571Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-28T19:02:02.656Z",
+    "fetchedAt": "2026-07-28T19:07:02.554Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "ARC Raiders UPDATE & Variety Later! ❤️ 239 / 300 | !discord !merch",
       "game_name": "Just Chatting",
-      "viewer_count": 66,
-      "follower_count": 13843,
+      "viewer_count": 81,
+      "follower_count": 13844,
       "language": "en",
       "started_at": "2026-07-28T18:46:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "The Hunt calls, so i must answer the call! Time to get out of my 4 star lobbies  || !commands !whatsnew !streamteam !discord",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 5,
       "follower_count": 340,
       "language": "en",
       "started_at": "2026-07-28T16:00:01Z",
