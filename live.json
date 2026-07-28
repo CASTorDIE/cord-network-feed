@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T05:07:02.600Z",
+  "generatedAt": "2026-07-28T05:12:02.624Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-28T05:07:02.584Z",
+    "fetchedAt": "2026-07-28T05:12:02.607Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Mindfullness Mondays - Relaxing with some Palworld | Meditation at the end of stream | 200+ Bits TTS & cover section of screen |",
       "game_name": "Palworld",
-      "viewer_count": 112,
+      "viewer_count": 100,
       "follower_count": 10055,
       "language": "en",
       "started_at": "2026-07-28T02:09:02Z",
