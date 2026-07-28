@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-28T16:00:38.790Z",
+  "generatedAt": "2026-07-28T17:34:00.167Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-07-28T14:04:39.486Z",
+    "updatedAt": "2026-07-28T17:32:35.0095580Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 23,
+    "entryCount": 24,
     "firstDate": "2026-07-26",
     "lastDate": "2026-08-06",
     "windowStart": "2026-07-26",
@@ -161,6 +161,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/faytefireix"
+    },
+    {
+      "id": "evt_cord_public_e2e_20260728",
+      "date": "2026-07-30",
+      "dateLabel": "Thursday, July 30th",
+      "weekday": "Thursday",
+      "streamer": "CORD_PUBLISH_TEST",
+      "title": "Temporary end-to-end publishing test",
+      "timeMinutes": 555,
+      "timeLabel": "9:15 AM",
+      "highlight": "workshop",
+      "pillLabel": "WORKSHOP",
+      "url": "https://www.twitch.tv/cord_publish_test"
     },
     {
       "id": "evt_1785105772807_98tf4q",
