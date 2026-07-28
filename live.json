@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T18:32:02.814Z",
+  "generatedAt": "2026-07-28T18:37:02.660Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-28T18:32:02.798Z",
+    "fetchedAt": "2026-07-28T18:37:02.640Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐Hardcore Challenge Mode⭐ !fish ⭐!discord⭐",
       "game_name": "Resident Evil 4",
-      "viewer_count": 16,
+      "viewer_count": 13,
       "follower_count": 506,
       "language": "en",
       "started_at": "2026-07-28T14:57:16Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "The Hunt calls, so i must answer the call! Time to get out of my 4 star lobbies  || !commands !whatsnew !streamteam !discord",
       "game_name": "Hunt: Showdown 1896",
-      "viewer_count": 9,
+      "viewer_count": 8,
       "follower_count": 339,
       "language": "en",
       "started_at": "2026-07-28T16:00:01Z",
