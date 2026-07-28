@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-28T18:52:02.626Z",
+  "generatedAt": "2026-07-28T18:57:02.657Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-28T18:52:02.609Z",
+    "fetchedAt": "2026-07-28T18:57:02.640Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 3,
-    "offlineCount": 50
+    "liveCount": 2,
+    "offlineCount": 51
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "ARC Raiders UPDATE & Variety Later! ❤️ 239 / 300 | !discord !merch",
       "game_name": "Just Chatting",
-      "viewer_count": 19,
-      "follower_count": 13840,
+      "viewer_count": 44,
+      "follower_count": 13842,
       "language": "en",
       "started_at": "2026-07-28T18:46:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
-      "user_login": "faestarlight",
-      "user_name": "FaeStarlight",
-      "is_live": true,
-      "title": "⭐Hardcore Challenge Mode⭐ !fish ⭐!discord⭐",
-      "game_name": "Resident Evil 4",
-      "viewer_count": 14,
-      "follower_count": 506,
-      "language": "en",
-      "started_at": "2026-07-28T14:57:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faestarlight-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/649c4972-2538-4400-b328-6f92c7d48038-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faestarlight",
-      "description": "Hi! I'm Fae and welcome to my little corner of the galaxy! I have a love for terrible jokes and spoopy games. You’ll usually find me streaming on Tuesdays and Wednesdays at 10 A.M. CST and Thursdays at 4 P.M CST, so stop by and say hi! For inquiries message me at: faestarlightinquiries@gmail.com"
-    },
-    {
       "user_login": "healzealot",
       "user_name": "HealZealot",
       "is_live": true,
       "title": "The Hunt calls, so i must answer the call! Time to get out of my 4 star lobbies  || !commands !whatsnew !streamteam !discord",
       "game_name": "Just Chatting",
-      "viewer_count": 6,
+      "viewer_count": 8,
       "follower_count": 340,
       "language": "en",
       "started_at": "2026-07-28T16:00:01Z",
@@ -298,6 +283,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com"
+    },
+    {
+      "user_login": "faestarlight",
+      "user_name": "FaeStarlight",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 506,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/649c4972-2538-4400-b328-6f92c7d48038-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faestarlight",
+      "description": "Hi! I'm Fae and welcome to my little corner of the galaxy! I have a love for terrible jokes and spoopy games. You’ll usually find me streaming on Tuesdays and Wednesdays at 10 A.M. CST and Thursdays at 4 P.M CST, so stop by and say hi! For inquiries message me at: faestarlightinquiries@gmail.com"
     },
     {
       "user_login": "faytefireix",
