@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T20:32:02.654Z",
+  "generatedAt": "2026-07-28T20:37:02.547Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-28T20:32:02.639Z",
+    "fetchedAt": "2026-07-28T20:37:02.530Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "ARC Raiders UPDATE & Variety Later! ❤️ 239 / 300 | !discord !merch",
       "game_name": "ARC Raiders",
-      "viewer_count": 107,
-      "follower_count": 13858,
+      "viewer_count": 115,
+      "follower_count": 13861,
       "language": "en",
       "started_at": "2026-07-28T18:46:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -696,7 +696,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8384,
+      "follower_count": 8383,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
