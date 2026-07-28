@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T16:27:02.756Z",
+  "generatedAt": "2026-07-28T16:32:02.855Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-28T16:27:02.739Z",
+    "fetchedAt": "2026-07-28T16:32:02.839Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "The Hunt calls, so i must answer the call! Time to get out of my 4 star lobbies  || !commands !whatsnew !streamteam !discord",
       "game_name": "Hunt: Showdown 1896",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 333,
       "language": "en",
       "started_at": "2026-07-28T16:00:01Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🍃Cleaning up our Valley and Decorating [Next Stream July 29th @ 9am CST ]🍃",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 7,
+      "viewer_count": 4,
       "follower_count": 150,
       "language": "en",
       "started_at": "2026-07-28T14:01:52Z",
