@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T18:02:02.670Z",
+  "generatedAt": "2026-07-28T18:07:02.589Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-28T18:02:02.654Z",
+    "fetchedAt": "2026-07-28T18:07:02.572Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "The Hunt calls, so i must answer the call! Time to get out of my 4 star lobbies  || !commands !whatsnew !streamteam !discord",
       "game_name": "Hunt: Showdown 1896",
-      "viewer_count": 9,
-      "follower_count": 337,
+      "viewer_count": 7,
+      "follower_count": 338,
       "language": "en",
       "started_at": "2026-07-28T16:00:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_healzealot-960x540.jpg",
