@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T15:22:02.629Z",
+  "generatedAt": "2026-07-29T15:27:02.664Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T15:22:02.613Z",
+    "fetchedAt": "2026-07-29T15:27:02.647Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🍃Pixel Perfect Update is here! [Next Stream Aug 1st @ 9am CST ]🍃",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 150,
       "language": "en",
       "started_at": "2026-07-29T14:00:33Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "⭐Hardcore Challenge Mode⭐ !fish ⭐!discord⭐",
       "game_name": "FINAL FANTASY VII REMAKE",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 504,
       "language": "en",
       "started_at": "2026-07-29T14:55:03Z",
