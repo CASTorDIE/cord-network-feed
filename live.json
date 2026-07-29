@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T05:47:02.632Z",
+  "generatedAt": "2026-07-29T05:52:02.751Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T05:47:02.616Z",
+    "fetchedAt": "2026-07-29T05:52:02.734Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "SPICY CHIP & FORTNITE | Community Challenge | Therapy & Chaos",
       "game_name": "Fortnite",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 906,
       "language": "en",
       "started_at": "2026-07-29T04:06:54Z",
