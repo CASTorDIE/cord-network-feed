@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-29T19:07:02.707Z",
+  "generatedAt": "2026-07-29T19:12:02.695Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T19:07:02.689Z",
+    "fetchedAt": "2026-07-29T19:12:02.678Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 2,
-    "offlineCount": 51
+    "liveCount": 1,
+    "offlineCount": 52
   },
   "streamers": [
     {
@@ -20,29 +20,14 @@
       "is_live": true,
       "title": "New month new giveaway!! |UPDATE DAY!!New star path!! Oh and Ralph..... |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 76,
-      "follower_count": 2629,
+      "viewer_count": 82,
+      "follower_count": 2630,
       "language": "en",
       "started_at": "2026-07-29T18:30:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
       "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
-    },
-    {
-      "user_login": "faestarlight",
-      "user_name": "FaeStarlight",
-      "is_live": true,
-      "title": "⭐Hardcore Challenge Mode⭐ !fish ⭐!discord⭐",
-      "game_name": "FINAL FANTASY VII REMAKE",
-      "viewer_count": 11,
-      "follower_count": 504,
-      "language": "en",
-      "started_at": "2026-07-29T14:55:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faestarlight-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/649c4972-2538-4400-b328-6f92c7d48038-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faestarlight",
-      "description": "Hi! I'm Fae and welcome to my little corner of the galaxy! I have a love for terrible jokes and spoopy games. You’ll usually find me streaming on Tuesdays and Wednesdays at 10 A.M. CST and Thursdays at 4 P.M CST, so stop by and say hi! For inquiries message me at: faestarlightinquiries@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -283,6 +268,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com"
+    },
+    {
+      "user_login": "faestarlight",
+      "user_name": "FaeStarlight",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 504,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/649c4972-2538-4400-b328-6f92c7d48038-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faestarlight",
+      "description": "Hi! I'm Fae and welcome to my little corner of the galaxy! I have a love for terrible jokes and spoopy games. You’ll usually find me streaming on Tuesdays and Wednesdays at 10 A.M. CST and Thursdays at 4 P.M CST, so stop by and say hi! For inquiries message me at: faestarlightinquiries@gmail.com"
     },
     {
       "user_login": "faytefireix",
