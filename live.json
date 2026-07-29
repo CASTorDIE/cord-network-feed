@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T10:37:02.660Z",
+  "generatedAt": "2026-07-29T10:42:02.674Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T10:37:02.643Z",
+    "fetchedAt": "2026-07-29T10:42:02.657Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Low-Energy Hangout Before Work | Testing New Stream Stuff",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "follower_count": 327,
       "language": "en",
       "started_at": "2026-07-29T10:02:13Z",
