@@ -21,7 +21,7 @@
       "status": "manual"
     },
     "supportShoutouts": {
-      "updatedAt": null,
+      "updatedAt": "2026-07-29T21:38:21.000Z",
       "status": "manual"
     }
   },
@@ -74,6 +74,31 @@
     ]
   },
   "supportShoutouts": {
-    "items": []
+    "items": [
+      {
+        "id": "subscriber-lioneye5-20260729",
+        "name": "LionEye5",
+        "message": "Subscriber",
+        "url": "https://www.twitch.tv/lioneye5",
+        "addedAt": "2026-07-29T16:38:21-05:00",
+        "expiresAt": "2026-08-29T16:38:21-05:00"
+      },
+      {
+        "id": "subscriber-scaredandclueless-20260729",
+        "name": "scaredandclueless",
+        "message": "Subscriber",
+        "url": "https://www.twitch.tv/scaredandclueless",
+        "addedAt": "2026-07-29T16:38:21-05:00",
+        "expiresAt": "2026-08-29T16:38:21-05:00"
+      },
+      {
+        "id": "subscriber-gibsontales-20260729",
+        "name": "GibsonTales",
+        "message": "Subscriber",
+        "url": "https://www.twitch.tv/gibsontales",
+        "addedAt": "2026-07-29T16:38:21-05:00",
+        "expiresAt": "2026-08-29T16:38:21-05:00"
+      }
+    ]
   }
 }
