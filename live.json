@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T17:17:02.730Z",
+  "generatedAt": "2026-07-29T17:22:02.724Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T17:17:02.713Z",
+    "fetchedAt": "2026-07-29T17:22:02.708Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "beckybplays",
-      "user_name": "BeckyBPlays",
-      "is_live": true,
-      "title": "Upgrading My Colony's Comfort | Everyone Welcomed !hype !discord",
-      "game_name": "Oxygen Not Included",
-      "viewer_count": 13,
-      "follower_count": 5132,
-      "language": "en",
-      "started_at": "2026-07-29T13:05:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/beckybplays",
-      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too."
-    },
-    {
       "user_login": "faestarlight",
       "user_name": "FaeStarlight",
       "is_live": true,
       "title": "⭐Hardcore Challenge Mode⭐ !fish ⭐!discord⭐",
       "game_name": "FINAL FANTASY VII REMAKE",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 504,
       "language": "en",
       "started_at": "2026-07-29T14:55:03Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/649c4972-2538-4400-b328-6f92c7d48038-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faestarlight",
       "description": "Hi! I'm Fae and welcome to my little corner of the galaxy! I have a love for terrible jokes and spoopy games. You’ll usually find me streaming on Tuesdays and Wednesdays at 10 A.M. CST and Thursdays at 4 P.M CST, so stop by and say hi! For inquiries message me at: faestarlightinquiries@gmail.com"
+    },
+    {
+      "user_login": "beckybplays",
+      "user_name": "BeckyBPlays",
+      "is_live": true,
+      "title": "Upgrading My Colony's Comfort | Everyone Welcomed !hype !discord",
+      "game_name": "Oxygen Not Included",
+      "viewer_count": 11,
+      "follower_count": 5132,
+      "language": "en",
+      "started_at": "2026-07-29T13:05:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/beckybplays",
+      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too."
     },
     {
       "user_login": "4kaizen_gaming",
