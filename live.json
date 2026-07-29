@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T13:47:02.712Z",
+  "generatedAt": "2026-07-29T13:52:02.740Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T13:47:02.695Z",
+    "fetchedAt": "2026-07-29T13:52:02.723Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Upgrading My Colony's Comfort | Everyone Welcomed !hype !discord",
       "game_name": "Oxygen Not Included",
-      "viewer_count": 21,
+      "viewer_count": 22,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-07-29T13:05:54Z",
