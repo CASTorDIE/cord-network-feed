@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T05:17:02.586Z",
+  "generatedAt": "2026-07-29T05:22:02.594Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T05:17:02.569Z",
+    "fetchedAt": "2026-07-29T05:22:02.577Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Cuphead done! Crab for now",
       "game_name": "Everything Is Crab",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 254,
       "language": "en",
       "started_at": "2026-07-29T00:55:47Z",
@@ -28,21 +28,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
-    },
-    {
-      "user_login": "dingo_dynasty",
-      "user_name": "Dingo_Dynasty",
-      "is_live": true,
-      "title": "SPICY CHIP & FORTNITE | Community Challenge | Therapy & Chaos",
-      "game_name": "Fortnite",
-      "viewer_count": 8,
-      "follower_count": 906,
-      "language": "en",
-      "started_at": "2026-07-29T04:06:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
-      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com"
     },
     {
       "user_login": "faytefireix",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
+    },
+    {
+      "user_login": "dingo_dynasty",
+      "user_name": "Dingo_Dynasty",
+      "is_live": true,
+      "title": "SPICY CHIP & FORTNITE | Community Challenge | Therapy & Chaos",
+      "game_name": "Fortnite",
+      "viewer_count": 6,
+      "follower_count": 906,
+      "language": "en",
+      "started_at": "2026-07-29T04:06:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
+      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com"
     },
     {
       "user_login": "alfieduu",
