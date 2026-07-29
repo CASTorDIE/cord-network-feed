@@ -21,7 +21,7 @@
       "status": "manual"
     },
     "supportShoutouts": {
-      "updatedAt": "2026-07-29T21:38:21.000Z",
+      "updatedAt": "2026-07-29T23:20:07.000Z",
       "status": "manual"
     }
   },
@@ -98,6 +98,14 @@
         "url": "https://www.twitch.tv/gibsontales",
         "addedAt": "2026-07-29T16:38:21-05:00",
         "expiresAt": "2026-08-29T16:38:21-05:00"
+      },
+      {
+        "id": "subscriber-slimchungusgaming-20260729",
+        "name": "SlimChungusGaming",
+        "message": "Subscriber",
+        "url": "https://www.twitch.tv/slimchungusgaming",
+        "addedAt": "2026-07-29T18:20:07-05:00",
+        "expiresAt": "2026-08-29T18:20:07-05:00"
       }
     ]
   }
