@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-29T00:02:02.675Z",
+  "generatedAt": "2026-07-29T00:07:02.687Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T00:02:02.658Z",
+    "fetchedAt": "2026-07-29T00:07:02.670Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 6,
-    "offlineCount": 47
+    "liveCount": 7,
+    "offlineCount": 46
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "ARC Raiders UPDATE & Variety Later! ❤️ 239 / 300 | !discord !merch",
       "game_name": "Shift at Midnight",
-      "viewer_count": 126,
+      "viewer_count": 119,
       "follower_count": 13879,
       "language": "en",
       "started_at": "2026-07-28T18:46:15Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| I'M ALIVEEE POOKIES 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 78,
+      "viewer_count": 92,
       "follower_count": 8406,
       "language": "en",
       "started_at": "2026-07-28T22:00:24Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "COOKING ON THE MISSISSIPPI THEN GAMING IN THE RV 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 73,
+      "viewer_count": 78,
       "follower_count": 2378,
       "language": "en",
       "started_at": "2026-07-28T21:52:03Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "LEGENDARY 1st PLAYTHROUGH :) | !lore !yt",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 16,
+      "viewer_count": 14,
       "follower_count": 1830,
       "language": "en",
       "started_at": "2026-07-28T22:27:19Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "Palworld | Playing Palworld to Fill the Aniimo Shaped Hole in my Heart | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Palworld",
-      "viewer_count": 7,
+      "viewer_count": 14,
       "follower_count": 1716,
       "language": "en",
       "started_at": "2026-07-28T23:54:10Z",
@@ -103,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ab16e06-61fe-43e9-9a23-459251717193-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/kindessurchin",
       "description": "🎮 Variety gamer with zero self-controlCozy farming one stream, horror-game panic the next.Expect chaos, laughs, and terrible decisions ✨"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 928🫨!discord🫨HOWARD 1V1 WE ARE BEATING HOWARD🫨HOWARD WILL LOSE🫨HOWARD HAS ARRIVED🫨HOWARD WILL FALL🫨DOWN GOES HOW",
+      "game_name": "Rocket League",
+      "viewer_count": 0,
+      "follower_count": 107958,
+      "language": "en",
+      "started_at": "2026-07-29T00:06:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -238,21 +253,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 107958,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
