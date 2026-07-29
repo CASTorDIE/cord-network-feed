@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T17:07:02.858Z",
+  "generatedAt": "2026-07-29T17:12:02.788Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T17:07:02.842Z",
+    "fetchedAt": "2026-07-29T17:12:02.767Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[drops] BACK TO DIAMEEN TODAY🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 66,
-      "follower_count": 10432,
+      "viewer_count": 53,
+      "follower_count": 10433,
       "language": "en",
       "started_at": "2026-07-29T15:38:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Upgrading My Colony's Comfort | Everyone Welcomed !hype !discord",
       "game_name": "Oxygen Not Included",
-      "viewer_count": 17,
+      "viewer_count": 12,
       "follower_count": 5132,
       "language": "en",
       "started_at": "2026-07-29T13:05:54Z",
