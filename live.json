@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T21:57:02.990Z",
+  "generatedAt": "2026-07-29T22:02:03.033Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T21:57:02.972Z",
+    "fetchedAt": "2026-07-29T22:02:03.015Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| MY NEXT REP 100? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 35,
+      "viewer_count": 47,
       "follower_count": 8427,
       "language": "en",
       "started_at": "2026-07-29T21:47:44Z",
