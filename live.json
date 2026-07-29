@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T04:52:02.683Z",
+  "generatedAt": "2026-07-29T04:57:02.588Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T04:52:02.667Z",
+    "fetchedAt": "2026-07-29T04:57:02.572Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -33,9 +33,9 @@
       "user_login": "dingo_dynasty",
       "user_name": "Dingo_Dynasty",
       "is_live": true,
-      "title": "EATING The HOTTEST CHIP & MUSTARD | Community Challenge | Therapy & Chaos",
-      "game_name": "Just Chatting",
-      "viewer_count": 10,
+      "title": "SPICY CHIP & FORTNITE | Community Challenge | Therapy & Chaos",
+      "game_name": "Fortnite",
+      "viewer_count": 9,
       "follower_count": 906,
       "language": "en",
       "started_at": "2026-07-29T04:06:54Z",
