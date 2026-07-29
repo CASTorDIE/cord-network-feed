@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-29T04:07:02.715Z",
+  "generatedAt": "2026-07-29T04:12:02.702Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T04:07:02.699Z",
+    "fetchedAt": "2026-07-29T04:12:02.686Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 3,
-    "offlineCount": 50
+    "liveCount": 4,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
+    },
+    {
+      "user_login": "dingo_dynasty",
+      "user_name": "Dingo_Dynasty",
+      "is_live": true,
+      "title": "EATING The HOTTEST CHIP & MUSTARD | Community Challenge | Therapy & Chaos",
+      "game_name": "Just Chatting",
+      "viewer_count": 7,
+      "follower_count": 906,
+      "language": "en",
+      "started_at": "2026-07-29T04:06:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
+      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com"
     },
     {
       "user_login": "faytefireix",
@@ -50,7 +65,7 @@
       "is_live": true,
       "title": "Rival's #1 AGGRESSIVE player🤬 | !yt !socials !discord | JOIN THE AGENCY🌐",
       "game_name": "Call of Duty: Warzone",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 789,
       "language": "en",
       "started_at": "2026-07-29T01:14:17Z",
@@ -268,21 +283,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
-      "user_login": "dingo_dynasty",
-      "user_name": "Dingo_Dynasty",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 907,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
-      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com"
     },
     {
       "user_login": "faestarlight",
@@ -771,7 +771,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10048,
+      "follower_count": 10047,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
