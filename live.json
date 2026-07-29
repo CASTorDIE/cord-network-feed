@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T19:52:02.805Z",
+  "generatedAt": "2026-07-29T19:57:02.831Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T19:52:02.789Z",
+    "fetchedAt": "2026-07-29T19:57:02.814Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "New month new giveaway!! |UPDATE DAY!!New star path!! Oh and Ralph..... |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 83,
+      "viewer_count": 84,
       "follower_count": 2630,
       "language": "en",
       "started_at": "2026-07-29T18:30:24Z",
