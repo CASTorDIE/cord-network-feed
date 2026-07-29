@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T14:27:02.737Z",
+  "generatedAt": "2026-07-29T14:32:02.902Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T14:27:02.720Z",
+    "fetchedAt": "2026-07-29T14:32:02.886Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Upgrading My Colony's Comfort | Everyone Welcomed !hype !discord",
       "game_name": "Oxygen Not Included",
-      "viewer_count": 17,
+      "viewer_count": 16,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-07-29T13:05:54Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🍃Pixel Perfect Update is here! [Next Stream Aug 1st @ 9am CST ]🍃",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 150,
       "language": "en",
       "started_at": "2026-07-29T14:00:33Z",
