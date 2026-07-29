@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T18:47:02.713Z",
+  "generatedAt": "2026-07-29T18:52:02.685Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T18:47:02.696Z",
+    "fetchedAt": "2026-07-29T18:52:02.668Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "New month new giveaway!! |UPDATE DAY!!New star path!! Oh and Ralph..... |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 70,
+      "viewer_count": 78,
       "follower_count": 2626,
       "language": "en",
       "started_at": "2026-07-29T18:30:24Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "⭐Hardcore Challenge Mode⭐ !fish ⭐!discord⭐",
       "game_name": "FINAL FANTASY VII REMAKE",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 504,
       "language": "en",
       "started_at": "2026-07-29T14:55:03Z",
