@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T17:57:02.802Z",
+  "generatedAt": "2026-07-29T18:02:02.720Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T17:57:02.784Z",
+    "fetchedAt": "2026-07-29T18:02:02.703Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐Hardcore Challenge Mode⭐ !fish ⭐!discord⭐",
       "game_name": "FINAL FANTASY VII REMAKE",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 504,
       "language": "en",
       "started_at": "2026-07-29T14:55:03Z",
@@ -126,7 +126,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2379,
+      "follower_count": 2378,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
