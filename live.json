@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T22:12:02.894Z",
+  "generatedAt": "2026-07-29T22:17:02.876Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T22:12:02.875Z",
+    "fetchedAt": "2026-07-29T22:17:02.855Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| MY NEXT REP 100? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 59,
+      "viewer_count": 64,
       "follower_count": 8427,
       "language": "en",
       "started_at": "2026-07-29T21:47:44Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Let's Talk...THEN PLAY GAMES!| !commands For Fun! |",
       "game_name": "Just Chatting",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 631,
       "language": "en",
       "started_at": "2026-07-29T22:04:10Z",
