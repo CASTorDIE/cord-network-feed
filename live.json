@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T03:47:02.678Z",
+  "generatedAt": "2026-07-29T03:52:02.669Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-29T03:47:02.662Z",
+    "fetchedAt": "2026-07-29T03:52:02.653Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -21,28 +21,13 @@
       "title": "|DROPS| I'M ALIVEEE POOKIES 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
       "viewer_count": 94,
-      "follower_count": 8418,
+      "follower_count": 8419,
       "language": "en",
       "started_at": "2026-07-28T22:00:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
-    },
-    {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": true,
-      "title": "Can our PC handle 2 games simultaneously? | MultiWorld w/ Kiddo| Family Friendly",
-      "game_name": "Super Metroid",
-      "viewer_count": 13,
-      "follower_count": 724,
-      "language": "en",
-      "started_at": "2026-07-29T01:21:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -60,12 +45,27 @@
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": true,
+      "title": "Can our PC handle 2 games simultaneously? | MultiWorld w/ Kiddo| Family Friendly",
+      "game_name": "Super Metroid",
+      "viewer_count": 10,
+      "follower_count": 724,
+      "language": "en",
+      "started_at": "2026-07-29T01:21:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
+    },
+    {
       "user_login": "killujah",
       "user_name": "KILLUJAH",
       "is_live": true,
       "title": "Rival's #1 AGGRESSIVE player🤬 | !yt !socials !discord | JOIN THE AGENCY🌐",
       "game_name": "Call of Duty: Warzone",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 789,
       "language": "en",
       "started_at": "2026-07-29T01:14:17Z",
