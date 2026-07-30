@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-07-30T04:02:02.982Z",
+  "generatedAt": "2026-07-30T04:07:02.826Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-30T04:02:02.964Z",
+    "fetchedAt": "2026-07-30T04:07:02.809Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 6,
-    "offlineCount": 47
+    "liveCount": 4,
+    "offlineCount": 49
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 929👮!discord👮POWICE ARE HEWE👮THE SAID THEY HEAWD A COMPWAINT👮ITS WOCKET WEAGUE WEDNESDAY AND THEY'WE NOT SEEING WO",
-      "game_name": "Rocket League",
-      "viewer_count": 423,
-      "follower_count": 108378,
-      "language": "en",
-      "started_at": "2026-07-30T00:06:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEYS | !pizza |",
       "game_name": "Marbles on Stream",
-      "viewer_count": 126,
+      "viewer_count": 120,
       "follower_count": 10048,
       "language": "en",
       "started_at": "2026-07-30T02:05:26Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "Platforming scrub gives it their all. Day 1",
       "game_name": "Celeste",
-      "viewer_count": 55,
+      "viewer_count": 50,
       "follower_count": 254,
       "language": "en",
       "started_at": "2026-07-30T01:08:57Z",
@@ -60,27 +45,12 @@
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
-      "user_login": "healzealot",
-      "user_name": "HealZealot",
-      "is_live": true,
-      "title": "Baldurs Gate 3 Wednesday YALLL!!!!! || !commands !whatsnew !streamteam !discord",
-      "game_name": "Baldur's Gate 3",
-      "viewer_count": 35,
-      "follower_count": 351,
-      "language": "en",
-      "started_at": "2026-07-29T23:52:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_healzealot-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8e3c734-edb2-4003-b2e7-a5d901c34138-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/healzealot",
-      "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
-    },
-    {
       "user_login": "faytefireix",
       "user_name": "FayteFireix",
       "is_live": true,
       "title": "Locked armor, acquired. Onto the next, to hunt the Mongols! | First Play through [EP 11] | Family Friendly",
       "game_name": "Ghost of Tsushima",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "follower_count": 726,
       "language": "en",
       "started_at": "2026-07-30T03:05:11Z",
@@ -95,7 +65,7 @@
       "is_live": true,
       "title": "Who wanna bussbuss?!🔫 | !yt !socials !discord | JOIN THE AGENCY🌐",
       "game_name": "Call of Duty: Warzone",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 788,
       "language": "en",
       "started_at": "2026-07-30T02:44:49Z",
@@ -238,6 +208,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 108379,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
@@ -403,6 +388,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e89b72d-44f9-4905-9ba3-27d3141210ff-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/guitardoll",
       "description": "Chaotic, high-energy, and probably one bad decision away from a jump scare. | Welcome to the Dollhouse | Tue & Thurs 7PM • Sat 5PM | Business Email: guitardoll.official@gmail.com"
+    },
+    {
+      "user_login": "healzealot",
+      "user_name": "HealZealot",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 351,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8e3c734-edb2-4003-b2e7-a5d901c34138-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/healzealot",
+      "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
     },
     {
       "user_login": "horror_heather",
@@ -756,7 +756,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8435,
+      "follower_count": 8436,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
