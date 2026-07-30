@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-30T21:47:02.673Z",
+  "generatedAt": "2026-07-30T21:52:02.951Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-30T21:47:02.656Z",
+    "fetchedAt": "2026-07-30T21:52:02.932Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "FIRST PLAYTHROUGH | Alan Wake 2 | Why am I so SCARED??! HELP! | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 12,
+      "viewer_count": 19,
       "follower_count": 611,
       "language": "en",
       "started_at": "2026-07-30T21:31:31Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10444,
+      "follower_count": 10445,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
