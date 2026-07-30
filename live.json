@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-30T05:47:03.053Z",
+  "generatedAt": "2026-07-30T05:52:03.025Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-30T05:47:03.036Z",
+    "fetchedAt": "2026-07-30T05:52:03.008Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 2,
-    "offlineCount": 51
+    "liveCount": 1,
+    "offlineCount": 52
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEYS | !pizza |",
       "game_name": "Marbles on Stream",
-      "viewer_count": 121,
+      "viewer_count": 113,
       "follower_count": 10047,
       "language": "en",
       "started_at": "2026-07-30T02:05:26Z",
@@ -28,21 +28,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
-    {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": true,
-      "title": "Locked armor, acquired. Onto the next, to hunt the Mongols! | First Play through [EP 11] | Family Friendly",
-      "game_name": "Ghost of Tsushima",
-      "viewer_count": 8,
-      "follower_count": 726,
-      "language": "en",
-      "started_at": "2026-07-30T03:05:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -298,6 +283,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/649c4972-2538-4400-b328-6f92c7d48038-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faestarlight",
       "description": "Hi! I'm Fae and welcome to my little corner of the galaxy! I have a love for terrible jokes and spoopy games. You’ll usually find me streaming on Tuesdays and Wednesdays at 10 A.M. CST and Thursdays at 4 P.M CST, so stop by and say hi! For inquiries message me at: faestarlightinquiries@gmail.com"
+    },
+    {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 726,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "floodwater_",
