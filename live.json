@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-30T05:17:03.021Z",
+  "generatedAt": "2026-07-30T05:22:03.020Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-30T05:17:03.004Z",
+    "fetchedAt": "2026-07-30T05:22:03.004Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEYS | !pizza |",
       "game_name": "Marbles on Stream",
-      "viewer_count": 131,
+      "viewer_count": 123,
       "follower_count": 10047,
       "language": "en",
       "started_at": "2026-07-30T02:05:26Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Locked armor, acquired. Onto the next, to hunt the Mongols! | First Play through [EP 11] | Family Friendly",
       "game_name": "Ghost of Tsushima",
-      "viewer_count": 7,
+      "viewer_count": 9,
       "follower_count": 726,
       "language": "en",
       "started_at": "2026-07-30T03:05:11Z",
