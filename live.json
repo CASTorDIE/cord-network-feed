@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-30T22:17:02.761Z",
+  "generatedAt": "2026-07-30T22:22:02.881Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-30T22:17:02.739Z",
+    "fetchedAt": "2026-07-30T22:22:02.864Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "FIRST PLAYTHROUGH | Alan Wake 2 | Why am I so SCARED??! HELP! | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 24,
-      "follower_count": 611,
+      "viewer_count": 21,
+      "follower_count": 612,
       "language": "en",
       "started_at": "2026-07-30T21:31:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_horror_heather-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "LEGENDARY 1st PLAYTHROUGH :) pt. 2 | !lore !yt",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 5,
+      "viewer_count": 7,
       "follower_count": 1830,
       "language": "en",
       "started_at": "2026-07-30T22:13:19Z",
