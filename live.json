@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-30T05:32:02.973Z",
+  "generatedAt": "2026-07-30T05:37:03.015Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-30T05:32:02.957Z",
+    "fetchedAt": "2026-07-30T05:37:02.998Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Locked armor, acquired. Onto the next, to hunt the Mongols! | First Play through [EP 11] | Family Friendly",
       "game_name": "Ghost of Tsushima",
-      "viewer_count": 7,
+      "viewer_count": 9,
       "follower_count": 726,
       "language": "en",
       "started_at": "2026-07-30T03:05:11Z",
@@ -141,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2379,
+      "follower_count": 2380,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
