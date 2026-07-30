@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-30T03:02:02.892Z",
+  "generatedAt": "2026-07-30T03:07:02.761Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-30T03:02:02.875Z",
+    "fetchedAt": "2026-07-30T03:07:02.743Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 6,
-    "offlineCount": 47
+    "liveCount": 7,
+    "offlineCount": 46
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 929👮!discord👮POWICE ARE HEWE👮THE SAID THEY HEAWD A COMPWAINT👮ITS WOCKET WEAGUE WEDNESDAY AND THEY'WE NOT SEEING WO",
       "game_name": "Rocket League",
-      "viewer_count": 597,
-      "follower_count": 108338,
+      "viewer_count": 646,
+      "follower_count": 108344,
       "language": "en",
       "started_at": "2026-07-30T00:06:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEYS | !pizza |",
       "game_name": "Marbles on Stream",
-      "viewer_count": 94,
-      "follower_count": 10047,
+      "viewer_count": 102,
+      "follower_count": 10046,
       "language": "en",
       "started_at": "2026-07-30T02:05:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "|DROPS| MY NEXT REP 100? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 82,
+      "viewer_count": 81,
       "follower_count": 8434,
       "language": "en",
       "started_at": "2026-07-29T21:47:44Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Baldurs Gate 3 Wednesday YALLL!!!!! || !commands !whatsnew !streamteam !discord",
       "game_name": "Baldur's Gate 3",
-      "viewer_count": 38,
+      "viewer_count": 37,
       "follower_count": 351,
       "language": "en",
       "started_at": "2026-07-29T23:52:25Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "Platforming scrub gives it their all. Day 1",
       "game_name": "Celeste",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 254,
       "language": "en",
       "started_at": "2026-07-30T01:08:57Z",
@@ -103,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/killujah",
       "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
+    },
+    {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": true,
+      "title": "Locked armor, acquired. Onto the next, to hunt the Mongols! | First Play through [EP 11] | Family Friendly",
+      "game_name": "Ghost of Tsushima",
+      "viewer_count": 0,
+      "follower_count": 726,
+      "language": "en",
+      "started_at": "2026-07-30T03:05:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "alfieduu",
@@ -328,21 +343,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/649c4972-2538-4400-b328-6f92c7d48038-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faestarlight",
       "description": "Hi! I'm Fae and welcome to my little corner of the galaxy! I have a love for terrible jokes and spoopy games. You’ll usually find me streaming on Tuesdays and Wednesdays at 10 A.M. CST and Thursdays at 4 P.M CST, so stop by and say hi! For inquiries message me at: faestarlightinquiries@gmail.com"
-    },
-    {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 726,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "floodwater_",
