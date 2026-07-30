@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-30T04:37:03.080Z",
+  "generatedAt": "2026-07-30T04:42:03.176Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-30T04:37:03.061Z",
+    "fetchedAt": "2026-07-30T04:42:03.156Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 4,
-    "offlineCount": 49
+    "liveCount": 3,
+    "offlineCount": 50
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEYS | !pizza |",
       "game_name": "Marbles on Stream",
-      "viewer_count": 115,
+      "viewer_count": 110,
       "follower_count": 10048,
       "language": "en",
       "started_at": "2026-07-30T02:05:26Z",
@@ -30,27 +30,12 @@
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "Platforming scrub gives it their all. Day 1",
-      "game_name": "Celeste",
-      "viewer_count": 44,
-      "follower_count": 254,
-      "language": "en",
-      "started_at": "2026-07-30T01:08:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
-    },
-    {
       "user_login": "faytefireix",
       "user_name": "FayteFireix",
       "is_live": true,
       "title": "Locked armor, acquired. Onto the next, to hunt the Mongols! | First Play through [EP 11] | Family Friendly",
       "game_name": "Ghost of Tsushima",
-      "viewer_count": 5,
+      "viewer_count": 7,
       "follower_count": 726,
       "language": "en",
       "started_at": "2026-07-30T03:05:11Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "Who wanna bussbuss?!🔫 | !yt !socials !discord | JOIN THE AGENCY🌐",
       "game_name": "Marvel Rivals",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 788,
       "language": "en",
       "started_at": "2026-07-30T02:44:49Z",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/killujah",
       "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
+    },
+    {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 255,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
       "user_login": "alfieduu",
