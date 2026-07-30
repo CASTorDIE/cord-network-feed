@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-30T23:12:02.874Z",
+  "generatedAt": "2026-07-30T23:17:02.919Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-30T23:12:02.857Z",
+    "fetchedAt": "2026-07-30T23:17:02.902Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 3,
-    "offlineCount": 50
+    "liveCount": 4,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -30,12 +30,27 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "thecatsmeowxo",
+      "user_name": "TheCatsMeOwXO",
+      "is_live": true,
+      "title": "LEGENDARY 1st PLAYTHROUGH :) pt. 2 | !lore !yt",
+      "game_name": "Halo: Campaign Evolved",
+      "viewer_count": 20,
+      "follower_count": 1830,
+      "language": "en",
+      "started_at": "2026-07-30T22:13:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thecatsmeowxo-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e6313f4-12f3-439d-814d-449ca874170a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/thecatsmeowxo",
+      "description": "Just a small town girl, livin' in a lonely world... until I stumbled across video games & the friends you make from them. Feel free to join in the chatter or rest easy and lurk away - either way I'm glad you stopped by! :) p.s. I only own 3 cats"
+    },
+    {
       "user_login": "horror_heather",
       "user_name": "horror_heather",
       "is_live": true,
       "title": "FIRST PLAYTHROUGH | Alan Wake 2 | Why am I so SCARED??! HELP! | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 21,
+      "viewer_count": 17,
       "follower_count": 612,
       "language": "en",
       "started_at": "2026-07-30T21:31:31Z",
@@ -45,19 +60,19 @@
       "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
     },
     {
-      "user_login": "thecatsmeowxo",
-      "user_name": "TheCatsMeOwXO",
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
       "is_live": true,
-      "title": "LEGENDARY 1st PLAYTHROUGH :) pt. 2 | !lore !yt",
-      "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 18,
-      "follower_count": 1830,
+      "title": "ARC Raiders  & Variety Later! ❤️ 316 / 300 OMGGGGGG | !discord !merch",
+      "game_name": "Just Chatting",
+      "viewer_count": 4,
+      "follower_count": 13881,
       "language": "en",
-      "started_at": "2026-07-30T22:13:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thecatsmeowxo-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e6313f4-12f3-439d-814d-449ca874170a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/thecatsmeowxo",
-      "description": "Just a small town girl, livin' in a lonely world... until I stumbled across video games & the friends you make from them. Feel free to join in the chatter or rest easy and lurk away - either way I'm glad you stopped by! :) p.s. I only own 3 cats"
+      "started_at": "2026-07-30T23:12:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -126,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 6202,
+      "follower_count": 6201,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -568,21 +583,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc761090-7b8f-477b-9d96-670e2774f1ed-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/predicatenate",
       "description": "Some call me Nate The Great."
-    },
-    {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 13881,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "slimchungusgaming",
