@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-30T02:02:02.989Z",
+  "generatedAt": "2026-07-30T02:07:02.944Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-30T02:02:02.973Z",
+    "fetchedAt": "2026-07-30T02:07:02.926Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 4,
-    "offlineCount": 49
+    "liveCount": 5,
+    "offlineCount": 48
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 929👮!discord👮POWICE ARE HEWE👮THE SAID THEY HEAWD A COMPWAINT👮ITS WOCKET WEAGUE WEDNESDAY AND THEY'WE NOT SEEING WO",
       "game_name": "Rocket League",
-      "viewer_count": 590,
-      "follower_count": 108262,
+      "viewer_count": 591,
+      "follower_count": 108265,
       "language": "en",
       "started_at": "2026-07-30T00:06:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| MY NEXT REP 100? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 88,
+      "viewer_count": 86,
       "follower_count": 8434,
       "language": "en",
       "started_at": "2026-07-29T21:47:44Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Baldurs Gate 3 Wednesday YALLL!!!!! || !commands !whatsnew !streamteam !discord",
       "game_name": "Baldur's Gate 3",
-      "viewer_count": 40,
+      "viewer_count": 39,
       "follower_count": 351,
       "language": "en",
       "started_at": "2026-07-29T23:52:25Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Platforming scrub gives it their all. Day 1",
       "game_name": "Celeste",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 254,
       "language": "en",
       "started_at": "2026-07-30T01:08:57Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
+    },
+    {
+      "user_login": "zaldar87",
+      "user_name": "Zaldar87",
+      "is_live": true,
+      "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEYS | !pizza |",
+      "game_name": "Marbles on Stream",
+      "viewer_count": 1,
+      "follower_count": 10047,
+      "language": "en",
+      "started_at": "2026-07-30T02:05:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zaldar87",
+      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "alfieduu",
@@ -763,21 +778,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-    },
-    {
-      "user_login": "zaldar87",
-      "user_name": "Zaldar87",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 10047,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zaldar87",
-      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "zoddric",
