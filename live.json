@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T06:22:02.837Z",
+  "generatedAt": "2026-07-31T06:27:02.772Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T06:22:02.820Z",
+    "fetchedAt": "2026-07-31T06:27:02.755Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "TGIF! ♡ customs night + road to masters",
       "game_name": "MECCHA CHAMELEON",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 4987,
       "language": "en",
       "started_at": "2026-07-31T03:29:18Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "JCPenny's Photography | Photomaly | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 13,
+      "viewer_count": 12,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-07-31T04:34:07Z",
