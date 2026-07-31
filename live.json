@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T07:37:02.743Z",
+  "generatedAt": "2026-07-31T07:42:02.792Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T07:37:02.726Z",
+    "fetchedAt": "2026-07-31T07:42:02.776Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "TGIF! ♡ customs night + road to masters",
       "game_name": "Apex Legends",
-      "viewer_count": 15,
+      "viewer_count": 11,
       "follower_count": 4987,
       "language": "en",
       "started_at": "2026-07-31T03:29:18Z",
@@ -561,7 +561,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 13914,
+      "follower_count": 13915,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
