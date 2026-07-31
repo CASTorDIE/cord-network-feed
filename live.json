@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T10:57:02.736Z",
+  "generatedAt": "2026-07-31T11:02:02.821Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T10:57:02.719Z",
+    "fetchedAt": "2026-07-31T11:02:02.804Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Let’s Talk About the New Spider-Man | No Spoilers",
       "game_name": "Just Chatting",
-      "viewer_count": 12,
-      "follower_count": 329,
+      "viewer_count": 13,
+      "follower_count": 330,
       "language": "en",
       "started_at": "2026-07-31T10:12:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
