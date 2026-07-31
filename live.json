@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T12:47:02.763Z",
+  "generatedAt": "2026-07-31T12:52:02.834Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T12:47:02.746Z",
+    "fetchedAt": "2026-07-31T12:52:02.818Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Two Horror Games… Who Breaks First? 😱 | Spoopy Time | Couple Plays",
       "game_name": "Games + Demos",
-      "viewer_count": 3,
-      "follower_count": 914,
+      "viewer_count": 19,
+      "follower_count": 915,
       "language": "en",
       "started_at": "2026-07-31T12:43:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 108575,
+      "follower_count": 108574,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
