@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T23:07:02.772Z",
+  "generatedAt": "2026-07-31T23:12:02.889Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T23:07:02.755Z",
+    "fetchedAt": "2026-07-31T23:12:02.872Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 63,
+      "viewer_count": 64,
       "follower_count": 2405,
       "language": "en",
       "started_at": "2026-07-31T22:31:36Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "{DROPS ENABLED} BEST FORTNITE PLAYER WHO WEARS UNICORN SHOES PLAYS FORTNITE| CC:OHGOSH | !commands For Fun! |",
       "game_name": "Fortnite",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 630,
       "language": "en",
       "started_at": "2026-07-31T22:10:46Z",
