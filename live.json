@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T22:17:02.810Z",
+  "generatedAt": "2026-07-31T22:22:02.822Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T22:17:02.793Z",
+    "fetchedAt": "2026-07-31T22:22:02.805Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "New month new giveaway!! |Dreamsnao,Dreamsnaps |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 95,
+      "viewer_count": 91,
       "follower_count": 2649,
       "language": "en",
       "started_at": "2026-07-31T20:39:04Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "{DROPS ENABLED} BEST FORTNITE PLAYER WHO WEARS UNICORN SHOES PLAYS FORTNITE| CC:OHGOSH | !commands For Fun! |",
       "game_name": "Fortnite",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 630,
       "language": "en",
       "started_at": "2026-07-31T22:10:46Z",
