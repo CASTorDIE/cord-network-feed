@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T05:47:02.704Z",
+  "generatedAt": "2026-07-31T05:52:02.695Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T05:47:02.687Z",
+    "fetchedAt": "2026-07-31T05:52:02.678Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "angelicdomi",
-      "user_name": "AngelicDomi",
-      "is_live": true,
-      "title": "TGIF! ♡ customs night + road to masters",
-      "game_name": "Apex Legends",
-      "viewer_count": 15,
-      "follower_count": 4987,
-      "language": "en",
-      "started_at": "2026-07-31T03:29:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/angelicdomi",
-      "description": "probably having a coffee at this very moment"
-    },
-    {
       "user_login": "dingo_dynasty",
       "user_name": "Dingo_Dynasty",
       "is_live": true,
       "title": "JCPenny's Photography | Photomaly | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 12,
+      "viewer_count": 14,
       "follower_count": 906,
       "language": "en",
       "started_at": "2026-07-31T04:34:07Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com"
+    },
+    {
+      "user_login": "angelicdomi",
+      "user_name": "AngelicDomi",
+      "is_live": true,
+      "title": "TGIF! ♡ customs night + road to masters",
+      "game_name": "Apex Legends",
+      "viewer_count": 11,
+      "follower_count": 4987,
+      "language": "en",
+      "started_at": "2026-07-31T03:29:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/angelicdomi",
+      "description": "probably having a coffee at this very moment"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -126,7 +126,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2402,
+      "follower_count": 2403,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
