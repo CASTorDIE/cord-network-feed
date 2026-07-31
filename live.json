@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T11:02:02.821Z",
+  "generatedAt": "2026-07-31T11:07:02.813Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T11:02:02.804Z",
+    "fetchedAt": "2026-07-31T11:07:02.796Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Let’s Talk About the New Spider-Man | No Spoilers",
       "game_name": "Just Chatting",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "follower_count": 330,
       "language": "en",
       "started_at": "2026-07-31T10:12:40Z",
