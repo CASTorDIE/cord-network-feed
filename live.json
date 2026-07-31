@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T22:02:02.892Z",
+  "generatedAt": "2026-07-31T22:07:02.883Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T22:02:02.874Z",
+    "fetchedAt": "2026-07-31T22:07:02.866Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "New month new giveaway!! |Dreamsnao,Dreamsnaps |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 98,
-      "follower_count": 2647,
+      "viewer_count": 92,
+      "follower_count": 2649,
       "language": "en",
       "started_at": "2026-07-31T20:39:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
@@ -801,7 +801,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 527,
+      "follower_count": 528,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
