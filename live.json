@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-31T03:27:02.901Z",
+  "generatedAt": "2026-07-31T03:32:02.788Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T03:27:02.883Z",
+    "fetchedAt": "2026-07-31T03:32:02.771Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 5,
-    "offlineCount": 48
+    "liveCount": 6,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 930💺!discord💺TAKE A SEAT KIDS💺YOU'RE ABOUT TO WITNESS GREATNESS💺WE ARE GETTING TO GRAND CHAMPION WITHOUT LOSING A",
       "game_name": "Rocket League",
-      "viewer_count": 599,
-      "follower_count": 108539,
+      "viewer_count": 586,
+      "follower_count": 108546,
       "language": "en",
       "started_at": "2026-07-31T00:03:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ARC Raiders  & Variety Later! ❤️ 316 / 300 OMGGGGGG | !discord !merch",
       "game_name": "ARC Raiders",
-      "viewer_count": 119,
+      "viewer_count": 127,
       "follower_count": 13900,
       "language": "en",
       "started_at": "2026-07-30T23:12:17Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Platforming scrub gives it their all. Day 2",
       "game_name": "Celeste",
-      "viewer_count": 10,
+      "viewer_count": 8,
       "follower_count": 256,
       "language": "en",
       "started_at": "2026-07-31T00:55:16Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "⚔️Call of Duty: Warzone vs. Battlefield REDSEC! Which one is better? ⚔️!discord⚔️Are you ready for 6am?⚔️",
       "game_name": "Call of Duty: Warzone",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 2080,
       "language": "en",
       "started_at": "2026-07-31T01:33:22Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
+    },
+    {
+      "user_login": "angelicdomi",
+      "user_name": "AngelicDomi",
+      "is_live": true,
+      "title": "TGIF! ♡ customs night + road to masters",
+      "game_name": "Apex Legends",
+      "viewer_count": 4,
+      "follower_count": 4986,
+      "language": "en",
+      "started_at": "2026-07-31T03:29:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/angelicdomi",
+      "description": "probably having a coffee at this very moment"
     },
     {
       "user_login": "killujah",
@@ -118,21 +133,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/allyreggie",
       "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
-    },
-    {
-      "user_login": "angelicdomi",
-      "user_name": "AngelicDomi",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 4986,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/angelicdomi",
-      "description": "probably having a coffee at this very moment"
     },
     {
       "user_login": "ao_zora_",
