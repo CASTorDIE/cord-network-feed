@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T13:37:02.770Z",
+  "generatedAt": "2026-07-31T13:42:02.861Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T13:37:02.753Z",
+    "fetchedAt": "2026-07-31T13:42:02.844Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Two Horror Games… Who Breaks First? 😱 | Spoopy Time | Couple Plays",
       "game_name": "Games + Demos",
-      "viewer_count": 31,
+      "viewer_count": 30,
       "follower_count": 917,
       "language": "en",
       "started_at": "2026-07-31T12:43:43Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Willow Street Rework, First Look| Everyone Welcomed !hype !discord",
       "game_name": "Phasmophobia",
-      "viewer_count": 13,
+      "viewer_count": 17,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-07-31T13:07:13Z",
