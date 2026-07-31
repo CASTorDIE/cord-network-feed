@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T06:47:02.754Z",
+  "generatedAt": "2026-07-31T06:52:02.768Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T06:47:02.737Z",
+    "fetchedAt": "2026-07-31T06:52:02.751Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "TGIF! ♡ customs night + road to masters",
       "game_name": "MECCHA CHAMELEON",
-      "viewer_count": 16,
+      "viewer_count": 17,
       "follower_count": 4987,
       "language": "en",
       "started_at": "2026-07-31T03:29:18Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 108571,
+      "follower_count": 108570,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
