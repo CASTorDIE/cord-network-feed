@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T05:22:02.742Z",
+  "generatedAt": "2026-07-31T05:27:02.710Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T05:22:02.726Z",
+    "fetchedAt": "2026-07-31T05:27:02.694Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "ARC Raiders  & Variety Later! ❤️ 316 / 300 OMGGGGGG | !discord !merch",
       "game_name": "ARC Raiders",
-      "viewer_count": 117,
-      "follower_count": 13913,
+      "viewer_count": 112,
+      "follower_count": 13914,
       "language": "en",
       "started_at": "2026-07-30T23:12:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "TGIF! ♡ customs night + road to masters",
       "game_name": "Apex Legends",
-      "viewer_count": 18,
+      "viewer_count": 17,
       "follower_count": 4987,
       "language": "en",
       "started_at": "2026-07-31T03:29:18Z",
