@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-31T15:07:02.856Z",
+  "generatedAt": "2026-07-31T15:12:02.794Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T15:07:02.839Z",
+    "fetchedAt": "2026-07-31T15:12:02.777Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 2,
-    "offlineCount": 51
+    "liveCount": 1,
+    "offlineCount": 52
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Willow Street Rework, First Look| Everyone Welcomed !hype !discord",
       "game_name": "Phasmophobia",
-      "viewer_count": 52,
+      "viewer_count": 53,
       "follower_count": 5132,
       "language": "en",
       "started_at": "2026-07-31T13:07:13Z",
@@ -28,21 +28,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too."
-    },
-    {
-      "user_login": "gibsontales",
-      "user_name": "GibsonTales",
-      "is_live": true,
-      "title": "Two Horror Games… Who Breaks First? 😱 | Spoopy Time | Couple Plays",
-      "game_name": "Games + Demos",
-      "viewer_count": 7,
-      "follower_count": 918,
-      "language": "en",
-      "started_at": "2026-07-31T12:43:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gibsontales",
-      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -186,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 108575,
+      "follower_count": 108574,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -328,6 +313,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "gibsontales",
+      "user_name": "GibsonTales",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 918,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gibsontales",
+      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com"
     },
     {
       "user_login": "gmclay_",
