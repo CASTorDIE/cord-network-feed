@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T20:52:02.830Z",
+  "generatedAt": "2026-07-31T20:57:02.941Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T20:52:02.813Z",
+    "fetchedAt": "2026-07-31T20:57:02.924Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "New month new giveaway!! |Dreamsnao,Dreamsnaps |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 59,
+      "viewer_count": 71,
       "follower_count": 2645,
       "language": "en",
       "started_at": "2026-07-31T20:39:04Z",
