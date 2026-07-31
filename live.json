@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-31T01:17:02.801Z",
+  "generatedAt": "2026-07-31T01:22:02.711Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T01:17:02.784Z",
+    "fetchedAt": "2026-07-31T01:22:02.694Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 8,
-    "offlineCount": 45
+    "liveCount": 7,
+    "offlineCount": 46
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 930💺!discord💺TAKE A SEAT KIDS💺YOU'RE ABOUT TO WITNESS GREATNESS💺WE ARE GETTING TO GRAND CHAMPION WITHOUT LOSING A",
       "game_name": "Rocket League",
-      "viewer_count": 337,
+      "viewer_count": 366,
       "follower_count": 108413,
       "language": "en",
       "started_at": "2026-07-31T00:03:37Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "ARC Raiders  & Variety Later! ❤️ 316 / 300 OMGGGGGG | !discord !merch",
       "game_name": "ARC Raiders",
-      "viewer_count": 137,
-      "follower_count": 13896,
+      "viewer_count": 133,
+      "follower_count": 13897,
       "language": "en",
       "started_at": "2026-07-30T23:12:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 107,
+      "viewer_count": 81,
       "follower_count": 2382,
       "language": "en",
       "started_at": "2026-07-30T22:42:26Z",
@@ -65,8 +65,8 @@
       "is_live": true,
       "title": "|DROPS| NEXT REP 100 VIRT? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 53,
-      "follower_count": 8436,
+      "viewer_count": 49,
+      "follower_count": 8437,
       "language": "en",
       "started_at": "2026-07-31T00:15:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -75,27 +75,12 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
-      "user_login": "horror_heather",
-      "user_name": "horror_heather",
-      "is_live": true,
-      "title": "FIRST PLAYTHROUGH | Alan Wake 2 | Why am I so SCARED??! HELP! | !links",
-      "game_name": "Alan Wake II",
-      "viewer_count": 14,
-      "follower_count": 612,
-      "language": "en",
-      "started_at": "2026-07-30T21:31:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_horror_heather-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/horror_heather",
-      "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Platforming scrub gives it their all. Day 2",
       "game_name": "Celeste",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "follower_count": 256,
       "language": "en",
       "started_at": "2026-07-31T00:55:16Z",
@@ -105,27 +90,12 @@
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
-      "user_login": "kindessurchin",
-      "user_name": "kindessurchin",
-      "is_live": true,
-      "title": "#1 worst ghost hunter around!",
-      "game_name": "Phasmophobia",
-      "viewer_count": 3,
-      "follower_count": 64,
-      "language": "en",
-      "started_at": "2026-07-30T23:23:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kindessurchin-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ab16e06-61fe-43e9-9a23-459251717193-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/kindessurchin",
-      "description": "🎮 Variety gamer with zero self-controlCozy farming one stream, horror-game panic the next.Expect chaos, laughs, and terrible decisions ✨"
-    },
-    {
       "user_login": "desertrose",
       "user_name": "Desertrose",
       "is_live": true,
       "title": "new hair who dis?",
       "game_name": "Tears of Metal",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 1044,
       "language": "en",
       "started_at": "2026-07-31T00:07:15Z",
@@ -133,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
+    },
+    {
+      "user_login": "kindessurchin",
+      "user_name": "kindessurchin",
+      "is_live": true,
+      "title": "#1 worst ghost hunter around!",
+      "game_name": "Phasmophobia",
+      "viewer_count": 2,
+      "follower_count": 64,
+      "language": "en",
+      "started_at": "2026-07-30T23:23:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kindessurchin-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ab16e06-61fe-43e9-9a23-459251717193-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/kindessurchin",
+      "description": "🎮 Variety gamer with zero self-controlCozy farming one stream, horror-game panic the next.Expect chaos, laughs, and terrible decisions ✨"
     },
     {
       "user_login": "alfieduu",
@@ -433,6 +418,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8e3c734-edb2-4003-b2e7-a5d901c34138-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/healzealot",
       "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
+    },
+    {
+      "user_login": "horror_heather",
+      "user_name": "horror_heather",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 612,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/horror_heather",
+      "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
     },
     {
       "user_login": "jaxsberrypatch",
