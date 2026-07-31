@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T05:52:02.695Z",
+  "generatedAt": "2026-07-31T05:57:02.702Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T05:52:02.678Z",
+    "fetchedAt": "2026-07-31T05:57:02.685Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "JCPenny's Photography | Photomaly | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 14,
-      "follower_count": 906,
+      "viewer_count": 17,
+      "follower_count": 907,
       "language": "en",
       "started_at": "2026-07-31T04:34:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "TGIF! ♡ customs night + road to masters",
       "game_name": "Apex Legends",
-      "viewer_count": 11,
+      "viewer_count": 14,
       "follower_count": 4987,
       "language": "en",
       "started_at": "2026-07-31T03:29:18Z",
