@@ -1,42 +1,27 @@
 {
-  "generatedAt": "2026-07-31T04:17:03.002Z",
+  "generatedAt": "2026-07-31T04:22:02.959Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T04:17:02.985Z",
+    "fetchedAt": "2026-07-31T04:22:02.941Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 5,
-    "offlineCount": 48
+    "liveCount": 4,
+    "offlineCount": 49
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 930💺!discord💺TAKE A SEAT KIDS💺YOU'RE ABOUT TO WITNESS GREATNESS💺WE ARE GETTING TO GRAND CHAMPION WITHOUT LOSING A",
-      "game_name": "Rocket League",
-      "viewer_count": 362,
-      "follower_count": 108569,
-      "language": "en",
-      "started_at": "2026-07-31T00:03:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "ARC Raiders  & Variety Later! ❤️ 316 / 300 OMGGGGGG | !discord !merch",
       "game_name": "ARC Raiders",
-      "viewer_count": 123,
-      "follower_count": 13906,
+      "viewer_count": 125,
+      "follower_count": 13907,
       "language": "en",
       "started_at": "2026-07-30T23:12:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -50,8 +35,8 @@
       "is_live": true,
       "title": "TGIF! ♡ customs night + road to masters",
       "game_name": "Apex Legends",
-      "viewer_count": 22,
-      "follower_count": 4985,
+      "viewer_count": 21,
+      "follower_count": 4986,
       "language": "en",
       "started_at": "2026-07-31T03:29:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
@@ -208,6 +193,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 108571,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
