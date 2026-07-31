@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-31T02:12:02.861Z",
+  "generatedAt": "2026-07-31T02:17:02.988Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T02:12:02.845Z",
+    "fetchedAt": "2026-07-31T02:17:02.970Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 9,
-    "offlineCount": 44
+    "liveCount": 8,
+    "offlineCount": 45
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 930💺!discord💺TAKE A SEAT KIDS💺YOU'RE ABOUT TO WITNESS GREATNESS💺WE ARE GETTING TO GRAND CHAMPION WITHOUT LOSING A",
       "game_name": "Rocket League",
-      "viewer_count": 571,
-      "follower_count": 108459,
+      "viewer_count": 579,
+      "follower_count": 108464,
       "language": "en",
       "started_at": "2026-07-31T00:03:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ARC Raiders  & Variety Later! ❤️ 316 / 300 OMGGGGGG | !discord !merch",
       "game_name": "ARC Raiders",
-      "viewer_count": 134,
+      "viewer_count": 127,
       "follower_count": 13898,
       "language": "en",
       "started_at": "2026-07-30T23:12:17Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 96,
+      "viewer_count": 108,
       "follower_count": 2400,
       "language": "en",
       "started_at": "2026-07-31T01:49:31Z",
@@ -60,27 +60,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": true,
-      "title": "|DROPS| NEXT REP 100 VIRT? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
-      "game_name": "For Honor",
-      "viewer_count": 73,
-      "follower_count": 8435,
-      "language": "en",
-      "started_at": "2026-07-31T00:15:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Platforming scrub gives it their all. Day 2",
       "game_name": "Celeste",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 256,
       "language": "en",
       "started_at": "2026-07-31T00:55:16Z",
@@ -95,7 +80,7 @@
       "is_live": true,
       "title": "⚔️Call of Duty: Warzone vs. Battlefield REDSEC! Which one is better? ⚔️!discord⚔️Are you ready for 6am?⚔️",
       "game_name": "Just Chatting",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 2080,
       "language": "en",
       "started_at": "2026-07-31T01:33:22Z",
@@ -125,7 +110,7 @@
       "is_live": true,
       "title": "you wanna be kwunt? | !yt !socials !discord | JOIN THE AGENCY🌐",
       "game_name": "Call of Duty: Warzone",
-      "viewer_count": 7,
+      "viewer_count": 3,
       "follower_count": 789,
       "language": "en",
       "started_at": "2026-07-31T01:48:29Z",
@@ -748,6 +733,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/viridisbytes",
       "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
+    },
+    {
+      "user_login": "wexra",
+      "user_name": "Wexra",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 8435,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "wispy_witch",
