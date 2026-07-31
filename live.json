@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T08:42:02.798Z",
+  "generatedAt": "2026-07-31T08:47:02.719Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T08:42:02.781Z",
+    "fetchedAt": "2026-07-31T08:47:02.703Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "TGIF! ♡ solo road to masters",
       "game_name": "Apex Legends",
-      "viewer_count": 19,
+      "viewer_count": 26,
       "follower_count": 4988,
       "language": "en",
       "started_at": "2026-07-31T03:29:18Z",
