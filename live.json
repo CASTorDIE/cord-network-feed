@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T07:27:02.761Z",
+  "generatedAt": "2026-07-31T07:32:02.703Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T07:27:02.744Z",
+    "fetchedAt": "2026-07-31T07:32:02.687Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -19,7 +19,7 @@
       "user_name": "AngelicDomi",
       "is_live": true,
       "title": "TGIF! ♡ customs night + road to masters",
-      "game_name": "MECCHA CHAMELEON",
+      "game_name": "Apex Legends",
       "viewer_count": 15,
       "follower_count": 4987,
       "language": "en",
