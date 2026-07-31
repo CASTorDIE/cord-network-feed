@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T08:12:02.760Z",
+  "generatedAt": "2026-07-31T08:17:02.749Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T08:12:02.744Z",
+    "fetchedAt": "2026-07-31T08:17:02.731Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "TGIF! ♡ solo road to masters",
       "game_name": "Apex Legends",
-      "viewer_count": 17,
-      "follower_count": 4987,
+      "viewer_count": 18,
+      "follower_count": 4986,
       "language": "en",
       "started_at": "2026-07-31T03:29:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
