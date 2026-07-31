@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T04:27:03.035Z",
+  "generatedAt": "2026-07-31T04:32:02.969Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T04:27:03.019Z",
+    "fetchedAt": "2026-07-31T04:32:02.952Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "TGIF! ♡ customs night + road to masters",
       "game_name": "Apex Legends",
-      "viewer_count": 23,
+      "viewer_count": 21,
       "follower_count": 4986,
       "language": "en",
       "started_at": "2026-07-31T03:29:18Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Platforming scrub gives it their all. Day 2",
       "game_name": "Celeste",
-      "viewer_count": 17,
+      "viewer_count": 19,
       "follower_count": 257,
       "language": "en",
       "started_at": "2026-07-31T00:55:16Z",
