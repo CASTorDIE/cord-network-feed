@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-31T01:47:02.871Z",
+  "generatedAt": "2026-07-31T01:52:02.914Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-07-31T01:47:02.854Z",
+    "fetchedAt": "2026-07-31T01:52:02.896Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 8,
-    "offlineCount": 45
+    "liveCount": 9,
+    "offlineCount": 44
   },
   "streamers": [
     {
@@ -21,7 +21,7 @@
       "title": "✅24/7 DROP STREAM✅DAY 930💺!discord💺TAKE A SEAT KIDS💺YOU'RE ABOUT TO WITNESS GREATNESS💺WE ARE GETTING TO GRAND CHAMPION WITHOUT LOSING A",
       "game_name": "Rocket League",
       "viewer_count": 538,
-      "follower_count": 108430,
+      "follower_count": 108432,
       "language": "en",
       "started_at": "2026-07-31T00:03:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,12 +30,27 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Games + Demos",
+      "viewer_count": 150,
+      "follower_count": 2400,
+      "language": "en",
+      "started_at": "2026-07-31T01:49:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "ARC Raiders  & Variety Later! ❤️ 316 / 300 OMGGGGGG | !discord !merch",
       "game_name": "ARC Raiders",
-      "viewer_count": 138,
+      "viewer_count": 148,
       "follower_count": 13896,
       "language": "en",
       "started_at": "2026-07-30T23:12:17Z",
@@ -45,27 +60,12 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Games + Demos",
-      "viewer_count": 85,
-      "follower_count": 2382,
-      "language": "en",
-      "started_at": "2026-07-30T22:42:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": true,
       "title": "|DROPS| NEXT REP 100 VIRT? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 54,
+      "viewer_count": 61,
       "follower_count": 8436,
       "language": "en",
       "started_at": "2026-07-31T00:15:06Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "new hair who dis?",
       "game_name": "Tears of Metal",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 1045,
       "language": "en",
       "started_at": "2026-07-31T00:07:15Z",
@@ -95,7 +95,7 @@
       "is_live": true,
       "title": "Platforming scrub gives it their all. Day 2",
       "game_name": "Celeste",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 256,
       "language": "en",
       "started_at": "2026-07-31T00:55:16Z",
@@ -105,27 +105,12 @@
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
-      "user_login": "kindessurchin",
-      "user_name": "kindessurchin",
-      "is_live": true,
-      "title": "#1 worst ghost hunter around!",
-      "game_name": "Phasmophobia",
-      "viewer_count": 3,
-      "follower_count": 64,
-      "language": "en",
-      "started_at": "2026-07-30T23:23:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kindessurchin-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ab16e06-61fe-43e9-9a23-459251717193-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/kindessurchin",
-      "description": "🎮 Variety gamer with zero self-controlCozy farming one stream, horror-game panic the next.Expect chaos, laughs, and terrible decisions ✨"
-    },
-    {
       "user_login": "floodwater_",
       "user_name": "FloodWater_",
       "is_live": true,
       "title": "⚔️Call of Duty: Warzone vs. Battlefield REDSEC! Which one is better? ⚔️!discord⚔️Are you ready for 6am?⚔️",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "follower_count": 2080,
       "language": "en",
       "started_at": "2026-07-31T01:33:22Z",
@@ -133,6 +118,36 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
+    },
+    {
+      "user_login": "killujah",
+      "user_name": "KILLUJAH",
+      "is_live": true,
+      "title": "you wanna be kwunt? | !yt !socials !discord | JOIN THE AGENCY🌐",
+      "game_name": "Call of Duty: Warzone",
+      "viewer_count": 2,
+      "follower_count": 789,
+      "language": "en",
+      "started_at": "2026-07-31T01:48:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_killujah-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/killujah",
+      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
+    },
+    {
+      "user_login": "kindessurchin",
+      "user_name": "kindessurchin",
+      "is_live": true,
+      "title": "#1 worst ghost hunter around!",
+      "game_name": "Phasmophobia",
+      "viewer_count": 2,
+      "follower_count": 64,
+      "language": "en",
+      "started_at": "2026-07-30T23:23:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kindessurchin-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ab16e06-61fe-43e9-9a23-459251717193-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/kindessurchin",
+      "description": "🎮 Variety gamer with zero self-controlCozy farming one stream, horror-game panic the next.Expect chaos, laughs, and terrible decisions ✨"
     },
     {
       "user_login": "alfieduu",
@@ -426,7 +441,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 612,
+      "follower_count": 613,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -463,21 +478,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/joreeezy",
       "description": "🔔 Next livestream: To be announced on X/Threads 📲"
-    },
-    {
-      "user_login": "killujah",
-      "user_name": "KILLUJAH",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 789,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/killujah",
-      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
     },
     {
       "user_login": "laconsgamingnook",
