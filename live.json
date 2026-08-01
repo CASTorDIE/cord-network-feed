@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T22:22:02.882Z",
+  "generatedAt": "2026-08-01T22:27:02.958Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T22:22:02.865Z",
+    "fetchedAt": "2026-08-01T22:27:02.940Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "MADE IT TO SOUTH DAKOTA, GRABBING SOME FOOD 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 34,
+      "viewer_count": 47,
       "follower_count": 2403,
       "language": "en",
       "started_at": "2026-08-01T22:16:08Z",
