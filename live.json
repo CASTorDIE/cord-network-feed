@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T14:17:02.850Z",
+  "generatedAt": "2026-08-01T14:22:02.798Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T14:17:02.834Z",
+    "fetchedAt": "2026-08-01T14:22:02.781Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "So You Liked Kpop Demon Hunters - August Party Nook [Next Stream Aug 3rd @ 9am CST ]",
       "game_name": "Just Chatting",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "follower_count": 151,
       "language": "en",
       "started_at": "2026-08-01T14:07:02Z",
