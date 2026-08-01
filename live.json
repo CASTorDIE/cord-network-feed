@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T23:37:02.895Z",
+  "generatedAt": "2026-08-01T23:42:02.890Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T23:37:02.878Z",
+    "fetchedAt": "2026-08-01T23:42:02.874Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "MADE IT TO SOUTH DAKOTA, GRABBING SOME FOOD 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 61,
+      "viewer_count": 55,
       "follower_count": 2404,
       "language": "en",
       "started_at": "2026-08-01T23:01:23Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Extra long stream to celebrate 250 Followers! Let's finish B sides",
       "game_name": "Celeste",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 259,
       "language": "en",
       "started_at": "2026-08-01T22:58:55Z",
@@ -45,27 +45,12 @@
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
-      "user_login": "daniii_phantommm",
-      "user_name": "daniii_phantommm",
-      "is_live": true,
-      "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
-      "game_name": "Streamer Games",
-      "viewer_count": 4,
-      "follower_count": 43,
-      "language": "en",
-      "started_at": "2026-08-01T21:06:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daniii_phantommm-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
-      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
-    },
-    {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "Who Actually Deserves to Be Spider-Man?",
       "game_name": "Just Chatting",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "follower_count": 332,
       "language": "en",
       "started_at": "2026-08-01T22:58:51Z",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "daniii_phantommm",
+      "user_name": "daniii_phantommm",
+      "is_live": true,
+      "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
+      "game_name": "Streamer Games",
+      "viewer_count": 2,
+      "follower_count": 44,
+      "language": "en",
+      "started_at": "2026-08-01T21:06:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daniii_phantommm-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
+      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
     },
     {
       "user_login": "alfieduu",
