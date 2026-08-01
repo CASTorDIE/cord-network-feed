@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-01T03:47:02.780Z",
+  "generatedAt": "2026-08-01T03:52:02.817Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T03:47:02.764Z",
+    "fetchedAt": "2026-08-01T03:52:02.801Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 6,
-    "offlineCount": 47
+    "liveCount": 5,
+    "offlineCount": 48
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 931🧇!discord🧇WE WERE IN MUSTY'S VIDEO TODAY🧇ALSO DO YOU SEE THIS WAFFLE🧇IT REMINDS OF HOW I STOMPED A DOO DOWN MY",
       "game_name": "Rocket League",
-      "viewer_count": 333,
-      "follower_count": 108745,
+      "viewer_count": 343,
+      "follower_count": 108747,
       "language": "en",
       "started_at": "2026-08-01T00:03:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| LEGENDARY HALO DUOS w/ @wolf_luciana | !pizza | T1-T3 Subs or 50 bit donos or higher cover my screen based on your message!",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 98,
+      "viewer_count": 94,
       "follower_count": 10052,
       "language": "en",
       "started_at": "2026-08-01T02:01:43Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING TILL I REP UP 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 70,
+      "viewer_count": 65,
       "follower_count": 8444,
       "language": "en",
       "started_at": "2026-08-01T00:00:39Z",
@@ -60,27 +60,12 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPING → HORROR GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Games + Demos",
-      "viewer_count": 46,
-      "follower_count": 2403,
-      "language": "en",
-      "started_at": "2026-07-31T22:31:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Platforming scrub gives it their all. Day 3 The start of B sides?",
       "game_name": "Celeste",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 258,
       "language": "en",
       "started_at": "2026-08-01T00:55:42Z",
@@ -178,6 +163,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": "Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2403,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
