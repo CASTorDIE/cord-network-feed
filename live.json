@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T17:12:02.839Z",
+  "generatedAt": "2026-08-01T17:17:02.827Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T17:12:02.821Z",
+    "fetchedAt": "2026-08-01T17:17:02.811Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "laconsgamingnook",
-      "user_name": "LaconsGamingNook",
-      "is_live": true,
-      "title": "So You Liked Kpop Demon Hunters - August Party Nook [Next Stream Aug 3rd @ 9am CST ]",
-      "game_name": "Just Chatting",
-      "viewer_count": 6,
-      "follower_count": 151,
-      "language": "en",
-      "started_at": "2026-08-01T14:07:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_laconsgamingnook-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/laconsgamingnook",
-      "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
-    },
-    {
       "user_login": "thecatsmeowxo",
       "user_name": "TheCatsMeOwXO",
       "is_live": true,
       "title": "Bread & Fred w/ @simplexis | !lore !yt",
       "game_name": "Bread & Fred",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 1831,
       "language": "en",
       "started_at": "2026-08-01T16:40:14Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e6313f4-12f3-439d-814d-449ca874170a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/thecatsmeowxo",
       "description": "Just a small town girl, livin' in a lonely world... until I stumbled across video games & the friends you make from them. Feel free to join in the chatter or rest easy and lurk away - either way I'm glad you stopped by! :) p.s. I only own 3 cats"
+    },
+    {
+      "user_login": "laconsgamingnook",
+      "user_name": "LaconsGamingNook",
+      "is_live": true,
+      "title": "So You Liked Kpop Demon Hunters - August Party Nook [Next Stream Aug 3rd @ 9am CST ]",
+      "game_name": "Just Chatting",
+      "viewer_count": 5,
+      "follower_count": 151,
+      "language": "en",
+      "started_at": "2026-08-01T14:07:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_laconsgamingnook-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/laconsgamingnook",
+      "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
     },
     {
       "user_login": "4kaizen_gaming",
