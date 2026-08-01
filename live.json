@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T04:32:02.820Z",
+  "generatedAt": "2026-08-01T04:37:02.911Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T04:32:02.804Z",
+    "fetchedAt": "2026-08-01T04:37:02.894Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| LEGENDARY HALO DUOS w/ @wolf_luciana | !pizza | T1-T3 Subs or 50 bit donos or higher cover my screen based on your message!",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 103,
+      "viewer_count": 99,
       "follower_count": 10052,
       "language": "en",
       "started_at": "2026-08-01T02:01:43Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Platforming scrub gives it their all. Day 3 The start of B sides?",
       "game_name": "Celeste",
-      "viewer_count": 4,
+      "viewer_count": 10,
       "follower_count": 258,
       "language": "en",
       "started_at": "2026-08-01T00:55:42Z",
