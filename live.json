@@ -1,34 +1,19 @@
 {
-  "generatedAt": "2026-08-01T20:07:02.873Z",
+  "generatedAt": "2026-08-01T20:12:02.854Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T20:07:02.856Z",
+    "fetchedAt": "2026-08-01T20:12:02.837Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 1,
-    "offlineCount": 52
+    "liveCount": 0,
+    "offlineCount": 53
   },
   "streamers": [
-    {
-      "user_login": "thecatsmeowxo",
-      "user_name": "TheCatsMeOwXO",
-      "is_live": true,
-      "title": "WEEKEND VIBES| !lore !yt",
-      "game_name": "Fortnite",
-      "viewer_count": 10,
-      "follower_count": 1832,
-      "language": "en",
-      "started_at": "2026-08-01T16:40:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thecatsmeowxo-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e6313f4-12f3-439d-814d-449ca874170a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/thecatsmeowxo",
-      "description": "Just a small town girl, livin' in a lonely world... until I stumbled across video games & the friends you make from them. Feel free to join in the chatter or rest easy and lurk away - either way I'm glad you stopped by! :) p.s. I only own 3 cats"
-    },
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
@@ -658,6 +643,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef2d4b7e-ca59-47cb-be7e-4a26b63722d0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/theblueslime_yt",
       "description": "Just a 21 Year old Variety Streamer trying to succeed through Content Creation. Follow = 🍪"
+    },
+    {
+      "user_login": "thecatsmeowxo",
+      "user_name": "TheCatsMeOwXO",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1832,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e6313f4-12f3-439d-814d-449ca874170a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/thecatsmeowxo",
+      "description": "Just a small town girl, livin' in a lonely world... until I stumbled across video games & the friends you make from them. Feel free to join in the chatter or rest easy and lurk away - either way I'm glad you stopped by! :) p.s. I only own 3 cats"
     },
     {
       "user_login": "therealmrt_xpngx",
