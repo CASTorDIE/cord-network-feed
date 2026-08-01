@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T22:17:03.027Z",
+  "generatedAt": "2026-08-01T22:22:02.882Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T22:17:03.011Z",
+    "fetchedAt": "2026-08-01T22:22:02.865Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "daniii_phantommm",
-      "user_name": "daniii_phantommm",
-      "is_live": true,
-      "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
-      "game_name": "Streamer Games",
-      "viewer_count": 4,
-      "follower_count": 43,
-      "language": "en",
-      "started_at": "2026-08-01T21:06:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daniii_phantommm-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
-      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "MADE IT TO SOUTH DAKOTA, GRABBING SOME FOOD 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 0,
+      "viewer_count": 34,
       "follower_count": 2403,
       "language": "en",
       "started_at": "2026-08-01T22:16:08Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "daniii_phantommm",
+      "user_name": "daniii_phantommm",
+      "is_live": true,
+      "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
+      "game_name": "Streamer Games",
+      "viewer_count": 6,
+      "follower_count": 43,
+      "language": "en",
+      "started_at": "2026-08-01T21:06:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daniii_phantommm-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
+      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 108783,
+      "follower_count": 108784,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
