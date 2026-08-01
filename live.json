@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-01T16:37:02.806Z",
+  "generatedAt": "2026-08-01T16:42:02.811Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T16:37:02.788Z",
+    "fetchedAt": "2026-08-01T16:42:02.794Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 2,
-    "offlineCount": 51
+    "liveCount": 3,
+    "offlineCount": 50
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✨DROPS✨ NEW Palia Update! Flutterfoxes, Shimmerflies & So Much More! | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 60,
+      "viewer_count": 63,
       "follower_count": 5136,
       "language": "en",
       "started_at": "2026-08-01T13:05:17Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "So You Liked Kpop Demon Hunters - August Party Nook [Next Stream Aug 3rd @ 9am CST ]",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 7,
       "follower_count": 151,
       "language": "en",
       "started_at": "2026-08-01T14:07:02Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/laconsgamingnook",
       "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
+    },
+    {
+      "user_login": "thecatsmeowxo",
+      "user_name": "TheCatsMeOwXO",
+      "is_live": true,
+      "title": "Bread & Fred w/ Simplexis | !lore !yt",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 1831,
+      "language": "en",
+      "started_at": "2026-08-01T16:40:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thecatsmeowxo-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e6313f4-12f3-439d-814d-449ca874170a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/thecatsmeowxo",
+      "description": "Just a small town girl, livin' in a lonely world... until I stumbled across video games & the friends you make from them. Feel free to join in the chatter or rest easy and lurk away - either way I'm glad you stopped by! :) p.s. I only own 3 cats"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -643,21 +658,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef2d4b7e-ca59-47cb-be7e-4a26b63722d0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/theblueslime_yt",
       "description": "Just a 21 Year old Variety Streamer trying to succeed through Content Creation. Follow = 🍪"
-    },
-    {
-      "user_login": "thecatsmeowxo",
-      "user_name": "TheCatsMeOwXO",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1831,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e6313f4-12f3-439d-814d-449ca874170a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/thecatsmeowxo",
-      "description": "Just a small town girl, livin' in a lonely world... until I stumbled across video games & the friends you make from them. Feel free to join in the chatter or rest easy and lurk away - either way I'm glad you stopped by! :) p.s. I only own 3 cats"
     },
     {
       "user_login": "therealmrt_xpngx",
