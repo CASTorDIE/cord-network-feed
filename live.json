@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T16:27:02.779Z",
+  "generatedAt": "2026-08-01T16:32:02.813Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T16:27:02.762Z",
+    "fetchedAt": "2026-08-01T16:32:02.796Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✨DROPS✨ NEW Palia Update! Flutterfoxes, Shimmerflies & So Much More! | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 61,
+      "viewer_count": 65,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-08-01T13:05:17Z",
