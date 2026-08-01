@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-01T05:02:02.797Z",
+  "generatedAt": "2026-08-01T05:07:02.902Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T05:02:02.780Z",
+    "fetchedAt": "2026-08-01T05:07:02.886Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 2,
-    "offlineCount": 51
+    "liveCount": 1,
+    "offlineCount": 52
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| LEGENDARY HALO DUOS w/ @wolf_luciana | !pizza | T1-T3 Subs or 50 bit donos or higher cover my screen based on your message!",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 108,
+      "viewer_count": 84,
       "follower_count": 10052,
       "language": "en",
       "started_at": "2026-08-01T02:01:43Z",
@@ -32,14 +32,14 @@
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "Platforming scrub gives it their all. Day 3 The start of B sides?",
-      "game_name": "Celeste",
-      "viewer_count": 11,
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
       "follower_count": 258,
-      "language": "en",
-      "started_at": "2026-08-01T00:55:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
