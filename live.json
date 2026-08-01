@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T17:32:02.816Z",
+  "generatedAt": "2026-08-01T17:37:02.929Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T17:32:02.799Z",
+    "fetchedAt": "2026-08-01T17:37:02.913Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Bread & Fred w/ @simplexis | !lore !yt",
       "game_name": "Bread & Fred",
-      "viewer_count": 7,
-      "follower_count": 1831,
+      "viewer_count": 6,
+      "follower_count": 1832,
       "language": "en",
       "started_at": "2026-08-01T16:40:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thecatsmeowxo-960x540.jpg",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 108778,
+      "follower_count": 108779,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
