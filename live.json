@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T22:47:02.838Z",
+  "generatedAt": "2026-08-01T22:52:02.900Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T22:47:02.821Z",
+    "fetchedAt": "2026-08-01T22:52:02.884Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "MADE IT TO SOUTH DAKOTA, GRABBING SOME FOOD 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 60,
+      "viewer_count": 66,
       "follower_count": 2403,
       "language": "en",
       "started_at": "2026-08-01T22:28:10Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
       "game_name": "Streamer Games",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 43,
       "language": "en",
       "started_at": "2026-08-01T21:06:16Z",
