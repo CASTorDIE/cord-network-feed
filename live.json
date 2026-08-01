@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T19:32:02.835Z",
+  "generatedAt": "2026-08-01T19:37:02.823Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T19:32:02.818Z",
+    "fetchedAt": "2026-08-01T19:37:02.805Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -18,9 +18,9 @@
       "user_login": "thecatsmeowxo",
       "user_name": "TheCatsMeOwXO",
       "is_live": true,
-      "title": "Bread & Fred w/ @simplexis | !lore !yt",
-      "game_name": "Bread & Fred",
-      "viewer_count": 7,
+      "title": "WEEKEND VIBES| !lore !yt",
+      "game_name": "Fortnite",
+      "viewer_count": 11,
       "follower_count": 1832,
       "language": "en",
       "started_at": "2026-08-01T16:40:14Z",
