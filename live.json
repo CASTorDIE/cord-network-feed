@@ -1,49 +1,19 @@
 {
-  "generatedAt": "2026-08-01T04:12:02.804Z",
+  "generatedAt": "2026-08-01T04:17:02.837Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T04:12:02.787Z",
+    "fetchedAt": "2026-08-01T04:17:02.820Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 5,
-    "offlineCount": 48
+    "liveCount": 4,
+    "offlineCount": 49
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 931🧇!discord🧇WE WERE IN MUSTY'S VIDEO TODAY🧇ALSO DO YOU SEE THIS WAFFLE🧇IT REMINDS OF HOW I STOMPED A DOO DOWN MY",
-      "game_name": "Rocket League",
-      "viewer_count": 317,
-      "follower_count": 108762,
-      "language": "en",
-      "started_at": "2026-08-01T00:03:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
-    {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": true,
-      "title": "|DROPS| NOT ENDING TILL I REP UP 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
-      "game_name": "For Honor",
-      "viewer_count": 100,
-      "follower_count": 8445,
-      "language": "en",
-      "started_at": "2026-08-01T00:00:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
-    },
     {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
@@ -60,12 +30,27 @@
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
+      "user_login": "wexra",
+      "user_name": "Wexra",
+      "is_live": true,
+      "title": "|DROPS| NOT ENDING TILL I REP UP 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
+      "game_name": "For Honor",
+      "viewer_count": 83,
+      "follower_count": 8445,
+      "language": "en",
+      "started_at": "2026-08-01T00:00:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Platforming scrub gives it their all. Day 3 The start of B sides?",
       "game_name": "Celeste",
-      "viewer_count": 8,
+      "viewer_count": 5,
       "follower_count": 258,
       "language": "en",
       "started_at": "2026-08-01T00:55:42Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "THIS IS A ARIANA GRANDE STAN ACCOUNT! | !yt !socials !discord | JOIN THE AGENCY🌐",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 789,
       "language": "en",
       "started_at": "2026-08-01T01:05:46Z",
@@ -171,7 +156,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2404,
+      "follower_count": 2405,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -223,6 +208,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 108762,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
