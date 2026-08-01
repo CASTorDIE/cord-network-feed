@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-08-01T16:57:02.802Z",
+  "generatedAt": "2026-08-01T17:02:02.873Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T16:57:02.786Z",
+    "fetchedAt": "2026-08-01T17:02:02.856Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 3,
-    "offlineCount": 50
+    "liveCount": 2,
+    "offlineCount": 51
   },
   "streamers": [
-    {
-      "user_login": "beckybplays",
-      "user_name": "BeckyBPlays",
-      "is_live": true,
-      "title": "✨DROPS✨ NEW Palia Update! Flutterfoxes, Shimmerflies & So Much More! | Everyone Welcomed !hype !discord",
-      "game_name": "Palia",
-      "viewer_count": 52,
-      "follower_count": 5136,
-      "language": "en",
-      "started_at": "2026-08-01T13:05:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/beckybplays",
-      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too."
-    },
     {
       "user_login": "laconsgamingnook",
       "user_name": "LaconsGamingNook",
       "is_live": true,
       "title": "So You Liked Kpop Demon Hunters - August Party Nook [Next Stream Aug 3rd @ 9am CST ]",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 7,
       "follower_count": 151,
       "language": "en",
       "started_at": "2026-08-01T14:07:02Z",
@@ -49,8 +34,8 @@
       "user_name": "TheCatsMeOwXO",
       "is_live": true,
       "title": "Bread & Fred w/ Simplexis | !lore !yt",
-      "game_name": "Just Chatting",
-      "viewer_count": 6,
+      "game_name": "Bread & Fred",
+      "viewer_count": 4,
       "follower_count": 1831,
       "language": "en",
       "started_at": "2026-08-01T16:40:14Z",
@@ -165,6 +150,21 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "beckybplays",
+      "user_name": "BeckyBPlays",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 5136,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/beckybplays",
+      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too."
+    },
+    {
       "user_login": "bigpapaxx8",
       "user_name": "bigpapaxx8",
       "is_live": false,
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 108776,
+      "follower_count": 108777,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
