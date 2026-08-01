@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-01T04:27:02.848Z",
+  "generatedAt": "2026-08-01T04:32:02.820Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T04:27:02.832Z",
+    "fetchedAt": "2026-08-01T04:32:02.804Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 4,
-    "offlineCount": 49
+    "liveCount": 2,
+    "offlineCount": 51
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| LEGENDARY HALO DUOS w/ @wolf_luciana | !pizza | T1-T3 Subs or 50 bit donos or higher cover my screen based on your message!",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 99,
+      "viewer_count": 103,
       "follower_count": 10052,
       "language": "en",
       "started_at": "2026-08-01T02:01:43Z",
@@ -30,27 +30,12 @@
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": true,
-      "title": "|DROPS| NOT ENDING TILL I REP UP 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
-      "game_name": "For Honor",
-      "viewer_count": 79,
-      "follower_count": 8445,
-      "language": "en",
-      "started_at": "2026-08-01T00:00:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Platforming scrub gives it their all. Day 3 The start of B sides?",
       "game_name": "Celeste",
-      "viewer_count": 6,
+      "viewer_count": 4,
       "follower_count": 258,
       "language": "en",
       "started_at": "2026-08-01T00:55:42Z",
@@ -58,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
-    },
-    {
-      "user_login": "killujah",
-      "user_name": "KILLUJAH",
-      "is_live": true,
-      "title": "THIS IS A ARIANA GRANDE STAN ACCOUNT! | !yt !socials !discord | JOIN THE AGENCY🌐",
-      "game_name": "Just Chatting",
-      "viewer_count": 3,
-      "follower_count": 789,
-      "language": "en",
-      "started_at": "2026-08-01T01:05:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_killujah-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/killujah",
-      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
     },
     {
       "user_login": "alfieduu",
@@ -465,6 +435,21 @@
       "description": "🔔 Next livestream: To be announced on X/Threads 📲"
     },
     {
+      "user_login": "killujah",
+      "user_name": "KILLUJAH",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 789,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/killujah",
+      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
+    },
+    {
       "user_login": "kindessurchin",
       "user_name": "kindessurchin",
       "is_live": false,
@@ -763,6 +748,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/viridisbytes",
       "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
+    },
+    {
+      "user_login": "wexra",
+      "user_name": "Wexra",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 8445,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "wispy_witch",
