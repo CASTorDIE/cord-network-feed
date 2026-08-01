@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T20:02:02.917Z",
+  "generatedAt": "2026-08-01T20:07:02.873Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T20:02:02.900Z",
+    "fetchedAt": "2026-08-01T20:07:02.856Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "WEEKEND VIBES| !lore !yt",
       "game_name": "Fortnite",
-      "viewer_count": 13,
+      "viewer_count": 10,
       "follower_count": 1832,
       "language": "en",
       "started_at": "2026-08-01T16:40:14Z",
@@ -126,7 +126,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2404,
+      "follower_count": 2403,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
