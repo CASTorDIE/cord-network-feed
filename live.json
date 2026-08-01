@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-01T01:02:02.834Z",
+  "generatedAt": "2026-08-01T01:07:02.979Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T01:02:02.818Z",
+    "fetchedAt": "2026-08-01T01:07:02.961Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 7,
-    "offlineCount": 46
+    "liveCount": 8,
+    "offlineCount": 45
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 931🧇!discord🧇WE WERE IN MUSTY'S VIDEO TODAY🧇ALSO DO YOU SEE THIS WAFFLE🧇IT REMINDS OF HOW I STOMPED A DOO DOWN MY",
       "game_name": "Rocket League",
-      "viewer_count": 334,
+      "viewer_count": 318,
       "follower_count": 108606,
       "language": "en",
       "started_at": "2026-08-01T00:03:59Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING TILL I REP UP 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 52,
+      "viewer_count": 47,
       "follower_count": 8439,
       "language": "en",
       "started_at": "2026-08-01T00:00:39Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "{DROPS ENABLED} BEST FORTNITE PLAYER WHO WEARS UNICORN SHOES PLAYS FORTNITE| CC:OHGOSH | !commands For Fun! |",
       "game_name": "Fortnite",
-      "viewer_count": 13,
+      "viewer_count": 18,
       "follower_count": 630,
       "language": "en",
       "started_at": "2026-07-31T22:10:46Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "IM OPENING A NEW BUSINESS",
       "game_name": "Waterpark Simulator",
-      "viewer_count": 11,
+      "viewer_count": 13,
       "follower_count": 395,
       "language": "en",
       "started_at": "2026-08-01T00:18:26Z",
@@ -95,7 +95,7 @@
       "is_live": true,
       "title": "Platforming scrub gives it their all. Day 3 The start of B sides?",
       "game_name": "Celeste",
-      "viewer_count": 4,
+      "viewer_count": 6,
       "follower_count": 258,
       "language": "en",
       "started_at": "2026-08-01T00:55:42Z",
@@ -110,7 +110,7 @@
       "is_live": true,
       "title": "It's the last day I'm streaming ever (this month)",
       "game_name": "Tears of Metal",
-      "viewer_count": 4,
+      "viewer_count": 6,
       "follower_count": 1046,
       "language": "en",
       "started_at": "2026-08-01T00:47:05Z",
@@ -118,6 +118,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
+    },
+    {
+      "user_login": "killujah",
+      "user_name": "KILLUJAH",
+      "is_live": true,
+      "title": "THIS IS A ARIANA GRANDE STAN ACCOUNT! | !yt !socials !discord | JOIN THE AGENCY🌐",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 789,
+      "language": "en",
+      "started_at": "2026-08-01T01:05:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_killujah-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/killujah",
+      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
     },
     {
       "user_login": "alfieduu",
@@ -463,21 +478,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/joreeezy",
       "description": "🔔 Next livestream: To be announced on X/Threads 📲"
-    },
-    {
-      "user_login": "killujah",
-      "user_name": "KILLUJAH",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 789,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/killujah",
-      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
     },
     {
       "user_login": "kindessurchin",
