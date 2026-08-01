@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-01T14:07:02.842Z",
+  "generatedAt": "2026-08-01T14:12:02.796Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T14:07:02.826Z",
+    "fetchedAt": "2026-08-01T14:12:02.779Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 1,
-    "offlineCount": 52
+    "liveCount": 2,
+    "offlineCount": 51
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✨DROPS✨ NEW Palia Update! Flutterfoxes, Shimmerflies & So Much More! | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 44,
+      "viewer_count": 47,
       "follower_count": 5131,
       "language": "en",
       "started_at": "2026-08-01T13:05:17Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too."
+    },
+    {
+      "user_login": "laconsgamingnook",
+      "user_name": "LaconsGamingNook",
+      "is_live": true,
+      "title": "So You Liked Kpop Demon Hunters - August Party Nook [Next Stream Aug 3rd @ 9am CST ]",
+      "game_name": "Just Chatting",
+      "viewer_count": 1,
+      "follower_count": 151,
+      "language": "en",
+      "started_at": "2026-08-01T14:07:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_laconsgamingnook-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/laconsgamingnook",
+      "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -448,21 +463,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ab16e06-61fe-43e9-9a23-459251717193-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/kindessurchin",
       "description": "🎮 Variety gamer with zero self-controlCozy farming one stream, horror-game panic the next.Expect chaos, laughs, and terrible decisions ✨"
-    },
-    {
-      "user_login": "laconsgamingnook",
-      "user_name": "LaconsGamingNook",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 151,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/laconsgamingnook",
-      "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
     },
     {
       "user_login": "memella",
