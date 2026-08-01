@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T21:47:02.895Z",
+  "generatedAt": "2026-08-01T21:52:02.881Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T21:47:02.879Z",
+    "fetchedAt": "2026-08-01T21:52:02.865Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
       "game_name": "Streamer Games",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 42,
       "language": "en",
       "started_at": "2026-08-01T21:06:16Z",
