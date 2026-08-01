@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T05:52:03.496Z",
+  "generatedAt": "2026-08-01T05:57:02.796Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T05:52:03.480Z",
+    "fetchedAt": "2026-08-01T05:57:02.780Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| LEGENDARY HALO DUOS w/ @wolf_luciana | !pizza | T1-T3 Subs or 50 bit donos or higher cover my screen based on your message!",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 110,
+      "viewer_count": 108,
       "follower_count": 10052,
       "language": "en",
       "started_at": "2026-08-01T02:01:43Z",
