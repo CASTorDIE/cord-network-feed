@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-01T23:47:02.841Z",
+  "generatedAt": "2026-08-01T23:52:02.859Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T23:47:02.824Z",
+    "fetchedAt": "2026-08-01T23:52:02.842Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 4,
-    "offlineCount": 49
+    "liveCount": 5,
+    "offlineCount": 48
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "MADE IT TO SOUTH DAKOTA, GRABBING SOME FOOD 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 57,
+      "viewer_count": 63,
       "follower_count": 2404,
       "language": "en",
       "started_at": "2026-08-01T23:01:23Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Extra long stream to celebrate 250 Followers! Let's finish B sides",
       "game_name": "Celeste",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 259,
       "language": "en",
       "started_at": "2026-08-01T22:58:55Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
       "game_name": "Streamer Games",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 44,
       "language": "en",
       "started_at": "2026-08-01T21:06:16Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/daniii_phantommm",
       "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
+    },
+    {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": true,
+      "title": "ARC Raiders Was the Easy Part... Horror Later",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 13919,
+      "language": "en",
+      "started_at": "2026-08-01T23:50:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "alfieduu",
@@ -553,21 +568,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc761090-7b8f-477b-9d96-670e2774f1ed-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/predicatenate",
       "description": "Some call me Nate The Great."
-    },
-    {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 13919,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "slimchungusgaming",
