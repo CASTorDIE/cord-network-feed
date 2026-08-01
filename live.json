@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-01T00:17:02.909Z",
+  "generatedAt": "2026-08-01T00:22:03.054Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T00:17:02.892Z",
+    "fetchedAt": "2026-08-01T00:22:03.037Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 4,
-    "offlineCount": 49
+    "liveCount": 5,
+    "offlineCount": 48
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 931🧇!discord🧇WE WERE IN MUSTY'S VIDEO TODAY🧇ALSO DO YOU SEE THIS WAFFLE🧇IT REMINDS OF HOW I STOMPED A DOO DOWN MY",
       "game_name": "Rocket League",
-      "viewer_count": 240,
-      "follower_count": 108586,
+      "viewer_count": 264,
+      "follower_count": 108588,
       "language": "en",
       "started_at": "2026-08-01T00:03:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 78,
+      "viewer_count": 76,
       "follower_count": 2405,
       "language": "en",
       "started_at": "2026-07-31T22:31:36Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING TILL I REP UP 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 34,
+      "viewer_count": 33,
       "follower_count": 8438,
       "language": "en",
       "started_at": "2026-08-01T00:00:39Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "{DROPS ENABLED} BEST FORTNITE PLAYER WHO WEARS UNICORN SHOES PLAYS FORTNITE| CC:OHGOSH | !commands For Fun! |",
       "game_name": "Fortnite",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 630,
       "language": "en",
       "started_at": "2026-07-31T22:10:46Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
       "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
+    },
+    {
+      "user_login": "slimchungusgaming",
+      "user_name": "SlimChungusGaming",
+      "is_live": true,
+      "title": "IM OPENING A NEW BUSINESS",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 2,
+      "follower_count": 395,
+      "language": "en",
+      "started_at": "2026-08-01T00:18:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimchungusgaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
+      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -583,21 +598,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/skavstheworld",
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
-    {
-      "user_login": "slimchungusgaming",
-      "user_name": "SlimChungusGaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 395,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
-      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "taixiao",
