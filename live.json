@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T17:22:02.840Z",
+  "generatedAt": "2026-08-01T17:27:02.855Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-01T17:22:02.824Z",
+    "fetchedAt": "2026-08-01T17:27:02.839Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Bread & Fred w/ @simplexis | !lore !yt",
       "game_name": "Bread & Fred",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "follower_count": 1831,
       "language": "en",
       "started_at": "2026-08-01T16:40:14Z",
