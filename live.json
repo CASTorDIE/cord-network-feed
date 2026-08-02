@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T19:37:02.949Z",
+  "generatedAt": "2026-08-02T19:42:03.027Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T19:37:02.932Z",
+    "fetchedAt": "2026-08-02T19:42:03.008Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "1 year Affiliate Anniversary! | Horror Games! | !links",
       "game_name": "Project Looking Glass",
-      "viewer_count": 24,
+      "viewer_count": 25,
       "follower_count": 614,
       "language": "en",
       "started_at": "2026-08-02T17:32:29Z",
@@ -336,7 +336,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 918,
+      "follower_count": 919,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
