@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T19:17:03.009Z",
+  "generatedAt": "2026-08-02T19:22:02.901Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T19:17:02.993Z",
+    "fetchedAt": "2026-08-02T19:22:02.885Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "1 year Affiliate Anniversary! | Horror Games! | !links",
       "game_name": "Tormentum II",
-      "viewer_count": 27,
+      "viewer_count": 26,
       "follower_count": 614,
       "language": "en",
       "started_at": "2026-08-02T17:32:29Z",
