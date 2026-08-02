@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T20:12:02.950Z",
+  "generatedAt": "2026-08-02T20:17:02.941Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T20:12:02.933Z",
+    "fetchedAt": "2026-08-02T20:17:02.923Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "1 year Affiliate Anniversary! | Horror Games! | !links",
       "game_name": "Games + Demos",
-      "viewer_count": 21,
+      "viewer_count": 20,
       "follower_count": 614,
       "language": "en",
       "started_at": "2026-08-02T17:32:29Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Pokemon Infinite Fusion | Streamin' Before My Trip! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Pokémon",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 1722,
       "language": "en",
       "started_at": "2026-08-02T19:55:38Z",
