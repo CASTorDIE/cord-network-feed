@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-02T03:57:02.841Z",
+  "generatedAt": "2026-08-02T04:02:02.835Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T03:57:02.824Z",
+    "fetchedAt": "2026-08-02T04:02:02.817Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 5,
-    "offlineCount": 48
+    "liveCount": 6,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "ARC Raiders Was the Easy Part... Horror Later with @daevisionary",
       "game_name": "ARC Raiders",
-      "viewer_count": 117,
-      "follower_count": 13929,
+      "viewer_count": 111,
+      "follower_count": 13930,
       "language": "en",
       "started_at": "2026-08-01T23:50:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "saturday night apex ranked & minecraft | road to masters | almost to 5K followers ♡",
       "game_name": "Apex Legends",
-      "viewer_count": 30,
-      "follower_count": 4990,
+      "viewer_count": 31,
+      "follower_count": 4991,
       "language": "en",
       "started_at": "2026-08-02T01:52:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "JACKBOX AND CHILL | !commands For Fun! |",
       "game_name": "Jackbox Party Packs",
-      "viewer_count": 30,
+      "viewer_count": 25,
       "follower_count": 634,
       "language": "en",
       "started_at": "2026-08-02T00:31:33Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Extra long stream to celebrate 250 Followers! Let's finish B sides",
       "game_name": "Celeste",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 264,
       "language": "en",
       "started_at": "2026-08-01T22:58:55Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "Random Bs",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 332,
       "language": "en",
       "started_at": "2026-08-01T22:58:51Z",
@@ -88,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "dingo_dynasty",
+      "user_name": "Dingo_Dynasty",
+      "is_live": true,
+      "title": "Chat Is GUILTY!!! | Streamer's Court | Therapy & Chaos",
+      "game_name": "Games + Demos",
+      "viewer_count": 0,
+      "follower_count": 904,
+      "language": "en",
+      "started_at": "2026-08-02T04:01:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
+      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com"
     },
     {
       "user_login": "alfieduu",
@@ -216,7 +231,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 108940,
+      "follower_count": 108941,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -283,21 +298,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
-      "user_login": "dingo_dynasty",
-      "user_name": "Dingo_Dynasty",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 904,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
-      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com"
     },
     {
       "user_login": "faestarlight",
