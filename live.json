@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T15:12:02.912Z",
+  "generatedAt": "2026-08-02T15:17:03.435Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T15:12:02.895Z",
+    "fetchedAt": "2026-08-02T15:17:03.418Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Stream doesnt end until the starpath is done!!!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 87,
+      "viewer_count": 85,
       "follower_count": 2679,
       "language": "en",
       "started_at": "2026-08-02T11:18:59Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "✨DROPS✨ We’re Hunting EVERY New Plushie | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 63,
-      "follower_count": 5140,
+      "viewer_count": 64,
+      "follower_count": 5141,
       "language": "en",
       "started_at": "2026-08-02T13:04:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
