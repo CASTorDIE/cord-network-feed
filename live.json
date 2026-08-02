@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T14:42:03.527Z",
+  "generatedAt": "2026-08-02T14:47:02.935Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T14:42:03.503Z",
+    "fetchedAt": "2026-08-02T14:47:02.917Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Stream doesnt end until the starpath is done!!!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 82,
+      "viewer_count": 80,
       "follower_count": 2674,
       "language": "en",
       "started_at": "2026-08-02T11:18:59Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "✨DROPS✨ We’re Hunting EVERY New Plushie | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 51,
+      "viewer_count": 50,
       "follower_count": 5136,
       "language": "en",
       "started_at": "2026-08-02T13:04:27Z",
