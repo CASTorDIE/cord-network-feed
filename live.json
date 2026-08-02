@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-02T03:02:02.891Z",
+  "generatedAt": "2026-08-02T03:07:02.870Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T03:02:02.874Z",
+    "fetchedAt": "2026-08-02T03:07:02.852Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 8,
-    "offlineCount": 45
+    "liveCount": 7,
+    "offlineCount": 46
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 932🐷!discord🐷!factor🐷OH MAN🐷I CANNOT FEEL ANYTHING BUT PAIN🐷AND BY PAIN I MEAN MY TUMMY HURTING BRO I BE EATING T",
       "game_name": "Rocket League",
-      "viewer_count": 529,
-      "follower_count": 108902,
+      "viewer_count": 485,
+      "follower_count": 108904,
       "language": "en",
       "started_at": "2026-08-02T00:22:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ARC Raiders Was the Easy Part... Horror Later with @daevisionary",
       "game_name": "ARC Raiders",
-      "viewer_count": 146,
+      "viewer_count": 133,
       "follower_count": 13927,
       "language": "en",
       "started_at": "2026-08-01T23:50:37Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "JACKBOX AND CHILL | !commands For Fun! |",
       "game_name": "Jackbox Party Packs",
-      "viewer_count": 21,
+      "viewer_count": 25,
       "follower_count": 633,
       "language": "en",
       "started_at": "2026-08-02T00:31:33Z",
@@ -58,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
       "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
-    },
-    {
-      "user_login": "angelicdomi",
-      "user_name": "AngelicDomi",
-      "is_live": true,
-      "title": "saturday night apex ranked & minecraft | road to masters | almost to 5K followers ♡",
-      "game_name": "Apex Legends",
-      "viewer_count": 17,
-      "follower_count": 4988,
-      "language": "en",
-      "started_at": "2026-08-02T01:52:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/angelicdomi",
-      "description": "probably having a coffee at this very moment"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -90,19 +75,19 @@
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
+      "user_login": "angelicdomi",
+      "user_name": "AngelicDomi",
       "is_live": true,
-      "title": "Random Bs",
-      "game_name": "Just Chatting",
-      "viewer_count": 5,
-      "follower_count": 332,
+      "title": "saturday night apex ranked & minecraft | road to masters | almost to 5K followers ♡",
+      "game_name": "Apex Legends",
+      "viewer_count": 15,
+      "follower_count": 4988,
       "language": "en",
-      "started_at": "2026-08-01T22:58:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+      "started_at": "2026-08-02T01:52:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/angelicdomi",
+      "description": "probably having a coffee at this very moment"
     },
     {
       "user_login": "daniii_phantommm",
@@ -110,7 +95,7 @@
       "is_live": true,
       "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
       "game_name": "Streamer Games",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "follower_count": 44,
       "language": "en",
       "started_at": "2026-08-02T02:31:45Z",
@@ -120,19 +105,19 @@
       "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
     },
     {
-      "user_login": "killujah",
-      "user_name": "KILLUJAH",
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
       "is_live": true,
-      "title": "LETS VIBE AND HAVE FUN!! 🩵| !yt !socials !discord | JOIN THE AGENCY🌐",
-      "game_name": "Marvel Rivals",
-      "viewer_count": 2,
-      "follower_count": 790,
+      "title": "Random Bs",
+      "game_name": "Just Chatting",
+      "viewer_count": 4,
+      "follower_count": 332,
       "language": "en",
-      "started_at": "2026-08-02T00:04:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_killujah-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/killujah",
-      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
+      "started_at": "2026-08-01T22:58:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "alfieduu",
@@ -463,6 +448,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/joreeezy",
       "description": "🔔 Next livestream: To be announced on X/Threads 📲"
+    },
+    {
+      "user_login": "killujah",
+      "user_name": "KILLUJAH",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 790,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/killujah",
+      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
     },
     {
       "user_login": "kindessurchin",
