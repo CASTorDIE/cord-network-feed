@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-02T03:32:02.936Z",
+  "generatedAt": "2026-08-02T03:37:02.889Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T03:32:02.917Z",
+    "fetchedAt": "2026-08-02T03:37:02.870Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 7,
-    "offlineCount": 46
+    "liveCount": 6,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 932🐷!discord🐷!factor🐷OH MAN🐷I CANNOT FEEL ANYTHING BUT PAIN🐷AND BY PAIN I MEAN MY TUMMY HURTING BRO I BE EATING T",
       "game_name": "Rocket League",
-      "viewer_count": 466,
-      "follower_count": 108922,
+      "viewer_count": 450,
+      "follower_count": 108926,
       "language": "en",
       "started_at": "2026-08-02T00:22:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ARC Raiders Was the Easy Part... Horror Later with @daevisionary",
       "game_name": "ARC Raiders",
-      "viewer_count": 132,
+      "viewer_count": 131,
       "follower_count": 13929,
       "language": "en",
       "started_at": "2026-08-01T23:50:37Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "JACKBOX AND CHILL | !commands For Fun! |",
       "game_name": "Jackbox Party Packs",
-      "viewer_count": 30,
+      "viewer_count": 28,
       "follower_count": 634,
       "language": "en",
       "started_at": "2026-08-02T00:31:33Z",
@@ -65,8 +65,8 @@
       "is_live": true,
       "title": "saturday night apex ranked & minecraft | road to masters | almost to 5K followers ♡",
       "game_name": "Apex Legends",
-      "viewer_count": 19,
-      "follower_count": 4988,
+      "viewer_count": 20,
+      "follower_count": 4989,
       "language": "en",
       "started_at": "2026-08-02T01:52:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
@@ -103,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
-    },
-    {
-      "user_login": "daniii_phantommm",
-      "user_name": "daniii_phantommm",
-      "is_live": true,
-      "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
-      "game_name": "Streamer Games",
-      "viewer_count": 1,
-      "follower_count": 44,
-      "language": "en",
-      "started_at": "2026-08-02T02:31:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daniii_phantommm-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
-      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
     },
     {
       "user_login": "alfieduu",
@@ -238,6 +223,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "daniii_phantommm",
+      "user_name": "daniii_phantommm",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 44,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
+      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
     },
     {
       "user_login": "danniedee55",
