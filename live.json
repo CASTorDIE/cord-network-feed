@@ -1,26 +1,41 @@
 {
-  "generatedAt": "2026-08-02T00:27:02.930Z",
+  "generatedAt": "2026-08-02T00:32:02.914Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T00:27:02.911Z",
+    "fetchedAt": "2026-08-02T00:32:02.896Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 8,
-    "offlineCount": 45
+    "liveCount": 9,
+    "offlineCount": 44
   },
   "streamers": [
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 932🐷!discord🐷!factor🐷OH MAN🐷I CANNOT FEEL ANYTHING BUT PAIN🐷AND BY PAIN I MEAN MY TUMMY HURTING BRO I BE EATING T",
+      "game_name": "Rocket League",
+      "viewer_count": 186,
+      "follower_count": 108789,
+      "language": "en",
+      "started_at": "2026-08-02T00:22:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
     {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "ARC Raiders Was the Easy Part... Horror Later with @daevisionary",
       "game_name": "ARC Raiders",
-      "viewer_count": 118,
+      "viewer_count": 125,
       "follower_count": 13920,
       "language": "en",
       "started_at": "2026-08-01T23:50:37Z",
@@ -35,7 +50,7 @@
       "is_live": true,
       "title": "MADE IT TO SOUTH DAKOTA, GRABBING SOME FOOD 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 42,
+      "viewer_count": 45,
       "follower_count": 2403,
       "language": "en",
       "started_at": "2026-08-02T00:18:42Z",
@@ -45,27 +60,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 932🐷!discord🐷!factor🐷OH MAN🐷I CANNOT FEEL ANYTHING BUT PAIN🐷AND BY PAIN I MEAN MY TUMMY HURTING BRO I BE EATING T",
-      "game_name": "Rocket League",
-      "viewer_count": 27,
-      "follower_count": 108787,
-      "language": "en",
-      "started_at": "2026-08-02T00:22:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
-    {
       "user_login": "wispy_witch",
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "Shift At Midnight | Cowroking with @nabbynabbster @l0rd0frand0m @zarsai @definitelynotsoma | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Shift at Midnight",
-      "viewer_count": 13,
+      "viewer_count": 15,
       "follower_count": 1721,
       "language": "en",
       "started_at": "2026-08-01T23:55:38Z",
@@ -80,8 +80,8 @@
       "is_live": true,
       "title": "Extra long stream to celebrate 250 Followers! Let's finish B sides",
       "game_name": "Celeste",
-      "viewer_count": 11,
-      "follower_count": 260,
+      "viewer_count": 14,
+      "follower_count": 262,
       "language": "en",
       "started_at": "2026-08-01T22:58:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
@@ -90,27 +90,12 @@
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
-      "user_login": "daniii_phantommm",
-      "user_name": "daniii_phantommm",
-      "is_live": true,
-      "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
-      "game_name": "Streamer Games",
-      "viewer_count": 6,
-      "follower_count": 44,
-      "language": "en",
-      "started_at": "2026-08-01T21:06:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daniii_phantommm-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
-      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
-    },
-    {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "Who Actually Deserves to Be Spider-Man?",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "viewer_count": 7,
       "follower_count": 332,
       "language": "en",
       "started_at": "2026-08-01T22:58:51Z",
@@ -118,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "daniii_phantommm",
+      "user_name": "daniii_phantommm",
+      "is_live": true,
+      "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
+      "game_name": "Streamer Games",
+      "viewer_count": 5,
+      "follower_count": 44,
+      "language": "en",
+      "started_at": "2026-08-01T21:06:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daniii_phantommm-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
+      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
     },
     {
       "user_login": "killujah",
@@ -133,6 +133,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/killujah",
       "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
+    },
+    {
+      "user_login": "ohgoshimjosh",
+      "user_name": "OhGoshImJosh",
+      "is_live": true,
+      "title": "JACKBOX AND CHILL | !commands For Fun! |",
+      "game_name": "Jackbox Party Packs",
+      "viewer_count": 0,
+      "follower_count": 630,
+      "language": "en",
+      "started_at": "2026-08-02T00:31:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohgoshimjosh-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
+      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
       "user_login": "alfieduu",
@@ -538,21 +553,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": ""
-    },
-    {
-      "user_login": "ohgoshimjosh",
-      "user_name": "OhGoshImJosh",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 630,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
-      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
       "user_login": "padbae",
