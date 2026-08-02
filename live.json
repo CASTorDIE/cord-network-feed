@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T07:52:02.927Z",
+  "generatedAt": "2026-08-02T07:57:02.928Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T07:52:02.910Z",
+    "fetchedAt": "2026-08-02T07:57:02.911Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "ARC Raiders Was the Easy Part... Horror Later with @daevisionary",
       "game_name": "Shift at Midnight",
-      "viewer_count": 116,
-      "follower_count": 13940,
+      "viewer_count": 120,
+      "follower_count": 13941,
       "language": "en",
       "started_at": "2026-08-01T23:50:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "saturday night apex ranked & minecraft | road to masters | almost to 5K followers ♡",
       "game_name": "Apex Legends",
-      "viewer_count": 30,
+      "viewer_count": 34,
       "follower_count": 4994,
       "language": "en",
       "started_at": "2026-08-02T01:52:23Z",
