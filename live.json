@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T20:52:02.974Z",
+  "generatedAt": "2026-08-02T20:57:02.991Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T20:52:02.957Z",
+    "fetchedAt": "2026-08-02T20:57:02.973Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Pokemon Infinite Fusion | Streamin' Before My Trip! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Pokémon",
-      "viewer_count": 17,
+      "viewer_count": 16,
       "follower_count": 1722,
       "language": "en",
       "started_at": "2026-08-02T19:55:38Z",
