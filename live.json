@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T22:42:03.107Z",
+  "generatedAt": "2026-08-02T22:47:03.014Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T22:42:03.090Z",
+    "fetchedAt": "2026-08-02T22:47:02.997Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| STREAM LONGER THAN MY DAGGER 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 68,
+      "viewer_count": 66,
       "follower_count": 8448,
       "language": "en",
       "started_at": "2026-08-02T21:32:12Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "⚔️Call of Duty: Warzone CUSTOMS w/@brazilianshorty !!! ⚔️!discord⚔️Are you ready for 6am?⚔️",
       "game_name": "Call of Duty: Warzone",
-      "viewer_count": 8,
-      "follower_count": 2081,
+      "viewer_count": 9,
+      "follower_count": 2082,
       "language": "en",
       "started_at": "2026-08-02T22:02:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
