@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T12:02:02.927Z",
+  "generatedAt": "2026-08-02T12:07:02.934Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T12:02:02.910Z",
+    "fetchedAt": "2026-08-02T12:07:02.917Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Stream doesnt end until the starpath is done!!!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 103,
+      "viewer_count": 91,
       "follower_count": 2655,
       "language": "en",
       "started_at": "2026-08-02T11:18:59Z",
