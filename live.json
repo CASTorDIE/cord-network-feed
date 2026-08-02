@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-08-02T00:02:02.937Z",
+  "generatedAt": "2026-08-02T00:07:21.736Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T00:02:02.920Z",
+    "fetchedAt": "2026-08-02T00:07:21.719Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 6,
-    "offlineCount": 47
+    "liveCount": 7,
+    "offlineCount": 46
   },
   "streamers": [
-    {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "MADE IT TO SOUTH DAKOTA, GRABBING SOME FOOD 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Just Chatting",
-      "viewer_count": 89,
-      "follower_count": 2404,
-      "language": "en",
-      "started_at": "2026-08-01T23:56:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
     {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "ARC Raiders Was the Easy Part... Horror Later",
       "game_name": "Just Chatting",
-      "viewer_count": 72,
+      "viewer_count": 97,
       "follower_count": 13920,
       "language": "en",
       "started_at": "2026-08-01T23:50:37Z",
@@ -45,19 +30,19 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
       "is_live": true,
-      "title": "Extra long stream to celebrate 250 Followers! Let's finish B sides",
-      "game_name": "Celeste",
-      "viewer_count": 9,
-      "follower_count": 260,
+      "title": "MADE IT TO SOUTH DAKOTA, GRABBING SOME FOOD 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Just Chatting",
+      "viewer_count": 50,
+      "follower_count": 0,
       "language": "en",
-      "started_at": "2026-08-01T22:58:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
+      "started_at": "2026-08-01T23:56:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "wispy_witch",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "Shift At Midnight | Cowroking with @nabbynabbster @l0rd0frand0m @zarsai @definitelynotsoma | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Shift at Midnight",
-      "viewer_count": 5,
+      "viewer_count": 12,
       "follower_count": 1720,
       "language": "en",
       "started_at": "2026-08-01T23:55:38Z",
@@ -75,12 +60,42 @@
       "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": true,
+      "title": "Extra long stream to celebrate 250 Followers! Let's finish B sides",
+      "game_name": "Celeste",
+      "viewer_count": 8,
+      "follower_count": 260,
+      "language": "en",
+      "started_at": "2026-08-01T22:58:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
+    },
+    {
+      "user_login": "daniii_phantommm",
+      "user_name": "daniii_phantommm",
+      "is_live": true,
+      "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
+      "game_name": "Streamer Games",
+      "viewer_count": 5,
+      "follower_count": 44,
+      "language": "en",
+      "started_at": "2026-08-01T21:06:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daniii_phantommm-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
+      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
+    },
+    {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "Who Actually Deserves to Be Spider-Man?",
       "game_name": "Just Chatting",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 332,
       "language": "en",
       "started_at": "2026-08-01T22:58:51Z",
@@ -90,19 +105,19 @@
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
-      "user_login": "daniii_phantommm",
-      "user_name": "daniii_phantommm",
+      "user_login": "killujah",
+      "user_name": "KILLUJAH",
       "is_live": true,
-      "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
-      "game_name": "Streamer Games",
-      "viewer_count": 3,
-      "follower_count": 44,
+      "title": "LETS VIBE AND HAVE FUN!! 🩵| !yt !socials !discord | JOIN THE AGENCY🌐",
+      "game_name": "Marvel Rivals",
+      "viewer_count": 5,
+      "follower_count": 789,
       "language": "en",
-      "started_at": "2026-08-01T21:06:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daniii_phantommm-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
-      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
+      "started_at": "2026-08-02T00:04:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_killujah-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/killujah",
+      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
     },
     {
       "user_login": "alfieduu",
@@ -448,21 +463,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/joreeezy",
       "description": "🔔 Next livestream: To be announced on X/Threads 📲"
-    },
-    {
-      "user_login": "killujah",
-      "user_name": "KILLUJAH",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 789,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/killujah",
-      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
     },
     {
       "user_login": "kindessurchin",
