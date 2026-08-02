@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T11:47:02.920Z",
+  "generatedAt": "2026-08-02T11:52:02.907Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T11:47:02.904Z",
+    "fetchedAt": "2026-08-02T11:52:02.890Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Stream doesnt end until the starpath is done!!!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 89,
-      "follower_count": 2652,
+      "viewer_count": 95,
+      "follower_count": 2653,
       "language": "en",
       "started_at": "2026-08-02T11:18:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
