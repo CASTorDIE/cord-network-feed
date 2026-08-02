@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T07:57:02.928Z",
+  "generatedAt": "2026-08-02T08:02:02.985Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T07:57:02.911Z",
+    "fetchedAt": "2026-08-02T08:02:02.968Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "saturday night apex ranked & minecraft | road to masters | almost to 5K followers ♡",
       "game_name": "Apex Legends",
-      "viewer_count": 34,
+      "viewer_count": 30,
       "follower_count": 4994,
       "language": "en",
       "started_at": "2026-08-02T01:52:23Z",
