@@ -1,34 +1,19 @@
 {
-  "generatedAt": "2026-08-02T08:32:02.897Z",
+  "generatedAt": "2026-08-02T08:37:03.034Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T08:32:02.881Z",
+    "fetchedAt": "2026-08-02T08:37:03.017Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 1,
-    "offlineCount": 52
+    "liveCount": 0,
+    "offlineCount": 53
   },
   "streamers": [
-    {
-      "user_login": "angelicdomi",
-      "user_name": "AngelicDomi",
-      "is_live": true,
-      "title": "saturday night apex ranked & minecraft | road to masters | almost to 5K followers ♡",
-      "game_name": "Apex Legends",
-      "viewer_count": 27,
-      "follower_count": 4995,
-      "language": "en",
-      "started_at": "2026-08-02T01:52:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/angelicdomi",
-      "description": "probably having a coffee at this very moment"
-    },
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/allyreggie",
       "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
+    },
+    {
+      "user_login": "angelicdomi",
+      "user_name": "AngelicDomi",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 4995,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/angelicdomi",
+      "description": "probably having a coffee at this very moment"
     },
     {
       "user_login": "ao_zora_",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 108943,
+      "follower_count": 108944,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
