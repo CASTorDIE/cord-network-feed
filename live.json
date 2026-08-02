@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-02T02:12:02.891Z",
+  "generatedAt": "2026-08-02T02:17:02.984Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-02T02:12:02.874Z",
+    "fetchedAt": "2026-08-02T02:17:02.968Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 10,
-    "offlineCount": 43
+    "liveCount": 8,
+    "offlineCount": 45
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 932🐷!discord🐷!factor🐷OH MAN🐷I CANNOT FEEL ANYTHING BUT PAIN🐷AND BY PAIN I MEAN MY TUMMY HURTING BRO I BE EATING T",
       "game_name": "Rocket League",
-      "viewer_count": 521,
-      "follower_count": 108858,
+      "viewer_count": 522,
+      "follower_count": 108862,
       "language": "en",
       "started_at": "2026-08-02T00:22:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ARC Raiders Was the Easy Part... Horror Later with @daevisionary",
       "game_name": "ARC Raiders",
-      "viewer_count": 121,
+      "viewer_count": 120,
       "follower_count": 13925,
       "language": "en",
       "started_at": "2026-08-01T23:50:37Z",
@@ -45,28 +45,13 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "MADE IT TO SOUTH DAKOTA, GRABBING SOME FOOD 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Just Chatting",
-      "viewer_count": 55,
-      "follower_count": 2403,
-      "language": "en",
-      "started_at": "2026-08-02T01:44:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "ohgoshimjosh",
       "user_name": "OhGoshImJosh",
       "is_live": true,
       "title": "JACKBOX AND CHILL | !commands For Fun! |",
       "game_name": "Jackbox Party Packs",
-      "viewer_count": 26,
-      "follower_count": 632,
+      "viewer_count": 23,
+      "follower_count": 633,
       "language": "en",
       "started_at": "2026-08-02T00:31:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohgoshimjosh-960x540.jpg",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "saturday night apex ranked & minecraft | road to masters | almost to 5K followers ♡",
       "game_name": "Apex Legends",
-      "viewer_count": 18,
+      "viewer_count": 15,
       "follower_count": 4988,
       "language": "en",
       "started_at": "2026-08-02T01:52:23Z",
@@ -88,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/angelicdomi",
       "description": "probably having a coffee at this very moment"
-    },
-    {
-      "user_login": "wispy_witch",
-      "user_name": "wispy_witch",
-      "is_live": true,
-      "title": "Shift At Midnight | Cowroking with @nabbynabbster @l0rd0frand0m @zarsai @definitelynotsoma | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "Shift at Midnight",
-      "viewer_count": 14,
-      "follower_count": 1722,
-      "language": "en",
-      "started_at": "2026-08-01T23:55:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -120,19 +90,19 @@
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
-      "user_login": "daniii_phantommm",
-      "user_name": "daniii_phantommm",
+      "user_login": "wispy_witch",
+      "user_name": "wispy_witch",
       "is_live": true,
-      "title": "🇲🇽🌮 WATCH PARTY 🇲🇽🌮  MEXICAN STREAMER GAMERS 🇲🇽🌮 GO MEXICO TEAM 🇲🇽🌮 JESUS IS KING🇲🇽🌮",
-      "game_name": "Streamer Games",
-      "viewer_count": 5,
-      "follower_count": 44,
+      "title": "Shift At Midnight | Cowroking with @nabbynabbster @l0rd0frand0m @zarsai @definitelynotsoma | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
+      "game_name": "Shift at Midnight",
+      "viewer_count": 11,
+      "follower_count": 1722,
       "language": "en",
-      "started_at": "2026-08-01T21:06:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daniii_phantommm-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
-      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
+      "started_at": "2026-08-01T23:55:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wispy_witch",
+      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
       "user_login": "gatito_maldito",
@@ -140,7 +110,7 @@
       "is_live": true,
       "title": "Who Actually Deserves to Be Spider-Man?",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 332,
       "language": "en",
       "started_at": "2026-08-01T22:58:51Z",
@@ -155,7 +125,7 @@
       "is_live": true,
       "title": "LETS VIBE AND HAVE FUN!! 🩵| !yt !socials !discord | JOIN THE AGENCY🌐",
       "game_name": "Marvel Rivals",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 790,
       "language": "en",
       "started_at": "2026-08-02T00:04:17Z",
@@ -201,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 6201,
+      "follower_count": 6202,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -223,6 +193,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": "Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2403,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
@@ -268,6 +253,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "daniii_phantommm",
+      "user_name": "daniii_phantommm",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 44,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
+      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
     },
     {
       "user_login": "danniedee55",
