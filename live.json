@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T08:22:03.030Z",
+  "generatedAt": "2026-08-03T08:27:03.105Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-03T08:22:03.014Z",
+    "fetchedAt": "2026-08-03T08:27:03.089Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] My Biggest Enemy? The Oxygen Meter | Dave The Diver | !advanced !discord !lurk !time !clip |",
       "game_name": "Dave the Diver",
-      "viewer_count": 18,
+      "viewer_count": 14,
       "follower_count": 1257,
       "language": "en",
       "started_at": "2026-08-03T07:00:40Z",
