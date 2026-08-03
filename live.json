@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T21:17:03.121Z",
+  "generatedAt": "2026-08-03T21:22:03.132Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-03T21:17:03.104Z",
+    "fetchedAt": "2026-08-03T21:22:03.115Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[drops] BACK TO DIAMEEN TODAY🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 84,
+      "viewer_count": 83,
       "follower_count": 10453,
       "language": "en",
       "started_at": "2026-08-03T20:06:00Z",
