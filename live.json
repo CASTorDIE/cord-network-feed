@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-03T02:47:02.974Z",
+  "generatedAt": "2026-08-03T02:52:03.000Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-03T02:47:02.957Z",
+    "fetchedAt": "2026-08-03T02:52:02.983Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 5,
-    "offlineCount": 48
+    "liveCount": 4,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 933🥀!discord🥀!factor🥀GROWN MAN BTW🥀PUSHING 30 BTW🥀FUN IS SUPPOSED TO END IN YOUR 20'S BTW🥀STOP HAVING FUN YOU OL",
       "game_name": "Rocket League",
-      "viewer_count": 507,
-      "follower_count": 109077,
+      "viewer_count": 501,
+      "follower_count": 109080,
       "language": "en",
       "started_at": "2026-08-03T00:09:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I've returned from Offkai! | !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 70,
+      "viewer_count": 73,
       "follower_count": 6204,
       "language": "en",
       "started_at": "2026-08-03T00:30:25Z",
@@ -45,27 +45,12 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Games + Demos",
-      "viewer_count": 67,
-      "follower_count": 2404,
-      "language": "en",
-      "started_at": "2026-08-02T22:54:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "healzealot",
       "user_name": "HealZealot",
       "is_live": true,
       "title": "Silly Sunday is here! There's a new update for Walk Of Life, so we need to try that! || !commands !whatsnew !streamteam !discord",
       "game_name": "Walk of Life",
-      "viewer_count": 20,
+      "viewer_count": 16,
       "follower_count": 360,
       "language": "en",
       "started_at": "2026-08-02T23:36:37Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "⚔️BattleField REDEC w/@redinfamy !!! ⚔️!discord⚔️Are you ready for 6am?⚔️",
       "game_name": "Battlefield REDSEC",
-      "viewer_count": 14,
+      "viewer_count": 12,
       "follower_count": 2085,
       "language": "en",
       "started_at": "2026-08-02T22:02:12Z",
@@ -163,6 +148,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": "Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2404,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
