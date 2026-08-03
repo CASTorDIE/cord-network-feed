@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T07:27:02.992Z",
+  "generatedAt": "2026-08-03T07:32:03.063Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-03T07:27:02.976Z",
+    "fetchedAt": "2026-08-03T07:32:03.047Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] My Biggest Enemy? The Oxygen Meter | Dave The Diver | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 1257,
       "language": "en",
       "started_at": "2026-08-03T07:00:40Z",
@@ -711,7 +711,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8376,
+      "follower_count": 8375,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
