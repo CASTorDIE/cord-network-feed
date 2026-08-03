@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T14:17:03.032Z",
+  "generatedAt": "2026-08-03T14:22:03.200Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-03T14:17:03.016Z",
+    "fetchedAt": "2026-08-03T14:22:03.184Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "How Far can we get in the Star Path? [Next Stream Aug 4th @ 9am CST ]",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 154,
       "language": "en",
       "started_at": "2026-08-03T14:01:41Z",
