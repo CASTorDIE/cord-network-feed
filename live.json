@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T03:22:03.017Z",
+  "generatedAt": "2026-08-03T03:27:03.084Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-03T03:22:03.000Z",
+    "fetchedAt": "2026-08-03T03:27:03.068Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 933🥀!discord🥀!factor🥀GROWN MAN BTW🥀PUSHING 30 BTW🥀FUN IS SUPPOSED TO END IN YOUR 20'S BTW🥀STOP HAVING FUN YOU OL",
       "game_name": "Rocket League",
-      "viewer_count": 536,
-      "follower_count": 109103,
+      "viewer_count": 527,
+      "follower_count": 109106,
       "language": "en",
       "started_at": "2026-08-03T00:09:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I've returned from Offkai! | !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 67,
+      "viewer_count": 71,
       "follower_count": 6203,
       "language": "en",
       "started_at": "2026-08-03T00:30:25Z",
