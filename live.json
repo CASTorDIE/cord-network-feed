@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T04:32:03.037Z",
+  "generatedAt": "2026-08-03T04:37:03.050Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-03T04:32:03.021Z",
+    "fetchedAt": "2026-08-03T04:37:03.032Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I've returned from Offkai! | !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 67,
+      "viewer_count": 65,
       "follower_count": 6203,
       "language": "en",
       "started_at": "2026-08-03T00:30:25Z",
@@ -696,7 +696,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8378,
+      "follower_count": 8377,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
