@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-03T01:27:02.984Z",
+  "generatedAt": "2026-08-03T01:32:03.035Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-03T01:27:02.967Z",
+    "fetchedAt": "2026-08-03T01:32:03.017Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 7,
-    "offlineCount": 46
+    "liveCount": 6,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 933🥀!discord🥀!factor🥀GROWN MAN BTW🥀PUSHING 30 BTW🥀FUN IS SUPPOSED TO END IN YOUR 20'S BTW🥀STOP HAVING FUN YOU OL",
       "game_name": "Rocket League",
-      "viewer_count": 524,
-      "follower_count": 109000,
+      "viewer_count": 548,
+      "follower_count": 109006,
       "language": "en",
       "started_at": "2026-08-03T00:09:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Just Chatting",
-      "viewer_count": 87,
-      "follower_count": 2403,
-      "language": "en",
-      "started_at": "2026-08-02T22:54:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "I've returned from Offkai! | !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 84,
+      "viewer_count": 83,
       "follower_count": 6203,
       "language": "en",
       "started_at": "2026-08-03T00:30:25Z",
@@ -65,8 +50,8 @@
       "is_live": true,
       "title": "|DROPS| STREAM LONGER THAN MY DAGGER 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 80,
-      "follower_count": 8453,
+      "viewer_count": 81,
+      "follower_count": 8455,
       "language": "en",
       "started_at": "2026-08-02T21:32:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -75,19 +60,19 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
-      "user_login": "healzealot",
-      "user_name": "HealZealot",
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
       "is_live": true,
-      "title": "Silly Sunday is here! There's a new update for Walk Of Life, so we need to try that! || !commands !whatsnew !streamteam !discord",
-      "game_name": "Walk of Life",
-      "viewer_count": 17,
-      "follower_count": 357,
+      "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Just Chatting",
+      "viewer_count": 79,
+      "follower_count": 2403,
       "language": "en",
-      "started_at": "2026-08-02T23:36:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_healzealot-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8e3c734-edb2-4003-b2e7-a5d901c34138-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/healzealot",
-      "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
+      "started_at": "2026-08-02T22:54:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "floodwater_",
@@ -95,7 +80,7 @@
       "is_live": true,
       "title": "⚔️Call of Duty: Warzone CUSTOMS w/@brazilianshorty !!! ⚔️!discord⚔️Are you ready for 6am?⚔️",
       "game_name": "Call of Duty: Warzone",
-      "viewer_count": 13,
+      "viewer_count": 17,
       "follower_count": 2084,
       "language": "en",
       "started_at": "2026-08-02T22:02:12Z",
@@ -105,19 +90,19 @@
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
+      "user_login": "healzealot",
+      "user_name": "HealZealot",
       "is_live": true,
-      "title": "I Couldn’t Think of a Non-Offensive Title for What We’re About to Explore",
-      "game_name": "Just Chatting",
-      "viewer_count": 7,
-      "follower_count": 332,
+      "title": "Silly Sunday is here! There's a new update for Walk Of Life, so we need to try that! || !commands !whatsnew !streamteam !discord",
+      "game_name": "Walk of Life",
+      "viewer_count": 16,
+      "follower_count": 357,
       "language": "en",
-      "started_at": "2026-08-02T21:23:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+      "started_at": "2026-08-02T23:36:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_healzealot-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8e3c734-edb2-4003-b2e7-a5d901c34138-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/healzealot",
+      "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -343,6 +328,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 332,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "gibsontales",
