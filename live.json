@@ -1,34 +1,19 @@
 {
-  "generatedAt": "2026-08-03T09:07:03.060Z",
+  "generatedAt": "2026-08-03T09:12:03.093Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-03T09:07:03.043Z",
+    "fetchedAt": "2026-08-03T09:12:03.076Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 1,
-    "offlineCount": 52
+    "liveCount": 0,
+    "offlineCount": 53
   },
   "streamers": [
-    {
-      "user_login": "viridisbytes",
-      "user_name": "ViridisBytes",
-      "is_live": true,
-      "title": "[18+] My Biggest Enemy? The Oxygen Meter | Dave The Diver | !advanced !discord !lurk !time !clip |",
-      "game_name": "Dave the Diver",
-      "viewer_count": 15,
-      "follower_count": 1257,
-      "language": "en",
-      "started_at": "2026-08-03T07:00:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/viridisbytes",
-      "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
-    },
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
@@ -733,6 +718,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/300584e8-db38-4b02-8678-93f5777ab1ba-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/vaporwavejoe",
       "description": "yoyo my name is Joe and on this channel we chill, play games and listen to a genre i love which is Vaporwave."
+    },
+    {
+      "user_login": "viridisbytes",
+      "user_name": "ViridisBytes",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1257,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/viridisbytes",
+      "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
     },
     {
       "user_login": "wexra",
