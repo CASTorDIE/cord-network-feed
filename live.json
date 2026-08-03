@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T21:42:03.136Z",
+  "generatedAt": "2026-08-03T21:47:03.205Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-03T21:42:03.119Z",
+    "fetchedAt": "2026-08-03T21:47:03.189Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[drops] BACK TO DIAMEEN TODAY🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 85,
+      "viewer_count": 86,
       "follower_count": 10449,
       "language": "en",
       "started_at": "2026-08-03T20:06:00Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| Dooming Viewers to my Venge 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 43,
+      "viewer_count": 42,
       "follower_count": 8458,
       "language": "en",
       "started_at": "2026-08-03T21:28:41Z",
