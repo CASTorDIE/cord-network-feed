@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-03T23:32:03.241Z",
+  "generatedAt": "2026-08-03T23:37:03.141Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-03T23:32:03.224Z",
+    "fetchedAt": "2026-08-03T23:37:03.124Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 4,
-    "offlineCount": 49
+    "liveCount": 5,
+    "offlineCount": 48
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[drops] BACK TO DIAMEEN TODAY🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 94,
+      "viewer_count": 93,
       "follower_count": 10453,
       "language": "en",
       "started_at": "2026-08-03T20:06:00Z",
@@ -30,27 +30,12 @@
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Just Chatting",
-      "viewer_count": 77,
-      "follower_count": 2404,
-      "language": "en",
-      "started_at": "2026-08-03T22:45:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": true,
       "title": "|DROPS| Dooming Viewers to my Venge 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 75,
+      "viewer_count": 87,
       "follower_count": 8464,
       "language": "en",
       "started_at": "2026-08-03T21:28:41Z",
@@ -60,12 +45,42 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Just Chatting",
+      "viewer_count": 70,
+      "follower_count": 2404,
+      "language": "en",
+      "started_at": "2026-08-03T22:45:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "ohgoshimjosh",
+      "user_name": "OhGoshImJosh",
+      "is_live": true,
+      "title": "TIME TO GO UNDER THE SEA| Kindom Hearts 1.5 | !commands For Fun! |",
+      "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+      "viewer_count": 19,
+      "follower_count": 638,
+      "language": "en",
+      "started_at": "2026-08-03T23:32:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohgoshimjosh-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
+      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
+    },
+    {
       "user_login": "thecatsmeowxo",
       "user_name": "TheCatsMeOwXO",
       "is_live": true,
       "title": "ANY PS5 HALO PLAYERS? | !lore !yt",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 1833,
       "language": "en",
       "started_at": "2026-08-03T22:17:51Z",
@@ -538,21 +553,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": ""
-    },
-    {
-      "user_login": "ohgoshimjosh",
-      "user_name": "OhGoshImJosh",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 638,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
-      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
       "user_login": "padbae",
