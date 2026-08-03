@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T20:47:03.370Z",
+  "generatedAt": "2026-08-03T20:52:03.647Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-03T20:47:03.354Z",
+    "fetchedAt": "2026-08-03T20:52:03.631Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[drops] BACK TO DIAMEEN TODAY🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 85,
-      "follower_count": 10449,
+      "viewer_count": 84,
+      "follower_count": 10451,
       "language": "en",
       "started_at": "2026-08-03T20:06:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 109129,
+      "follower_count": 109128,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
