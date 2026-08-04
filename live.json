@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T04:02:03.061Z",
+  "generatedAt": "2026-08-04T04:07:03.029Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T04:02:03.045Z",
+    "fetchedAt": "2026-08-04T04:07:03.013Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 934👨‍🚀!discord👨‍🚀!factor👨‍🚀I WENT TO THE MOON THIS MORNING👨‍🚀I WAS LOOKING FOR MARTIANS👨‍🚀CHAT AM I AN IDIOT",
       "game_name": "Rocket League",
-      "viewer_count": 475,
+      "viewer_count": 452,
       "follower_count": 109335,
       "language": "en",
       "started_at": "2026-08-04T00:05:44Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| VRChat Yoga and Games",
       "game_name": "VRChat",
-      "viewer_count": 114,
+      "viewer_count": 117,
       "follower_count": 10055,
       "language": "en",
       "started_at": "2026-08-04T02:10:39Z",
