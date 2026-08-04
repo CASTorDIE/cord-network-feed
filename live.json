@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T17:52:03.131Z",
+  "generatedAt": "2026-08-04T17:57:03.112Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T17:52:03.115Z",
+    "fetchedAt": "2026-08-04T17:57:03.095Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐Commission Thyme⭐ !fish ⭐!discord⭐",
       "game_name": "Art",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 505,
       "language": "en",
       "started_at": "2026-08-04T17:31:53Z",
