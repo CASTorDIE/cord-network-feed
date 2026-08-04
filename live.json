@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T19:27:03.121Z",
+  "generatedAt": "2026-08-04T19:32:03.241Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T19:27:03.105Z",
+    "fetchedAt": "2026-08-04T19:32:03.224Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I’m Starting in ARC Raiders. I’m Ending in a Nightmare! 💀 PARTNER PLUS GOAL: 18/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 118,
+      "viewer_count": 121,
       "follower_count": 13951,
       "language": "en",
       "started_at": "2026-08-04T18:19:51Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10453,
+      "follower_count": 10454,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
