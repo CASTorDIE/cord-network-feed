@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T19:02:03.152Z",
+  "generatedAt": "2026-08-04T19:07:03.118Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T19:02:03.136Z",
+    "fetchedAt": "2026-08-04T19:07:03.102Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -19,8 +19,8 @@
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "I’m Starting in ARC Raiders. I’m Ending in a Nightmare! 💀 PARTNER PLUS GOAL: 18/300",
-      "game_name": "Just Chatting",
-      "viewer_count": 108,
+      "game_name": "ARC Raiders",
+      "viewer_count": 92,
       "follower_count": 13951,
       "language": "en",
       "started_at": "2026-08-04T18:19:51Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 109335,
+      "follower_count": 109334,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
