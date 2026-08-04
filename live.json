@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T21:42:03.131Z",
+  "generatedAt": "2026-08-04T21:47:03.165Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T21:42:03.115Z",
+    "fetchedAt": "2026-08-04T21:47:03.148Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "I’m Starting in ARC Raiders. I’m Ending in a Nightmare! 💀 PARTNER PLUS GOAL: 18/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 150,
-      "follower_count": 13968,
+      "viewer_count": 145,
+      "follower_count": 13969,
       "language": "en",
       "started_at": "2026-08-04T18:19:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
