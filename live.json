@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-04T01:22:03.124Z",
+  "generatedAt": "2026-08-04T01:27:03.085Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T01:22:03.107Z",
+    "fetchedAt": "2026-08-04T01:27:03.068Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 4,
-    "offlineCount": 49
+    "liveCount": 3,
+    "offlineCount": 50
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 934👨‍🚀!discord👨‍🚀!factor👨‍🚀I WENT TO THE MOON THIS MORNING👨‍🚀I WAS LOOKING FOR MARTIANS👨‍🚀CHAT AM I AN IDIOT",
       "game_name": "Rocket League",
-      "viewer_count": 463,
-      "follower_count": 109160,
+      "viewer_count": 487,
+      "follower_count": 109162,
       "language": "en",
       "started_at": "2026-08-04T00:05:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "[drops] BACK TO DIAMEEN TODAY🎀",
-      "game_name": "Marvel Rivals",
-      "viewer_count": 96,
-      "follower_count": 10456,
-      "language": "en",
-      "started_at": "2026-08-03T20:06:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 86,
+      "viewer_count": 82,
       "follower_count": 2404,
       "language": "en",
       "started_at": "2026-08-03T22:45:06Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "|DROPS| Dooming Viewers to my Venge 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 65,
+      "viewer_count": 71,
       "follower_count": 8467,
       "language": "en",
       "started_at": "2026-08-03T21:28:41Z",
@@ -193,6 +178,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/bigpapaxx8",
       "description": ""
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 10456,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
       "user_login": "daniii_phantommm",
@@ -396,7 +396,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 617,
+      "follower_count": 618,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -771,7 +771,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10052,
+      "follower_count": 10051,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
