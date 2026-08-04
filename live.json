@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T16:42:03.106Z",
+  "generatedAt": "2026-08-04T16:47:03.115Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T16:42:03.089Z",
+    "fetchedAt": "2026-08-04T16:47:03.098Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -14,6 +14,21 @@
     "offlineCount": 50
   },
   "streamers": [
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "IN THE BADLAND//SHORT STREAM 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Just Chatting",
+      "viewer_count": 34,
+      "follower_count": 2404,
+      "language": "en",
+      "started_at": "2026-08-04T16:41:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
     {
       "user_login": "faestarlight",
       "user_name": "FaeStarlight",
@@ -35,7 +50,7 @@
       "is_live": true,
       "title": "Back on that grind! Working our way to 100% one of my favorite games!!  || !commands !whatsnew !streamteam !discord",
       "game_name": "Hades II",
-      "viewer_count": 9,
+      "viewer_count": 11,
       "follower_count": 363,
       "language": "en",
       "started_at": "2026-08-04T15:51:22Z",
@@ -43,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8e3c734-edb2-4003-b2e7-a5d901c34138-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/healzealot",
       "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
-    },
-    {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "IN THE BADLAND//SHORT STREAM 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Just Chatting",
-      "viewer_count": 0,
-      "follower_count": 2404,
-      "language": "en",
-      "started_at": "2026-08-04T16:41:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "4kaizen_gaming",
