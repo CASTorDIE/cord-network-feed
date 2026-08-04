@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T21:32:03.189Z",
+  "generatedAt": "2026-08-04T21:37:03.537Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T21:32:03.173Z",
+    "fetchedAt": "2026-08-04T21:37:03.520Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I’m Starting in ARC Raiders. I’m Ending in a Nightmare! 💀 PARTNER PLUS GOAL: 18/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 134,
+      "viewer_count": 135,
       "follower_count": 13968,
       "language": "en",
       "started_at": "2026-08-04T18:19:51Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING UNTIL REP 100 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 68,
-      "follower_count": 8470,
+      "viewer_count": 77,
+      "follower_count": 8471,
       "language": "en",
       "started_at": "2026-08-04T21:01:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
