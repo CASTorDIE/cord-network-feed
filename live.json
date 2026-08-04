@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T23:52:03.358Z",
+  "generatedAt": "2026-08-04T23:57:03.313Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T23:52:03.340Z",
+    "fetchedAt": "2026-08-04T23:57:03.297Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I’m Starting in ARC Raiders. I’m Ending in a Nightmare! 💀 PARTNER PLUS GOAL: 18/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 158,
+      "viewer_count": 163,
       "follower_count": 14020,
       "language": "en",
       "started_at": "2026-08-04T18:19:51Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING UNTIL REP 100 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 95,
+      "viewer_count": 106,
       "follower_count": 8476,
       "language": "en",
       "started_at": "2026-08-04T21:01:20Z",
