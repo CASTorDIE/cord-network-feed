@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T01:42:03.108Z",
+  "generatedAt": "2026-08-04T01:47:03.121Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T01:42:03.091Z",
+    "fetchedAt": "2026-08-04T01:47:03.104Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 934👨‍🚀!discord👨‍🚀!factor👨‍🚀I WENT TO THE MOON THIS MORNING👨‍🚀I WAS LOOKING FOR MARTIANS👨‍🚀CHAT AM I AN IDIOT",
       "game_name": "Rocket League",
-      "viewer_count": 588,
-      "follower_count": 109178,
+      "viewer_count": 595,
+      "follower_count": 109181,
       "language": "en",
       "started_at": "2026-08-04T00:05:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 93,
+      "viewer_count": 87,
       "follower_count": 2404,
       "language": "en",
       "started_at": "2026-08-03T22:45:06Z",
