@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T05:12:03.064Z",
+  "generatedAt": "2026-08-04T05:17:03.221Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T05:12:03.048Z",
+    "fetchedAt": "2026-08-04T05:17:03.204Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| VRChat Yoga and Games",
       "game_name": "VRChat",
-      "viewer_count": 128,
+      "viewer_count": 141,
       "follower_count": 10055,
       "language": "en",
       "started_at": "2026-08-04T02:10:39Z",
