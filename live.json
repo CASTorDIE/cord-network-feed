@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T06:17:03.126Z",
+  "generatedAt": "2026-08-04T06:22:03.077Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T06:17:03.110Z",
+    "fetchedAt": "2026-08-04T06:22:03.060Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| VRChat Yoga and Games",
       "game_name": "VRChat",
-      "viewer_count": 145,
-      "follower_count": 10054,
+      "viewer_count": 125,
+      "follower_count": 10056,
       "language": "en",
       "started_at": "2026-08-04T02:10:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
