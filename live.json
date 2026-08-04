@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T16:27:03.119Z",
+  "generatedAt": "2026-08-04T16:32:03.405Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T16:27:03.102Z",
+    "fetchedAt": "2026-08-04T16:32:03.389Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐Let's Make a Giveaway Splash ⭐ !giveaway⭐ !fish ⭐!discord⭐",
       "game_name": "Waterpark Simulator",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 504,
       "language": "en",
       "started_at": "2026-08-04T15:00:08Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Back on that grind! Working our way to 100% one of my favorite games!!  || !commands !whatsnew !streamteam !discord",
       "game_name": "Hades II",
-      "viewer_count": 9,
+      "viewer_count": 5,
       "follower_count": 363,
       "language": "en",
       "started_at": "2026-08-04T15:51:22Z",
