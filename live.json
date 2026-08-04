@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T21:52:03.188Z",
+  "generatedAt": "2026-08-04T21:57:03.243Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-04T21:52:03.172Z",
+    "fetchedAt": "2026-08-04T21:57:03.226Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "I’m Starting in ARC Raiders. I’m Ending in a Nightmare! 💀 PARTNER PLUS GOAL: 18/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 141,
-      "follower_count": 13969,
+      "viewer_count": 148,
+      "follower_count": 13970,
       "language": "en",
       "started_at": "2026-08-04T18:19:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING UNTIL REP 100 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 74,
+      "viewer_count": 82,
       "follower_count": 8472,
       "language": "en",
       "started_at": "2026-08-04T21:01:20Z",
