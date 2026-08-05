@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T21:12:02.499Z",
+  "generatedAt": "2026-08-05T21:17:02.600Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T21:12:02.481Z",
+    "fetchedAt": "2026-08-05T21:17:02.582Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GAMES W/ @winniedapoohhh🎀",
       "game_name": "Split Fiction",
-      "viewer_count": 93,
+      "viewer_count": 86,
       "follower_count": 10466,
       "language": "en",
       "started_at": "2026-08-05T15:52:23Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "✮⋆˙Partner Pushing!!!✮⋆˙|Weekly Reset and dreamsnaps!! |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 41,
+      "viewer_count": 48,
       "follower_count": 2687,
       "language": "en",
       "started_at": "2026-08-05T21:02:22Z",
