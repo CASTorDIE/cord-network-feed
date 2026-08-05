@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-05T20:52:02.235Z",
+  "generatedAt": "2026-08-05T20:57:02.281Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T20:52:02.218Z",
+    "fetchedAt": "2026-08-05T20:57:02.264Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 1,
-    "offlineCount": 52
+    "liveCount": 2,
+    "offlineCount": 51
   },
   "streamers": [
     {
@@ -20,14 +20,29 @@
       "is_live": true,
       "title": "GAMES W/ @winniedapoohhh🎀",
       "game_name": "Split Fiction",
-      "viewer_count": 94,
-      "follower_count": 10467,
+      "viewer_count": 83,
+      "follower_count": 10466,
       "language": "en",
       "started_at": "2026-08-05T15:52:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "killujah",
+      "user_name": "KILLUJAH",
+      "is_live": true,
+      "title": "PLANS, COSPLAYS, & ANNI!!!!🗓️| !yt !socials !discord | JOIN THE AGENCY🌐",
+      "game_name": "Marvel Rivals",
+      "viewer_count": 0,
+      "follower_count": 790,
+      "language": "en",
+      "started_at": "2026-08-05T20:55:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_killujah-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/killujah",
+      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -418,21 +433,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/joreeezy",
       "description": "🔔 Next livestream: To be announced on X/Threads 📲"
-    },
-    {
-      "user_login": "killujah",
-      "user_name": "KILLUJAH",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 790,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/778dcffc-ec99-44db-9549-8bb330d6b8f7-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/killujah",
-      "description": "LIVE, LAUGH, LOVE🤣 | Business Email: Killujah@gmail.com 🫆"
     },
     {
       "user_login": "kindessurchin",
