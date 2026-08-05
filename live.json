@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T07:57:03.193Z",
+  "generatedAt": "2026-08-05T08:02:03.178Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T07:57:03.176Z",
+    "fetchedAt": "2026-08-05T08:02:03.161Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING UNTIL REP 100 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 108,
+      "viewer_count": 92,
       "follower_count": 8491,
       "language": "en",
       "started_at": "2026-08-04T21:01:20Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10454,
+      "follower_count": 10455,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
