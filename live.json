@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-05T04:02:03.125Z",
+  "generatedAt": "2026-08-05T04:07:03.159Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T04:02:03.108Z",
+    "fetchedAt": "2026-08-05T04:07:03.142Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 5,
-    "offlineCount": 48
+    "liveCount": 4,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING UNTIL REP 100 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 94,
+      "viewer_count": 89,
       "follower_count": 8480,
       "language": "en",
       "started_at": "2026-08-04T21:01:20Z",
@@ -30,27 +30,12 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "New season of SF6! New emotes added",
-      "game_name": "Street Fighter 6",
-      "viewer_count": 16,
-      "follower_count": 267,
-      "language": "en",
-      "started_at": "2026-08-05T00:56:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
-    },
-    {
       "user_login": "angelicdomi",
       "user_name": "AngelicDomi",
       "is_live": true,
       "title": "masters fo'real this time - new season | almost to 5K followers ♡",
       "game_name": "Apex Legends",
-      "viewer_count": 10,
+      "viewer_count": 21,
       "follower_count": 4995,
       "language": "en",
       "started_at": "2026-08-05T03:35:57Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "⚔️Valorant Creator Program??? YES!!!! ⚔️!discord⚔️Are you ready for 6am?⚔️",
       "game_name": "Just Chatting",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 2085,
       "language": "en",
       "started_at": "2026-08-05T01:00:22Z",
@@ -88,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/daniii_phantommm",
       "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
+    },
+    {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 267,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
       "user_login": "alfieduu",
