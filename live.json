@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T21:17:02.600Z",
+  "generatedAt": "2026-08-05T21:22:21.423Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T21:17:02.582Z",
+    "fetchedAt": "2026-08-05T21:22:21.401Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "GAMES W/ @winniedapoohhh🎀",
       "game_name": "Split Fiction",
-      "viewer_count": 86,
-      "follower_count": 10466,
+      "viewer_count": 76,
+      "follower_count": 10465,
       "language": "en",
       "started_at": "2026-08-05T15:52:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -741,7 +741,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 1722,
+      "follower_count": 0,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
