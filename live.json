@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T19:22:03.268Z",
+  "generatedAt": "2026-08-05T19:27:03.196Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T19:22:03.252Z",
+    "fetchedAt": "2026-08-05T19:27:03.174Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[drops] D2 TODAY?? PERCHANCE? PERMAYBE?🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 66,
+      "viewer_count": 68,
       "follower_count": 10460,
       "language": "en",
       "started_at": "2026-08-05T15:52:23Z",
