@@ -1,26 +1,41 @@
 {
-  "generatedAt": "2026-08-05T00:42:03.160Z",
+  "generatedAt": "2026-08-05T00:47:03.203Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T00:42:03.143Z",
+    "fetchedAt": "2026-08-05T00:47:03.186Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 5,
-    "offlineCount": 48
+    "liveCount": 6,
+    "offlineCount": 47
   },
   "streamers": [
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 935🥊!discord🥊!factor🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUN",
+      "game_name": "Rocket League",
+      "viewer_count": 189,
+      "follower_count": 109343,
+      "language": "en",
+      "started_at": "2026-08-05T00:40:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
     {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "I’m Starting in ARC Raiders. I’m Ending in a Nightmare! 💀 PARTNER PLUS GOAL: 18/300",
       "game_name": "Shift at Midnight",
-      "viewer_count": 128,
+      "viewer_count": 131,
       "follower_count": 14026,
       "language": "en",
       "started_at": "2026-08-04T18:19:51Z",
@@ -35,7 +50,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING UNTIL REP 100 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 107,
+      "viewer_count": 110,
       "follower_count": 8477,
       "language": "en",
       "started_at": "2026-08-04T21:01:20Z",
@@ -50,7 +65,7 @@
       "is_live": true,
       "title": "RUNNING THIS WATERPARK IS A MISTAKE",
       "game_name": "Waterpark Simulator",
-      "viewer_count": 9,
+      "viewer_count": 6,
       "follower_count": 395,
       "language": "en",
       "started_at": "2026-08-04T23:59:56Z",
@@ -64,8 +79,8 @@
       "user_name": "Desertrose",
       "is_live": true,
       "title": "RAW MEN",
-      "game_name": "Tiny Ramen Shop",
-      "viewer_count": 4,
+      "game_name": "Flats Full of Cats",
+      "viewer_count": 5,
       "follower_count": 1047,
       "language": "en",
       "started_at": "2026-08-04T23:25:51Z",
@@ -75,19 +90,19 @@
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
+      "user_login": "daniii_phantommm",
+      "user_name": "daniii_phantommm",
       "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 935🥊!discord🥊!factor🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUN",
-      "game_name": "Rocket League",
-      "viewer_count": 0,
-      "follower_count": 109342,
+      "title": "🌮⛏️ MINECRAFT 🌮⛏️ TACOS 🌮⛏️ SWEET TREAT 🌮⛏️ JESUS IS KING🌮⛏️",
+      "game_name": "Minecraft",
+      "viewer_count": 2,
+      "follower_count": 44,
       "language": "en",
-      "started_at": "2026-08-05T00:40:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+      "started_at": "2026-08-05T00:43:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daniii_phantommm-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
+      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -238,21 +253,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
-      "user_login": "daniii_phantommm",
-      "user_name": "daniii_phantommm",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 44,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
-      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
     },
     {
       "user_login": "danniedee55",
