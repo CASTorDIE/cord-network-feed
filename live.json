@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T18:07:03.319Z",
+  "generatedAt": "2026-08-05T18:12:03.378Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T18:07:03.303Z",
+    "fetchedAt": "2026-08-05T18:12:03.360Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[drops] D2 TODAY?? PERCHANCE? PERMAYBE?🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 75,
+      "viewer_count": 73,
       "follower_count": 10459,
       "language": "en",
       "started_at": "2026-08-05T15:52:23Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "⭐We're  Outlasting Time Here⭐ !fish ⭐!discord⭐",
       "game_name": "Outlast",
-      "viewer_count": 21,
+      "viewer_count": 19,
       "follower_count": 506,
       "language": "en",
       "started_at": "2026-08-05T14:58:26Z",
