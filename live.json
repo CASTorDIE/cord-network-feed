@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T04:57:03.165Z",
+  "generatedAt": "2026-08-05T05:02:03.197Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T04:57:03.149Z",
+    "fetchedAt": "2026-08-05T05:02:03.180Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "masters fo'real this time - new season | almost to 5K followers ♡",
       "game_name": "Apex Legends",
-      "viewer_count": 17,
+      "viewer_count": 11,
       "follower_count": 4998,
       "language": "en",
       "started_at": "2026-08-05T03:35:57Z",
