@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T03:37:03.167Z",
+  "generatedAt": "2026-08-05T03:42:03.195Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T03:37:03.151Z",
+    "fetchedAt": "2026-08-05T03:42:03.177Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 935🥊!discord🥊!factor🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUN",
       "game_name": "Rocket League",
-      "viewer_count": 853,
-      "follower_count": 109516,
+      "viewer_count": 837,
+      "follower_count": 109520,
       "language": "en",
       "started_at": "2026-08-05T00:40:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING UNTIL REP 100 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 101,
-      "follower_count": 8479,
+      "viewer_count": 109,
+      "follower_count": 8480,
       "language": "en",
       "started_at": "2026-08-04T21:01:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "New season of SF6! New emotes added",
       "game_name": "Street Fighter 6",
-      "viewer_count": 15,
+      "viewer_count": 14,
       "follower_count": 267,
       "language": "en",
       "started_at": "2026-08-05T00:56:13Z",
@@ -75,6 +75,21 @@
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
+      "user_login": "angelicdomi",
+      "user_name": "AngelicDomi",
+      "is_live": true,
+      "title": "masters fo'real this time - new season | almost to 5K followers ♡",
+      "game_name": "Apex Legends",
+      "viewer_count": 4,
+      "follower_count": 4995,
+      "language": "en",
+      "started_at": "2026-08-05T03:35:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/angelicdomi",
+      "description": "probably having a coffee at this very moment"
+    },
+    {
       "user_login": "daniii_phantommm",
       "user_name": "daniii_phantommm",
       "is_live": true,
@@ -88,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/daniii_phantommm",
       "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
-    },
-    {
-      "user_login": "angelicdomi",
-      "user_name": "AngelicDomi",
-      "is_live": true,
-      "title": "masters fo'real this time - new season | almost to 5K followers ♡",
-      "game_name": "Apex Legends",
-      "viewer_count": 0,
-      "follower_count": 4995,
-      "language": "en",
-      "started_at": "2026-08-05T03:35:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/angelicdomi",
-      "description": "probably having a coffee at this very moment"
     },
     {
       "user_login": "alfieduu",
