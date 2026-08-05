@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-05T23:42:02.302Z",
+  "generatedAt": "2026-08-05T23:47:02.389Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T23:42:02.285Z",
+    "fetchedAt": "2026-08-05T23:47:02.372Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
   "summary": {
     "streamerCount": 52,
-    "liveCount": 6,
-    "offlineCount": 46
+    "liveCount": 7,
+    "offlineCount": 45
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "COOKING IN SOUTH DAKOTA 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 63,
+      "viewer_count": 62,
       "follower_count": 2403,
       "language": "en",
       "started_at": "2026-08-05T22:51:48Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Request Songs Here! >> !SL| !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 20,
+      "viewer_count": 26,
       "follower_count": 6204,
       "language": "en",
       "started_at": "2026-08-05T23:30:57Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "THE BEST DAY OF THE WEEK!!!! BALDURS GATE 3 is up and ready! || !commands !whatsnew !streamteam !discord",
       "game_name": "Baldur's Gate 3",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 368,
       "language": "en",
       "started_at": "2026-08-05T23:24:36Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "LETS GO TO NEVERLAND| !commands For Fun! |",
       "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-      "viewer_count": 9,
+      "viewer_count": 8,
       "follower_count": 637,
       "language": "en",
       "started_at": "2026-08-05T22:01:37Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "Pretend like you didn't see that",
       "game_name": "Mistfall Hunter",
-      "viewer_count": 4,
+      "viewer_count": 6,
       "follower_count": 460,
       "language": "en",
       "started_at": "2026-08-05T23:24:23Z",
@@ -95,7 +95,7 @@
       "is_live": true,
       "title": "worlds worst ghost hunter is back in town!!",
       "game_name": "Phasmophobia",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "follower_count": 63,
       "language": "en",
       "started_at": "2026-08-05T22:54:58Z",
@@ -103,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ab16e06-61fe-43e9-9a23-459251717193-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/kindessurchin",
       "description": "🎮 Variety gamer with zero self-controlCozy farming one stream, horror-game panic the next.Expect chaos, laughs, and terrible decisions ✨"
+    },
+    {
+      "user_login": "tdub60live",
+      "user_name": "tdub60live",
+      "is_live": true,
+      "title": "CAN GARFIELD BEAT ELDEN RING? FIRST TIME PLAYING A SOULS LIKE GAME!!!!! PLEASE HELP MEEEEEEEE!!!!!!!",
+      "game_name": "ELDEN RING",
+      "viewer_count": 1,
+      "follower_count": 90,
+      "language": "en",
+      "started_at": "2026-08-05T23:44:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tdub60live-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cd90037-ae61-4692-b597-d07655410207-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/tdub60live",
+      "description": "🎮 Hey, I'm tdub60! Variety streamer serving up chill vibes, good laughs, and the occasional hype moment. I’m here to have fun, meet cool people, and build a positive space where everyone feels welcome. Join my discord https://discord.gg/rFjBnqqt"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -598,21 +613,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c376db32-fb72-4987-97f5-e1c21d93b622-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/taixiao",
       "description": "The woman with the 3 missing fingers on her keyboard hand."
-    },
-    {
-      "user_login": "tdub60live",
-      "user_name": "tdub60live",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 90,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cd90037-ae61-4692-b597-d07655410207-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/tdub60live",
-      "description": "🎮 Hey, I'm tdub60! Variety streamer serving up chill vibes, good laughs, and the occasional hype moment. I’m here to have fun, meet cool people, and build a positive space where everyone feels welcome. Join my discord https://discord.gg/rFjBnqqt"
     },
     {
       "user_login": "theblueslime_yt",
