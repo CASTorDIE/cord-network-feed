@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-05T02:52:03.124Z",
+  "generatedAt": "2026-08-05T02:57:03.167Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T02:52:03.107Z",
+    "fetchedAt": "2026-08-05T02:57:03.150Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 5,
-    "offlineCount": 48
+    "liveCount": 6,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -21,7 +21,7 @@
       "title": "✅24/7 DROP STREAM✅DAY 935🥊!discord🥊!factor🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUN",
       "game_name": "Rocket League",
       "viewer_count": 1067,
-      "follower_count": 109468,
+      "follower_count": 109476,
       "language": "en",
       "started_at": "2026-08-05T00:40:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING UNTIL REP 100 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 95,
+      "viewer_count": 91,
       "follower_count": 8479,
       "language": "en",
       "started_at": "2026-08-04T21:01:20Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "⚔️Valorant Creator Program??? YES!!!! ⚔️!discord⚔️Are you ready for 6am?⚔️",
       "game_name": "Just Chatting",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 2085,
       "language": "en",
       "started_at": "2026-08-05T01:00:22Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "🌮⛏️ MINECRAFT 🌮⛏️ TACOS 🌮⛏️ SWEET TREAT 🌮⛏️ JESUS IS KING🌮⛏️",
       "game_name": "Minecraft",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 44,
       "language": "en",
       "started_at": "2026-08-05T00:43:41Z",
@@ -88,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/daniii_phantommm",
       "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "HELLO 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 2403,
+      "language": "en",
+      "started_at": "2026-08-05T01:14:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "alfieduu",
@@ -163,21 +178,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": "Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
-    },
-    {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 2404,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
