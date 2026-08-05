@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-05T15:51:59.891Z",
+  "generatedAt": "2026-08-05T15:55:59.381Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-05T15:51:59.857Z",
+    "updatedAt": "2026-08-05T15:55:59.348Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 14,
+    "entryCount": 16,
     "firstDate": "2026-08-02",
-    "lastDate": "2026-08-09",
+    "lastDate": "2026-08-10",
     "windowStart": "2026-08-02",
     "windowEnd": "2026-11-03",
     "invalidEntryCount": 0,
@@ -98,7 +98,7 @@
       "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
-      "id": "evt_1785107309048_0kqhqv",
+      "id": "evt_1785945211461_vs2i6r",
       "date": "2026-08-06",
       "dateLabel": "Thursday, August 6th",
       "weekday": "Thursday",
@@ -189,6 +189,19 @@
       "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
+      "id": "evt_1785945211462_tinzso",
+      "date": "2026-08-09",
+      "dateLabel": "Sunday, August 9th",
+      "weekday": "Sunday",
+      "streamer": "Horror_Heather",
+      "title": "Movie Night",
+      "timeMinutes": 750,
+      "timeLabel": "12:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
       "id": "evt_1785945013860_8uax1l",
       "date": "2026-08-09",
       "dateLabel": "Sunday, August 9th",
@@ -200,6 +213,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/desertrose"
+    },
+    {
+      "id": "evt_1785945211462_cczki1",
+      "date": "2026-08-10",
+      "dateLabel": "Mon, Aug 10",
+      "weekday": "",
+      "streamer": "Horror_Heather",
+      "title": "Alan Wake II",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/horror_heather"
     }
   ]
 }
