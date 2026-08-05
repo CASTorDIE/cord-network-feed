@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-05T05:17:03.108Z",
+  "generatedAt": "2026-08-05T05:22:03.163Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T05:17:03.092Z",
+    "fetchedAt": "2026-08-05T05:22:03.147Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 3,
-    "offlineCount": 50
+    "liveCount": 4,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING UNTIL REP 100 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 116,
+      "viewer_count": 98,
       "follower_count": 8484,
       "language": "en",
       "started_at": "2026-08-04T21:01:20Z",
@@ -30,12 +30,27 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
+      "user_login": "angelicdomi",
+      "user_name": "AngelicDomi",
+      "is_live": true,
+      "title": "masters fo'real this time - new season | almost to 5K followers ♡",
+      "game_name": "Apex Legends",
+      "viewer_count": 10,
+      "follower_count": 4998,
+      "language": "en",
+      "started_at": "2026-08-05T03:35:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/angelicdomi",
+      "description": "probably having a coffee at this very moment"
+    },
+    {
       "user_login": "floodwater_",
       "user_name": "FloodWater_",
       "is_live": true,
       "title": "⚔️Valorant Creator Program??? YES!!!! ⚔️!discord⚔️Are you ready for 6am?⚔️",
       "game_name": "Just Chatting",
-      "viewer_count": 10,
+      "viewer_count": 8,
       "follower_count": 2085,
       "language": "en",
       "started_at": "2026-08-05T01:00:22Z",
@@ -45,19 +60,19 @@
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
-      "user_login": "angelicdomi",
-      "user_name": "AngelicDomi",
+      "user_login": "thewillzgamer",
+      "user_name": "TheWillZGamer",
       "is_live": true,
-      "title": "masters fo'real this time - new season | almost to 5K followers ♡",
-      "game_name": "Apex Legends",
-      "viewer_count": 9,
-      "follower_count": 4998,
+      "title": "🔴LATE NIGHT GTA VIBES, JOIN UP IN THE CHAOS",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "follower_count": 204,
       "language": "en",
-      "started_at": "2026-08-05T03:35:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/angelicdomi",
-      "description": "probably having a coffee at this very moment"
+      "started_at": "2026-08-05T05:21:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewillzgamer-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b2affad-c703-42e2-80db-42c1e0f80096-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/thewillzgamer",
+      "description": "Welcome! Here, you'll find me diving into immersive single-player experiences, from donning the cape as Batman in thrilling Arkham adventures to tackling intense Call of Duty campaigns. Whether it's unraveling mysteries or overcoming impossible odds. As I also stream Mainly on YouTube."
     },
     {
       "user_login": "4kaizen_gaming",
@@ -688,21 +703,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a66f01b8-5972-4a2b-b49d-6b5d715481ae-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/therealmrt_xpngx",
       "description": "Hi I am MRT, I have no idea what I’m doing. Just trying to entertain people"
-    },
-    {
-      "user_login": "thewillzgamer",
-      "user_name": "TheWillZGamer",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 204,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b2affad-c703-42e2-80db-42c1e0f80096-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/thewillzgamer",
-      "description": "Welcome! Here, you'll find me diving into immersive single-player experiences, from donning the cape as Batman in thrilling Arkham adventures to tackling intense Call of Duty campaigns. Whether it's unraveling mysteries or overcoming impossible odds. As I also stream Mainly on YouTube."
     },
     {
       "user_login": "tthackerr",
