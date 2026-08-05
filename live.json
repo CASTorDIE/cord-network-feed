@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T17:02:03.246Z",
+  "generatedAt": "2026-08-05T17:07:03.205Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T17:02:03.228Z",
+    "fetchedAt": "2026-08-05T17:07:03.188Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[drops] D2 TODAY?? PERCHANCE? PERMAYBE?🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 72,
+      "viewer_count": 75,
       "follower_count": 10457,
       "language": "en",
       "started_at": "2026-08-05T15:52:23Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "⭐We're  Outlasting Time Here⭐ !fish ⭐!discord⭐",
       "game_name": "Outlast",
-      "viewer_count": 10,
-      "follower_count": 505,
+      "viewer_count": 12,
+      "follower_count": 506,
       "language": "en",
       "started_at": "2026-08-05T14:58:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faestarlight-960x540.jpg",
