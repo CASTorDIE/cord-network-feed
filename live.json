@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T20:47:02.282Z",
+  "generatedAt": "2026-08-05T20:52:02.235Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T20:47:02.265Z",
+    "fetchedAt": "2026-08-05T20:52:02.218Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GAMES W/ @winniedapoohhh🎀",
       "game_name": "Split Fiction",
-      "viewer_count": 102,
+      "viewer_count": 94,
       "follower_count": 10467,
       "language": "en",
       "started_at": "2026-08-05T15:52:23Z",
