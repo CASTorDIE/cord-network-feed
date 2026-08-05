@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T06:52:03.160Z",
+  "generatedAt": "2026-08-05T06:57:03.114Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T06:52:03.143Z",
+    "fetchedAt": "2026-08-05T06:57:03.098Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING UNTIL REP 100 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 84,
-      "follower_count": 8488,
+      "viewer_count": 83,
+      "follower_count": 8489,
       "language": "en",
       "started_at": "2026-08-04T21:01:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
