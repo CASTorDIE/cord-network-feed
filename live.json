@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T23:17:02.287Z",
+  "generatedAt": "2026-08-05T23:22:02.316Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T23:17:02.270Z",
+    "fetchedAt": "2026-08-05T23:22:02.299Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "COOKING IN SOUTH DAKOTA 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 55,
+      "viewer_count": 54,
       "follower_count": 2404,
       "language": "en",
       "started_at": "2026-08-05T22:51:48Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "LETS GO TO NEVERLAND| !commands For Fun! |",
       "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 637,
       "language": "en",
       "started_at": "2026-08-05T22:01:37Z",
