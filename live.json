@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T15:22:03.281Z",
+  "generatedAt": "2026-08-05T15:27:03.407Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T15:22:03.265Z",
+    "fetchedAt": "2026-08-05T15:27:03.389Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐We're  Outlasting Time Here⭐ !fish ⭐!discord⭐",
       "game_name": "Outlast",
-      "viewer_count": 9,
+      "viewer_count": 11,
       "follower_count": 505,
       "language": "en",
       "started_at": "2026-08-05T14:58:26Z",
