@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T17:00:00.000Z",
+  "generatedAt": "2026-08-05T16:21:02.034Z",
   "timezone": "America/Chicago",
   "sources": {
     "live": {
@@ -13,7 +13,7 @@
       "url": "data/schedule.json"
     },
     "events": {
-      "updatedAt": "2026-07-26T00:00:00.000Z",
+      "updatedAt": "2026-08-05T16:21:02.034Z",
       "status": "manual"
     },
     "blog": {
@@ -41,6 +41,16 @@
         "summary": "GibsonTales and Horror_Heather host a community Movie Night in the GibsonTales Discord.",
         "label": "Movie Night",
         "url": "https://discord.gg/czFmutKqeb",
+        "image": ""
+      },
+      {
+        "id": "desertrose-affiliate-party-raid-train-20260807",
+        "date": "2026-08-07",
+        "time": "5:00 PM CT",
+        "headline": "Affiliate Party Raid Train Starting Slot",
+        "summary": "desertrose plays Moonlight Peaks / Tears of Metal to kick off the Affiliate Party Raid Train.",
+        "label": "Raid Train",
+        "url": "https://www.twitch.tv/desertrose",
         "image": ""
       }
     ]
