@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T04:17:03.127Z",
+  "generatedAt": "2026-08-05T04:22:03.109Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T04:17:03.110Z",
+    "fetchedAt": "2026-08-05T04:22:03.093Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING UNTIL REP 100 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 93,
+      "viewer_count": 86,
       "follower_count": 8480,
       "language": "en",
       "started_at": "2026-08-04T21:01:20Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "masters fo'real this time - new season | almost to 5K followers ♡",
       "game_name": "Apex Legends",
-      "viewer_count": 17,
-      "follower_count": 4995,
+      "viewer_count": 21,
+      "follower_count": 4996,
       "language": "en",
       "started_at": "2026-08-05T03:35:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
