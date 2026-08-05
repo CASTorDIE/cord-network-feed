@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T22:52:02.229Z",
+  "generatedAt": "2026-08-05T22:57:02.206Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T22:52:02.212Z",
+    "fetchedAt": "2026-08-05T22:57:02.189Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "GAMES W/ @winniedapoohhh🎀",
-      "game_name": "Split Fiction",
-      "viewer_count": 67,
-      "follower_count": 10465,
-      "language": "en",
-      "started_at": "2026-08-05T15:52:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "jaxsberrypatch",
       "user_name": "jaxsberrypatch",
       "is_live": true,
       "title": "✮⋆˙Partner Pushing!!!✮⋆˙|Weekly Reset and dreamsnaps!! |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 63,
+      "viewer_count": 56,
       "follower_count": 2693,
       "language": "en",
       "started_at": "2026-08-05T21:02:22Z",
@@ -45,12 +30,27 @@
       "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
     {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "COOKING IN SOUTH DAKOTA 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Just Chatting",
+      "viewer_count": 17,
+      "follower_count": 2404,
+      "language": "en",
+      "started_at": "2026-08-05T22:51:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
       "user_login": "ohgoshimjosh",
       "user_name": "OhGoshImJosh",
       "is_live": true,
       "title": "LETS GO TO NEVERLAND| !commands For Fun! |",
       "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-      "viewer_count": 11,
+      "viewer_count": 10,
       "follower_count": 637,
       "language": "en",
       "started_at": "2026-08-05T22:01:37Z",
@@ -60,19 +60,19 @@
       "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
+      "user_login": "kindessurchin",
+      "user_name": "kindessurchin",
       "is_live": true,
-      "title": "COOKING IN SOUTH DAKOTA 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Just Chatting",
-      "viewer_count": 0,
-      "follower_count": 2404,
+      "title": "worlds worst ghost hunter is back in town!!",
+      "game_name": "Phasmophobia",
+      "viewer_count": 1,
+      "follower_count": 64,
       "language": "en",
-      "started_at": "2026-08-05T22:51:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+      "started_at": "2026-08-05T22:54:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kindessurchin-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ab16e06-61fe-43e9-9a23-459251717193-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/kindessurchin",
+      "description": "🎮 Variety gamer with zero self-controlCozy farming one stream, horror-game panic the next.Expect chaos, laughs, and terrible decisions ✨"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -195,13 +195,28 @@
       "description": ""
     },
     {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 10465,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
       "user_login": "brycexd",
       "user_name": "BrycexD",
       "is_live": false,
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 109563,
+      "follower_count": 109564,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -433,21 +448,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/joreeezy",
       "description": "🔔 Next livestream: To be announced on X/Threads 📲"
-    },
-    {
-      "user_login": "kindessurchin",
-      "user_name": "kindessurchin",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 64,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ab16e06-61fe-43e9-9a23-459251717193-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/kindessurchin",
-      "description": "🎮 Variety gamer with zero self-controlCozy farming one stream, horror-game panic the next.Expect chaos, laughs, and terrible decisions ✨"
     },
     {
       "user_login": "laconsgamingnook",
