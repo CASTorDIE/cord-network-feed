@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T05:12:03.186Z",
+  "generatedAt": "2026-08-05T05:17:03.108Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T05:12:03.170Z",
+    "fetchedAt": "2026-08-05T05:17:03.092Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING UNTIL REP 100 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 101,
-      "follower_count": 8483,
+      "viewer_count": 116,
+      "follower_count": 8484,
       "language": "en",
       "started_at": "2026-08-04T21:01:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
-      "user_login": "angelicdomi",
-      "user_name": "AngelicDomi",
-      "is_live": true,
-      "title": "masters fo'real this time - new season | almost to 5K followers ♡",
-      "game_name": "Apex Legends",
-      "viewer_count": 13,
-      "follower_count": 4998,
-      "language": "en",
-      "started_at": "2026-08-05T03:35:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/angelicdomi",
-      "description": "probably having a coffee at this very moment"
-    },
-    {
       "user_login": "floodwater_",
       "user_name": "FloodWater_",
       "is_live": true,
       "title": "⚔️Valorant Creator Program??? YES!!!! ⚔️!discord⚔️Are you ready for 6am?⚔️",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 10,
       "follower_count": 2085,
       "language": "en",
       "started_at": "2026-08-05T01:00:22Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
+    },
+    {
+      "user_login": "angelicdomi",
+      "user_name": "AngelicDomi",
+      "is_live": true,
+      "title": "masters fo'real this time - new season | almost to 5K followers ♡",
+      "game_name": "Apex Legends",
+      "viewer_count": 9,
+      "follower_count": 4998,
+      "language": "en",
+      "started_at": "2026-08-05T03:35:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelicdomi-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/angelicdomi",
+      "description": "probably having a coffee at this very moment"
     },
     {
       "user_login": "4kaizen_gaming",
