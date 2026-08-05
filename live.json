@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-05T02:17:03.196Z",
+  "generatedAt": "2026-08-05T02:22:03.208Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T02:17:03.180Z",
+    "fetchedAt": "2026-08-05T02:22:03.191Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
   "summary": {
     "streamerCount": 53,
-    "liveCount": 6,
-    "offlineCount": 47
+    "liveCount": 5,
+    "offlineCount": 48
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 935🥊!discord🥊!factor🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUNCH🥊PUN",
       "game_name": "Rocket League",
-      "viewer_count": 646,
-      "follower_count": 109432,
+      "viewer_count": 602,
+      "follower_count": 109436,
       "language": "en",
       "started_at": "2026-08-05T00:40:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING UNTIL REP 100 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 103,
+      "viewer_count": 104,
       "follower_count": 8479,
       "language": "en",
       "started_at": "2026-08-04T21:01:20Z",
@@ -45,27 +45,12 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
-      "user_login": "floodwater_",
-      "user_name": "FloodWater_",
-      "is_live": true,
-      "title": "⚔️Valorant Creator Program??? YES!!!! ⚔️!discord⚔️Are you ready for 6am?⚔️",
-      "game_name": "Just Chatting",
-      "viewer_count": 14,
-      "follower_count": 2085,
-      "language": "en",
-      "started_at": "2026-08-05T01:00:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/floodwater_",
-      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "New season of SF6! New emotes added",
       "game_name": "Street Fighter 6",
-      "viewer_count": 12,
+      "viewer_count": 15,
       "follower_count": 266,
       "language": "en",
       "started_at": "2026-08-05T00:56:13Z",
@@ -75,12 +60,27 @@
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
+      "user_login": "floodwater_",
+      "user_name": "FloodWater_",
+      "is_live": true,
+      "title": "⚔️Valorant Creator Program??? YES!!!! ⚔️!discord⚔️Are you ready for 6am?⚔️",
+      "game_name": "Just Chatting",
+      "viewer_count": 11,
+      "follower_count": 2085,
+      "language": "en",
+      "started_at": "2026-08-05T01:00:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/floodwater_",
+      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
+    },
+    {
       "user_login": "daniii_phantommm",
       "user_name": "daniii_phantommm",
       "is_live": true,
       "title": "🌮⛏️ MINECRAFT 🌮⛏️ TACOS 🌮⛏️ SWEET TREAT 🌮⛏️ JESUS IS KING🌮⛏️",
       "game_name": "Minecraft",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 44,
       "language": "en",
       "started_at": "2026-08-05T00:43:41Z",
@@ -88,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/daniii_phantommm",
       "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
-    },
-    {
-      "user_login": "slimchungusgaming",
-      "user_name": "SlimChungusGaming",
-      "is_live": true,
-      "title": "RUNNING THIS WATERPARK IS A MISTAKE",
-      "game_name": "Waterpark Simulator",
-      "viewer_count": 0,
-      "follower_count": 395,
-      "language": "en",
-      "started_at": "2026-08-04T23:59:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimchungusgaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
-      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "alfieduu",
@@ -598,6 +583,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/skavstheworld",
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
+      "user_login": "slimchungusgaming",
+      "user_name": "SlimChungusGaming",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 395,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
+      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "taixiao",
