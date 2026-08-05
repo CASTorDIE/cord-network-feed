@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-05T21:57:02.453Z",
+  "generatedAt": "2026-08-05T22:02:02.469Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T21:57:02.434Z",
+    "fetchedAt": "2026-08-05T22:02:02.450Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
   "summary": {
     "streamerCount": 52,
-    "liveCount": 2,
-    "offlineCount": 50
+    "liveCount": 3,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GAMES W/ @winniedapoohhh🎀",
       "game_name": "Split Fiction",
-      "viewer_count": 75,
+      "viewer_count": 76,
       "follower_count": 10465,
       "language": "en",
       "started_at": "2026-08-05T15:52:23Z",
@@ -35,14 +35,29 @@
       "is_live": true,
       "title": "✮⋆˙Partner Pushing!!!✮⋆˙|Weekly Reset and dreamsnaps!! |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 56,
-      "follower_count": 2689,
+      "viewer_count": 58,
+      "follower_count": 2690,
       "language": "en",
       "started_at": "2026-08-05T21:02:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
       "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
+    },
+    {
+      "user_login": "ohgoshimjosh",
+      "user_name": "OhGoshImJosh",
+      "is_live": true,
+      "title": "Lets Decide What to Disrupt! | !commands For Fun! |",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 637,
+      "language": "en",
+      "started_at": "2026-08-05T22:01:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohgoshimjosh-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
+      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -493,21 +508,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": ""
-    },
-    {
-      "user_login": "ohgoshimjosh",
-      "user_name": "OhGoshImJosh",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 637,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
-      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
       "user_login": "padbae",
