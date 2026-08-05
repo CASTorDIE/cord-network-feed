@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T19:52:03.370Z",
+  "generatedAt": "2026-08-05T19:57:03.214Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-05T19:52:03.352Z",
+    "fetchedAt": "2026-08-05T19:57:03.197Z",
     "source": "twitch-helix-streams",
     "requestedCount": 53
   },
@@ -18,9 +18,9 @@
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
-      "title": "[drops] D2 TODAY?? PERCHANCE? PERMAYBE?🎀",
-      "game_name": "Marvel Rivals",
-      "viewer_count": 61,
+      "title": "GAMES W/ @winniedapoohhh🎀",
+      "game_name": "Split Fiction",
+      "viewer_count": 76,
       "follower_count": 10460,
       "language": "en",
       "started_at": "2026-08-05T15:52:23Z",
