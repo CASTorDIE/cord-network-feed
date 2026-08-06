@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T20:27:58.489Z",
+  "generatedAt": "2026-08-06T20:32:58.422Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-06T20:27:58.489Z",
+    "fetchedAt": "2026-08-06T20:32:58.422Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Welfare raider! 💀 PARTNER PLUS GOAL: 29/300",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
-      "follower_count": 14031,
+      "viewer_count": 57,
+      "follower_count": 14032,
       "language": "en",
       "started_at": "2026-08-06T20:25:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
