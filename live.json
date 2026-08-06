@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-06T05:47:02.312Z",
+  "generatedAt": "2026-08-06T06:02:02.209Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-06T05:47:02.294Z",
+    "fetchedAt": "2026-08-06T06:02:02.192Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
   "summary": {
     "streamerCount": 52,
-    "liveCount": 2,
-    "offlineCount": 50
+    "liveCount": 3,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| Marbles, Karaoke, And Microscape Drops and Dungeon Night | !pizza !discord !telegram !vrc !bigheadz | T1-T3 Subs Gif the Screen",
       "game_name": "Marbles on Stream",
-      "viewer_count": 164,
-      "follower_count": 10101,
+      "viewer_count": 171,
+      "follower_count": 10102,
       "language": "en",
       "started_at": "2026-08-06T02:06:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Indie Spooky Games? Yes Please! | Rental & Arcadia Cafe | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 8,
+      "viewer_count": 6,
       "follower_count": 906,
       "language": "en",
       "started_at": "2026-08-06T04:09:41Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com"
+    },
+    {
+      "user_login": "gmclay_",
+      "user_name": "GMCLAY_",
+      "is_live": true,
+      "title": "*DROPS* THE KORD IS BREACHING ME",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 0,
+      "follower_count": 68,
+      "language": "en",
+      "started_at": "2026-08-06T06:00:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gmclay_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gmclay_",
+      "description": "I alternate between MVP and WTF"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -343,21 +358,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gibsontales",
       "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com"
-    },
-    {
-      "user_login": "gmclay_",
-      "user_name": "GMCLAY_",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 68,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gmclay_",
-      "description": "I alternate between MVP and WTF"
     },
     {
       "user_login": "guitardoll",
