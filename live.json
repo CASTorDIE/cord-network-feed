@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T04:47:02.307Z",
+  "generatedAt": "2026-08-06T04:52:02.356Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-06T04:47:02.288Z",
+    "fetchedAt": "2026-08-06T04:52:02.338Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Weird Game Wednesday | Next Fest Demos",
       "game_name": "Games + Demos",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 529,
       "language": "en",
       "started_at": "2026-08-06T03:22:21Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Indie Spooky Games? Yes Please! | Rental & Arcadia Cafe | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 906,
       "language": "en",
       "started_at": "2026-08-06T04:09:41Z",
