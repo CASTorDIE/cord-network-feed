@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T07:27:02.227Z",
+  "generatedAt": "2026-08-06T07:32:02.222Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-06T07:27:02.210Z",
+    "fetchedAt": "2026-08-06T07:32:02.206Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Marbles, Karaoke, And Microscape Drops and Dungeon Night | !pizza !discord !telegram !vrc !bigheadz | T1-T3 Subs Gif the Screen",
       "game_name": "Marbles on Stream",
-      "viewer_count": 140,
+      "viewer_count": 148,
       "follower_count": 10105,
       "language": "en",
       "started_at": "2026-08-06T02:06:16Z",
