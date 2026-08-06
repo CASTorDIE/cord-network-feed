@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-06T04:57:02.298Z",
+  "generatedAt": "2026-08-06T05:02:02.287Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-06T04:57:02.282Z",
+    "fetchedAt": "2026-08-06T05:02:02.269Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
   "summary": {
     "streamerCount": 52,
-    "liveCount": 4,
-    "offlineCount": 48
+    "liveCount": 3,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Marbles, Karaoke, And Microscape Drops and Dungeon Night | !pizza !discord !telegram !vrc !bigheadz | T1-T3 Subs Gif the Screen",
       "game_name": "Marbles on Stream",
-      "viewer_count": 172,
+      "viewer_count": 158,
       "follower_count": 10097,
       "language": "en",
       "started_at": "2026-08-06T02:06:16Z",
@@ -30,27 +30,12 @@
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "Finishing up crystal hearts and B sides!",
-      "game_name": "Celeste",
-      "viewer_count": 16,
-      "follower_count": 267,
-      "language": "en",
-      "started_at": "2026-08-06T00:57:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
-    },
-    {
       "user_login": "allyreggie",
       "user_name": "AllyReggie",
       "is_live": true,
       "title": "Weird Game Wednesday | Next Fest Demos",
       "game_name": "Games + Demos",
-      "viewer_count": 10,
+      "viewer_count": 12,
       "follower_count": 529,
       "language": "en",
       "started_at": "2026-08-06T03:22:21Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "Indie Spooky Games? Yes Please! | Rental & Arcadia Cafe | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 9,
+      "viewer_count": 11,
       "follower_count": 906,
       "language": "en",
       "started_at": "2026-08-06T04:09:41Z",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com"
+    },
+    {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 267,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
       "user_login": "alfieduu",
