@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-06T22:42:58.976Z",
+  "generatedAt": "2026-08-06T22:47:58.711Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-06T22:42:58.976Z",
+    "fetchedAt": "2026-08-06T22:47:58.711Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
   "summary": {
     "streamerCount": 52,
-    "liveCount": 5,
-    "offlineCount": 47
+    "liveCount": 6,
+    "offlineCount": 46
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Welfare raider! 💀 PARTNER PLUS GOAL: 29/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 150,
+      "viewer_count": 146,
       "follower_count": 14059,
       "language": "en",
       "started_at": "2026-08-06T20:25:07Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "|DROPS| Learning KHATUN 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 110,
-      "follower_count": 8509,
+      "viewer_count": 100,
+      "follower_count": 8510,
       "language": "en",
       "started_at": "2026-08-06T21:00:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "⭐Running Out Of Thyme⭐ !fish ⭐!discord⭐",
       "game_name": "Art",
-      "viewer_count": 21,
+      "viewer_count": 22,
       "follower_count": 507,
       "language": "en",
       "started_at": "2026-08-06T20:55:38Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "LENGEN-DAIRY RUN | !lore !yt",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 8,
+      "viewer_count": 11,
       "follower_count": 1832,
       "language": "en",
       "started_at": "2026-08-06T22:26:45Z",
@@ -88,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e6313f4-12f3-439d-814d-449ca874170a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/thecatsmeowxo",
       "description": "Just a small town girl, livin' in a lonely world... until I stumbled across video games & the friends you make from them. Feel free to join in the chatter or rest easy and lurk away - either way I'm glad you stopped by! :) p.s. I only own 3 cats"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": true,
+      "title": "I Have a Plan. The Abyss Has Other Ideas. Let's see where it  takes us.",
+      "game_name": "Just Chatting",
+      "viewer_count": 1,
+      "follower_count": 333,
+      "language": "en",
+      "started_at": "2026-08-06T22:44:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -358,21 +373,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
-    },
-    {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 333,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "gibsontales",
