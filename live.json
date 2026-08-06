@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T07:02:02.257Z",
+  "generatedAt": "2026-08-06T07:07:02.266Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-06T07:02:02.240Z",
+    "fetchedAt": "2026-08-06T07:07:02.250Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| Marbles, Karaoke, And Microscape Drops and Dungeon Night | !pizza !discord !telegram !vrc !bigheadz | T1-T3 Subs Gif the Screen",
       "game_name": "Marbles on Stream",
-      "viewer_count": 154,
-      "follower_count": 10103,
+      "viewer_count": 160,
+      "follower_count": 10102,
       "language": "en",
       "started_at": "2026-08-06T02:06:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "*DROPS* THE KORD IS BREACHING ME",
       "game_name": "Escape from Tarkov",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "follower_count": 68,
       "language": "en",
       "started_at": "2026-08-06T06:00:13Z",
