@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-06T03:22:02.277Z",
+  "generatedAt": "2026-08-06T03:27:02.300Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-06T03:22:02.260Z",
+    "fetchedAt": "2026-08-06T03:27:02.283Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
   "summary": {
     "streamerCount": 52,
-    "liveCount": 4,
-    "offlineCount": 48
+    "liveCount": 5,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 936🐎!discord🐎!factor🐎WENT TO THE DOC BECAUSE I SAID I DIDN'T FEEL GOOD🐎HE TOOK A LOOK AND SAID🐎BOY WHAT IN THE HE",
       "game_name": "Rocket League",
-      "viewer_count": 673,
-      "follower_count": 109753,
+      "viewer_count": 718,
+      "follower_count": 109756,
       "language": "en",
       "started_at": "2026-08-06T00:16:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🦊🦇| Marbles, Karaoke, And Microscape Drops and Dungeon Night | !pizza !discord !telegram !vrc !bigheadz | T1-T3 Subs Gif the Screen",
       "game_name": "Marbles on Stream",
-      "viewer_count": 167,
-      "follower_count": 10072,
+      "viewer_count": 165,
+      "follower_count": 10074,
       "language": "en",
       "started_at": "2026-08-06T02:06:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Request Songs Here! >> !SL| !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 74,
+      "viewer_count": 73,
       "follower_count": 6219,
       "language": "en",
       "started_at": "2026-08-05T23:30:57Z",
@@ -75,6 +75,21 @@
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
+      "user_login": "allyreggie",
+      "user_name": "AllyReggie",
+      "is_live": true,
+      "title": "Weird Game Wednesday | Next Fest Demos",
+      "game_name": "Games + Demos",
+      "viewer_count": 1,
+      "follower_count": 529,
+      "language": "en",
+      "started_at": "2026-08-06T03:22:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_allyreggie-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/allyreggie",
+      "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
+    },
+    {
       "user_login": "alfieduu",
       "user_name": "alfieduu",
       "is_live": false,
@@ -88,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/alfieduu",
       "description": "yo put your feet up homie"
-    },
-    {
-      "user_login": "allyreggie",
-      "user_name": "AllyReggie",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 529,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/allyreggie",
-      "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
     },
     {
       "user_login": "angelicdomi",
