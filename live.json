@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-06T22:22:58.754Z",
+  "generatedAt": "2026-08-06T22:27:58.661Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-06T22:22:58.754Z",
+    "fetchedAt": "2026-08-06T22:27:58.661Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
   "summary": {
     "streamerCount": 52,
-    "liveCount": 4,
-    "offlineCount": 48
+    "liveCount": 5,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Welfare raider! 💀 PARTNER PLUS GOAL: 29/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 141,
-      "follower_count": 14053,
+      "viewer_count": 160,
+      "follower_count": 14056,
       "language": "en",
       "started_at": "2026-08-06T20:25:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| Learning KHATUN 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 101,
+      "viewer_count": 103,
       "follower_count": 8509,
       "language": "en",
       "started_at": "2026-08-06T21:00:15Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "⭐Running Out Of Thyme⭐ !fish ⭐!discord⭐",
       "game_name": "Art",
-      "viewer_count": 19,
+      "viewer_count": 21,
       "follower_count": 507,
       "language": "en",
       "started_at": "2026-08-06T20:55:38Z",
@@ -65,14 +65,29 @@
       "is_live": true,
       "title": "1 year Affiliate Anniversary! | Horror Games! | !links",
       "game_name": "Games + Demos",
-      "viewer_count": 14,
-      "follower_count": 620,
+      "viewer_count": 17,
+      "follower_count": 621,
       "language": "en",
       "started_at": "2026-08-06T21:31:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_horror_heather-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/horror_heather",
       "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
+    },
+    {
+      "user_login": "thecatsmeowxo",
+      "user_name": "TheCatsMeOwXO",
+      "is_live": true,
+      "title": "LENGEN-DAIRY RUN | !lore !yt",
+      "game_name": "Halo: Campaign Evolved",
+      "viewer_count": 0,
+      "follower_count": 1832,
+      "language": "en",
+      "started_at": "2026-08-06T22:26:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thecatsmeowxo-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e6313f4-12f3-439d-814d-449ca874170a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/thecatsmeowxo",
+      "description": "Just a small town girl, livin' in a lonely world... until I stumbled across video games & the friends you make from them. Feel free to join in the chatter or rest easy and lurk away - either way I'm glad you stopped by! :) p.s. I only own 3 cats"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -643,21 +658,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef2d4b7e-ca59-47cb-be7e-4a26b63722d0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/theblueslime_yt",
       "description": "Just a 21 Year old Variety Streamer trying to succeed through Content Creation. Follow = 🍪"
-    },
-    {
-      "user_login": "thecatsmeowxo",
-      "user_name": "TheCatsMeOwXO",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1832,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e6313f4-12f3-439d-814d-449ca874170a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/thecatsmeowxo",
-      "description": "Just a small town girl, livin' in a lonely world... until I stumbled across video games & the friends you make from them. Feel free to join in the chatter or rest easy and lurk away - either way I'm glad you stopped by! :) p.s. I only own 3 cats"
     },
     {
       "user_login": "therealmrt_xpngx",
