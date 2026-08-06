@@ -34,16 +34,6 @@
   "events": {
     "items": [
       {
-        "id": "gibson-tales-community-movie-night",
-        "date": "2026-08-02",
-        "time": "5:00 PM CT",
-        "headline": "Community Movie Night",
-        "summary": "GibsonTales and Horror_Heather host a community Movie Night in the GibsonTales Discord.",
-        "label": "Movie Night",
-        "url": "https://discord.gg/czFmutKqeb",
-        "image": ""
-      },
-      {
         "id": "desertrose-affiliate-party-raid-train-20260807",
         "date": "2026-08-07",
         "time": "5:00 PM CT",
