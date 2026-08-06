@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T01:17:02.378Z",
+  "generatedAt": "2026-08-06T01:22:02.223Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-06T01:17:02.361Z",
+    "fetchedAt": "2026-08-06T01:22:02.205Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 936🐎!discord🐎!factor🐎WENT TO THE DOC BECAUSE I SAID I DIDN'T FEEL GOOD🐎HE TOOK A LOOK AND SAID🐎BOY WHAT IN THE HE",
       "game_name": "Rocket League",
-      "viewer_count": 494,
-      "follower_count": 109587,
+      "viewer_count": 523,
+      "follower_count": 109595,
       "language": "en",
       "started_at": "2026-08-06T00:16:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Request Songs Here! >> !SL| !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 55,
+      "viewer_count": 63,
       "follower_count": 6210,
       "language": "en",
       "started_at": "2026-08-05T23:30:57Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "|DROPS| Learning a NEW HERO 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 37,
+      "viewer_count": 43,
       "follower_count": 8495,
       "language": "en",
       "started_at": "2026-08-06T01:14:24Z",
@@ -58,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
-    },
-    {
-      "user_login": "slimchungusgaming",
-      "user_name": "SlimChungusGaming",
-      "is_live": true,
-      "title": "RUNNING THIS WATERPARK IS A TERRIBLE IDEA! 🫠 !visit !hireme",
-      "game_name": "Waterpark Simulator",
-      "viewer_count": 8,
-      "follower_count": 395,
-      "language": "en",
-      "started_at": "2026-08-06T00:00:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimchungusgaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
-      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "healzealot",
@@ -90,19 +75,19 @@
       "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
     },
     {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
+      "user_login": "slimchungusgaming",
+      "user_name": "SlimChungusGaming",
       "is_live": true,
-      "title": "Finishing up crystal hearts and B sides!",
-      "game_name": "Celeste",
-      "viewer_count": 6,
-      "follower_count": 267,
+      "title": "RUNNING THIS WATERPARK IS A TERRIBLE IDEA! 🫠 !visit !hireme",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 7,
+      "follower_count": 395,
       "language": "en",
-      "started_at": "2026-08-06T00:57:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
+      "started_at": "2026-08-06T00:00:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimchungusgaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
+      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "tehchno",
@@ -118,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": true,
+      "title": "Finishing up crystal hearts and B sides!",
+      "game_name": "Celeste",
+      "viewer_count": 5,
+      "follower_count": 267,
+      "language": "en",
+      "started_at": "2026-08-06T00:57:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
       "user_login": "kindessurchin",
