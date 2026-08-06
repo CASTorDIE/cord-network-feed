@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T08:07:02.344Z",
+  "generatedAt": "2026-08-06T08:12:02.359Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-06T08:07:02.327Z",
+    "fetchedAt": "2026-08-06T08:12:02.342Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "*DROPS* THE KORD IS BREACHING ME",
       "game_name": "Escape from Tarkov",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 68,
       "language": "en",
       "started_at": "2026-08-06T06:00:13Z",
