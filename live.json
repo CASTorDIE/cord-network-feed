@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T17:37:02.344Z",
+  "generatedAt": "2026-08-06T17:37:08.693Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-06T17:37:02.327Z",
+    "fetchedAt": "2026-08-06T17:37:08.693Z",
     "source": "twitch-helix-streams",
     "requestedCount": 52
   },
@@ -102,7 +102,7 @@
       "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
-      "description": "Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+      "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
     },
     {
       "user_login": "ayejohnson",
@@ -132,7 +132,7 @@
       "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
-      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too."
+      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
       "user_login": "bigpapaxx8",
@@ -141,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 0,
+      "follower_count": null,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -222,7 +222,7 @@
       "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10fbac99-b892-40b3-88cb-3ba197ba88f8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/darkdemocracytv",
-      "description": "Healthcare by day, streaming by night! I'm Adam a dad, who love all things games, anime, and entertainment, and I'm so glad you're here with us!"
+      "description": "Healthcare by day, streaming by night! I'm Adam a dad, who love all things games, anime, and entertainment, and I'm so glad you're here with us! "
     },
     {
       "user_login": "desertrose",
@@ -252,7 +252,7 @@
       "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
-      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com"
+      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
       "user_login": "faestarlight",
@@ -327,7 +327,7 @@
       "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gibsontales",
-      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com"
+      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
     },
     {
       "user_login": "gmclay_",
@@ -466,16 +466,16 @@
     },
     {
       "user_login": "mustardfennek",
-      "user_name": "MustardFennek",
+      "user_name": "mustardfennek",
       "is_live": false,
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 0,
+      "follower_count": null,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40f31867-3e55-439d-9478-fbb294a98353-profile_image-300x300.jpeg",
+      "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/mustardfennek",
       "description": ""
     },
@@ -486,7 +486,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 0,
+      "follower_count": null,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -702,7 +702,7 @@
       "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/300584e8-db38-4b02-8678-93f5777ab1ba-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/vaporwavejoe",
-      "description": "yoyo my name is Joe and on this channel we chill, play games and listen to a genre i love which is Vaporwave."
+      "description": "yoyo my name is Joe and on this channel we chill, play games and listen to a genre i love which is Vaporwave. "
     },
     {
       "user_login": "viridisbytes",
