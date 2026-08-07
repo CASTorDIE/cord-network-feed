@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T03:02:59.230Z",
+  "generatedAt": "2026-08-07T03:07:59.317Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T03:02:59.230Z",
+    "fetchedAt": "2026-08-07T03:07:59.317Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Palworld and Vibe Games | !pizza !discord !telegram !vrc | T1-T3 Subs Gif the Screen",
       "game_name": "Palworld",
-      "viewer_count": 100,
+      "viewer_count": 102,
       "follower_count": 10103,
       "language": "en",
       "started_at": "2026-08-07T00:34:57Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 1 blind C Sides!",
       "game_name": "Celeste",
-      "viewer_count": 9,
+      "viewer_count": 7,
       "follower_count": 268,
       "language": "en",
       "started_at": "2026-08-07T00:55:37Z",
