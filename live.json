@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T17:27:57.796Z",
+  "generatedAt": "2026-08-07T17:32:57.870Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T17:27:57.796Z",
+    "fetchedAt": "2026-08-07T17:32:57.870Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[DROPS] CND main learns new heros!!🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 56,
+      "viewer_count": 46,
       "follower_count": 10464,
       "language": "en",
       "started_at": "2026-08-07T16:09:19Z",
