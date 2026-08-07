@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-07T00:17:59.058Z",
+  "generatedAt": "2026-08-07T00:22:59.218Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T00:17:59.058Z",
+    "fetchedAt": "2026-08-07T00:22:59.218Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 4,
-    "offlineCount": 47
+    "liveCount": 5,
+    "offlineCount": 46
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Welfare raider! 💀 PARTNER PLUS GOAL: 29/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 169,
-      "follower_count": 14081,
+      "viewer_count": 190,
+      "follower_count": 14083,
       "language": "en",
       "started_at": "2026-08-06T20:25:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| Learning KHATUN 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 101,
+      "viewer_count": 105,
       "follower_count": 8511,
       "language": "en",
       "started_at": "2026-08-06T21:00:15Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "FIRST PLAYTHROUGH | Alan Wake 2 | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 18,
+      "viewer_count": 16,
       "follower_count": 621,
       "language": "en",
       "started_at": "2026-08-06T21:31:39Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 2404,
+      "language": "en",
+      "started_at": "2026-08-07T00:22:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -165,21 +180,6 @@
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 2404,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "beckybplays",
       "user_name": "BeckyBPlays",
       "is_live": false,
@@ -231,7 +231,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 109807,
+      "follower_count": 109806,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -741,7 +741,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10104,
+      "follower_count": 10105,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
