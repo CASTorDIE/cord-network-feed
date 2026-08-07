@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T15:57:57.595Z",
+  "generatedAt": "2026-08-07T16:02:58.622Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T15:57:57.595Z",
+    "fetchedAt": "2026-08-07T16:02:58.622Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Dead Mall Nightmares & A Haunted Phone?! | Everyone Welcomed !hype !discord",
       "game_name": "SIMULACRA",
-      "viewer_count": 11,
+      "viewer_count": 10,
       "follower_count": 5138,
       "language": "en",
       "started_at": "2026-08-07T15:11:25Z",
