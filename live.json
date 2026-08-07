@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-07T16:07:57.645Z",
+  "generatedAt": "2026-08-07T16:12:57.662Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T16:07:57.645Z",
+    "fetchedAt": "2026-08-07T16:12:57.662Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 1,
-    "offlineCount": 50
+    "liveCount": 2,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Dead Mall Nightmares & A Haunted Phone?! | Everyone Welcomed !hype !discord",
       "game_name": "SIMULACRA",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "follower_count": 5137,
       "language": "en",
       "started_at": "2026-08-07T15:11:25Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "CND main learns new heros!!🎀",
+      "game_name": "Marvel Rivals",
+      "viewer_count": 1,
+      "follower_count": 10462,
+      "language": "en",
+      "started_at": "2026-08-07T16:09:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -148,21 +163,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/bigpapaxx8",
       "description": ""
-    },
-    {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 10462,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
       "user_login": "brycexd",
