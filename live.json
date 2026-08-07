@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T16:37:57.692Z",
+  "generatedAt": "2026-08-07T16:42:57.803Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T16:37:57.692Z",
+    "fetchedAt": "2026-08-07T16:42:57.803Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "CND main learns new heros!!🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 51,
+      "viewer_count": 53,
       "follower_count": 10462,
       "language": "en",
       "started_at": "2026-08-07T16:09:19Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Dead Mall Nightmares & A Haunted Phone?! | Everyone Welcomed !hype !discord",
       "game_name": "SIMULACRA",
-      "viewer_count": 11,
-      "follower_count": 5136,
+      "viewer_count": 12,
+      "follower_count": 5135,
       "language": "en",
       "started_at": "2026-08-07T15:11:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
