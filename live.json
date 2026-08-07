@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-07T22:52:58.277Z",
+  "generatedAt": "2026-08-07T22:58:01.368Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T22:52:58.277Z",
+    "fetchedAt": "2026-08-07T22:58:01.368Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 3,
-    "offlineCount": 48
+    "liveCount": 4,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✮⋆˙Partner Pushing!!!✮⋆˙|Lets give a community member their dream room!!! |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 84,
+      "viewer_count": 82,
       "follower_count": 2695,
       "language": "en",
       "started_at": "2026-08-07T21:17:26Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 58,
+      "viewer_count": 64,
       "follower_count": 2405,
       "language": "en",
       "started_at": "2026-08-07T22:34:00Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Kicking off the Affiliate party raid train!!! !donate !affiliateparty",
       "game_name": "Moonlight Peaks",
-      "viewer_count": 8,
+      "viewer_count": 11,
       "follower_count": 1048,
       "language": "en",
       "started_at": "2026-08-07T21:48:48Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
+    },
+    {
+      "user_login": "wexra",
+      "user_name": "Wexra",
+      "is_live": true,
+      "title": "|DROPS| Khatun Era? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
+      "game_name": "For Honor",
+      "viewer_count": 0,
+      "follower_count": 8521,
+      "language": "en",
+      "started_at": "2026-08-07T22:57:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -703,21 +718,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/viridisbytes",
       "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
-    },
-    {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 8521,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "wispy_witch",
