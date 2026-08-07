@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T16:17:57.707Z",
+  "generatedAt": "2026-08-07T16:22:57.723Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T16:17:57.707Z",
+    "fetchedAt": "2026-08-07T16:22:57.723Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "CND main learns new heros!!🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 35,
+      "viewer_count": 36,
       "follower_count": 10462,
       "language": "en",
       "started_at": "2026-08-07T16:09:19Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Dead Mall Nightmares & A Haunted Phone?! | Everyone Welcomed !hype !discord",
       "game_name": "SIMULACRA",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 5137,
       "language": "en",
       "started_at": "2026-08-07T15:11:25Z",
