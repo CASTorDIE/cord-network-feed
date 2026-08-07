@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T14:57:57.560Z",
+  "generatedAt": "2026-08-07T15:02:57.510Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T14:57:57.560Z",
+    "fetchedAt": "2026-08-07T15:02:57.510Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Dead Mall Nightmares & A Haunted Phone?! | Everyone Welcomed !hype !discord",
       "game_name": "Just Chatting",
-      "viewer_count": 21,
+      "viewer_count": 20,
       "follower_count": 5139,
       "language": "en",
       "started_at": "2026-08-07T12:59:26Z",
