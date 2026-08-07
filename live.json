@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-07T06:02:57.760Z",
+  "generatedAt": "2026-08-07T06:07:57.619Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T06:02:57.760Z",
+    "fetchedAt": "2026-08-07T06:07:57.619Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 2,
-    "offlineCount": 49
+    "liveCount": 3,
+    "offlineCount": 48
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "💜⚔️Marvel Tokon!!⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "MARVEL TŌKON: Fighting Souls",
-      "viewer_count": 11,
+      "viewer_count": 9,
       "follower_count": 2087,
       "language": "en",
       "started_at": "2026-08-07T00:22:52Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "*Knock* *Knock* HOUSEKEEPING!!! | This Bed We Made | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 10,
+      "viewer_count": 7,
       "follower_count": 906,
       "language": "en",
       "started_at": "2026-08-07T04:05:52Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
+    },
+    {
+      "user_login": "thewillzgamer",
+      "user_name": "TheWillZGamer",
+      "is_live": true,
+      "title": "🔴LATE NIGHT GTA VIBES, JOIN UP IN THE CHAOS",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "follower_count": 204,
+      "language": "en",
+      "started_at": "2026-08-07T06:07:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewillzgamer-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b2affad-c703-42e2-80db-42c1e0f80096-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/thewillzgamer",
+      "description": "Welcome! Here, you'll find me diving into immersive single-player experiences, from donning the cape as Batman in thrilling Arkham adventures to tackling intense Call of Duty campaigns. Whether it's unraveling mysteries or overcoming impossible odds. As I also stream Mainly on YouTube."
     },
     {
       "user_login": "4kaizen_gaming",
@@ -643,21 +658,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a66f01b8-5972-4a2b-b49d-6b5d715481ae-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/therealmrt_xpngx",
       "description": "Hi I am MRT, I have no idea what I’m doing. Just trying to entertain people"
-    },
-    {
-      "user_login": "thewillzgamer",
-      "user_name": "TheWillZGamer",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 204,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b2affad-c703-42e2-80db-42c1e0f80096-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/thewillzgamer",
-      "description": "Welcome! Here, you'll find me diving into immersive single-player experiences, from donning the cape as Batman in thrilling Arkham adventures to tackling intense Call of Duty campaigns. Whether it's unraveling mysteries or overcoming impossible odds. As I also stream Mainly on YouTube."
     },
     {
       "user_login": "tthackerr",
