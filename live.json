@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-07T04:02:57.599Z",
+  "generatedAt": "2026-08-07T04:07:57.668Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T04:02:57.599Z",
+    "fetchedAt": "2026-08-07T04:07:57.668Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 3,
-    "offlineCount": 48
+    "liveCount": 4,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Palworld and Vibe Games | !pizza !discord !telegram !vrc | T1-T3 Subs Gif the Screen",
       "game_name": "Palworld",
-      "viewer_count": 105,
+      "viewer_count": 106,
       "follower_count": 10103,
       "language": "en",
       "started_at": "2026-08-07T00:34:57Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "💜⚔️Marvel Tokon!!⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "MARVEL TŌKON: Fighting Souls",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 2087,
       "language": "en",
       "started_at": "2026-08-07T00:22:52Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 1 blind C Sides!",
       "game_name": "Celeste",
-      "viewer_count": 10,
+      "viewer_count": 8,
       "follower_count": 268,
       "language": "en",
       "started_at": "2026-08-07T00:55:37Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
+    },
+    {
+      "user_login": "dingo_dynasty",
+      "user_name": "Dingo_Dynasty",
+      "is_live": true,
+      "title": "*Knock* *Knock* HOUSEKEEPING!!! | This Bed We Made | Therapy & Chaos",
+      "game_name": "Games + Demos",
+      "viewer_count": 2,
+      "follower_count": 906,
+      "language": "en",
+      "started_at": "2026-08-07T04:05:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
+      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
       "user_login": "alfieduu",
@@ -201,7 +216,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 109806,
+      "follower_count": 109807,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -268,21 +283,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
-      "user_login": "dingo_dynasty",
-      "user_name": "Dingo_Dynasty",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 906,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
-      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
       "user_login": "faestarlight",
