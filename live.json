@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T23:37:58.387Z",
+  "generatedAt": "2026-08-07T23:42:58.344Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T23:37:58.387Z",
+    "fetchedAt": "2026-08-07T23:42:58.344Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -14,6 +14,21 @@
     "offlineCount": 47
   },
   "streamers": [
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Just Chatting",
+      "viewer_count": 85,
+      "follower_count": 2405,
+      "language": "en",
+      "started_at": "2026-08-07T22:34:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
     {
       "user_login": "jaxsberrypatch",
       "user_name": "jaxsberrypatch",
@@ -30,28 +45,13 @@
       "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Just Chatting",
-      "viewer_count": 66,
-      "follower_count": 2405,
-      "language": "en",
-      "started_at": "2026-08-07T22:34:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": true,
       "title": "|DROPS| Khatun Era? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 58,
-      "follower_count": 8521,
+      "viewer_count": 48,
+      "follower_count": 8522,
       "language": "en",
       "started_at": "2026-08-07T22:57:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Kicking off the Affiliate party raid train!!! !donate !affiliateparty",
       "game_name": "Moonlight Peaks",
-      "viewer_count": 13,
+      "viewer_count": 12,
       "follower_count": 1048,
       "language": "en",
       "started_at": "2026-08-07T21:48:48Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10476,
+      "follower_count": 10477,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
