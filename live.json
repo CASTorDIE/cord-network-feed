@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-07T02:27:59.359Z",
+  "generatedAt": "2026-08-07T02:32:59.471Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T02:27:59.359Z",
+    "fetchedAt": "2026-08-07T02:32:59.471Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 6,
-    "offlineCount": 45
+    "liveCount": 5,
+    "offlineCount": 46
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Palworld and Vibe Games | !pizza !discord !telegram !vrc | T1-T3 Subs Gif the Screen",
       "game_name": "Palworld",
-      "viewer_count": 106,
+      "viewer_count": 97,
       "follower_count": 10103,
       "language": "en",
       "started_at": "2026-08-07T00:34:57Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "|DROPS| Learning KHATUN 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 99,
-      "follower_count": 8518,
+      "viewer_count": 89,
+      "follower_count": 8517,
       "language": "en",
       "started_at": "2026-08-06T21:00:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 63,
+      "viewer_count": 56,
       "follower_count": 2405,
       "language": "en",
       "started_at": "2026-08-07T00:22:08Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "💜⚔️Fortnite Fun for Twitch Black Guild's Spirit Week! then After we play Tokon ⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "Fortnite",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 2086,
       "language": "en",
       "started_at": "2026-08-07T00:22:52Z",
@@ -88,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
-    },
-    {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": true,
-      "title": "I Have a Plan. The Abyss Has Other Ideas. Let's see where it  takes us.",
-      "game_name": "Games + Demos",
-      "viewer_count": 4,
-      "follower_count": 333,
-      "language": "en",
-      "started_at": "2026-08-06T22:44:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "alfieduu",
@@ -343,6 +328,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 333,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "gibsontales",
