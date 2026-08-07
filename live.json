@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T00:10:20.102Z",
+  "generatedAt": "2026-08-07T00:12:59.605Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T00:10:20.102Z",
+    "fetchedAt": "2026-08-07T00:12:59.605Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -21,7 +21,7 @@
       "title": "Welfare raider! 💀 PARTNER PLUS GOAL: 29/300",
       "game_name": "ARC Raiders",
       "viewer_count": 166,
-      "follower_count": 14080,
+      "follower_count": 14081,
       "language": "en",
       "started_at": "2026-08-06T20:25:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "I Have a Plan. The Abyss Has Other Ideas. Let's see where it  takes us.",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 333,
       "language": "en",
       "started_at": "2026-08-06T22:44:40Z",
