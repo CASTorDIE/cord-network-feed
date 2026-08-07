@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T13:42:58.432Z",
+  "generatedAt": "2026-08-07T13:47:58.418Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T13:42:58.432Z",
+    "fetchedAt": "2026-08-07T13:47:58.418Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Dead Mall Nightmares & A Haunted Phone?! | Everyone Welcomed !hype !discord",
       "game_name": "Dreamcore",
-      "viewer_count": 16,
+      "viewer_count": 14,
       "follower_count": 5139,
       "language": "en",
       "started_at": "2026-08-07T12:59:26Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👁️your song requests - piano / ukulele [novice] 🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "follower_count": 389,
       "language": "en",
       "started_at": "2026-08-07T13:03:25Z",
