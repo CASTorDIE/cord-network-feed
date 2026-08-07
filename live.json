@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T15:07:57.545Z",
+  "generatedAt": "2026-08-07T15:12:57.663Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T15:07:57.545Z",
+    "fetchedAt": "2026-08-07T15:12:57.663Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,10 +20,10 @@
       "is_live": true,
       "title": "Dead Mall Nightmares & A Haunted Phone?! | Everyone Welcomed !hype !discord",
       "game_name": "SIMULACRA",
-      "viewer_count": 24,
+      "viewer_count": 1,
       "follower_count": 5139,
       "language": "en",
-      "started_at": "2026-08-07T12:59:26Z",
+      "started_at": "2026-08-07T15:11:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
