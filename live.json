@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T20:57:58.115Z",
+  "generatedAt": "2026-08-07T21:02:58.149Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-07T20:57:58.115Z",
+    "fetchedAt": "2026-08-07T21:02:58.149Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[DROPS] DIAMOND 2 TODAY I BEG PWZ PWINCESS!!🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 74,
+      "viewer_count": 71,
       "follower_count": 10475,
       "language": "en",
       "started_at": "2026-08-07T16:09:19Z",
