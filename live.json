@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-08T22:02:58.374Z",
+  "generatedAt": "2026-08-08T22:07:58.481Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T22:02:58.374Z",
+    "fetchedAt": "2026-08-08T22:07:58.481Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 2,
-    "offlineCount": 49
+    "liveCount": 3,
+    "offlineCount": 48
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| 1v1ing Viewers! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 67,
+      "viewer_count": 66,
       "follower_count": 8534,
       "language": "en",
       "started_at": "2026-08-08T21:37:40Z",
@@ -34,8 +34,8 @@
       "user_name": "ZombaeSempai",
       "is_live": true,
       "title": "Clocking in for part 1 of these 24 hours! | Saturday Edition | 12 hour stream!",
-      "game_name": "Fortnite",
-      "viewer_count": 10,
+      "game_name": "Project Zomboid",
+      "viewer_count": 11,
       "follower_count": 527,
       "language": "en",
       "started_at": "2026-08-08T16:42:05Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zombaesempai",
       "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
+    },
+    {
+      "user_login": "ohgoshimjosh",
+      "user_name": "OhGoshImJosh",
+      "is_live": true,
+      "title": "JACKBOX THEN FORTNITE GEM HOUR| !commands For Fun! |",
+      "game_name": "Jackbox Party Packs",
+      "viewer_count": 3,
+      "follower_count": 638,
+      "language": "en",
+      "started_at": "2026-08-08T22:04:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohgoshimjosh-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
+      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -523,21 +538,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": ""
-    },
-    {
-      "user_login": "ohgoshimjosh",
-      "user_name": "OhGoshImJosh",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 638,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
-      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
       "user_login": "padbae",
