@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T21:47:58.289Z",
+  "generatedAt": "2026-08-08T21:52:58.425Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T21:47:58.289Z",
+    "fetchedAt": "2026-08-08T21:52:58.425Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| 1v1ing Viewers! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 49,
+      "viewer_count": 61,
       "follower_count": 8534,
       "language": "en",
       "started_at": "2026-08-08T21:37:40Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Clocking in for part 1 of these 24 hours! | Saturday Edition | 12 hour stream!",
       "game_name": "Fortnite",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 527,
       "language": "en",
       "started_at": "2026-08-08T16:42:05Z",
