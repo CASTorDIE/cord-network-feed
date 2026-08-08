@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-08T16:37:57.880Z",
+  "generatedAt": "2026-08-08T16:42:57.958Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T16:37:57.880Z",
+    "fetchedAt": "2026-08-08T16:42:57.958Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 2,
-    "offlineCount": 49
+    "liveCount": 3,
+    "offlineCount": 48
   },
   "streamers": [
     {
@@ -19,8 +19,8 @@
       "user_name": "BeckyBPlays",
       "is_live": true,
       "title": "🦋DROPS🦋 Butterfly Plushie Hunt! Then Expanding Our Colony | Everyone Welcomed !hype !discord",
-      "game_name": "Palia",
-      "viewer_count": 41,
+      "game_name": "Just Chatting",
+      "viewer_count": 44,
       "follower_count": 5138,
       "language": "en",
       "started_at": "2026-08-08T13:00:56Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I'm a bard come be dazzled",
       "game_name": "Baldur's Gate 3",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 460,
       "language": "en",
       "started_at": "2026-08-08T15:09:02Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "zombaesempai",
+      "user_name": "ZombaeSempai",
+      "is_live": true,
+      "title": "Clocking in for part 1 of these 24 hours! | Saturday Edition | 12 hour stream!",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 528,
+      "language": "en",
+      "started_at": "2026-08-08T16:42:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zombaesempai",
+      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -763,21 +778,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe0e9f2a-f2c5-4d2a-b3e4-32aa5e3c6c85-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zoddric",
       "description": "Welcome! Former combat medic in the army and current pet dad of 3. I love anything RPG, whether it's space exploration in No Man's Sky or fighting my way through heartless in Kingdom Hearts, anything that has a story I'm game for. I stream on TikTok as well under the same handle! Come on by, say hi"
-    },
-    {
-      "user_login": "zombaesempai",
-      "user_name": "ZombaeSempai",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 528,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zombaesempai",
-      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     }
   ]
 }
