@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T19:32:58.170Z",
+  "generatedAt": "2026-08-08T19:37:58.182Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T19:32:58.170Z",
+    "fetchedAt": "2026-08-08T19:37:58.182Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "💜⚔️Twitch Unity Guild Jamboree Time w/ @asdruboi and friends! ⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "Super Mario Party Jamboree",
-      "viewer_count": 10,
-      "follower_count": 2089,
+      "viewer_count": 9,
+      "follower_count": 2090,
       "language": "en",
       "started_at": "2026-08-08T18:30:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
