@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T18:37:58.161Z",
+  "generatedAt": "2026-08-08T18:42:58.055Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T18:37:58.161Z",
+    "fetchedAt": "2026-08-08T18:42:58.055Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Expanding Our Colony | Everyone Welcomed !hype !discord",
       "game_name": "Oxygen Not Included",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 5138,
       "language": "en",
       "started_at": "2026-08-08T13:00:56Z",
@@ -30,27 +30,12 @@
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
-      "user_login": "zombaesempai",
-      "user_name": "ZombaeSempai",
-      "is_live": true,
-      "title": "Clocking in for part 1 of these 24 hours! | Saturday Edition | 12 hour stream!",
-      "game_name": "Fields of Mistria",
-      "viewer_count": 3,
-      "follower_count": 527,
-      "language": "en",
-      "started_at": "2026-08-08T16:42:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zombaesempai",
-      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
-    },
-    {
       "user_login": "floodwater_",
       "user_name": "FloodWater_",
       "is_live": true,
       "title": "💜⚔️Twitch Unity Guild Jamboree Time w/ @asdruboi and friends! ⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "Super Mario Party Jamboree",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "follower_count": 2087,
       "language": "en",
       "started_at": "2026-08-08T18:30:26Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
+    },
+    {
+      "user_login": "zombaesempai",
+      "user_name": "ZombaeSempai",
+      "is_live": true,
+      "title": "Clocking in for part 1 of these 24 hours! | Saturday Edition | 12 hour stream!",
+      "game_name": "Fields of Mistria",
+      "viewer_count": 4,
+      "follower_count": 527,
+      "language": "en",
+      "started_at": "2026-08-08T16:42:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zombaesempai",
+      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 110071,
+      "follower_count": 110072,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
