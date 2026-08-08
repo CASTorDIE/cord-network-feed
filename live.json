@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-08T00:07:58.470Z",
+  "generatedAt": "2026-08-08T00:12:58.417Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T00:07:58.470Z",
+    "fetchedAt": "2026-08-08T00:12:58.417Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 3,
-    "offlineCount": 48
+    "liveCount": 4,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -19,8 +19,8 @@
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Just Chatting",
-      "viewer_count": 81,
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 83,
       "follower_count": 2405,
       "language": "en",
       "started_at": "2026-08-07T22:34:00Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| Khatun Era? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 72,
+      "viewer_count": 70,
       "follower_count": 8524,
       "language": "en",
       "started_at": "2026-08-07T22:57:11Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Kicking off the Affiliate party raid train!!! !donate !affiliateparty",
       "game_name": "Moonlight Peaks",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 1048,
       "language": "en",
       "started_at": "2026-08-07T21:48:48Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
+    },
+    {
+      "user_login": "slimchungusgaming",
+      "user_name": "SlimChungusGaming",
+      "is_live": true,
+      "title": "RUNNING THIS WATERPARK WHILE SPICY!",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 0,
+      "follower_count": 395,
+      "language": "en",
+      "started_at": "2026-08-08T00:11:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimchungusgaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
+      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -568,21 +583,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/skavstheworld",
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
-    {
-      "user_login": "slimchungusgaming",
-      "user_name": "SlimChungusGaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 395,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
-      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "taixiao",
