@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-08T05:12:57.841Z",
+  "generatedAt": "2026-08-08T05:17:57.840Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T05:12:57.841Z",
+    "fetchedAt": "2026-08-08T05:17:57.840Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 1,
-    "offlineCount": 50
+    "liveCount": 2,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "*Knock* *Knock* HOUSEKEEPING!!! | This Bed We Made | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 14,
+      "viewer_count": 15,
       "follower_count": 904,
       "language": "en",
       "started_at": "2026-08-08T04:07:58Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
+    },
+    {
+      "user_login": "taixiao",
+      "user_name": "TaiXiao",
+      "is_live": true,
+      "title": "I'm not sorry for being inconsistent | !raffle !social !rank !burp",
+      "game_name": "Just Chatting",
+      "viewer_count": 1,
+      "follower_count": 310,
+      "language": "en",
+      "started_at": "2026-08-08T05:13:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taixiao-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c376db32-fb72-4987-97f5-e1c21d93b622-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/taixiao",
+      "description": "The woman with the 3 missing fingers on her keyboard hand."
     },
     {
       "user_login": "4kaizen_gaming",
@@ -568,21 +583,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/slimchungusgaming",
       "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
-    },
-    {
-      "user_login": "taixiao",
-      "user_name": "TaiXiao",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 310,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c376db32-fb72-4987-97f5-e1c21d93b622-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/taixiao",
-      "description": "The woman with the 3 missing fingers on her keyboard hand."
     },
     {
       "user_login": "tdub60live",
