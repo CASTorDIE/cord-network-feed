@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T16:27:57.883Z",
+  "generatedAt": "2026-08-08T16:32:57.919Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T16:27:57.883Z",
+    "fetchedAt": "2026-08-08T16:32:57.919Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦋DROPS🦋 Butterfly Plushie Hunt! Then Expanding Our Colony | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 52,
+      "viewer_count": 46,
       "follower_count": 5138,
       "language": "en",
       "started_at": "2026-08-08T13:00:56Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 110064,
+      "follower_count": 110066,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
