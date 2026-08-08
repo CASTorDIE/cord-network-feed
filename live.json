@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T07:12:58.077Z",
+  "generatedAt": "2026-08-08T07:17:58.010Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T07:12:58.077Z",
+    "fetchedAt": "2026-08-08T07:17:58.010Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Tubi movies breakdown | !raffle !social !rank !burp",
       "game_name": "Just Chatting",
-      "viewer_count": 9,
+      "viewer_count": 8,
       "follower_count": 310,
       "language": "en",
       "started_at": "2026-08-08T05:13:15Z",
@@ -561,7 +561,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14106,
+      "follower_count": 14107,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
