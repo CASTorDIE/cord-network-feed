@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T15:12:57.759Z",
+  "generatedAt": "2026-08-08T15:17:57.757Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T15:12:57.759Z",
+    "fetchedAt": "2026-08-08T15:17:57.757Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦋DROPS🦋 Butterfly Plushie Hunt! Then Expanding Our Colony | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 42,
+      "viewer_count": 43,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-08-08T13:00:56Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Pretend like you didn't see that",
       "game_name": "SEED",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 460,
       "language": "en",
       "started_at": "2026-08-08T15:09:02Z",
