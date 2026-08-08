@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T15:37:57.846Z",
+  "generatedAt": "2026-08-08T15:42:57.796Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T15:37:57.846Z",
+    "fetchedAt": "2026-08-08T15:42:57.796Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦋DROPS🦋 Butterfly Plushie Hunt! Then Expanding Our Colony | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 44,
+      "viewer_count": 45,
       "follower_count": 5136,
       "language": "en",
       "started_at": "2026-08-08T13:00:56Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I'm a bard come be dazzled",
       "game_name": "Baldur's Gate 3",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "follower_count": 460,
       "language": "en",
       "started_at": "2026-08-08T15:09:02Z",
