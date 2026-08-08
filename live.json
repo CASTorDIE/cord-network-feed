@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T20:17:58.288Z",
+  "generatedAt": "2026-08-08T20:22:58.191Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T20:17:58.288Z",
+    "fetchedAt": "2026-08-08T20:22:58.191Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "💜⚔️Twitch Unity Guild Jamboree Time w/ @asdruboi and friends! ⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "Super Mario Party Jamboree",
-      "viewer_count": 8,
+      "viewer_count": 9,
       "follower_count": 2091,
       "language": "en",
       "started_at": "2026-08-08T18:30:26Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Clocking in for part 1 of these 24 hours! | Saturday Edition | 12 hour stream!",
       "game_name": "Fortnite",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 527,
       "language": "en",
       "started_at": "2026-08-08T16:42:05Z",
