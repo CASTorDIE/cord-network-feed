@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T11:12:58.396Z",
+  "generatedAt": "2026-08-08T11:17:58.477Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T11:12:58.396Z",
+    "fetchedAt": "2026-08-08T11:17:58.477Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✮⋆˙Partner Pushing!!!✮⋆˙|Decorating Sanfransokyo!!!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 87,
-      "follower_count": 2695,
+      "viewer_count": 128,
+      "follower_count": 2696,
       "language": "en",
       "started_at": "2026-08-08T10:58:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 110057,
+      "follower_count": 110058,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
