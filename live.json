@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-08T15:07:57.764Z",
+  "generatedAt": "2026-08-08T15:12:57.759Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T15:07:57.764Z",
+    "fetchedAt": "2026-08-08T15:12:57.759Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 1,
-    "offlineCount": 50
+    "liveCount": 2,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦋DROPS🦋 Butterfly Plushie Hunt! Then Expanding Our Colony | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 44,
+      "viewer_count": 42,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-08-08T13:00:56Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
+      "user_login": "tehchno",
+      "user_name": "tehchno",
+      "is_live": true,
+      "title": "Pretend like you didn't see that",
+      "game_name": "SEED",
+      "viewer_count": 1,
+      "follower_count": 460,
+      "language": "en",
+      "started_at": "2026-08-08T15:09:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tehchno-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/tehchno",
+      "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -598,21 +613,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cd90037-ae61-4692-b597-d07655410207-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/tdub60live",
       "description": "🎮 Hey, I'm tdub60! Variety streamer serving up chill vibes, good laughs, and the occasional hype moment. I’m here to have fun, meet cool people, and build a positive space where everyone feels welcome. Join my discord https://discord.gg/rFjBnqqt"
-    },
-    {
-      "user_login": "tehchno",
-      "user_name": "tehchno",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 460,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/tehchno",
-      "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
     },
     {
       "user_login": "theblueslime_yt",
