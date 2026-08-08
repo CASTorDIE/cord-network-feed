@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T18:22:58.058Z",
+  "generatedAt": "2026-08-08T18:27:58.056Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T18:22:58.058Z",
+    "fetchedAt": "2026-08-08T18:27:58.056Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Expanding Our Colony | Everyone Welcomed !hype !discord",
       "game_name": "Oxygen Not Included",
-      "viewer_count": 23,
+      "viewer_count": 11,
       "follower_count": 5138,
       "language": "en",
       "started_at": "2026-08-08T13:00:56Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Clocking in for part 1 of these 24 hours! | Saturday Edition | 12 hour stream!",
       "game_name": "Fields of Mistria",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 527,
       "language": "en",
       "started_at": "2026-08-08T16:42:05Z",
