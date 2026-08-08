@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T23:42:58.511Z",
+  "generatedAt": "2026-08-08T23:47:58.492Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T23:42:58.511Z",
+    "fetchedAt": "2026-08-08T23:47:58.492Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| KHATUN GRIND 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 91,
+      "viewer_count": 85,
       "follower_count": 8538,
       "language": "en",
       "started_at": "2026-08-08T21:37:40Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → SKIN STAPLER 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 79,
+      "viewer_count": 77,
       "follower_count": 2409,
       "language": "en",
       "started_at": "2026-08-08T22:36:49Z",
