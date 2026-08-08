@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T22:22:58.319Z",
+  "generatedAt": "2026-08-08T22:27:58.354Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T22:22:58.319Z",
+    "fetchedAt": "2026-08-08T22:27:58.354Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| 1v1ing Viewers! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 117,
+      "viewer_count": 108,
       "follower_count": 8535,
       "language": "en",
       "started_at": "2026-08-08T21:37:40Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "JACKBOX THEN FORTNITE GEM HOUR| !commands For Fun! |",
       "game_name": "Jackbox Party Packs",
-      "viewer_count": 16,
+      "viewer_count": 14,
       "follower_count": 638,
       "language": "en",
       "started_at": "2026-08-08T22:04:43Z",
