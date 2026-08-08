@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T13:12:57.618Z",
+  "generatedAt": "2026-08-08T13:17:57.670Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T13:12:57.618Z",
+    "fetchedAt": "2026-08-08T13:17:57.670Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✮⋆˙Partner Pushing!!!✮⋆˙|Decorating Sanfransokyo!!!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 97,
-      "follower_count": 2701,
+      "viewer_count": 108,
+      "follower_count": 2702,
       "language": "en",
       "started_at": "2026-08-08T10:58:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦋DROPS🦋 Butterfly Plushie Hunt! Then Expanding Our Colony | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 19,
+      "viewer_count": 27,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-08-08T13:00:56Z",
