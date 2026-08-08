@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T07:02:58.052Z",
+  "generatedAt": "2026-08-08T07:07:58.018Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T07:02:58.052Z",
+    "fetchedAt": "2026-08-08T07:07:58.018Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -18,9 +18,9 @@
       "user_login": "taixiao",
       "user_name": "TaiXiao",
       "is_live": true,
-      "title": "Inconsistent streamer plays horror games | !raffle !social !rank !burp",
+      "title": "Tubi movies breakdown | !raffle !social !rank !burp",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 10,
       "follower_count": 310,
       "language": "en",
       "started_at": "2026-08-08T05:13:15Z",
