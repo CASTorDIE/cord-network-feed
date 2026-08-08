@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-08T16:47:57.921Z",
+  "generatedAt": "2026-08-08T16:52:57.903Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T16:47:57.921Z",
+    "fetchedAt": "2026-08-08T16:52:57.903Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 3,
-    "offlineCount": 48
+    "liveCount": 2,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Expanding Our Colony | Everyone Welcomed !hype !discord",
       "game_name": "Oxygen Not Included",
-      "viewer_count": 40,
+      "viewer_count": 33,
       "follower_count": 5138,
       "language": "en",
       "started_at": "2026-08-08T13:00:56Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Clocking in for part 1 of these 24 hours! | Saturday Edition | 12 hour stream!",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 528,
       "language": "en",
       "started_at": "2026-08-08T16:42:05Z",
@@ -43,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zombaesempai",
       "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
-    },
-    {
-      "user_login": "tehchno",
-      "user_name": "tehchno",
-      "is_live": true,
-      "title": "I'm a bard come be dazzled",
-      "game_name": "Baldur's Gate 3",
-      "viewer_count": 2,
-      "follower_count": 460,
-      "language": "en",
-      "started_at": "2026-08-08T15:09:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tehchno-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/tehchno",
-      "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -186,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10488,
+      "follower_count": 10489,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -628,6 +613,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cd90037-ae61-4692-b597-d07655410207-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/tdub60live",
       "description": "🎮 Hey, I'm tdub60! Variety streamer serving up chill vibes, good laughs, and the occasional hype moment. I’m here to have fun, meet cool people, and build a positive space where everyone feels welcome. Join my discord https://discord.gg/rFjBnqqt"
+    },
+    {
+      "user_login": "tehchno",
+      "user_name": "tehchno",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 460,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/tehchno",
+      "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
     },
     {
       "user_login": "theblueslime_yt",
