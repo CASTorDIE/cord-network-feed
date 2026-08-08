@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T17:07:57.983Z",
+  "generatedAt": "2026-08-08T17:12:57.978Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T17:07:57.983Z",
+    "fetchedAt": "2026-08-08T17:12:57.978Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Expanding Our Colony | Everyone Welcomed !hype !discord",
       "game_name": "Oxygen Not Included",
-      "viewer_count": 33,
+      "viewer_count": 28,
       "follower_count": 5138,
       "language": "en",
       "started_at": "2026-08-08T13:00:56Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Clocking in for part 1 of these 24 hours! | Saturday Edition | 12 hour stream!",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 6,
       "follower_count": 528,
       "language": "en",
       "started_at": "2026-08-08T16:42:05Z",
