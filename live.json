@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T05:37:57.922Z",
+  "generatedAt": "2026-08-08T05:42:57.850Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T05:37:57.922Z",
+    "fetchedAt": "2026-08-08T05:42:57.850Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "*Knock* *Knock* HOUSEKEEPING!!! | This Bed We Made | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 16,
+      "viewer_count": 15,
       "follower_count": 904,
       "language": "en",
       "started_at": "2026-08-08T04:07:58Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Inconsistent streamer plays horror games | !raffle !social !rank !burp",
       "game_name": "Unhinged",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "follower_count": 310,
       "language": "en",
       "started_at": "2026-08-08T05:13:15Z",
