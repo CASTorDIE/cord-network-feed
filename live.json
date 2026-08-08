@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-08-08T00:12:58.417Z",
+  "generatedAt": "2026-08-08T00:17:58.466Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T00:12:58.417Z",
+    "fetchedAt": "2026-08-08T00:17:58.466Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 4,
-    "offlineCount": 47
+    "liveCount": 5,
+    "offlineCount": 46
   },
   "streamers": [
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
       "is_live": true,
-      "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Waterpark Simulator",
-      "viewer_count": 83,
-      "follower_count": 2405,
+      "title": "✅24/7 DROP STREAM✅DAY 938🗑️!discord🗑️!factor🗑️FREAK A FAN FOR A FIVER FRIDAY🗑️WE ARE FREAKING THE FANS FOR FIVERS🗑️DROP A FIVER AND YOU",
+      "game_name": "Rocket League",
+      "viewer_count": 140,
+      "follower_count": 109820,
       "language": "en",
-      "started_at": "2026-08-07T22:34:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+      "started_at": "2026-08-08T00:12:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "wexra",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| Khatun Era? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 70,
+      "viewer_count": 77,
       "follower_count": 8524,
       "language": "en",
       "started_at": "2026-08-07T22:57:11Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPING AND GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 73,
+      "follower_count": 2405,
+      "language": "en",
+      "started_at": "2026-08-07T22:34:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "desertrose",
@@ -65,7 +80,7 @@
       "is_live": true,
       "title": "RUNNING THIS WATERPARK WHILE SPICY!",
       "game_name": "Waterpark Simulator",
-      "viewer_count": 0,
+      "viewer_count": 3,
       "follower_count": 395,
       "language": "en",
       "started_at": "2026-08-08T00:11:21Z",
@@ -208,21 +223,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 109818,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
