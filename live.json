@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T03:57:57.778Z",
+  "generatedAt": "2026-08-08T04:02:57.738Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T03:57:57.778Z",
+    "fetchedAt": "2026-08-08T04:02:57.738Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 938🗑️!discord🗑️!factor🗑️FREAK A FAN FOR A FIVER FRIDAY🗑️WE ARE FREAKING THE FANS FOR FIVERS🗑️DROP A FIVER AND YOU",
       "game_name": "Rocket League",
-      "viewer_count": 410,
-      "follower_count": 110038,
+      "viewer_count": 336,
+      "follower_count": 110046,
       "language": "en",
       "started_at": "2026-08-08T00:12:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
