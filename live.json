@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T04:52:57.891Z",
+  "generatedAt": "2026-08-08T04:57:57.886Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T04:52:57.891Z",
+    "fetchedAt": "2026-08-08T04:57:57.886Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "*Knock* *Knock* HOUSEKEEPING!!! | This Bed We Made | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 13,
+      "viewer_count": 15,
       "follower_count": 904,
       "language": "en",
       "started_at": "2026-08-08T04:07:58Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "7C is conquered! Time to finish the rest of Cs",
       "game_name": "Celeste",
-      "viewer_count": 12,
+      "viewer_count": 14,
       "follower_count": 268,
       "language": "en",
       "started_at": "2026-08-08T00:55:13Z",
