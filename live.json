@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T06:37:58.003Z",
+  "generatedAt": "2026-08-08T06:42:58.005Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T06:37:58.003Z",
+    "fetchedAt": "2026-08-08T06:42:58.005Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "*Knock* *Knock* HOUSEKEEPING!!! | This Bed We Made | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 904,
       "language": "en",
       "started_at": "2026-08-08T04:07:58Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Inconsistent streamer plays horror games | !raffle !social !rank !burp",
       "game_name": "Just Chatting",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 310,
       "language": "en",
       "started_at": "2026-08-08T05:13:15Z",
