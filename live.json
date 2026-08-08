@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T05:32:57.873Z",
+  "generatedAt": "2026-08-08T05:37:57.922Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-08T05:32:57.873Z",
+    "fetchedAt": "2026-08-08T05:37:57.922Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "*Knock* *Knock* HOUSEKEEPING!!! | This Bed We Made | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 14,
+      "viewer_count": 16,
       "follower_count": 904,
       "language": "en",
       "started_at": "2026-08-08T04:07:58Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 110050,
+      "follower_count": 110049,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
