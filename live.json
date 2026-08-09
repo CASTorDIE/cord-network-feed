@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T04:22:57.888Z",
+  "generatedAt": "2026-08-09T04:27:58.736Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T04:22:57.888Z",
+    "fetchedAt": "2026-08-09T04:27:58.736Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Clocking in for part 1 of these 24 hours! | Saturday Edition | 12 hour stream! |",
       "game_name": "Persona 5 Royal",
-      "viewer_count": 14,
+      "viewer_count": 12,
       "follower_count": 529,
       "language": "en",
       "started_at": "2026-08-08T16:42:05Z",
