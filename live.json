@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T13:17:57.714Z",
+  "generatedAt": "2026-08-09T13:22:57.733Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T13:17:57.714Z",
+    "fetchedAt": "2026-08-09T13:22:57.733Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✮⋆˙Partner Pushing!!!✮⋆˙|Decorating your house!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 94,
+      "viewer_count": 91,
       "follower_count": 2707,
       "language": "en",
       "started_at": "2026-08-09T11:56:25Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦋DROPS🦋 Monthly Bundle Progress! Then My FIRST Hogwarts Legacy Playthrough | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 23,
+      "viewer_count": 24,
       "follower_count": 5137,
       "language": "en",
       "started_at": "2026-08-09T13:02:02Z",
