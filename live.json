@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T16:07:57.977Z",
+  "generatedAt": "2026-08-09T16:12:58.025Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T16:07:57.977Z",
+    "fetchedAt": "2026-08-09T16:12:58.025Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "My FIRST Hogwarts Legacy Playthrough | Everyone Welcomed !hype !discord",
       "game_name": "Hogwarts Legacy",
-      "viewer_count": 31,
+      "viewer_count": 34,
       "follower_count": 5137,
       "language": "en",
       "started_at": "2026-08-09T13:02:02Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
       "game_name": "Just Chatting",
-      "viewer_count": 0,
+      "viewer_count": 4,
       "follower_count": 530,
       "language": "en",
       "started_at": "2026-08-09T16:05:46Z",
