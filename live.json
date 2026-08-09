@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-09T01:17:57.637Z",
+  "generatedAt": "2026-08-09T01:22:57.715Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T01:17:57.637Z",
+    "fetchedAt": "2026-08-09T01:22:57.715Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 6,
-    "offlineCount": 45
+    "liveCount": 5,
+    "offlineCount": 46
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 939👊!discord👊!factor👊BRO FIST👊BRO FIST👊BRO FIST ME👊OOPS HAHAHA SILLY TYPO DONT DO THAT👊UNLESS👊NO IM JUST JOKIN",
       "game_name": "Rocket League",
-      "viewer_count": 536,
-      "follower_count": 110129,
+      "viewer_count": 542,
+      "follower_count": 110134,
       "language": "en",
       "started_at": "2026-08-09T00:09:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → SKIN STAPLER 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "The Skin Stapler",
-      "viewer_count": 81,
+      "viewer_count": 77,
       "follower_count": 2409,
       "language": "en",
       "started_at": "2026-08-08T22:36:49Z",
@@ -45,27 +45,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": true,
-      "title": "COMING BACK TO HALO! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
-      "game_name": "Halo: The Master Chief Collection",
-      "viewer_count": 48,
-      "follower_count": 8541,
-      "language": "en",
-      "started_at": "2026-08-08T21:37:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
-    },
-    {
       "user_login": "ohgoshimjosh",
       "user_name": "OhGoshImJosh",
       "is_live": true,
-      "title": "JACKBOX THEN FORTNITE GEM HOUR| !commands For Fun! |",
-      "game_name": "Jackbox Party Packs",
-      "viewer_count": 18,
+      "title": "FORTNITE  POWER HOUR | CC: OHGOSH | !commands For Fun! |",
+      "game_name": "Fortnite",
+      "viewer_count": 19,
       "follower_count": 640,
       "language": "en",
       "started_at": "2026-08-08T22:04:43Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "Clocking in for part 1 of these 24 hours! | Saturday Edition | 12 hour stream! |",
       "game_name": "Just Chatting",
-      "viewer_count": 15,
+      "viewer_count": 17,
       "follower_count": 528,
       "language": "en",
       "started_at": "2026-08-08T16:42:05Z",
@@ -95,7 +80,7 @@
       "is_live": true,
       "title": "Farewell! I am ready to cry",
       "game_name": "Celeste",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 268,
       "language": "en",
       "started_at": "2026-08-09T00:56:01Z",
@@ -733,6 +718,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/viridisbytes",
       "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
+    },
+    {
+      "user_login": "wexra",
+      "user_name": "Wexra",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 8541,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "wispy_witch",
