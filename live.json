@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T16:27:58.044Z",
+  "generatedAt": "2026-08-09T16:32:58.026Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T16:27:58.044Z",
+    "fetchedAt": "2026-08-09T16:32:58.026Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "My FIRST Hogwarts Legacy Playthrough | Everyone Welcomed !hype !discord",
       "game_name": "Hogwarts Legacy",
-      "viewer_count": 35,
+      "viewer_count": 34,
       "follower_count": 5136,
       "language": "en",
       "started_at": "2026-08-09T13:02:02Z",
