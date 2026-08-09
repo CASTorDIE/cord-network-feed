@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T20:08:00.081Z",
+  "generatedAt": "2026-08-09T20:12:58.632Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T20:08:00.081Z",
+    "fetchedAt": "2026-08-09T20:12:58.632Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "♡ eating your entrails ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT2 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 10,
+      "viewer_count": 16,
       "follower_count": 1342,
       "language": "en",
       "started_at": "2026-08-09T18:45:30Z",
@@ -411,7 +411,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 620,
+      "follower_count": 621,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
