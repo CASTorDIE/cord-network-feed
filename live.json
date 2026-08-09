@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T19:53:00.149Z",
+  "generatedAt": "2026-08-09T19:57:59.288Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T19:53:00.149Z",
+    "fetchedAt": "2026-08-09T19:57:59.288Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -14,6 +14,21 @@
     "offlineCount": 49
   },
   "streamers": [
+    {
+      "user_login": "zombaesempai",
+      "user_name": "ZombaeSempai",
+      "is_live": true,
+      "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
+      "game_name": "Fortnite",
+      "viewer_count": 10,
+      "follower_count": 530,
+      "language": "en",
+      "started_at": "2026-08-09T16:05:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zombaesempai",
+      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
+    },
     {
       "user_login": "padbae",
       "user_name": "padbae",
@@ -28,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/padbae",
       "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
-    },
-    {
-      "user_login": "zombaesempai",
-      "user_name": "ZombaeSempai",
-      "is_live": true,
-      "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
-      "game_name": "Fortnite",
-      "viewer_count": 8,
-      "follower_count": 530,
-      "language": "en",
-      "started_at": "2026-08-09T16:05:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zombaesempai",
-      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -561,7 +561,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14111,
+      "follower_count": 14112,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
