@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T04:02:58.092Z",
+  "generatedAt": "2026-08-09T04:07:57.919Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T04:02:58.092Z",
+    "fetchedAt": "2026-08-09T04:07:57.919Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Farewell! I am ready to cry",
       "game_name": "Celeste",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 270,
       "language": "en",
       "started_at": "2026-08-09T00:56:01Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Clocking in for part 1 of these 24 hours! | Saturday Edition | 12 hour stream! |",
       "game_name": "Persona 5 Royal",
-      "viewer_count": 13,
+      "viewer_count": 12,
       "follower_count": 529,
       "language": "en",
       "started_at": "2026-08-08T16:42:05Z",
