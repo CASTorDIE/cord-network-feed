@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T23:17:57.616Z",
+  "generatedAt": "2026-08-09T23:22:57.663Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T23:17:57.616Z",
+    "fetchedAt": "2026-08-09T23:22:57.663Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 69,
-      "follower_count": 2415,
+      "viewer_count": 64,
+      "follower_count": 2416,
       "language": "en",
       "started_at": "2026-08-09T22:37:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
       "game_name": "Fortnite",
-      "viewer_count": 15,
+      "viewer_count": 14,
       "follower_count": 530,
       "language": "en",
       "started_at": "2026-08-09T16:05:46Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zombaesempai",
       "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": true,
+      "title": "No Plan. Just Vibes. Whatever Happens, Happens.",
+      "game_name": "Just Chatting",
+      "viewer_count": 6,
+      "follower_count": 334,
+      "language": "en",
+      "started_at": "2026-08-09T21:22:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "healzealot",
@@ -58,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8e3c734-edb2-4003-b2e7-a5d901c34138-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/healzealot",
       "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
-    },
-    {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": true,
-      "title": "No Plan. Just Vibes. Whatever Happens, Happens.",
-      "game_name": "Just Chatting",
-      "viewer_count": 5,
-      "follower_count": 334,
-      "language": "en",
-      "started_at": "2026-08-09T21:22:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
