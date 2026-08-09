@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T22:17:57.562Z",
+  "generatedAt": "2026-08-09T22:22:57.567Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T22:17:57.562Z",
+    "fetchedAt": "2026-08-09T22:22:57.567Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
       "game_name": "Fortnite",
-      "viewer_count": 14,
+      "viewer_count": 15,
       "follower_count": 530,
       "language": "en",
       "started_at": "2026-08-09T16:05:46Z",
