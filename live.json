@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T22:02:58.522Z",
+  "generatedAt": "2026-08-09T22:07:58.519Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T22:02:58.522Z",
+    "fetchedAt": "2026-08-09T22:07:58.519Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
       "game_name": "Fortnite",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 530,
       "language": "en",
       "started_at": "2026-08-09T16:05:46Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "No Plan. Just Vibes. Whatever Happens, Happens.",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 334,
       "language": "en",
       "started_at": "2026-08-09T21:22:35Z",
