@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T15:17:57.927Z",
+  "generatedAt": "2026-08-09T15:22:57.933Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T15:17:57.927Z",
+    "fetchedAt": "2026-08-09T15:22:57.933Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦋DROPS🦋 Monthly Bundle Progress! Then My FIRST Hogwarts Legacy Playthrough | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 40,
+      "viewer_count": 49,
       "follower_count": 5137,
       "language": "en",
       "started_at": "2026-08-09T13:02:02Z",
@@ -426,7 +426,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 64,
+      "follower_count": 65,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
