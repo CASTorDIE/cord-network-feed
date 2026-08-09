@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T17:27:58.120Z",
+  "generatedAt": "2026-08-09T17:32:58.117Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T17:27:58.120Z",
+    "fetchedAt": "2026-08-09T17:32:58.117Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "My FIRST Hogwarts Legacy Playthrough | Everyone Welcomed !hype !discord",
       "game_name": "Hogwarts Legacy",
-      "viewer_count": 32,
-      "follower_count": 5135,
+      "viewer_count": 35,
+      "follower_count": 5134,
       "language": "en",
       "started_at": "2026-08-09T13:02:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
       "game_name": "Persona 5 Royal",
-      "viewer_count": 7,
+      "viewer_count": 4,
       "follower_count": 530,
       "language": "en",
       "started_at": "2026-08-09T16:05:46Z",
