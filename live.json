@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-09T00:07:57.540Z",
+  "generatedAt": "2026-08-09T00:12:57.568Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T00:07:57.540Z",
+    "fetchedAt": "2026-08-09T00:12:57.568Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 4,
-    "offlineCount": 47
+    "liveCount": 6,
+    "offlineCount": 45
   },
   "streamers": [
     {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": true,
-      "title": "|DROPS| KHATUN GRIND WITH VIEWERS 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
-      "game_name": "For Honor",
-      "viewer_count": 89,
+      "title": "UNRANKED WITH VIEWERS 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
+      "game_name": "Rainbow Six Siege",
+      "viewer_count": 97,
       "follower_count": 8539,
       "language": "en",
       "started_at": "2026-08-08T21:37:40Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → SKIN STAPLER 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "The Skin Stapler",
-      "viewer_count": 82,
+      "viewer_count": 92,
       "follower_count": 2409,
       "language": "en",
       "started_at": "2026-08-08T22:36:49Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "JACKBOX THEN FORTNITE GEM HOUR| !commands For Fun! |",
       "game_name": "Jackbox Party Packs",
-      "viewer_count": 15,
+      "viewer_count": 12,
       "follower_count": 640,
       "language": "en",
       "started_at": "2026-08-08T22:04:43Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Clocking in for part 1 of these 24 hours! | Saturday Edition | 12 hour stream! | @darkgravity43 @bonnetdiaries",
       "game_name": "Gordy",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 527,
       "language": "en",
       "started_at": "2026-08-08T16:42:05Z",
@@ -73,6 +73,36 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zombaesempai",
       "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 939👊!discord👊!factor👊BRO FIST👊BRO FIST👊BRO FIST ME👊OOPS HAHAHA SILLY TYPO DONT DO THAT👊UNLESS👊NO IM JUST JOKIN",
+      "game_name": "Rocket League",
+      "viewer_count": 1,
+      "follower_count": 110078,
+      "language": "en",
+      "started_at": "2026-08-09T00:09:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
+      "user_login": "tdub60live",
+      "user_name": "tdub60live",
+      "is_live": true,
+      "title": "WHAT IS SMITE 2? SPEEDRUNNING LOOSING RANKED MATCHES!!!!! SMITE 2",
+      "game_name": "SMITE 2",
+      "viewer_count": 0,
+      "follower_count": 91,
+      "language": "en",
+      "started_at": "2026-08-09T00:11:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tdub60live-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cd90037-ae61-4692-b597-d07655410207-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/tdub60live",
+      "description": "🎮 Hey, I'm tdub60! Variety streamer serving up chill vibes, good laughs, and the occasional hype moment. I’m here to have fun, meet cool people, and build a positive space where everyone feels welcome. Join my discord https://discord.gg/rFjBnqqt"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -208,21 +238,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 110078,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
@@ -613,21 +628,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c376db32-fb72-4987-97f5-e1c21d93b622-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/taixiao",
       "description": "The woman with the 3 missing fingers on her keyboard hand."
-    },
-    {
-      "user_login": "tdub60live",
-      "user_name": "tdub60live",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 91,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cd90037-ae61-4692-b597-d07655410207-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/tdub60live",
-      "description": "🎮 Hey, I'm tdub60! Variety streamer serving up chill vibes, good laughs, and the occasional hype moment. I’m here to have fun, meet cool people, and build a positive space where everyone feels welcome. Join my discord https://discord.gg/rFjBnqqt"
     },
     {
       "user_login": "tehchno",
