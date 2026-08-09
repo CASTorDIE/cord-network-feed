@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T22:42:57.566Z",
+  "generatedAt": "2026-08-09T22:47:57.616Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T22:42:57.566Z",
+    "fetchedAt": "2026-08-09T22:47:57.616Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "zombaesempai",
-      "user_name": "ZombaeSempai",
-      "is_live": true,
-      "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
-      "game_name": "Fortnite",
-      "viewer_count": 15,
-      "follower_count": 530,
-      "language": "en",
-      "started_at": "2026-08-09T16:05:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zombaesempai",
-      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 9,
+      "viewer_count": 49,
       "follower_count": 2415,
       "language": "en",
       "started_at": "2026-08-09T22:37:02Z",
@@ -45,12 +30,27 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "zombaesempai",
+      "user_name": "ZombaeSempai",
+      "is_live": true,
+      "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
+      "game_name": "Fortnite",
+      "viewer_count": 14,
+      "follower_count": 530,
+      "language": "en",
+      "started_at": "2026-08-09T16:05:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zombaesempai",
+      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
+    },
+    {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "No Plan. Just Vibes. Whatever Happens, Happens.",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 334,
       "language": "en",
       "started_at": "2026-08-09T21:22:35Z",
