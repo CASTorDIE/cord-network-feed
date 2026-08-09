@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T19:32:59.491Z",
+  "generatedAt": "2026-08-09T19:37:58.297Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-09T19:32:59.491Z",
+    "fetchedAt": "2026-08-09T19:37:58.297Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "♡ eating your entrails ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT2 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 14,
+      "viewer_count": 12,
       "follower_count": 1343,
       "language": "en",
       "started_at": "2026-08-09T18:45:30Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
       "game_name": "Fortnite",
-      "viewer_count": 8,
+      "viewer_count": 9,
       "follower_count": 530,
       "language": "en",
       "started_at": "2026-08-09T16:05:46Z",
