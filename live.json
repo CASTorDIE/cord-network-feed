@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-10T06:07:58.270Z",
+  "generatedAt": "2026-08-10T06:12:58.378Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-10T06:07:58.270Z",
+    "fetchedAt": "2026-08-10T06:12:58.378Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "No Plan. Just Vibes. Whatever Happens, Happens.",
       "game_name": "Just Chatting",
-      "viewer_count": 11,
+      "viewer_count": 10,
       "follower_count": 335,
       "language": "en",
       "started_at": "2026-08-09T21:22:35Z",
