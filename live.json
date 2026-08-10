@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-10T04:07:58.053Z",
+  "generatedAt": "2026-08-10T04:12:58.062Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-10T04:07:58.053Z",
+    "fetchedAt": "2026-08-10T04:12:58.062Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 5,
-    "offlineCount": 46
+    "liveCount": 4,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Palworld and Important News | !pizza !discord !telegram !vrc | T1-T3 Subs Gif the Screen",
       "game_name": "Palworld",
-      "viewer_count": 76,
+      "viewer_count": 87,
       "follower_count": 10092,
       "language": "en",
       "started_at": "2026-08-10T03:28:13Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Voice Acting with @owaranai_matsu | !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 40,
-      "follower_count": 6235,
+      "viewer_count": 38,
+      "follower_count": 6234,
       "language": "en",
       "started_at": "2026-08-09T23:29:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
@@ -45,27 +45,12 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
-      "user_login": "zombaesempai",
-      "user_name": "ZombaeSempai",
-      "is_live": true,
-      "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
-      "game_name": "Murder Meet Cute",
-      "viewer_count": 13,
-      "follower_count": 531,
-      "language": "en",
-      "started_at": "2026-08-09T16:05:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zombaesempai",
-      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
-    },
-    {
       "user_login": "floodwater_",
       "user_name": "FloodWater_",
       "is_live": true,
       "title": "💜⚔️Marvel Tokon Ranked Time! ⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "MARVEL TŌKON: Fighting Souls",
-      "viewer_count": 11,
+      "viewer_count": 14,
       "follower_count": 2094,
       "language": "en",
       "started_at": "2026-08-10T01:26:10Z",
@@ -778,6 +763,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe0e9f2a-f2c5-4d2a-b3e4-32aa5e3c6c85-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zoddric",
       "description": "Welcome! Former combat medic in the army and current pet dad of 3. I love anything RPG, whether it's space exploration in No Man's Sky or fighting my way through heartless in Kingdom Hearts, anything that has a story I'm game for. I stream on TikTok as well under the same handle! Come on by, say hi"
+    },
+    {
+      "user_login": "zombaesempai",
+      "user_name": "ZombaeSempai",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 531,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zombaesempai",
+      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     }
   ]
 }
