@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-10T06:57:58.335Z",
+  "generatedAt": "2026-08-10T07:02:58.390Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-10T06:57:58.335Z",
+    "fetchedAt": "2026-08-10T07:02:58.390Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 1,
-    "offlineCount": 50
+    "liveCount": 2,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Palworld and Important News | !pizza !discord !telegram !vrc | T1-T3 Subs Gif the Screen",
       "game_name": "Palworld",
-      "viewer_count": 118,
+      "viewer_count": 114,
       "follower_count": 10092,
       "language": "en",
       "started_at": "2026-08-10T03:28:13Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
+    },
+    {
+      "user_login": "viridisbytes",
+      "user_name": "ViridisBytes",
+      "is_live": true,
+      "title": "[18+] My Biggest Enemy? The Oxygen Meter | Dave The Diver | !advanced !discord !lurk !time !clip |",
+      "game_name": "Just Chatting",
+      "viewer_count": 8,
+      "follower_count": 1258,
+      "language": "en",
+      "started_at": "2026-08-10T07:00:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/viridisbytes",
+      "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -703,21 +718,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/300584e8-db38-4b02-8678-93f5777ab1ba-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/vaporwavejoe",
       "description": "yoyo my name is Joe and on this channel we chill, play games and listen to a genre i love which is Vaporwave. "
-    },
-    {
-      "user_login": "viridisbytes",
-      "user_name": "ViridisBytes",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1258,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/viridisbytes",
-      "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
     },
     {
       "user_login": "wexra",
