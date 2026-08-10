@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-08-10T03:17:58.026Z",
+  "generatedAt": "2026-08-10T03:22:58.015Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-10T03:17:58.026Z",
+    "fetchedAt": "2026-08-10T03:22:58.015Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 5,
-    "offlineCount": 46
+    "liveCount": 4,
+    "offlineCount": 47
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 940🚕!discord🚕!factor🚕HEE HEE HEE HEE HEE🚕AAAAAHHHHHHH🚕OOOOOOOOOOOOGA🚕BAWOOOOOOOGA🚕MY COLLAR BLUE BUT NECK IS RE",
-      "game_name": "Rocket League",
-      "viewer_count": 465,
-      "follower_count": 110500,
-      "language": "en",
-      "started_at": "2026-08-10T00:10:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "Voice Acting with @owaranai_matsu | !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 46,
+      "viewer_count": 51,
       "follower_count": 6235,
       "language": "en",
       "started_at": "2026-08-09T23:29:43Z",
@@ -43,21 +28,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
       "twitch_url": "https://www.twitch.tv/ao_zora_",
       "description": "I sing and play games. Sometimes I bake"
-    },
-    {
-      "user_login": "floodwater_",
-      "user_name": "FloodWater_",
-      "is_live": true,
-      "title": "💜⚔️Marvel Tokon Ranked Time! ⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
-      "game_name": "MARVEL TŌKON: Fighting Souls",
-      "viewer_count": 15,
-      "follower_count": 2094,
-      "language": "en",
-      "started_at": "2026-08-10T01:26:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/floodwater_",
-      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
       "user_login": "zombaesempai",
@@ -73,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zombaesempai",
       "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
+    },
+    {
+      "user_login": "floodwater_",
+      "user_name": "FloodWater_",
+      "is_live": true,
+      "title": "💜⚔️Marvel Tokon Ranked Time! ⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
+      "game_name": "MARVEL TŌKON: Fighting Souls",
+      "viewer_count": 11,
+      "follower_count": 2094,
+      "language": "en",
+      "started_at": "2026-08-10T01:26:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/floodwater_",
+      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
       "user_login": "gatito_maldito",
@@ -223,6 +208,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 110501,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
