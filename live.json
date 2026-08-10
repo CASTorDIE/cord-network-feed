@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-10T20:32:59.093Z",
+  "generatedAt": "2026-08-10T20:37:59.064Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-10T20:32:59.093Z",
+    "fetchedAt": "2026-08-10T20:37:59.064Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[drops] MONDAYS CALL FOR SPACE BUNS IT'S THE LAW🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 0,
+      "viewer_count": 26,
       "follower_count": 10479,
       "language": "en",
       "started_at": "2026-08-10T20:32:00Z",
