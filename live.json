@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-10T03:32:58.017Z",
+  "generatedAt": "2026-08-10T03:37:58.002Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-10T03:32:58.017Z",
+    "fetchedAt": "2026-08-10T03:37:58.002Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Voice Acting with @owaranai_matsu | !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 51,
+      "viewer_count": 56,
       "follower_count": 6235,
       "language": "en",
       "started_at": "2026-08-09T23:29:43Z",
@@ -30,12 +30,27 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
+      "user_login": "zaldar87",
+      "user_name": "Zaldar87",
+      "is_live": true,
+      "title": "🦊🦇| Palworld and Important News | !pizza !discord !telegram !vrc | T1-T3 Subs Gif the Screen",
+      "game_name": "Palworld",
+      "viewer_count": 36,
+      "follower_count": 10091,
+      "language": "en",
+      "started_at": "2026-08-10T03:28:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zaldar87",
+      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
+    },
+    {
       "user_login": "zombaesempai",
       "user_name": "ZombaeSempai",
       "is_live": true,
       "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
       "game_name": "Murder Meet Cute",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 531,
       "language": "en",
       "started_at": "2026-08-09T16:05:46Z",
@@ -50,7 +65,7 @@
       "is_live": true,
       "title": "💜⚔️Marvel Tokon Ranked Time! ⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "MARVEL TŌKON: Fighting Souls",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 2094,
       "language": "en",
       "started_at": "2026-08-10T01:26:10Z",
@@ -73,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
-    },
-    {
-      "user_login": "zaldar87",
-      "user_name": "Zaldar87",
-      "is_live": true,
-      "title": "🦊🦇| Palworld and Important News | !pizza !discord !telegram !vrc | T1-T3 Subs Gif the Screen",
-      "game_name": "Palworld",
-      "viewer_count": 1,
-      "follower_count": 10091,
-      "language": "en",
-      "started_at": "2026-08-10T03:28:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zaldar87",
-      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "4kaizen_gaming",
