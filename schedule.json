@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-09T19:37:14.001Z",
+  "generatedAt": "2026-08-10T16:56:52.037Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-09T19:37:13.968Z",
+    "updatedAt": "2026-08-10T16:56:52.005Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 7,
+    "entryCount": 19,
     "firstDate": "2026-08-09",
     "lastDate": "2026-08-16",
     "windowStart": "2026-08-09",
-    "windowEnd": "2026-11-07",
+    "windowEnd": "2026-11-08",
     "invalidEntryCount": 0,
     "duplicateEntryCount": 0
   },
@@ -46,6 +46,19 @@
       "url": "https://www.twitch.tv/desertrose"
     },
     {
+      "id": "evt_1786380686463_mxd0o5",
+      "date": "2026-08-09",
+      "dateLabel": "Sunday, August 9th",
+      "weekday": "Sunday",
+      "streamer": "GibsonTales",
+      "title": "Community Movie Night",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
       "id": "evt_1786304209296_s5i8ws",
       "date": "2026-08-09",
       "dateLabel": "Sunday, August 9th",
@@ -57,6 +70,19 @@
       "highlight": "green",
       "pillLabel": "SPECIAL",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1786381012001_8selut",
+      "date": "2026-08-09",
+      "dateLabel": "Sunday, August 9th",
+      "weekday": "Sunday",
+      "streamer": "Ao_Zora_",
+      "title": "Ring Fit and Ace Attorney",
+      "timeMinutes": 1110,
+      "timeLabel": "6:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/ao_zora_"
     },
     {
       "id": "evt_1786304209296_bef1o3",
@@ -72,6 +98,58 @@
       "url": "https://www.twitch.tv/horror_heather"
     },
     {
+      "id": "evt_1786380686463_eahzyh",
+      "date": "2026-08-11",
+      "dateLabel": "Tuesday, August 11th",
+      "weekday": "Tuesday",
+      "streamer": "GibsonTales",
+      "title": "Dark Pictures Anthology: Little Hope",
+      "timeMinutes": 465,
+      "timeLabel": "7:45 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
+      "id": "evt_1786380903495_02k47d",
+      "date": "2026-08-11",
+      "dateLabel": "Tuesday, August 11th",
+      "weekday": "Tuesday",
+      "streamer": "Dingo_Dynasty",
+      "title": "The Skin Stapler",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
+    },
+    {
+      "id": "evt_1786380686463_um5pa5",
+      "date": "2026-08-12",
+      "dateLabel": "Wednesday, August 12th",
+      "weekday": "Wednesday",
+      "streamer": "GibsonTales",
+      "title": "Log Riders",
+      "timeMinutes": 465,
+      "timeLabel": "7:45 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
+      "id": "evt_1786381012001_lhq8j1",
+      "date": "2026-08-12",
+      "dateLabel": "Wednesday, August 12th",
+      "weekday": "Wednesday",
+      "streamer": "Ao_Zora_",
+      "title": "Karaoke",
+      "timeMinutes": 1110,
+      "timeLabel": "6:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/ao_zora_"
+    },
+    {
       "id": "evt_1786304209296_uqup7j",
       "date": "2026-08-13",
       "dateLabel": "Thursday, August 13th",
@@ -85,6 +163,71 @@
       "url": "https://www.twitch.tv/horror_heather"
     },
     {
+      "id": "evt_1786381012001_29kgh4",
+      "date": "2026-08-13",
+      "dateLabel": "Thursday, August 13th",
+      "weekday": "Thursday",
+      "streamer": "Ao_Zora_",
+      "title": "My Little Puppy",
+      "timeMinutes": 1110,
+      "timeLabel": "6:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/ao_zora_"
+    },
+    {
+      "id": "evt_1786380903495_gdp6lz",
+      "date": "2026-08-13",
+      "dateLabel": "Thursday, August 13th",
+      "weekday": "Thursday",
+      "streamer": "Dingo_Dynasty",
+      "title": "A Plague Tale: Requiem",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
+    },
+    {
+      "id": "evt_1786380686463_y00zm6",
+      "date": "2026-08-14",
+      "dateLabel": "Friday, August 14th",
+      "weekday": "Friday",
+      "streamer": "GibsonTales",
+      "title": "Horror Game: She Was 98",
+      "timeMinutes": 465,
+      "timeLabel": "7:45 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
+      "id": "evt_1786380903495_5asxw3",
+      "date": "2026-08-14",
+      "dateLabel": "Friday, August 14th",
+      "weekday": "Friday",
+      "streamer": "Dingo_Dynasty",
+      "title": "A Plague Tale: Requiem",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
+    },
+    {
+      "id": "evt_1786380686463_7n9097",
+      "date": "2026-08-15",
+      "dateLabel": "Saturday, August 15th",
+      "weekday": "Saturday",
+      "streamer": "GibsonTales",
+      "title": "Community Game Night",
+      "timeMinutes": 1200,
+      "timeLabel": "8:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
       "id": "evt_1786304209296_aardk3",
       "date": "2026-08-15",
       "dateLabel": "Saturday, August 15th",
@@ -96,6 +239,19 @@
       "highlight": "green",
       "pillLabel": "SPECIAL",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1786380686464_crz8wc",
+      "date": "2026-08-16",
+      "dateLabel": "Sunday, August 16th",
+      "weekday": "Sunday",
+      "streamer": "GibsonTales",
+      "title": "Community Movie Night",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/gibsontales"
     },
     {
       "id": "evt_1786304209296_z3cc0q",
