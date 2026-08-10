@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-10T04:37:58.136Z",
+  "generatedAt": "2026-08-10T04:42:58.137Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-10T04:37:58.136Z",
+    "fetchedAt": "2026-08-10T04:42:58.137Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 4,
-    "offlineCount": 47
+    "liveCount": 5,
+    "offlineCount": 46
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Palworld and Important News | !pizza !discord !telegram !vrc | T1-T3 Subs Gif the Screen",
       "game_name": "Palworld",
-      "viewer_count": 96,
+      "viewer_count": 103,
       "follower_count": 10092,
       "language": "en",
       "started_at": "2026-08-10T03:28:13Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Voice Acting with @owaranai_matsu | !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 39,
+      "viewer_count": 41,
       "follower_count": 6234,
       "language": "en",
       "started_at": "2026-08-09T23:29:43Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "💜⚔️Marvel Tokon Ranked Time! ⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "MARVEL TŌKON: Fighting Souls",
-      "viewer_count": 14,
+      "viewer_count": 12,
       "follower_count": 2094,
       "language": "en",
       "started_at": "2026-08-10T01:26:10Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "No Plan. Just Vibes. Whatever Happens, Happens.",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 335,
       "language": "en",
       "started_at": "2026-08-09T21:22:35Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "thewillzgamer",
+      "user_name": "TheWillZGamer",
+      "is_live": true,
+      "title": "🔴LIVE PLAYING GTA ONLINE, JOIN UP IN THE CHAOS!!!",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "follower_count": 206,
+      "language": "en",
+      "started_at": "2026-08-10T04:42:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewillzgamer-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b2affad-c703-42e2-80db-42c1e0f80096-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/thewillzgamer",
+      "description": "Welcome! Here, you'll find me diving into immersive single-player experiences, from donning the cape as Batman in thrilling Arkham adventures to tackling intense Call of Duty campaigns. Whether it's unraveling mysteries or overcoming impossible odds. As I also stream Mainly on YouTube."
     },
     {
       "user_login": "4kaizen_gaming",
@@ -658,21 +673,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a66f01b8-5972-4a2b-b49d-6b5d715481ae-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/therealmrt_xpngx",
       "description": "Hi I am MRT, I have no idea what I’m doing. Just trying to entertain people"
-    },
-    {
-      "user_login": "thewillzgamer",
-      "user_name": "TheWillZGamer",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 206,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b2affad-c703-42e2-80db-42c1e0f80096-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/thewillzgamer",
-      "description": "Welcome! Here, you'll find me diving into immersive single-player experiences, from donning the cape as Batman in thrilling Arkham adventures to tackling intense Call of Duty campaigns. Whether it's unraveling mysteries or overcoming impossible odds. As I also stream Mainly on YouTube."
     },
     {
       "user_login": "tthackerr",
