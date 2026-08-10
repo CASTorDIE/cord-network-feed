@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-10T05:57:59.818Z",
+  "generatedAt": "2026-08-10T06:02:58.293Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-10T05:57:59.818Z",
+    "fetchedAt": "2026-08-10T06:02:58.293Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Palworld and Important News | !pizza !discord !telegram !vrc | T1-T3 Subs Gif the Screen",
       "game_name": "Palworld",
-      "viewer_count": 111,
+      "viewer_count": 114,
       "follower_count": 10092,
       "language": "en",
       "started_at": "2026-08-10T03:28:13Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "No Plan. Just Vibes. Whatever Happens, Happens.",
       "game_name": "Just Chatting",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 335,
       "language": "en",
       "started_at": "2026-08-09T21:22:35Z",
