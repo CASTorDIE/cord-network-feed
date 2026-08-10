@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-10T02:02:57.811Z",
+  "generatedAt": "2026-08-10T02:07:57.922Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-10T02:02:57.811Z",
+    "fetchedAt": "2026-08-10T02:07:57.922Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 7,
-    "offlineCount": 44
+    "liveCount": 6,
+    "offlineCount": 45
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 940🚕!discord🚕!factor🚕HEE HEE HEE HEE HEE🚕AAAAAHHHHHHH🚕OOOOOOOOOOOOGA🚕BAWOOOOOOOGA🚕MY COLLAR BLUE BUT NECK IS RE",
       "game_name": "Rocket League",
-      "viewer_count": 713,
-      "follower_count": 110410,
+      "viewer_count": 701,
+      "follower_count": 110411,
       "language": "en",
       "started_at": "2026-08-10T00:10:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Who here feels aged LOL | !merch !throne !daki",
       "game_name": "Ring Fit Adventure",
-      "viewer_count": 60,
+      "viewer_count": 59,
       "follower_count": 6234,
       "language": "en",
       "started_at": "2026-08-09T23:29:43Z",
@@ -60,27 +60,12 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
-      "user_login": "healzealot",
-      "user_name": "HealZealot",
-      "is_live": true,
-      "title": "Trying out new silly and chaotic game son SILLY SUNDAY!!!|| !commands !whatsnew !streamteam !discord",
-      "game_name": "GRAIN ROT",
-      "viewer_count": 15,
-      "follower_count": 377,
-      "language": "en",
-      "started_at": "2026-08-09T22:54:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_healzealot-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8e3c734-edb2-4003-b2e7-a5d901c34138-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/healzealot",
-      "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
-    },
-    {
       "user_login": "zombaesempai",
       "user_name": "ZombaeSempai",
       "is_live": true,
       "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
       "game_name": "PEAK",
-      "viewer_count": 15,
+      "viewer_count": 14,
       "follower_count": 530,
       "language": "en",
       "started_at": "2026-08-09T16:05:46Z",
@@ -388,6 +373,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e89b72d-44f9-4905-9ba3-27d3141210ff-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/guitardoll",
       "description": "Chaotic, high-energy, and probably one bad decision away from a jump scare. | Welcome to the Dollhouse | Tue & Thurs 7PM • Sat 5PM | Business Email: guitardoll.official@gmail.com"
+    },
+    {
+      "user_login": "healzealot",
+      "user_name": "HealZealot",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 377,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8e3c734-edb2-4003-b2e7-a5d901c34138-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/healzealot",
+      "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
     },
     {
       "user_login": "horror_heather",
