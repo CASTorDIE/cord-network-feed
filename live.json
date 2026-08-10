@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-10T02:57:57.895Z",
+  "generatedAt": "2026-08-10T03:02:57.965Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-10T02:57:57.895Z",
+    "fetchedAt": "2026-08-10T03:02:57.965Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 6,
-    "offlineCount": 45
+    "liveCount": 5,
+    "offlineCount": 46
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 940🚕!discord🚕!factor🚕HEE HEE HEE HEE HEE🚕AAAAAHHHHHHH🚕OOOOOOOOOOOOGA🚕BAWOOOOOOOGA🚕MY COLLAR BLUE BUT NECK IS RE",
       "game_name": "Rocket League",
-      "viewer_count": 672,
-      "follower_count": 110482,
+      "viewer_count": 707,
+      "follower_count": 110484,
       "language": "en",
       "started_at": "2026-08-10T00:10:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Games + Demos",
-      "viewer_count": 62,
-      "follower_count": 2416,
-      "language": "en",
-      "started_at": "2026-08-09T22:37:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "Voice Acting with @owaranai_matsu | !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 55,
+      "viewer_count": 52,
       "follower_count": 6235,
       "language": "en",
       "started_at": "2026-08-09T23:29:43Z",
@@ -60,27 +45,12 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
-      "user_login": "zombaesempai",
-      "user_name": "ZombaeSempai",
-      "is_live": true,
-      "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
-      "game_name": "Invasion of The Halloween Fiends",
-      "viewer_count": 15,
-      "follower_count": 531,
-      "language": "en",
-      "started_at": "2026-08-09T16:05:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zombaesempai",
-      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
-    },
-    {
       "user_login": "floodwater_",
       "user_name": "FloodWater_",
       "is_live": true,
       "title": "💜⚔️Marvel Tokon Ranked Time! ⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "MARVEL TŌKON: Fighting Souls",
-      "viewer_count": 11,
+      "viewer_count": 15,
       "follower_count": 2093,
       "language": "en",
       "started_at": "2026-08-10T01:26:10Z",
@@ -88,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
+    },
+    {
+      "user_login": "zombaesempai",
+      "user_name": "ZombaeSempai",
+      "is_live": true,
+      "title": "Clocking in for part 2 of these 24 hours! | Sunday Edition | 12 hour stream! |",
+      "game_name": "Invasion of The Halloween Fiends",
+      "viewer_count": 14,
+      "follower_count": 531,
+      "language": "en",
+      "started_at": "2026-08-09T16:05:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zombaesempai",
+      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     },
     {
       "user_login": "gatito_maldito",
@@ -178,6 +163,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2416,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
