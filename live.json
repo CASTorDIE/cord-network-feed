@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-11T03:27:58.409Z",
+  "generatedAt": "2026-08-11T03:32:58.437Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T03:27:58.409Z",
+    "fetchedAt": "2026-08-11T03:32:58.437Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 3,
-    "offlineCount": 48
+    "liveCount": 2,
+    "offlineCount": 49
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 941🤦!discord🤦!factor🤦OOOOOOOOOHHHHHHHHHHHHH🤦‍♂️DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
       "game_name": "Rocket League",
-      "viewer_count": 697,
-      "follower_count": 110729,
+      "viewer_count": 615,
+      "follower_count": 110731,
       "language": "en",
       "started_at": "2026-08-11T00:05:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| Relaxation stream with GUNS! | !pizza !discord !telegram !vrc | T1-T3 Subs Gif the Screen",
       "game_name": "Guns 'n Goblins",
-      "viewer_count": 96,
+      "viewer_count": 100,
       "follower_count": 10093,
       "language": "en",
       "started_at": "2026-08-11T02:12:34Z",
@@ -43,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
-    {
-      "user_login": "ohgoshimjosh",
-      "user_name": "OhGoshImJosh",
-      "is_live": true,
-      "title": "MASTERY MONDAY POST SAUSAGE| EPIC CC: OHGOSH | !commands For Fun! |",
-      "game_name": "Fortnite",
-      "viewer_count": 13,
-      "follower_count": 641,
-      "language": "en",
-      "started_at": "2026-08-10T22:03:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohgoshimjosh-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
-      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -523,6 +508,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": ""
+    },
+    {
+      "user_login": "ohgoshimjosh",
+      "user_name": "OhGoshImJosh",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 642,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
+      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
     },
     {
       "user_login": "padbae",
