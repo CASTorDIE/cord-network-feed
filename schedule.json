@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-10T16:56:52.037Z",
+  "generatedAt": "2026-08-11T02:19:12.541Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-10T16:56:52.005Z",
+    "updatedAt": "2026-08-11T02:19:12.503Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 19,
+    "entryCount": 21,
     "firstDate": "2026-08-09",
     "lastDate": "2026-08-16",
     "windowStart": "2026-08-09",
@@ -96,6 +96,32 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1786414752497_rritx4",
+      "date": "2026-08-10",
+      "dateLabel": "Monday, August 10th",
+      "weekday": "Monday",
+      "streamer": "bribeecool10",
+      "title": "Untitled stream",
+      "timeMinutes": 1080,
+      "timeLabel": "6:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUESTS",
+      "url": "https://www.twitch.tv/bribeecool10"
+    },
+    {
+      "id": "evt_1786414752498_aixips",
+      "date": "2026-08-10",
+      "dateLabel": "Monday, August 10th",
+      "weekday": "Monday",
+      "streamer": "boww_wolf",
+      "title": "Untitled stream",
+      "timeMinutes": 1110,
+      "timeLabel": "6:30 PM",
+      "highlight": "orange",
+      "pillLabel": "GUESTS",
+      "url": "https://www.twitch.tv/boww_wolf"
     },
     {
       "id": "evt_1786380686463_eahzyh",
