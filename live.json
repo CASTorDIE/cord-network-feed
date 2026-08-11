@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T21:37:58.514Z",
+  "generatedAt": "2026-08-11T21:42:57.983Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T21:37:58.514Z",
+    "fetchedAt": "2026-08-11T21:42:57.983Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "IT\"S MY PARTNER ANNIVERSARY!! 💀 PARTNER PLUS GOAL: 60/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 147,
-      "follower_count": 14126,
+      "viewer_count": 155,
+      "follower_count": 14128,
       "language": "en",
       "started_at": "2026-08-11T18:38:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "PEAK |The FINAL UPDATE?! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "PEAK",
-      "viewer_count": 15,
+      "viewer_count": 14,
       "follower_count": 1721,
       "language": "en",
       "started_at": "2026-08-11T19:57:13Z",
