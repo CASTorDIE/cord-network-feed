@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-08-11T15:02:58.330Z",
+  "generatedAt": "2026-08-11T15:07:58.310Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T15:02:58.330Z",
+    "fetchedAt": "2026-08-11T15:07:58.310Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 2,
-    "offlineCount": 49
+    "liveCount": 1,
+    "offlineCount": 50
   },
   "streamers": [
-    {
-      "user_login": "gibsontales",
-      "user_name": "GibsonTales",
-      "is_live": true,
-      "title": "We Have to Agree on WHO LIVES 😭 | Little Hope | Couple Plays",
-      "game_name": "The Dark Pictures Anthology: Little Hope",
-      "viewer_count": 18,
-      "follower_count": 921,
-      "language": "en",
-      "started_at": "2026-08-11T12:45:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gibsontales",
-      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
-    },
     {
       "user_login": "faestarlight",
       "user_name": "FaeStarlight",
       "is_live": true,
       "title": "⭐Running Out Of Thyme⭐ !fish ⭐!discord⭐",
       "game_name": "Art",
-      "viewer_count": 9,
+      "viewer_count": 8,
       "follower_count": 508,
       "language": "en",
       "started_at": "2026-08-11T14:55:16Z",
@@ -328,6 +313,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "gibsontales",
+      "user_name": "GibsonTales",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 923,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gibsontales",
+      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
     },
     {
       "user_login": "gmclay_",
