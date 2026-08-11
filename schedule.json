@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T02:40:29.173Z",
+  "generatedAt": "2026-08-11T02:46:15.507Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
@@ -107,7 +107,7 @@
       "timeMinutes": 1080,
       "timeLabel": "6:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/bribeecool10"
     },
     {
@@ -120,7 +120,7 @@
       "timeMinutes": 1110,
       "timeLabel": "6:30 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/boww_wolf"
     },
     {
@@ -146,7 +146,7 @@
       "timeMinutes": 1020,
       "timeLabel": "5:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/mrcarameldrizzle"
     },
     {
@@ -159,7 +159,7 @@
       "timeMinutes": 1080,
       "timeLabel": "6:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/bribeecool10"
     },
     {
@@ -172,7 +172,7 @@
       "timeMinutes": 1080,
       "timeLabel": "6:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/thepuckgoa"
     },
     {
@@ -185,7 +185,7 @@
       "timeMinutes": 1110,
       "timeLabel": "6:30 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/boww_wolf"
     },
     {
@@ -224,7 +224,7 @@
       "timeMinutes": 1080,
       "timeLabel": "6:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/bribeecool10"
     },
     {
@@ -263,7 +263,7 @@
       "timeMinutes": 1020,
       "timeLabel": "5:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/mrcarameldrizzle"
     },
     {
@@ -276,7 +276,7 @@
       "timeMinutes": 1080,
       "timeLabel": "6:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/bribeecool10"
     },
     {
@@ -289,7 +289,7 @@
       "timeMinutes": 1080,
       "timeLabel": "6:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/thepuckgoa"
     },
     {
@@ -315,7 +315,7 @@
       "timeMinutes": 1110,
       "timeLabel": "6:30 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/boww_wolf"
     },
     {
@@ -354,7 +354,7 @@
       "timeMinutes": 1080,
       "timeLabel": "6:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/bribeecool10"
     },
     {
@@ -367,7 +367,7 @@
       "timeMinutes": 1080,
       "timeLabel": "6:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/fallentitanandy"
     },
     {
@@ -393,7 +393,7 @@
       "timeMinutes": 720,
       "timeLabel": "12:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/thepuckgoa"
     },
     {
@@ -406,7 +406,7 @@
       "timeMinutes": 1080,
       "timeLabel": "6:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/fallentitanandy"
     },
     {
@@ -419,7 +419,7 @@
       "timeMinutes": 1080,
       "timeLabel": "6:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/thepuckgoa"
     },
     {
@@ -458,7 +458,7 @@
       "timeMinutes": 720,
       "timeLabel": "12:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/thepuckgoa"
     },
     {
@@ -497,7 +497,7 @@
       "timeMinutes": 1020,
       "timeLabel": "5:00 PM",
       "highlight": "orange",
-      "pillLabel": "GUESTS",
+      "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/mrcarameldrizzle"
     }
   ]
