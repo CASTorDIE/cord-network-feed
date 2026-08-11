@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T03:42:58.369Z",
+  "generatedAt": "2026-08-11T03:47:58.316Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T03:42:58.369Z",
+    "fetchedAt": "2026-08-11T03:47:58.316Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 941🤦!discord🤦!factor🤦OOOOOOOOOHHHHHHHHHHHHH🤦‍♂️DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
       "game_name": "Rocket League",
-      "viewer_count": 687,
-      "follower_count": 110757,
+      "viewer_count": 674,
+      "follower_count": 110765,
       "language": "en",
       "started_at": "2026-08-11T00:05:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
