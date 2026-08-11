@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T07:02:57.558Z",
+  "generatedAt": "2026-08-11T07:07:57.641Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T07:02:57.558Z",
+    "fetchedAt": "2026-08-11T07:07:57.641Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Relaxation stream with GUNS! | !pizza !discord !telegram !vrc | T1-T3 Subs Gif the Screen",
       "game_name": "Palworld",
-      "viewer_count": 127,
+      "viewer_count": 125,
       "follower_count": 10098,
       "language": "en",
       "started_at": "2026-08-11T02:12:34Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10443,
+      "follower_count": 10440,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
