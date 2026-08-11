@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T22:42:58.113Z",
+  "generatedAt": "2026-08-11T22:47:58.107Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T22:42:58.113Z",
+    "fetchedAt": "2026-08-11T22:47:58.107Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "PEAK |The FINAL UPDATE?! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "PEAK",
-      "viewer_count": 16,
+      "viewer_count": 12,
       "follower_count": 1721,
       "language": "en",
       "started_at": "2026-08-11T19:57:13Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 110808,
+      "follower_count": 110807,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
