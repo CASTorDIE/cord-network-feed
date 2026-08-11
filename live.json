@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T22:52:58.015Z",
+  "generatedAt": "2026-08-11T22:57:58.114Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T22:52:58.015Z",
+    "fetchedAt": "2026-08-11T22:57:58.114Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "IT\"S MY PARTNER ANNIVERSARY!! 💀 PARTNER PLUS GOAL: 60/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 155,
+      "viewer_count": 162,
       "follower_count": 14136,
       "language": "en",
       "started_at": "2026-08-11T18:38:27Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 110807,
+      "follower_count": 110809,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
