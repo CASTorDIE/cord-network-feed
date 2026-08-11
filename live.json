@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-11T02:07:58.175Z",
+  "generatedAt": "2026-08-11T02:12:58.936Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T02:07:58.175Z",
+    "fetchedAt": "2026-08-11T02:12:58.936Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 3,
-    "offlineCount": 48
+    "liveCount": 4,
+    "offlineCount": 47
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 941🤦!discord🤦!factor🤦OOOOOOOOOHHHHHHHHHHHHH🤦‍♂️DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
       "game_name": "Rocket League",
-      "viewer_count": 774,
-      "follower_count": 110638,
+      "viewer_count": 757,
+      "follower_count": 110650,
       "language": "en",
       "started_at": "2026-08-11T00:05:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Phasmophobia",
-      "viewer_count": 79,
+      "viewer_count": 83,
       "follower_count": 2420,
       "language": "en",
       "started_at": "2026-08-10T23:31:13Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "MASTERY MONDAY POST SAUSAGE| !commands For Fun! |",
       "game_name": "A Weird Game About Sausage",
-      "viewer_count": 13,
+      "viewer_count": 15,
       "follower_count": 641,
       "language": "en",
       "started_at": "2026-08-10T22:03:17Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
       "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
+    },
+    {
+      "user_login": "zaldar87",
+      "user_name": "Zaldar87",
+      "is_live": true,
+      "title": "🦊🦇| Relaxation stream with GUNS! | !pizza !discord !telegram !vrc | T1-T3 Subs Gif the Screen",
+      "game_name": "Guns 'n Goblins",
+      "viewer_count": 0,
+      "follower_count": 10092,
+      "language": "en",
+      "started_at": "2026-08-11T02:12:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zaldar87",
+      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "4kaizen_gaming",
@@ -186,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10474,
+      "follower_count": 10473,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -733,21 +748,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-    },
-    {
-      "user_login": "zaldar87",
-      "user_name": "Zaldar87",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 10092,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zaldar87",
-      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "zoddric",
