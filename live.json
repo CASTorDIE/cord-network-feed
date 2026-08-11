@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T16:02:58.519Z",
+  "generatedAt": "2026-08-11T16:07:58.501Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T16:02:58.519Z",
+    "fetchedAt": "2026-08-11T16:07:58.501Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐Running Out Of Thyme⭐ !fish ⭐!discord⭐",
       "game_name": "Art",
-      "viewer_count": 14,
+      "viewer_count": 16,
       "follower_count": 508,
       "language": "en",
       "started_at": "2026-08-11T14:55:16Z",
