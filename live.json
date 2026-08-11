@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-11T00:02:57.946Z",
+  "generatedAt": "2026-08-11T00:07:57.997Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T00:02:57.946Z",
+    "fetchedAt": "2026-08-11T00:07:57.997Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
   "summary": {
     "streamerCount": 51,
-    "liveCount": 4,
-    "offlineCount": 47
+    "liveCount": 5,
+    "offlineCount": 46
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 82,
+      "viewer_count": 83,
       "follower_count": 2418,
       "language": "en",
       "started_at": "2026-08-10T23:31:13Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "[drops] MONDAYS CALL FOR SPACE BUNS IT'S THE LAW🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 76,
+      "viewer_count": 70,
       "follower_count": 10475,
       "language": "en",
       "started_at": "2026-08-10T20:32:00Z",
@@ -45,12 +45,27 @@
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 941🤦!discord🤦!factor🤦OOOOOOOOOHHHHHHHHHHHHH🤦‍♂️DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "game_name": "Rocket League",
+      "viewer_count": 46,
+      "follower_count": 110506,
+      "language": "en",
+      "started_at": "2026-08-11T00:05:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "horror_heather",
       "user_name": "horror_heather",
       "is_live": true,
       "title": "FIRST PLAYTHROUGH | Alan Wake 2 | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 22,
+      "viewer_count": 25,
       "follower_count": 623,
       "language": "en",
       "started_at": "2026-08-10T21:32:08Z",
@@ -65,7 +80,7 @@
       "is_live": true,
       "title": "FINE! ILL PLAY THE SAUSAGE GAME | !commands For Fun! |",
       "game_name": "A Weird Game About Sausage",
-      "viewer_count": 16,
+      "viewer_count": 18,
       "follower_count": 641,
       "language": "en",
       "started_at": "2026-08-10T22:03:17Z",
@@ -193,21 +208,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/bigpapaxx8",
       "description": ""
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 110510,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
