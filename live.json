@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T13:12:58.180Z",
+  "generatedAt": "2026-08-11T13:17:58.180Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T13:12:58.180Z",
+    "fetchedAt": "2026-08-11T13:17:58.180Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We Have to Agree on WHO LIVES 😭 | Little Hope | Couple Plays",
       "game_name": "The Dark Pictures Anthology: Little Hope",
-      "viewer_count": 21,
+      "viewer_count": 23,
       "follower_count": 918,
       "language": "en",
       "started_at": "2026-08-11T12:45:45Z",
