@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T18:32:57.654Z",
+  "generatedAt": "2026-08-11T18:37:57.680Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T18:32:57.654Z",
+    "fetchedAt": "2026-08-11T18:37:57.680Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐Running Out Of Thyme⭐ !fish ⭐!discord⭐",
       "game_name": "Marvel Rivals",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 508,
       "language": "en",
       "started_at": "2026-08-11T14:55:16Z",
