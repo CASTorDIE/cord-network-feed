@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-11T02:32:32.607Z",
+  "generatedAt": "2026-08-11T02:40:29.173Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-11T02:32:32.573Z",
+    "updatedAt": "2026-08-11T02:40:29.144Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 34,
+    "entryCount": 37,
     "firstDate": "2026-08-09",
     "lastDate": "2026-08-16",
     "windowStart": "2026-08-09",
@@ -137,6 +137,19 @@
       "url": "https://www.twitch.tv/gibsontales"
     },
     {
+      "id": "evt_1786416016926_hcjxp1",
+      "date": "2026-08-11",
+      "dateLabel": "Tuesday, August 11th",
+      "weekday": "Tuesday",
+      "streamer": "MrCaramelDrizzle",
+      "title": "Untitled stream",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUESTS",
+      "url": "https://www.twitch.tv/mrcarameldrizzle"
+    },
+    {
       "id": "evt_1786415552567_phwq2i",
       "date": "2026-08-11",
       "dateLabel": "Tuesday, August 11th",
@@ -239,6 +252,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1786416016926_evgcyw",
+      "date": "2026-08-13",
+      "dateLabel": "Thursday, August 13th",
+      "weekday": "Thursday",
+      "streamer": "MrCaramelDrizzle",
+      "title": "Untitled stream",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUESTS",
+      "url": "https://www.twitch.tv/mrcarameldrizzle"
     },
     {
       "id": "evt_1786415552567_pxx6rk",
@@ -460,6 +486,19 @@
       "highlight": "green",
       "pillLabel": "SPECIAL",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1786416016926_56hqy3",
+      "date": "2026-08-16",
+      "dateLabel": "Sunday, August 16th",
+      "weekday": "Sunday",
+      "streamer": "MrCaramelDrizzle",
+      "title": "Untitled stream",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUESTS",
+      "url": "https://www.twitch.tv/mrcarameldrizzle"
     }
   ]
 }
