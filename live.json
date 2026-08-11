@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-11T23:32:58.126Z",
+  "generatedAt": "2026-08-11T23:37:58.427Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T23:32:58.126Z",
+    "fetchedAt": "2026-08-11T23:37:58.427Z",
     "source": "twitch-helix-streams",
-    "requestedCount": 51
+    "requestedCount": 44
   },
   "summary": {
-    "streamerCount": 51,
-    "liveCount": 3,
-    "offlineCount": 48
+    "streamerCount": 44,
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "IT\"S MY PARTNER ANNIVERSARY!! 💀 PARTNER PLUS GOAL: 60/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 183,
+      "viewer_count": 172,
       "follower_count": 14141,
       "language": "en",
       "started_at": "2026-08-11T18:38:27Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 71,
+      "viewer_count": 70,
       "follower_count": 2420,
       "language": "en",
       "started_at": "2026-08-11T23:01:51Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "PEAK |The FINAL UPDATE?! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "PEAK",
-      "viewer_count": 15,
+      "viewer_count": 12,
       "follower_count": 1721,
       "language": "en",
       "started_at": "2026-08-11T19:57:13Z",
@@ -58,6 +58,36 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": true,
+      "title": "NEW OVERWATCH SEASON 4 GRINDING!! NEW TANK ALERT OMG!!! (DROPS ENABLED)",
+      "game_name": "Overwatch",
+      "viewer_count": 3,
+      "follower_count": 10,
+      "language": "en",
+      "started_at": "2026-08-11T21:56:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": true,
+      "title": "TG Tuesday 08/11/26 Monster Hunter Rise/Sunbreak",
+      "game_name": "Monster Hunter Rise",
+      "viewer_count": 2,
+      "follower_count": 23,
+      "language": "en",
+      "started_at": "2026-08-11T23:12:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -105,21 +135,6 @@
       "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
     },
     {
-      "user_login": "angelicdomi",
-      "user_name": "AngelicDomi",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 4994,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f6a4a72-64d4-45c3-8e8e-099eb47fff6b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/angelicdomi",
-      "description": "probably having a coffee at this very moment"
-    },
-    {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": false,
@@ -165,21 +180,6 @@
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
-      "user_login": "bigpapaxx8",
-      "user_name": "bigpapaxx8",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": null,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "",
-      "twitch_url": "https://www.twitch.tv/bigpapaxx8",
-      "description": ""
-    },
-    {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": false,
@@ -193,6 +193,36 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "boww_wolf",
+      "user_name": "boww_wolf",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": null,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "",
+      "twitch_url": "https://www.twitch.tv/boww_wolf",
+      "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 392,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "brycexd",
@@ -285,19 +315,19 @@
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
-      "user_login": "faestarlight",
-      "user_name": "FaeStarlight",
+      "user_login": "fallentitanandy",
+      "user_name": "FallenTitanAndy",
       "is_live": false,
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 508,
+      "follower_count": 419,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/649c4972-2538-4400-b328-6f92c7d48038-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faestarlight",
-      "description": "Hi! I'm Fae and welcome to my little corner of the galaxy! I have a love for terrible jokes and spoopy games. You’ll usually find me streaming on Tuesdays and Wednesdays at 10 A.M. CST and Thursdays at 4 P.M CST, so stop by and say hi! For inquiries message me at: faestarlightinquiries@gmail.com"
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/fallentitanandy",
+      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "faytefireix",
@@ -388,21 +418,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e89b72d-44f9-4905-9ba3-27d3141210ff-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/guitardoll",
       "description": "Chaotic, high-energy, and probably one bad decision away from a jump scare. | Welcome to the Dollhouse | Tue & Thurs 7PM • Sat 5PM | Business Email: guitardoll.official@gmail.com"
-    },
-    {
-      "user_login": "healzealot",
-      "user_name": "HealZealot",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 378,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8e3c734-edb2-4003-b2e7-a5d901c34138-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/healzealot",
-      "description": "Hey, Hey! My name Is HealZealot, but most people call me Heal. I'm a variety streamer who loves Games, Anime, Pokémon, Tv, Music, and much, much more! I'm excited your here and I hope you enjoy the community!"
     },
     {
       "user_login": "horror_heather",
@@ -525,21 +540,6 @@
       "description": ""
     },
     {
-      "user_login": "ohgoshimjosh",
-      "user_name": "OhGoshImJosh",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 643,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f746cd9f-f44f-4470-a94f-ca15e7f482ff-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ohgoshimjosh",
-      "description": "Part-time scholar and Variety Streamer, full-time nerd. I’m OhGoshImJosh—your favorite almost-PhD with a passion for TTRPGs, games of all kinds, mental health, and pixel-powered storytelling. Come hang around the Digital Campfire! Inquiries: ohgoshimjoshofficial@gmail.com"
-    },
-    {
       "user_login": "padbae",
       "user_name": "padbae",
       "is_live": false,
@@ -555,19 +555,19 @@
       "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
-      "user_login": "predicatenate",
-      "user_name": "PredicateNate",
+      "user_login": "rickett_raffy",
+      "user_name": "rickett_raffy",
       "is_live": false,
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 551,
+      "follower_count": 115,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc761090-7b8f-477b-9d96-670e2774f1ed-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/predicatenate",
-      "description": "Some call me Nate The Great."
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/rickett_raffy",
+      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
     },
     {
       "user_login": "slimchungusgaming",
@@ -585,36 +585,6 @@
       "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
-      "user_login": "taixiao",
-      "user_name": "TaiXiao",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 311,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c376db32-fb72-4987-97f5-e1c21d93b622-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/taixiao",
-      "description": "The woman with the 3 missing fingers on her keyboard hand."
-    },
-    {
-      "user_login": "tdub60live",
-      "user_name": "tdub60live",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 92,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cd90037-ae61-4692-b597-d07655410207-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/tdub60live",
-      "description": "🎮 Hey, I'm tdub60! Variety streamer serving up chill vibes, good laughs, and the occasional hype moment. I’m here to have fun, meet cool people, and build a positive space where everyone feels welcome. Join my discord https://discord.gg/rFjBnqqt"
-    },
-    {
       "user_login": "tehchno",
       "user_name": "tehchno",
       "is_live": false,
@@ -628,66 +598,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
-    },
-    {
-      "user_login": "theblueslime_yt",
-      "user_name": "TheBlueSlime_YT",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 434,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef2d4b7e-ca59-47cb-be7e-4a26b63722d0-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/theblueslime_yt",
-      "description": "Just a 21 Year old Variety Streamer trying to succeed through Content Creation. Follow = 🍪"
-    },
-    {
-      "user_login": "therealmrt_xpngx",
-      "user_name": "therealmrt_xpngx",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 184,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a66f01b8-5972-4a2b-b49d-6b5d715481ae-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/therealmrt_xpngx",
-      "description": "Hi I am MRT, I have no idea what I’m doing. Just trying to entertain people"
-    },
-    {
-      "user_login": "thewillzgamer",
-      "user_name": "TheWillZGamer",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 205,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b2affad-c703-42e2-80db-42c1e0f80096-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/thewillzgamer",
-      "description": "Welcome! Here, you'll find me diving into immersive single-player experiences, from donning the cape as Batman in thrilling Arkham adventures to tackling intense Call of Duty campaigns. Whether it's unraveling mysteries or overcoming impossible odds. As I also stream Mainly on YouTube."
-    },
-    {
-      "user_login": "tthackerr",
-      "user_name": "tthackerr",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 8369,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b427e5c-33f4-4d12-9f85-1ed9ea99ea68-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/tthackerr",
-      "description": "Business Email - Thacker0531@gmail.com"
     },
     {
       "user_login": "vaporwavejoe",
@@ -748,21 +658,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
-    {
-      "user_login": "zoddric",
-      "user_name": "Zoddric",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 306,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe0e9f2a-f2c5-4d2a-b3e4-32aa5e3c6c85-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zoddric",
-      "description": "Welcome! Former combat medic in the army and current pet dad of 3. I love anything RPG, whether it's space exploration in No Man's Sky or fighting my way through heartless in Kingdom Hearts, anything that has a story I'm game for. I stream on TikTok as well under the same handle! Come on by, say hi"
     },
     {
       "user_login": "zombaesempai",
