@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T18:52:57.726Z",
+  "generatedAt": "2026-08-11T18:57:57.835Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-11T18:52:57.726Z",
+    "fetchedAt": "2026-08-11T18:57:57.835Z",
     "source": "twitch-helix-streams",
     "requestedCount": 51
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "IT\"S MY PARTNER ANNIVERSARY!! 💀 PARTNER PLUS GOAL: 60/300",
       "game_name": "Just Chatting",
-      "viewer_count": 86,
+      "viewer_count": 99,
       "follower_count": 14112,
       "language": "en",
       "started_at": "2026-08-11T18:38:27Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 110800,
+      "follower_count": 110801,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
