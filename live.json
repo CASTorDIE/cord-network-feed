@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T08:47:57.924Z",
+  "generatedAt": "2026-08-12T08:52:57.950Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T08:47:57.924Z",
+    "fetchedAt": "2026-08-12T08:52:57.950Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "So We're In Dirt??",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 7,
-      "follower_count": 118,
+      "viewer_count": 8,
+      "follower_count": 119,
       "language": "en",
       "started_at": "2026-08-12T07:00:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "*DROPS* GYM OPEN AND DRAGNET QUEUE",
       "game_name": "Escape from Tarkov",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 70,
       "language": "en",
       "started_at": "2026-08-12T05:59:23Z",
