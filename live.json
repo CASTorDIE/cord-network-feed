@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T09:07:58.371Z",
+  "generatedAt": "2026-08-12T09:12:57.980Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T09:07:58.371Z",
+    "fetchedAt": "2026-08-12T09:12:57.980Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "So We're In Dirt??",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 9,
-      "follower_count": 119,
+      "viewer_count": 8,
+      "follower_count": 120,
       "language": "en",
       "started_at": "2026-08-12T07:00:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 111020,
+      "follower_count": 111019,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
