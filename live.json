@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T05:47:57.661Z",
+  "generatedAt": "2026-08-12T05:52:57.647Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T05:47:57.661Z",
+    "fetchedAt": "2026-08-12T05:52:57.647Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Can We Solve This Case??? | The Skin Stapler | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 14,
+      "viewer_count": 15,
       "follower_count": 903,
       "language": "en",
       "started_at": "2026-08-12T04:02:21Z",
