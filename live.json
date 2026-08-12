@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T23:53:07.961Z",
+  "generatedAt": "2026-08-12T23:58:05.446Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T23:53:07.961Z",
+    "fetchedAt": "2026-08-12T23:58:05.446Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "beast of reincarnation part 3",
       "game_name": "Beast of Reincarnation",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 392,
       "language": "en",
       "started_at": "2026-08-12T23:04:02Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 111014,
+      "follower_count": 111015,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
