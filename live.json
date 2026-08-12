@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T23:07:59.212Z",
+  "generatedAt": "2026-08-12T23:12:59.060Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T23:07:59.212Z",
+    "fetchedAt": "2026-08-12T23:12:59.060Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✮⋆˙Partner Pushing!!! 3 more streams✮⋆˙|Decorating your house!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 80,
+      "viewer_count": 91,
       "follower_count": 2719,
       "language": "en",
       "started_at": "2026-08-12T21:30:20Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "beast of reincarnation part 3",
       "game_name": "Beast of Reincarnation",
-      "viewer_count": 0,
+      "viewer_count": 2,
       "follower_count": 392,
       "language": "en",
       "started_at": "2026-08-12T23:04:02Z",
