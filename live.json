@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T00:32:58.122Z",
+  "generatedAt": "2026-08-12T00:37:58.202Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T00:32:58.122Z",
+    "fetchedAt": "2026-08-12T00:37:58.202Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 942🍌!discord🍌!factor🍌DO NOT TYPE IN THIS CHAT ROOM🍌I DO NOT WANT TO SEE A SINGL EPERSON CHATTING🍌EVERY SHUT THE F",
       "game_name": "Rocket League",
-      "viewer_count": 302,
-      "follower_count": 110822,
+      "viewer_count": 305,
+      "follower_count": 110825,
       "language": "en",
       "started_at": "2026-08-12T00:05:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "IT\"S MY PARTNER ANNIVERSARY!! 💀 PARTNER PLUS GOAL: 60/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 162,
+      "viewer_count": 161,
       "follower_count": 14150,
       "language": "en",
       "started_at": "2026-08-11T18:38:27Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 64,
+      "viewer_count": 70,
       "follower_count": 2420,
       "language": "en",
       "started_at": "2026-08-11T23:01:51Z",
@@ -58,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": true,
-      "title": "TG Tuesday 08/11/26 Monster Hunter Rise/Sunbreak",
-      "game_name": "Monster Hunter Rise",
-      "viewer_count": 3,
-      "follower_count": 23,
-      "language": "en",
-      "started_at": "2026-08-11T23:12:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "bribeecool10",
@@ -103,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
       "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": true,
+      "title": "TG Tuesday 08/11/26 Monster Hunter Rise/Sunbreak",
+      "game_name": "Monster Hunter Rise",
+      "viewer_count": 1,
+      "follower_count": 23,
+      "language": "en",
+      "started_at": "2026-08-11T23:12:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "4kaizen_gaming",
