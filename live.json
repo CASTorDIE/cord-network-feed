@@ -1,42 +1,27 @@
 {
-  "generatedAt": "2026-08-12T03:52:58.471Z",
+  "generatedAt": "2026-08-12T03:57:58.490Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T03:52:58.471Z",
+    "fetchedAt": "2026-08-12T03:57:58.490Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 942🍌!discord🍌!factor🍌DO NOT TYPE IN THIS CHAT ROOM🍌I DO NOT WANT TO SEE A SINGL EPERSON CHATTING🍌EVERY SHUT THE F",
-      "game_name": "Rocket League",
-      "viewer_count": 403,
-      "follower_count": 111018,
-      "language": "en",
-      "started_at": "2026-08-12T00:05:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "IT\"S MY PARTNER ANNIVERSARY!! 💀 PARTNER PLUS GOAL: 60/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 123,
-      "follower_count": 14162,
+      "viewer_count": 182,
+      "follower_count": 14165,
       "language": "en",
       "started_at": "2026-08-11T18:38:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -51,7 +36,7 @@
       "title": "Finishing Farewell and then it is golden time!",
       "game_name": "Celeste",
       "viewer_count": 19,
-      "follower_count": 271,
+      "follower_count": 274,
       "language": "en",
       "started_at": "2026-08-12T00:58:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "💜⚔️Marvel Tokon Ranked Time! ⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "MARVEL TŌKON: Fighting Souls",
-      "viewer_count": 7,
+      "viewer_count": 12,
       "follower_count": 2098,
       "language": "en",
       "started_at": "2026-08-12T00:54:54Z",
@@ -208,6 +193,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 111021,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
