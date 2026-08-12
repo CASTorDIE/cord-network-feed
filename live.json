@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T11:27:58.185Z",
+  "generatedAt": "2026-08-12T11:32:58.102Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T11:27:58.185Z",
+    "fetchedAt": "2026-08-12T11:32:58.102Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "So We're In Dirt??",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 124,
       "language": "en",
       "started_at": "2026-08-12T07:00:30Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 111018,
+      "follower_count": 111019,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
