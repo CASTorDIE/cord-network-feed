@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T19:17:58.917Z",
+  "generatedAt": "2026-08-12T19:22:58.745Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T19:17:58.917Z",
+    "fetchedAt": "2026-08-12T19:22:58.745Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[drops] running on caffeine and crashouts🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 71,
-      "follower_count": 10426,
+      "viewer_count": 69,
+      "follower_count": 10427,
       "language": "en",
       "started_at": "2026-08-12T17:17:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
