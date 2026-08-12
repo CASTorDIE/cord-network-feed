@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T00:22:58.075Z",
+  "generatedAt": "2026-08-12T00:27:58.144Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T00:22:58.075Z",
+    "fetchedAt": "2026-08-12T00:27:58.144Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 942🍌!discord🍌!factor🍌DO NOT TYPE IN THIS CHAT ROOM🍌I DO NOT WANT TO SEE A SINGL EPERSON CHATTING🍌EVERY SHUT THE F",
       "game_name": "Rocket League",
-      "viewer_count": 263,
-      "follower_count": 110812,
+      "viewer_count": 296,
+      "follower_count": 110816,
       "language": "en",
       "started_at": "2026-08-12T00:05:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "IT\"S MY PARTNER ANNIVERSARY!! 💀 PARTNER PLUS GOAL: 60/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 163,
+      "viewer_count": 170,
       "follower_count": 14148,
       "language": "en",
       "started_at": "2026-08-11T18:38:27Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 95,
+      "viewer_count": 107,
       "follower_count": 2420,
       "language": "en",
       "started_at": "2026-08-11T23:01:51Z",
@@ -75,21 +75,6 @@
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": true,
-      "title": "NEW OVERWATCH SEASON 4 GRINDING!! NEW TANK ALERT OMG!!! (DROPS ENABLED)",
-      "game_name": "Overwatch",
-      "viewer_count": 2,
-      "follower_count": 10,
-      "language": "en",
-      "started_at": "2026-08-11T21:56:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
-    },
-    {
       "user_login": "thepuckgoa",
       "user_name": "ThePuckGOA",
       "is_live": true,
@@ -103,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": true,
+      "title": "NEW OVERWATCH SEASON 4 GRINDING!! NEW TANK ALERT OMG!!! (DROPS ENABLED)",
+      "game_name": "Overwatch",
+      "viewer_count": 1,
+      "follower_count": 10,
+      "language": "en",
+      "started_at": "2026-08-11T21:56:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
     },
     {
       "user_login": "4kaizen_gaming",
