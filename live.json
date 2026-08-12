@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-08-12T08:12:57.797Z",
+  "generatedAt": "2026-08-12T08:17:57.840Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T08:12:57.797Z",
+    "fetchedAt": "2026-08-12T08:17:57.840Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
-    {
-      "user_login": "dingo_dynasty",
-      "user_name": "Dingo_Dynasty",
-      "is_live": true,
-      "title": "Can We Solve This Case??? | The Skin Stapler | Therapy & Chaos",
-      "game_name": "Games + Demos",
-      "viewer_count": 12,
-      "follower_count": 903,
-      "language": "en",
-      "started_at": "2026-08-12T04:02:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
-      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
-    },
     {
       "user_login": "rickett_raffy",
       "user_name": "rickett_raffy",
       "is_live": true,
       "title": "So We're In Dirt??",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 9,
+      "viewer_count": 8,
       "follower_count": 119,
       "language": "en",
       "started_at": "2026-08-12T07:00:30Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "*DROPS* GYM OPEN AND DRAGNET QUEUE",
       "game_name": "Escape from Tarkov",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 70,
       "language": "en",
       "started_at": "2026-08-12T05:59:23Z",
@@ -111,7 +96,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 6234,
+      "follower_count": 6235,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -141,7 +126,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2420,
+      "follower_count": 2419,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -283,6 +268,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
+    },
+    {
+      "user_login": "dingo_dynasty",
+      "user_name": "Dingo_Dynasty",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 903,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
+      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
       "user_login": "fallentitanandy",
