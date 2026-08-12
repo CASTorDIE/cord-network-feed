@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T19:37:58.653Z",
+  "generatedAt": "2026-08-12T19:42:58.736Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T19:37:58.653Z",
+    "fetchedAt": "2026-08-12T19:42:58.736Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[drops] running on caffeine and crashouts🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 70,
+      "viewer_count": 67,
       "follower_count": 10429,
       "language": "en",
       "started_at": "2026-08-12T17:17:25Z",
