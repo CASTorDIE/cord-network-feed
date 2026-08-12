@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T22:37:58.954Z",
+  "generatedAt": "2026-08-12T22:42:59.174Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T22:37:58.954Z",
+    "fetchedAt": "2026-08-12T22:42:59.174Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[drops] running on caffeine and crashouts🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 151,
+      "viewer_count": 156,
       "follower_count": 10441,
       "language": "en",
       "started_at": "2026-08-12T21:00:48Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "✮⋆˙Partner Pushing!!! 3 more streams✮⋆˙|Decorating your house!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 81,
+      "viewer_count": 80,
       "follower_count": 2719,
       "language": "en",
       "started_at": "2026-08-12T21:30:20Z",
