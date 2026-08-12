@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T23:12:59.060Z",
+  "generatedAt": "2026-08-12T23:17:59.103Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T23:12:59.060Z",
+    "fetchedAt": "2026-08-12T23:17:59.103Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✮⋆˙Partner Pushing!!! 3 more streams✮⋆˙|Decorating your house!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 91,
+      "viewer_count": 88,
       "follower_count": 2719,
       "language": "en",
       "started_at": "2026-08-12T21:30:20Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 111016,
+      "follower_count": 111015,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
