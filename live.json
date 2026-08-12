@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T16:02:58.435Z",
+  "generatedAt": "2026-08-12T16:07:58.539Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T16:02:58.435Z",
+    "fetchedAt": "2026-08-12T16:07:58.539Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "*DROPS* GYM OPEN AND DRAGNET QUEUE",
       "game_name": "Escape from Tarkov",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 72,
       "language": "en",
       "started_at": "2026-08-12T05:59:23Z",
