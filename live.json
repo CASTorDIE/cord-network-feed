@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T09:17:57.924Z",
+  "generatedAt": "2026-08-12T09:22:57.921Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-12T09:17:57.924Z",
+    "fetchedAt": "2026-08-12T09:22:57.921Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "So We're In Dirt??",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 12,
+      "viewer_count": 6,
       "follower_count": 120,
       "language": "en",
       "started_at": "2026-08-12T07:00:30Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "*DROPS* GYM OPEN AND DRAGNET QUEUE",
       "game_name": "Escape from Tarkov",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "follower_count": 70,
       "language": "en",
       "started_at": "2026-08-12T05:59:23Z",
