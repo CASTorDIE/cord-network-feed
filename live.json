@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T10:42:57.411Z",
+  "generatedAt": "2026-08-13T10:47:57.457Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-13T10:42:57.411Z",
+    "fetchedAt": "2026-08-13T10:47:57.457Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Siege Pissed Me Off",
       "game_name": "Fortnite",
-      "viewer_count": 12,
+      "viewer_count": 10,
       "follower_count": 131,
       "language": "en",
       "started_at": "2026-08-13T07:00:51Z",
