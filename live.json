@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T09:22:58.291Z",
+  "generatedAt": "2026-08-13T09:27:58.354Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-13T09:22:58.291Z",
+    "fetchedAt": "2026-08-13T09:27:58.354Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Imagine Having To Play Unranked....Oh Wait",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "follower_count": 130,
       "language": "en",
       "started_at": "2026-08-13T07:00:51Z",
