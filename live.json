@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T12:17:57.589Z",
+  "generatedAt": "2026-08-13T12:22:57.577Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-13T12:17:57.589Z",
+    "fetchedAt": "2026-08-13T12:22:57.577Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We REFUSE to Let This Game Beat Us 😭 | Log Riders | Couple Plays",
       "game_name": "Games + Demos",
-      "viewer_count": 12,
+      "viewer_count": 16,
       "follower_count": 923,
       "language": "en",
       "started_at": "2026-08-13T12:00:12Z",
