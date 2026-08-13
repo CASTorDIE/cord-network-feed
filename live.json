@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T10:52:57.432Z",
+  "generatedAt": "2026-08-13T10:57:57.472Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-13T10:52:57.432Z",
+    "fetchedAt": "2026-08-13T10:57:57.472Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Siege Pissed Me Off",
       "game_name": "Fortnite",
-      "viewer_count": 8,
-      "follower_count": 131,
+      "viewer_count": 10,
+      "follower_count": 132,
       "language": "en",
       "started_at": "2026-08-13T07:00:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
