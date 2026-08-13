@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T07:42:58.125Z",
+  "generatedAt": "2026-08-13T07:47:58.224Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-13T07:42:58.125Z",
+    "fetchedAt": "2026-08-13T07:47:58.224Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -14,6 +14,21 @@
     "offlineCount": 42
   },
   "streamers": [
+    {
+      "user_login": "rickett_raffy",
+      "user_name": "rickett_raffy",
+      "is_live": true,
+      "title": "Imagine Having To Play Unranked....Oh Wait",
+      "game_name": "Rainbow Six Siege",
+      "viewer_count": 6,
+      "follower_count": 125,
+      "language": "en",
+      "started_at": "2026-08-13T07:00:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/rickett_raffy",
+      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
+    },
     {
       "user_login": "gmclay_",
       "user_name": "GMCLAY_",
@@ -28,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gmclay_",
       "description": "I alternate between MVP and WTF"
-    },
-    {
-      "user_login": "rickett_raffy",
-      "user_name": "rickett_raffy",
-      "is_live": true,
-      "title": "Imagine Having To Play Unranked....Oh Wait",
-      "game_name": "Rainbow Six Siege",
-      "viewer_count": 3,
-      "follower_count": 125,
-      "language": "en",
-      "started_at": "2026-08-13T07:00:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/rickett_raffy",
-      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
     },
     {
       "user_login": "4kaizen_gaming",
