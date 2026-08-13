@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-13T04:52:57.881Z",
+  "generatedAt": "2026-08-13T04:57:57.948Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-13T04:52:57.881Z",
+    "fetchedAt": "2026-08-13T04:57:57.948Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, MICROSCAPE, & KARAOKE | !pizza !discord !telegram !vrc !micro | T1-T3 Subs Gif the Screen",
       "game_name": "Marbles on Stream",
-      "viewer_count": 129,
+      "viewer_count": 127,
       "follower_count": 10101,
       "language": "en",
       "started_at": "2026-08-13T02:17:08Z",
@@ -28,21 +28,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
-    {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "Day 1 Blind Sekiro",
-      "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 15,
-      "follower_count": 274,
-      "language": "en",
-      "started_at": "2026-08-13T01:03:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
       "user_login": "gmclay_",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gmclay_",
       "description": "I alternate between MVP and WTF"
+    },
+    {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 274,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
       "user_login": "alfieduu",
