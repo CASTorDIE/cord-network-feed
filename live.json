@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T02:57:58.215Z",
+  "generatedAt": "2026-08-13T03:02:58.197Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-13T02:57:58.215Z",
+    "fetchedAt": "2026-08-13T03:02:58.197Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 943📱!discord📱!factor📱YOU USED TO CALL ME ON MY📱YOU USED TO MAN WHY DID WESTBROOK RETIRE📱THE GREATEST POINT GUARD",
       "game_name": "Rocket League",
-      "viewer_count": 707,
-      "follower_count": 111229,
+      "viewer_count": 741,
+      "follower_count": 111240,
       "language": "en",
       "started_at": "2026-08-13T00:12:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, MICROSCAPE, & KARAOKE | !pizza !discord !telegram !vrc !micro | T1-T3 Subs Gif the Screen",
       "game_name": "Marbles on Stream",
-      "viewer_count": 80,
+      "viewer_count": 88,
       "follower_count": 10098,
       "language": "en",
       "started_at": "2026-08-13T02:17:08Z",
