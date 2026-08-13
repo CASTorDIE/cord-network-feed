@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T10:27:57.469Z",
+  "generatedAt": "2026-08-13T10:32:57.377Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-13T10:27:57.469Z",
+    "fetchedAt": "2026-08-13T10:32:57.377Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,9 +18,9 @@
       "user_login": "rickett_raffy",
       "user_name": "rickett_raffy",
       "is_live": true,
-      "title": "Imagine Having To Play Unranked....Oh Wait",
-      "game_name": "Rainbow Six Siege",
-      "viewer_count": 10,
+      "title": "Siege Pissed Me Off",
+      "game_name": "Fortnite",
+      "viewer_count": 13,
       "follower_count": 131,
       "language": "en",
       "started_at": "2026-08-13T07:00:51Z",
