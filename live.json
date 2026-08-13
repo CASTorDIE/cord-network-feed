@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T00:42:58.097Z",
+  "generatedAt": "2026-08-13T00:47:58.137Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-13T00:42:58.097Z",
+    "fetchedAt": "2026-08-13T00:47:58.137Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 943📱!discord📱!factor📱YOU USED TO CALL ME ON MY📱YOU USED TO MAN WHY DID WESTBROOK RETIRE📱THE GREATEST POINT GUARD",
       "game_name": "Rocket League",
-      "viewer_count": 452,
-      "follower_count": 111042,
+      "viewer_count": 421,
+      "follower_count": 111041,
       "language": "en",
       "started_at": "2026-08-13T00:12:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 70,
+      "viewer_count": 79,
       "follower_count": 2418,
       "language": "en",
       "started_at": "2026-08-13T00:22:39Z",
