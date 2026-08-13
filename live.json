@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T13:07:57.625Z",
+  "generatedAt": "2026-08-13T13:12:57.678Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-13T13:07:57.625Z",
+    "fetchedAt": "2026-08-13T13:12:57.678Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "We REFUSE to Let This Game Beat Us 😭 | Log Riders | Couple Plays",
       "game_name": "Games + Demos",
-      "viewer_count": 15,
-      "follower_count": 923,
+      "viewer_count": 19,
+      "follower_count": 924,
       "language": "en",
       "started_at": "2026-08-13T12:00:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
