@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-13T02:32:58.237Z",
+  "generatedAt": "2026-08-13T02:37:58.208Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-13T02:32:58.237Z",
+    "fetchedAt": "2026-08-13T02:37:58.208Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 943📱!discord📱!factor📱YOU USED TO CALL ME ON MY📱YOU USED TO MAN WHY DID WESTBROOK RETIRE📱THE GREATEST POINT GUARD",
       "game_name": "Rocket League",
-      "viewer_count": 740,
-      "follower_count": 111206,
+      "viewer_count": 773,
+      "follower_count": 111209,
       "language": "en",
       "started_at": "2026-08-13T00:12:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, MICROSCAPE, & KARAOKE | !pizza !discord !telegram !vrc !micro | T1-T3 Subs Gif the Screen",
       "game_name": "Marbles on Stream",
-      "viewer_count": 53,
+      "viewer_count": 67,
       "follower_count": 10098,
       "language": "en",
       "started_at": "2026-08-13T02:17:08Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 1 Blind Sekiro",
       "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 15,
+      "viewer_count": 16,
       "follower_count": 274,
       "language": "en",
       "started_at": "2026-08-13T01:03:32Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
+    },
+    {
+      "user_login": "gmclay_",
+      "user_name": "GMCLAY_",
+      "is_live": true,
+      "title": "ADD FOR GYM // DRAGNET QUEUE",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 0,
+      "follower_count": 73,
+      "language": "en",
+      "started_at": "2026-08-13T02:36:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gmclay_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gmclay_",
+      "description": "I alternate between MVP and WTF"
     },
     {
       "user_login": "alfieduu",
@@ -156,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10441,
+      "follower_count": 10445,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -343,21 +358,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gibsontales",
       "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
-    },
-    {
-      "user_login": "gmclay_",
-      "user_name": "GMCLAY_",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 73,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gmclay_",
-      "description": "I alternate between MVP and WTF"
     },
     {
       "user_login": "guitardoll",
