@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-13T00:17:58.048Z",
+  "generatedAt": "2026-08-13T00:22:58.085Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-13T00:17:58.048Z",
+    "fetchedAt": "2026-08-13T00:22:58.085Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 943📱!discord📱!factor📱YOU USED TO CALL ME ON MY📱YOU USED TO MAN WHY DID WESTBROOK RETIRE📱THE GREATEST POINT GUARD",
       "game_name": "Rocket League",
-      "viewer_count": 169,
-      "follower_count": 111019,
+      "viewer_count": 284,
+      "follower_count": 111023,
       "language": "en",
       "started_at": "2026-08-13T00:12:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 2418,
+      "language": "en",
+      "started_at": "2026-08-13T00:22:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -118,21 +133,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
-    },
-    {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 2418,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
