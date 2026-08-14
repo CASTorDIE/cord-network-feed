@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T11:42:57.871Z",
+  "generatedAt": "2026-08-14T11:47:57.939Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T11:42:57.871Z",
+    "fetchedAt": "2026-08-14T11:47:57.939Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "No Plan. Just Vibes. Whatever Happens, Happens.",
       "game_name": "Just Chatting",
-      "viewer_count": 6,
-      "follower_count": 334,
+      "viewer_count": 5,
+      "follower_count": 333,
       "language": "en",
       "started_at": "2026-08-14T10:59:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
