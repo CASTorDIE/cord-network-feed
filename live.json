@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-14T02:22:58.035Z",
+  "generatedAt": "2026-08-14T02:27:58.106Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T02:22:58.035Z",
+    "fetchedAt": "2026-08-14T02:27:58.106Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 8,
-    "offlineCount": 36
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 944👑!discord👑!factor👑FROM THE RING TO THE PEN TO THE👑PRISON SENTENCE👑I WILL IN JAIL FOR ROUGHLY 14 YEARS FOLLOWIN",
       "game_name": "Rocket League",
-      "viewer_count": 716,
-      "follower_count": 111410,
+      "viewer_count": 694,
+      "follower_count": 111414,
       "language": "en",
       "started_at": "2026-08-14T00:12:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "Pushing it to my limits! 💀 PARTNER PLUS GOAL: 60/300",
-      "game_name": "Marvel Rivals",
-      "viewer_count": 83,
-      "follower_count": 14174,
-      "language": "en",
-      "started_at": "2026-08-13T20:16:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 81,
+      "viewer_count": 86,
       "follower_count": 2420,
       "language": "en",
       "started_at": "2026-08-13T22:38:18Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "Request Songs Here! >> !SL| !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 71,
+      "viewer_count": 69,
       "follower_count": 6240,
       "language": "en",
       "started_at": "2026-08-13T23:31:11Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "NEW HAIR NEW WEX 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 65,
+      "viewer_count": 69,
       "follower_count": 8576,
       "language": "en",
       "started_at": "2026-08-13T22:05:43Z",
@@ -95,7 +80,7 @@
       "is_live": true,
       "title": "💜⚔️Detroit Become Human First Time Playthrough!⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "Just Chatting",
-      "viewer_count": 18,
+      "viewer_count": 17,
       "follower_count": 2102,
       "language": "en",
       "started_at": "2026-08-14T00:45:42Z",
@@ -553,6 +538,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
+    },
+    {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 14174,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "slimchungusgaming",
