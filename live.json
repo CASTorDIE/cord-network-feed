@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T10:22:57.658Z",
+  "generatedAt": "2026-08-14T10:27:57.700Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T10:22:57.658Z",
+    "fetchedAt": "2026-08-14T10:27:57.700Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -36,7 +36,7 @@
       "title": "Continue on with Hellmart",
       "game_name": "HELLMART",
       "viewer_count": 1,
-      "follower_count": 419,
+      "follower_count": 418,
       "language": "en",
       "started_at": "2026-08-14T09:25:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
