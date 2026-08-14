@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T04:27:58.240Z",
+  "generatedAt": "2026-08-14T04:32:58.295Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T04:27:58.240Z",
+    "fetchedAt": "2026-08-14T04:32:58.295Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Someone Call The Exterminator NOW | A Plague Tale: Requiem | Therapy & Chaos",
       "game_name": "A Plague Tale: Requiem",
-      "viewer_count": 17,
+      "viewer_count": 15,
       "follower_count": 901,
       "language": "en",
       "started_at": "2026-08-14T04:08:10Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Blind Sekiro. The struggle continues",
       "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 14,
+      "viewer_count": 12,
       "follower_count": 272,
       "language": "en",
       "started_at": "2026-08-14T00:57:18Z",
