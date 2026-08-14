@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T18:57:58.497Z",
+  "generatedAt": "2026-08-14T19:02:58.562Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T18:57:58.497Z",
+    "fetchedAt": "2026-08-14T19:02:58.562Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "| D23 LIVE WAITING ROOM!!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 48,
-      "follower_count": 2719,
+      "viewer_count": 51,
+      "follower_count": 2720,
       "language": "en",
       "started_at": "2026-08-14T18:32:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
