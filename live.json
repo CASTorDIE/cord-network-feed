@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T22:12:57.712Z",
+  "generatedAt": "2026-08-14T22:17:57.648Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T22:12:57.712Z",
+    "fetchedAt": "2026-08-14T22:17:57.648Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[drops] running on caffeine and crashouts🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 51,
-      "follower_count": 10460,
+      "viewer_count": 57,
+      "follower_count": 10459,
       "language": "en",
       "started_at": "2026-08-14T20:04:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "New Peak update with dah homies!",
       "game_name": "PEAK",
-      "viewer_count": 0,
+      "viewer_count": 5,
       "follower_count": 1049,
       "language": "en",
       "started_at": "2026-08-14T22:11:49Z",
