@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T19:37:57.643Z",
+  "generatedAt": "2026-08-14T19:42:57.531Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T19:37:57.643Z",
+    "fetchedAt": "2026-08-14T19:42:57.531Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "| D23 LIVE WAITING ROOM!!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 63,
+      "viewer_count": 64,
       "follower_count": 2723,
       "language": "en",
       "started_at": "2026-08-14T18:32:16Z",
