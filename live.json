@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T10:02:57.799Z",
+  "generatedAt": "2026-08-14T10:07:57.710Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T10:02:57.799Z",
+    "fetchedAt": "2026-08-14T10:07:57.710Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Look Over There.....What is it??",
       "game_name": "Phasmophobia",
-      "viewer_count": 6,
+      "viewer_count": 9,
       "follower_count": 136,
       "language": "en",
       "started_at": "2026-08-14T08:02:00Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 111473,
+      "follower_count": 111474,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
