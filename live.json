@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-14T01:02:58.071Z",
+  "generatedAt": "2026-08-14T01:07:57.978Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T01:02:58.071Z",
+    "fetchedAt": "2026-08-14T01:07:57.978Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 11,
-    "offlineCount": 33
+    "liveCount": 10,
+    "offlineCount": 34
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 944👑!discord👑!factor👑FROM THE RING TO THE PEN TO THE👑PRISON SENTENCE👑I WILL IN JAIL FOR ROUGHLY 14 YEARS FOLLOWIN",
       "game_name": "Rocket League",
-      "viewer_count": 552,
-      "follower_count": 111311,
+      "viewer_count": 620,
+      "follower_count": 111319,
       "language": "en",
       "started_at": "2026-08-14T00:12:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "Pushing it to my limits! 💀 PARTNER PLUS GOAL: 60/300",
-      "game_name": "Marvel Rivals",
-      "viewer_count": 89,
-      "follower_count": 14173,
-      "language": "en",
-      "started_at": "2026-08-13T20:16:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 86,
+      "viewer_count": 88,
       "follower_count": 2420,
       "language": "en",
       "started_at": "2026-08-13T22:38:18Z",
@@ -60,12 +45,27 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": true,
+      "title": "Pushing it to my limits! 💀 PARTNER PLUS GOAL: 60/300",
+      "game_name": "Marvel Rivals",
+      "viewer_count": 88,
+      "follower_count": 14173,
+      "language": "en",
+      "started_at": "2026-08-13T20:16:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "Request Songs Here! >> !SL| !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 76,
+      "viewer_count": 68,
       "follower_count": 6241,
       "language": "en",
       "started_at": "2026-08-13T23:31:11Z",
@@ -80,8 +80,8 @@
       "is_live": true,
       "title": "NEW HAIR NEW WEX 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 60,
-      "follower_count": 8569,
+      "viewer_count": 53,
+      "follower_count": 8570,
       "language": "en",
       "started_at": "2026-08-13T22:05:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -95,7 +95,7 @@
       "is_live": true,
       "title": "The Skin Stapler! | Horror Games | !links",
       "game_name": "The Skin Stapler",
-      "viewer_count": 19,
+      "viewer_count": 20,
       "follower_count": 623,
       "language": "en",
       "started_at": "2026-08-13T21:34:22Z",
@@ -110,7 +110,7 @@
       "is_live": true,
       "title": "💜⚔️Detroit Become Human First Time Playthrough!⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "Just Chatting",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 2098,
       "language": "en",
       "started_at": "2026-08-14T00:45:42Z",
@@ -125,7 +125,7 @@
       "is_live": true,
       "title": "Blind Sekiro. The struggle continues",
       "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 4,
+      "viewer_count": 7,
       "follower_count": 272,
       "language": "en",
       "started_at": "2026-08-14T00:57:18Z",
@@ -163,21 +163,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": true,
-      "title": "Overwatch New Season | Random Heroes Only Challenge!! Come by and show some love! Pushing for Affiliate! (DROPS ENABLED)",
-      "game_name": "Overwatch",
-      "viewer_count": 1,
-      "follower_count": 10,
-      "language": "en",
-      "started_at": "2026-08-13T21:57:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
     },
     {
       "user_login": "alfieduu",
@@ -508,6 +493,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/memella",
       "description": "I'm not very good at it - but I do it anyway"
+    },
+    {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 10,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
     },
     {
       "user_login": "mustardfennek",
