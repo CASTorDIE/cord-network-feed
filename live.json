@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-14T02:37:58.083Z",
+  "generatedAt": "2026-08-14T02:42:58.123Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T02:37:58.083Z",
+    "fetchedAt": "2026-08-14T02:42:58.123Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 944👑!discord👑!factor👑FROM THE RING TO THE PEN TO THE👑PRISON SENTENCE👑I WILL IN JAIL FOR ROUGHLY 14 YEARS FOLLOWIN",
       "game_name": "Rocket League",
-      "viewer_count": 670,
-      "follower_count": 111417,
+      "viewer_count": 680,
+      "follower_count": 111426,
       "language": "en",
       "started_at": "2026-08-14T00:12:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 76,
+      "viewer_count": 73,
       "follower_count": 2420,
       "language": "en",
       "started_at": "2026-08-13T22:38:18Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "💜⚔️Detroit Become Human First Time Playthrough!⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "Detroit: Become Human",
-      "viewer_count": 18,
+      "viewer_count": 14,
       "follower_count": 2102,
       "language": "en",
       "started_at": "2026-08-14T00:45:42Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "The true fire emblem engage finale",
-      "game_name": "Fire Emblem Engage",
-      "viewer_count": 2,
-      "follower_count": 393,
-      "language": "en",
-      "started_at": "2026-08-13T23:05:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "alfieduu",
@@ -193,6 +178,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 393,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
