@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T08:27:58.679Z",
+  "generatedAt": "2026-08-14T08:32:58.632Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T08:27:58.679Z",
+    "fetchedAt": "2026-08-14T08:32:58.632Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Look Over There.....What is it??",
       "game_name": "Phasmophobia",
-      "viewer_count": 3,
-      "follower_count": 133,
+      "viewer_count": 4,
+      "follower_count": 134,
       "language": "en",
       "started_at": "2026-08-14T08:02:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
