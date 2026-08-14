@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T20:12:57.671Z",
+  "generatedAt": "2026-08-14T20:17:57.660Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T20:12:57.671Z",
+    "fetchedAt": "2026-08-14T20:17:57.660Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "| D23 LIVE WAITING ROOM!!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 50,
+      "viewer_count": 54,
       "follower_count": 2723,
       "language": "en",
       "started_at": "2026-08-14T18:32:16Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "[drops] running on caffeine and crashouts🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 24,
-      "follower_count": 10453,
+      "viewer_count": 41,
+      "follower_count": 10454,
       "language": "en",
       "started_at": "2026-08-14T20:04:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
