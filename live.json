@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T13:52:58.098Z",
+  "generatedAt": "2026-08-14T13:57:58.107Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T13:52:58.098Z",
+    "fetchedAt": "2026-08-14T13:57:58.107Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Grandma's House is scary 😭 | She was 98 | Couple Plays | Sub Goal 21/50 for Hot Chip Challenge",
       "game_name": "Games + Demos",
-      "viewer_count": 30,
+      "viewer_count": 32,
       "follower_count": 948,
       "language": "en",
       "started_at": "2026-08-14T12:44:56Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "We're Going From Creepy Phones to NIGHTMARES| Everyone Welcomed !hype !discord",
       "game_name": "SIMULACRA",
-      "viewer_count": 21,
+      "viewer_count": 17,
       "follower_count": 5128,
       "language": "en",
       "started_at": "2026-08-14T13:06:11Z",
