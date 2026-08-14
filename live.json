@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T17:32:58.453Z",
+  "generatedAt": "2026-08-14T17:37:58.400Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T17:32:58.453Z",
+    "fetchedAt": "2026-08-14T17:37:58.400Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We're Going From Creepy Phones to NIGHTMARES| Everyone Welcomed !hype !discord",
       "game_name": "REANIMAL",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 5128,
       "language": "en",
       "started_at": "2026-08-14T14:15:11Z",
