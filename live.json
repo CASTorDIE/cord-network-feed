@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T06:02:58.371Z",
+  "generatedAt": "2026-08-14T06:07:58.358Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T06:02:58.371Z",
+    "fetchedAt": "2026-08-14T06:07:58.358Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Someone Call The Exterminator NOW | A Plague Tale: Requiem | Therapy & Chaos",
       "game_name": "A Plague Tale: Requiem",
-      "viewer_count": 13,
+      "viewer_count": 12,
       "follower_count": 901,
       "language": "en",
       "started_at": "2026-08-14T04:08:10Z",
