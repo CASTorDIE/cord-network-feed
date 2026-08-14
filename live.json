@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T23:07:57.765Z",
+  "generatedAt": "2026-08-14T23:12:57.728Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T23:07:57.765Z",
+    "fetchedAt": "2026-08-14T23:12:57.728Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,13 +15,28 @@
   },
   "streamers": [
     {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
+      "game_name": "Just Chatting",
+      "viewer_count": 72,
+      "follower_count": 2420,
+      "language": "en",
+      "started_at": "2026-08-14T22:36:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
       "title": "[drops] running on caffeine and crashouts🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 73,
-      "follower_count": 10459,
+      "viewer_count": 70,
+      "follower_count": 10461,
       "language": "en",
       "started_at": "2026-08-14T20:04:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -30,19 +45,19 @@
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
+      "user_login": "wexra",
+      "user_name": "Wexra",
       "is_live": true,
-      "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
-      "game_name": "Just Chatting",
-      "viewer_count": 68,
-      "follower_count": 2420,
+      "title": "NEW HAIR NEW WEX 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
+      "game_name": "For Honor",
+      "viewer_count": 44,
+      "follower_count": 8575,
       "language": "en",
-      "started_at": "2026-08-14T22:36:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+      "started_at": "2026-08-14T23:06:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "desertrose",
@@ -58,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": true,
-      "title": "NEW HAIR NEW WEX 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
-      "game_name": "For Honor",
-      "viewer_count": 0,
-      "follower_count": 8575,
-      "language": "en",
-      "started_at": "2026-08-14T23:06:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 111479,
+      "follower_count": 111480,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
