@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-15T17:47:57.672Z",
+  "generatedAt": "2026-08-15T17:52:57.692Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-15T17:47:57.672Z",
+    "fetchedAt": "2026-08-15T17:52:57.692Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Entering a VR Nightmare | Everyone Welcomed !hype !discord",
       "game_name": "Little Nightmares VR: Altered Echoes",
-      "viewer_count": 30,
+      "viewer_count": 34,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-08-15T13:02:33Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 111597,
+      "follower_count": 111598,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
