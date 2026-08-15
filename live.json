@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-15T12:12:58.184Z",
+  "generatedAt": "2026-08-15T12:17:58.204Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-15T12:12:58.184Z",
+    "fetchedAt": "2026-08-15T12:17:58.204Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "| Lets redo our beach!!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 47,
+      "viewer_count": 48,
       "follower_count": 2744,
       "language": "en",
       "started_at": "2026-08-15T11:49:40Z",
