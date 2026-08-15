@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-15T02:22:58.217Z",
+  "generatedAt": "2026-08-15T02:27:58.223Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-15T02:22:58.217Z",
+    "fetchedAt": "2026-08-15T02:27:58.223Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 8,
-    "offlineCount": 36
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[drops] running on caffeine and crashouts🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 238,
-      "follower_count": 10528,
+      "viewer_count": 242,
+      "follower_count": 10529,
       "language": "en",
       "started_at": "2026-08-14T20:04:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Games + Demos",
-      "viewer_count": 67,
+      "viewer_count": 59,
       "follower_count": 2420,
       "language": "en",
       "started_at": "2026-08-15T00:57:11Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "NEW HAIR NEW WEX 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 48,
+      "viewer_count": 49,
       "follower_count": 8583,
       "language": "en",
       "started_at": "2026-08-14T23:06:32Z",
@@ -60,27 +60,12 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "Blind Sekiro. Dragonrot chronicles continue",
-      "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 16,
-      "follower_count": 273,
-      "language": "en",
-      "started_at": "2026-08-15T00:57:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
-    },
-    {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| LEGENDARY HALO DUO TEAM STRIKE AGAIN! | !pizza !discord !telegram !vrc !micro | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 15,
+      "viewer_count": 32,
       "follower_count": 10103,
       "language": "en",
       "started_at": "2026-08-15T02:19:01Z",
@@ -90,12 +75,27 @@
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": true,
+      "title": "Blind Sekiro. Dragonrot chronicles continue",
+      "game_name": " SEKIRO: SHADOWS DIE TWICE",
+      "viewer_count": 18,
+      "follower_count": 273,
+      "language": "en",
+      "started_at": "2026-08-15T00:57:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
+    },
+    {
       "user_login": "desertrose",
       "user_name": "Desertrose",
       "is_live": true,
       "title": "New Peak update with dah homies!",
       "game_name": "PEAK",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 1049,
       "language": "en",
       "started_at": "2026-08-14T22:11:49Z",
@@ -110,7 +110,7 @@
       "is_live": true,
       "title": "league tonight?? emerald peak doing emerald peak things | GREAT GOOGLY MOOGLY",
       "game_name": "Just Chatting",
-      "viewer_count": 7,
+      "viewer_count": 4,
       "follower_count": 170,
       "language": "en",
       "started_at": "2026-08-15T02:15:15Z",
@@ -118,21 +118,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/alfieduu",
       "description": "yo put your feet up homie"
-    },
-    {
-      "user_login": "rickett_raffy",
-      "user_name": "rickett_raffy",
-      "is_live": true,
-      "title": "Saturday Sprites",
-      "game_name": "Fortnite",
-      "viewer_count": 2,
-      "follower_count": 137,
-      "language": "en",
-      "started_at": "2026-08-15T00:01:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/rickett_raffy",
-      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
     },
     {
       "user_login": "allyreggie",
@@ -553,6 +538,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/padbae",
       "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
+    },
+    {
+      "user_login": "rickett_raffy",
+      "user_name": "rickett_raffy",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 137,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/rickett_raffy",
+      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
     },
     {
       "user_login": "skavstheworld",
