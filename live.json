@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-15T13:17:58.291Z",
+  "generatedAt": "2026-08-15T13:22:58.307Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-15T13:17:58.291Z",
+    "fetchedAt": "2026-08-15T13:22:58.307Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "| Lets redo our beach!!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 62,
+      "viewer_count": 65,
       "follower_count": 2746,
       "language": "en",
       "started_at": "2026-08-15T11:49:40Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I’m Fixing My Hoarding Plot Before Entering a Nightmare | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 22,
+      "viewer_count": 19,
       "follower_count": 5127,
       "language": "en",
       "started_at": "2026-08-15T13:02:33Z",
