@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-08-14T23:57:58.309Z",
+  "generatedAt": "2026-08-15T00:02:58.148Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-14T23:57:58.309Z",
+    "fetchedAt": "2026-08-15T00:02:58.148Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
-    {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "[drops] running on caffeine and crashouts🎀",
-      "game_name": "Marvel Rivals",
-      "viewer_count": 76,
-      "follower_count": 10461,
-      "language": "en",
-      "started_at": "2026-08-14T20:04:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
     {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !MERCH !DISCORD !YOUTUBE",
       "game_name": "Just Chatting",
-      "viewer_count": 73,
+      "viewer_count": 74,
       "follower_count": 2420,
       "language": "en",
       "started_at": "2026-08-14T22:36:25Z",
@@ -45,12 +30,27 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "[drops] running on caffeine and crashouts🎀",
+      "game_name": "Marvel Rivals",
+      "viewer_count": 73,
+      "follower_count": 10461,
+      "language": "en",
+      "started_at": "2026-08-14T20:04:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": true,
       "title": "NEW HAIR NEW WEX 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 55,
+      "viewer_count": 56,
       "follower_count": 8580,
       "language": "en",
       "started_at": "2026-08-14T23:06:32Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "New Peak update with dah homies!",
       "game_name": "PEAK",
-      "viewer_count": 14,
+      "viewer_count": 12,
       "follower_count": 1049,
       "language": "en",
       "started_at": "2026-08-14T22:11:49Z",
@@ -81,13 +81,28 @@
       "title": "Overwatch New Season! | Come by and show some love! Pushing for Affiliate! (DROPS ENABLED)",
       "game_name": "Overwatch",
       "viewer_count": 1,
-      "follower_count": 12,
+      "follower_count": 13,
       "language": "en",
       "started_at": "2026-08-14T23:40:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
       "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
+    },
+    {
+      "user_login": "rickett_raffy",
+      "user_name": "rickett_raffy",
+      "is_live": true,
+      "title": "Saturday Sprites",
+      "game_name": "Fortnite",
+      "viewer_count": 0,
+      "follower_count": 135,
+      "language": "en",
+      "started_at": "2026-08-15T00:01:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/rickett_raffy",
+      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
     },
     {
       "user_login": "4kaizen_gaming",
@@ -523,21 +538,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/padbae",
       "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
-    },
-    {
-      "user_login": "rickett_raffy",
-      "user_name": "rickett_raffy",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 135,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/rickett_raffy",
-      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
     },
     {
       "user_login": "skavstheworld",
