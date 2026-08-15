@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-15T15:52:58.582Z",
+  "generatedAt": "2026-08-15T15:57:58.535Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-15T15:52:58.582Z",
+    "fetchedAt": "2026-08-15T15:57:58.535Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I’m Fixing My Hoarding Plot Before Entering a Nightmare | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 46,
+      "viewer_count": 43,
       "follower_count": 5132,
       "language": "en",
       "started_at": "2026-08-15T13:02:33Z",
