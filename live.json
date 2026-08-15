@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-15T14:57:58.399Z",
+  "generatedAt": "2026-08-15T15:02:58.506Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-15T14:57:58.399Z",
+    "fetchedAt": "2026-08-15T15:02:58.506Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "| Lets redo our beach!!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 66,
+      "viewer_count": 65,
       "follower_count": 2751,
       "language": "en",
       "started_at": "2026-08-15T11:49:40Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "I’m Fixing My Hoarding Plot Before Entering a Nightmare | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 40,
-      "follower_count": 5132,
+      "viewer_count": 38,
+      "follower_count": 5133,
       "language": "en",
       "started_at": "2026-08-15T13:02:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
