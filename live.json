@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-15T22:42:58.222Z",
+  "generatedAt": "2026-08-15T22:47:58.276Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-15T22:42:58.222Z",
+    "fetchedAt": "2026-08-15T22:47:58.276Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,7 +18,7 @@
       "user_login": "mrcarameldrizzle",
       "user_name": "MrCaramelDrizzle",
       "is_live": true,
-      "title": "Overwatch suffering in Season 4! | Come by and show some love! Pushing for Affiliate!",
+      "title": "Overwatch suffering in Season 4 placements! | Come by and show some love! Pushing for Affiliate!",
       "game_name": "Overwatch",
       "viewer_count": 2,
       "follower_count": 16,
