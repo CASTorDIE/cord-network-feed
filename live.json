@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-15T03:42:58.434Z",
+  "generatedAt": "2026-08-15T03:47:58.420Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-15T03:42:58.434Z",
+    "fetchedAt": "2026-08-15T03:47:58.420Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| LEGENDARY HALO DUO TEAM STRIKE AGAIN! | !pizza !discord !telegram !vrc !micro | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Halo: Campaign Evolved",
-      "viewer_count": 98,
+      "viewer_count": 97,
       "follower_count": 10103,
       "language": "en",
       "started_at": "2026-08-15T02:19:01Z",
