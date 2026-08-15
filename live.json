@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-15T21:52:58.105Z",
+  "generatedAt": "2026-08-15T21:57:58.134Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-15T21:52:58.105Z",
+    "fetchedAt": "2026-08-15T21:57:58.134Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Deadlock suffering after months away! | Come by and show some love! Pushing for Affiliate!",
       "game_name": "Deadlock",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 15,
       "language": "en",
       "started_at": "2026-08-15T21:13:12Z",
