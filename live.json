@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T16:22:57.847Z",
+  "generatedAt": "2026-08-16T16:27:57.835Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T16:22:57.847Z",
+    "fetchedAt": "2026-08-16T16:27:57.835Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "From Plushie Hunting to Our First Trip to Hogsmeade! | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 41,
+      "viewer_count": 38,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-08-16T13:05:38Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 111792,
+      "follower_count": 111791,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
