@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T12:27:58.442Z",
+  "generatedAt": "2026-08-16T12:32:58.458Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T12:27:58.442Z",
+    "fetchedAt": "2026-08-16T12:32:58.458Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|ACOTAR Build | Spicy Sunday!!! Building our bookish dreams!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 43,
+      "viewer_count": 42,
       "follower_count": 2752,
       "language": "en",
       "started_at": "2026-08-16T12:09:20Z",
