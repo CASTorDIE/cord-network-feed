@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T12:22:58.502Z",
+  "generatedAt": "2026-08-16T12:27:58.442Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T12:22:58.502Z",
+    "fetchedAt": "2026-08-16T12:27:58.442Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "|ACOTAR Build | Spicy Sunday!!! Building our bookish dreams!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 40,
-      "follower_count": 2751,
+      "viewer_count": 43,
+      "follower_count": 2752,
       "language": "en",
       "started_at": "2026-08-16T12:09:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
