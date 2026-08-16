@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T13:52:58.503Z",
+  "generatedAt": "2026-08-16T13:57:58.581Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T13:52:58.503Z",
+    "fetchedAt": "2026-08-16T13:57:58.581Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|ACOTAR Build | Spicy Sunday!!! Building our bookish dreams!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Palworld",
-      "viewer_count": 40,
+      "viewer_count": 36,
       "follower_count": 2753,
       "language": "en",
       "started_at": "2026-08-16T12:09:20Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "From Plushie Hunting to Our First Trip to Hogsmeade! | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 36,
+      "viewer_count": 34,
       "follower_count": 5131,
       "language": "en",
       "started_at": "2026-08-16T13:05:38Z",
