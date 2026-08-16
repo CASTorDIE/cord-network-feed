@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-16T23:32:58.658Z",
+  "generatedAt": "2026-08-16T23:37:58.485Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T23:32:58.658Z",
+    "fetchedAt": "2026-08-16T23:37:58.485Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "AT OLD FAITHFUL",
       "game_name": "Just Chatting",
-      "viewer_count": 67,
+      "viewer_count": 75,
       "follower_count": 2423,
       "language": "en",
       "started_at": "2026-08-16T23:20:15Z",
@@ -30,19 +30,19 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "padbae",
-      "user_name": "padbae",
+      "user_login": "ao_zora_",
+      "user_name": "Ao_Zora_",
       "is_live": true,
-      "title": "♡ no nicks allowed ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT3 | !lurk !sus !discord !gfuel !patreon",
-      "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 17,
-      "follower_count": 1341,
+      "title": "Any professional mac users in chat? XD | !merch !throne !daki",
+      "game_name": "Just Chatting",
+      "viewer_count": 15,
+      "follower_count": 6240,
       "language": "en",
-      "started_at": "2026-08-16T22:09:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/padbae",
-      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
+      "started_at": "2026-08-16T23:34:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
+      "twitch_url": "https://www.twitch.tv/ao_zora_",
+      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "desertrose",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Will we get the secret ending today today?",
       "game_name": "PEAK",
-      "viewer_count": 16,
+      "viewer_count": 14,
       "follower_count": 1048,
       "language": "en",
       "started_at": "2026-08-16T22:07:16Z",
@@ -60,13 +60,28 @@
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
+      "user_login": "padbae",
+      "user_name": "padbae",
+      "is_live": true,
+      "title": "♡ no nicks allowed ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT3 | !lurk !sus !discord !gfuel !patreon",
+      "game_name": "The Dark Pictures Anthology: House of Ashes",
+      "viewer_count": 14,
+      "follower_count": 1341,
+      "language": "en",
+      "started_at": "2026-08-16T22:09:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/padbae",
+      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
+    },
+    {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "Ain't nothing like the old school",
       "game_name": "ReStory: Chill Electronics Repairs",
-      "viewer_count": 4,
-      "follower_count": 332,
+      "viewer_count": 3,
+      "follower_count": 333,
       "language": "en",
       "started_at": "2026-08-16T22:20:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
@@ -133,21 +148,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/allyreggie",
       "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
-    },
-    {
-      "user_login": "ao_zora_",
-      "user_name": "Ao_Zora_",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 6240,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
-      "twitch_url": "https://www.twitch.tv/ao_zora_",
-      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "astral_celestial",
