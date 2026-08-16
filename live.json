@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T17:42:57.932Z",
+  "generatedAt": "2026-08-16T17:47:58.013Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T17:42:57.932Z",
+    "fetchedAt": "2026-08-16T17:47:58.013Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Our First Trip to Hogsmeade! | Everyone Welcomed !hype !discord",
       "game_name": "Hogwarts Legacy",
-      "viewer_count": 35,
+      "viewer_count": 30,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-08-16T13:05:38Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming 08/16/26 Resident Evil 4 Remake",
       "game_name": "Resident Evil 4",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 22,
       "language": "en",
       "started_at": "2026-08-16T17:00:11Z",
