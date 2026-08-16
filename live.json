@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T22:32:58.425Z",
+  "generatedAt": "2026-08-16T22:37:58.462Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T22:32:58.425Z",
+    "fetchedAt": "2026-08-16T22:37:58.462Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "♡ no nicks allowed ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT3 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 20,
+      "viewer_count": 18,
       "follower_count": 1341,
       "language": "en",
       "started_at": "2026-08-16T22:09:04Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Will we get the secret ending today today?",
       "game_name": "PEAK",
-      "viewer_count": 6,
+      "viewer_count": 4,
       "follower_count": 1048,
       "language": "en",
       "started_at": "2026-08-16T22:07:16Z",
@@ -45,27 +45,12 @@
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": true,
-      "title": "Ain't nothing like the old school",
-      "game_name": "ReStory: Chill Electronics Repairs",
-      "viewer_count": 2,
-      "follower_count": 333,
-      "language": "en",
-      "started_at": "2026-08-16T22:20:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
-    },
-    {
       "user_login": "mrcarameldrizzle",
       "user_name": "MrCaramelDrizzle",
       "is_live": true,
       "title": "Deadlock W's for sure right?? | Grinding for Affiliate!",
       "game_name": "Deadlock",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 16,
       "language": "en",
       "started_at": "2026-08-16T21:55:44Z",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
       "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": true,
+      "title": "Ain't nothing like the old school",
+      "game_name": "ReStory: Chill Electronics Repairs",
+      "viewer_count": 1,
+      "follower_count": 333,
+      "language": "en",
+      "started_at": "2026-08-16T22:20:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
