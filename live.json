@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T18:17:58.031Z",
+  "generatedAt": "2026-08-16T18:22:58.123Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T18:17:58.031Z",
+    "fetchedAt": "2026-08-16T18:22:58.123Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Our First Trip to Hogsmeade! | Everyone Welcomed !hype !discord",
       "game_name": "Hogwarts Legacy",
-      "viewer_count": 29,
+      "viewer_count": 27,
       "follower_count": 5132,
       "language": "en",
       "started_at": "2026-08-16T13:05:38Z",
