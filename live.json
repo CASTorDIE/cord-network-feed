@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T12:47:58.551Z",
+  "generatedAt": "2026-08-16T12:52:58.527Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T12:47:58.551Z",
+    "fetchedAt": "2026-08-16T12:52:58.527Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "jaxsberrypatch",
       "is_live": true,
       "title": "|ACOTAR Build | Spicy Sunday!!! Building our bookish dreams!  |!giveaway !discord !tip !linktree !merch |",
-      "game_name": "Minecraft",
-      "viewer_count": 42,
+      "game_name": "Palworld",
+      "viewer_count": 43,
       "follower_count": 2752,
       "language": "en",
       "started_at": "2026-08-16T12:09:20Z",
