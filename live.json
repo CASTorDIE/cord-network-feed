@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T04:37:57.778Z",
+  "generatedAt": "2026-08-16T04:42:57.813Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T04:37:57.778Z",
+    "fetchedAt": "2026-08-16T04:42:57.813Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Blind Sekiro. We -are- dragon rot",
       "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 16,
+      "viewer_count": 18,
       "follower_count": 275,
       "language": "en",
       "started_at": "2026-08-16T00:57:58Z",
