@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T12:57:58.506Z",
+  "generatedAt": "2026-08-16T13:02:58.502Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T12:57:58.506Z",
+    "fetchedAt": "2026-08-16T13:02:58.502Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "|ACOTAR Build | Spicy Sunday!!! Building our bookish dreams!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Palworld",
-      "viewer_count": 43,
-      "follower_count": 2752,
+      "viewer_count": 47,
+      "follower_count": 2753,
       "language": "en",
       "started_at": "2026-08-16T12:09:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
