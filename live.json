@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T00:37:58.425Z",
+  "generatedAt": "2026-08-16T00:42:58.433Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T00:37:58.425Z",
+    "fetchedAt": "2026-08-16T00:42:58.433Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 946🍆!discord🍆!factor🍆WOWEE MORE ROCKET LEAGUE🍆I'M SURE THIS IS GOING TO BE FUN🍆LETS ALL NOT GET ANGRY TODAY WHEN",
       "game_name": "Rocket League",
-      "viewer_count": 368,
+      "viewer_count": 356,
       "follower_count": 111614,
       "language": "en",
       "started_at": "2026-08-16T00:05:40Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "MY NEXT REP 100 I LOVE HER 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 53,
+      "viewer_count": 52,
       "follower_count": 8589,
       "language": "en",
       "started_at": "2026-08-16T00:14:41Z",
