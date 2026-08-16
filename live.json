@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-16T23:17:58.526Z",
+  "generatedAt": "2026-08-16T23:22:58.421Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T23:17:58.526Z",
+    "fetchedAt": "2026-08-16T23:22:58.421Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "♡ no nicks allowed ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT3 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 12,
+      "viewer_count": 16,
       "follower_count": 1341,
       "language": "en",
       "started_at": "2026-08-16T22:09:04Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Ain't nothing like the old school",
       "game_name": "ReStory: Chill Electronics Repairs",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 332,
       "language": "en",
       "started_at": "2026-08-16T22:20:47Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Deadlock W's for sure right?? | Grinding for Affiliate!",
       "game_name": "Deadlock",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 16,
       "language": "en",
       "started_at": "2026-08-16T21:55:44Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
       "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "AT OLD FAITHFUL",
+      "game_name": "Just Chatting",
+      "viewer_count": 1,
+      "follower_count": 2423,
+      "language": "en",
+      "started_at": "2026-08-16T23:20:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -148,21 +163,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
-    },
-    {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 2423,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
