@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T06:02:57.876Z",
+  "generatedAt": "2026-08-16T06:07:57.905Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T06:02:57.876Z",
+    "fetchedAt": "2026-08-16T06:07:57.905Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| PEAKING AT THE NEW CLIMBS | !pizza !discord !telegram !vrc !micro | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "PEAK",
-      "viewer_count": 123,
+      "viewer_count": 134,
       "follower_count": 10105,
       "language": "en",
       "started_at": "2026-08-16T01:02:05Z",
