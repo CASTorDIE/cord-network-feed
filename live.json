@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-16T02:02:58.527Z",
+  "generatedAt": "2026-08-16T02:07:58.526Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T02:02:58.527Z",
+    "fetchedAt": "2026-08-16T02:07:58.526Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 946🍆!discord🍆!factor🍆WOWEE MORE ROCKET LEAGUE🍆I'M SURE THIS IS GOING TO BE FUN🍆LETS ALL NOT GET ANGRY TODAY WHEN",
       "game_name": "Rocket League",
-      "viewer_count": 549,
-      "follower_count": 111668,
+      "viewer_count": 497,
+      "follower_count": 111675,
       "language": "en",
       "started_at": "2026-08-16T00:05:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "MY NEXT REP 100 I LOVE HER 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 64,
+      "viewer_count": 65,
       "follower_count": 8591,
       "language": "en",
       "started_at": "2026-08-16T00:14:41Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🦊🦇| PEAKING AT THE NEW CLIMBS | !pizza !discord !telegram !vrc !micro | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "PEAK",
-      "viewer_count": 32,
+      "viewer_count": 27,
       "follower_count": 10104,
       "language": "en",
       "started_at": "2026-08-16T01:02:05Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Blind Sekiro. We -are- dragon rot",
       "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 16,
+      "viewer_count": 17,
       "follower_count": 273,
       "language": "en",
       "started_at": "2026-08-16T00:57:58Z",
@@ -88,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": true,
-      "title": "TG Saturday Shuffle 08/15/26 The Mound: Omen of Cthulhu",
-      "game_name": "The Mound: Omen of Cthulhu",
-      "viewer_count": 1,
-      "follower_count": 22,
-      "language": "en",
-      "started_at": "2026-08-15T23:03:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "alfieduu",
@@ -613,6 +598,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 22,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
