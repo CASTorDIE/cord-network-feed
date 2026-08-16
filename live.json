@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T13:22:58.478Z",
+  "generatedAt": "2026-08-16T13:27:58.582Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T13:22:58.478Z",
+    "fetchedAt": "2026-08-16T13:27:58.582Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|ACOTAR Build | Spicy Sunday!!! Building our bookish dreams!  |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Palworld",
-      "viewer_count": 46,
+      "viewer_count": 45,
       "follower_count": 2754,
       "language": "en",
       "started_at": "2026-08-16T12:09:20Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "From Plushie Hunting to Our First Trip to Hogsmeade! | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 31,
-      "follower_count": 5133,
+      "viewer_count": 32,
+      "follower_count": 5132,
       "language": "en",
       "started_at": "2026-08-16T13:05:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
