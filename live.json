@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T19:52:58.196Z",
+  "generatedAt": "2026-08-16T19:57:58.180Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T19:52:58.196Z",
+    "fetchedAt": "2026-08-16T19:57:58.180Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming 08/16/26 Resident Evil 4 Remake",
       "game_name": "Resident Evil 4",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "follower_count": 22,
       "language": "en",
       "started_at": "2026-08-16T19:51:11Z",
