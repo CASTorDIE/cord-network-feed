@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T22:47:58.501Z",
+  "generatedAt": "2026-08-16T22:52:58.515Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-16T22:47:58.501Z",
+    "fetchedAt": "2026-08-16T22:52:58.515Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "♡ no nicks allowed ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT3 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 12,
+      "viewer_count": 14,
       "follower_count": 1341,
       "language": "en",
       "started_at": "2026-08-16T22:09:04Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Ain't nothing like the old school",
       "game_name": "ReStory: Chill Electronics Repairs",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 332,
       "language": "en",
       "started_at": "2026-08-16T22:20:47Z",
