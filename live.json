@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-17T02:07:57.705Z",
+  "generatedAt": "2026-08-17T02:12:57.694Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-17T02:07:57.705Z",
+    "fetchedAt": "2026-08-17T02:12:57.694Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 947🫎!discord🫎!factor🫎MOOSE🫎YOU KNOW WHAT THAT MEANS🫎THERE'S NO PUNCH LINE KID YOU KNOW EXACTLY WHAT IN THE ABSOLU",
       "game_name": "Rocket League",
-      "viewer_count": 777,
-      "follower_count": 111959,
+      "viewer_count": 789,
+      "follower_count": 111967,
       "language": "en",
       "started_at": "2026-08-17T00:07:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Any professional mac users in chat? XD | !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 76,
+      "viewer_count": 80,
       "follower_count": 6246,
       "language": "en",
       "started_at": "2026-08-16T23:34:59Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
       "twitch_url": "https://www.twitch.tv/ao_zora_",
       "description": "I sing and play games. Sometimes I bake"
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": true,
+      "title": "Will we get the secret ending today today?",
+      "game_name": "PEAK",
+      "viewer_count": 8,
+      "follower_count": 1048,
+      "language": "en",
+      "started_at": "2026-08-16T22:07:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "floodwater_",
@@ -60,27 +75,12 @@
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": true,
-      "title": "Will we get the secret ending today today?",
-      "game_name": "PEAK",
-      "viewer_count": 7,
-      "follower_count": 1048,
-      "language": "en",
-      "started_at": "2026-08-16T22:07:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "Ain't nothing like the old school",
       "game_name": "ReStory: Chill Electronics Repairs",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "follower_count": 333,
       "language": "en",
       "started_at": "2026-08-16T22:20:47Z",
