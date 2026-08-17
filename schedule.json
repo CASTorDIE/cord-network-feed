@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-17T20:53:37.742Z",
+  "generatedAt": "2026-08-17T22:27:32.942Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-17T20:53:37.702Z",
+    "updatedAt": "2026-08-17T22:27:32.905Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 32,
+    "entryCount": 36,
     "firstDate": "2026-08-16",
     "lastDate": "2026-08-24",
     "windowStart": "2026-08-16",
@@ -176,6 +176,19 @@
       "url": "https://www.twitch.tv/dingo_dynasty"
     },
     {
+      "id": "evt_1787005469046_dsy2pk",
+      "date": "2026-08-19",
+      "dateLabel": "Wednesday, August 19th",
+      "weekday": "Wednesday",
+      "streamer": "jaxsberrypatch",
+      "title": "Weekly Reset, DreamSnaps, Premium Shop, Daily Duties",
+      "timeMinutes": 840,
+      "timeLabel": "2:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
       "id": "evt_1787000017698_6txm4c",
       "date": "2026-08-19",
       "dateLabel": "Wednesday, August 19th",
@@ -293,6 +306,19 @@
       "url": "https://www.twitch.tv/mustnrd_fenn"
     },
     {
+      "id": "evt_1787005469046_lq8vtk",
+      "date": "2026-08-21",
+      "dateLabel": "Friday, August 21st",
+      "weekday": "Friday",
+      "streamer": "jaxsberrypatch",
+      "title": "Valley Visits, Beach Area Completion",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
       "id": "evt_1787000017698_kdio04",
       "date": "2026-08-21",
       "dateLabel": "Friday, August 21st",
@@ -345,6 +371,19 @@
       "url": "https://www.twitch.tv/dingo_dynasty"
     },
     {
+      "id": "evt_1787005469046_qhif3q",
+      "date": "2026-08-22",
+      "dateLabel": "Saturday, August 22nd",
+      "weekday": "Saturday",
+      "streamer": "jaxsberrypatch",
+      "title": "Princess Biome Refresh",
+      "timeMinutes": 420,
+      "timeLabel": "7:00 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
       "id": "evt_1786992843401_g6cdvs",
       "date": "2026-08-22",
       "dateLabel": "Saturday, August 22nd",
@@ -369,6 +408,19 @@
       "highlight": "orange",
       "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/ironden_tv"
+    },
+    {
+      "id": "evt_1787005469046_7wdhh6",
+      "date": "2026-08-23",
+      "dateLabel": "Sunday, August 23rd",
+      "weekday": "Sunday",
+      "streamer": "jaxsberrypatch",
+      "title": "Frosted Heights Fix-Up",
+      "timeMinutes": 420,
+      "timeLabel": "7:00 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
       "id": "evt_1786996206532_5acybq",
