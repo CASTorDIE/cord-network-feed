@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-17T18:04:17.863Z",
+  "generatedAt": "2026-08-17T18:16:57.060Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-17T18:04:17.818Z",
+    "updatedAt": "2026-08-17T18:16:57.022Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 11,
+    "entryCount": 16,
     "firstDate": "2026-08-16",
     "lastDate": "2026-08-23",
     "windowStart": "2026-08-16",
@@ -85,6 +85,19 @@
       "url": "https://www.twitch.tv/ironden_tv"
     },
     {
+      "id": "evt_1786990617015_fgv2dw",
+      "date": "2026-08-18",
+      "dateLabel": "Tuesday, August 18th",
+      "weekday": "Tuesday",
+      "streamer": "mustnrd_fenn",
+      "title": "Soulframe",
+      "timeMinutes": 780,
+      "timeLabel": "1:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/mustnrd_fenn"
+    },
+    {
       "id": "evt_1786989857811_uci9rw",
       "date": "2026-08-18",
       "dateLabel": "Tuesday, August 18th",
@@ -96,6 +109,19 @@
       "highlight": "orange",
       "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/ironden_tv"
+    },
+    {
+      "id": "evt_1786990476018_6ip2hy",
+      "date": "2026-08-18",
+      "dateLabel": "Tuesday, August 18th",
+      "weekday": "Tuesday",
+      "streamer": "Dingo_Dynasty",
+      "title": "A Plague Tale Requiem",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
     },
     {
       "id": "evt_1786989857811_112uy3",
@@ -124,6 +150,32 @@
       "url": "https://www.twitch.tv/ironden_tv"
     },
     {
+      "id": "evt_1786990476018_y4s6yf",
+      "date": "2026-08-20",
+      "dateLabel": "Thursday, August 20th",
+      "weekday": "Thursday",
+      "streamer": "Dingo_Dynasty",
+      "title": "A Plague Tale Requiem",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
+    },
+    {
+      "id": "evt_1786990617015_nch0n4",
+      "date": "2026-08-21",
+      "dateLabel": "Friday, August 21st",
+      "weekday": "Friday",
+      "streamer": "mustnrd_fenn",
+      "title": "Soulframe",
+      "timeMinutes": 780,
+      "timeLabel": "1:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/mustnrd_fenn"
+    },
+    {
       "id": "evt_1786989857811_g6thmv",
       "date": "2026-08-21",
       "dateLabel": "Friday, August 21st",
@@ -135,6 +187,19 @@
       "highlight": "orange",
       "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/ironden_tv"
+    },
+    {
+      "id": "evt_1786990476019_oodo5x",
+      "date": "2026-08-21",
+      "dateLabel": "Friday, August 21st",
+      "weekday": "Friday",
+      "streamer": "Dingo_Dynasty",
+      "title": "A Plague Tale Requiem",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
     },
     {
       "id": "evt_1786989857811_17574l",
