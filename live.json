@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-17T21:12:59.155Z",
+  "generatedAt": "2026-08-17T21:17:58.454Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-17T21:12:59.155Z",
+    "fetchedAt": "2026-08-17T21:17:58.454Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[drops] LAST STREAM BEFORE BIG EVENT STARTING FRIDAY WITH FRAY🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 112,
+      "viewer_count": 105,
       "follower_count": 10548,
       "language": "en",
       "started_at": "2026-08-17T20:37:03Z",
