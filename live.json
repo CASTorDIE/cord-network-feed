@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-17T03:02:57.771Z",
+  "generatedAt": "2026-08-17T03:07:57.812Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-17T03:02:57.771Z",
+    "fetchedAt": "2026-08-17T03:07:57.812Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 947🫎!discord🫎!factor🫎MOOSE🫎YOU KNOW WHAT THAT MEANS🫎THERE'S NO PUNCH LINE KID YOU KNOW EXACTLY WHAT IN THE ABSOLU",
       "game_name": "Rocket League",
-      "viewer_count": 744,
-      "follower_count": 112038,
+      "viewer_count": 734,
+      "follower_count": 112043,
       "language": "en",
       "started_at": "2026-08-17T00:07:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Any professional mac users in chat? XD | !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 60,
+      "viewer_count": 58,
       "follower_count": 6249,
       "language": "en",
       "started_at": "2026-08-16T23:34:59Z",
