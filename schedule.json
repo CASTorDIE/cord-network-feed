@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-17T18:23:16.959Z",
+  "generatedAt": "2026-08-17T18:32:51.814Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-17T18:23:16.916Z",
+    "updatedAt": "2026-08-17T18:32:51.768Z",
     "timezone": "America/Chicago"
   },
   "summary": {
@@ -16,7 +16,7 @@
     "windowStart": "2026-08-16",
     "windowEnd": "2026-11-15",
     "invalidEntryCount": 0,
-    "duplicateEntryCount": 1
+    "duplicateEntryCount": 0
   },
   "entries": [
     {
@@ -46,7 +46,7 @@
       "url": "https://www.twitch.tv/gibsontales"
     },
     {
-      "id": "evt_1786304209296_z3cc0q",
+      "id": "evt_1786990993663_svr0cy",
       "date": "2026-08-16",
       "dateLabel": "Sunday, August 16th",
       "weekday": "Sunday",
