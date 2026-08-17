@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-08-17T04:02:57.947Z",
+  "generatedAt": "2026-08-17T04:07:57.942Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-17T04:02:57.947Z",
+    "fetchedAt": "2026-08-17T04:07:57.942Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 947🫎!discord🫎!factor🫎MOOSE🫎YOU KNOW WHAT THAT MEANS🫎THERE'S NO PUNCH LINE KID YOU KNOW EXACTLY WHAT IN THE ABSOLU",
-      "game_name": "Rocket League",
-      "viewer_count": 701,
-      "follower_count": 112119,
-      "language": "en",
-      "started_at": "2026-08-17T00:07:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "Any professional mac users in chat? XD | !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 61,
+      "viewer_count": 54,
       "follower_count": 6251,
       "language": "en",
       "started_at": "2026-08-16T23:34:59Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "💜⚔️Detroit Become Human First Time Playthrough! Part 2⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "Detroit: Become Human",
-      "viewer_count": 13,
+      "viewer_count": 10,
       "follower_count": 2103,
       "language": "en",
       "started_at": "2026-08-17T01:01:49Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "Ain't nothing like the old school",
       "game_name": "ReStory: Chill Electronics Repairs",
-      "viewer_count": 3,
+      "viewer_count": 6,
       "follower_count": 333,
       "language": "en",
       "started_at": "2026-08-16T22:20:47Z",
@@ -208,6 +193,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 112119,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
