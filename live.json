@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-17T02:27:57.802Z",
+  "generatedAt": "2026-08-17T02:32:57.760Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-17T02:27:57.802Z",
+    "fetchedAt": "2026-08-17T02:32:57.760Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 947🫎!discord🫎!factor🫎MOOSE🫎YOU KNOW WHAT THAT MEANS🫎THERE'S NO PUNCH LINE KID YOU KNOW EXACTLY WHAT IN THE ABSOLU",
       "game_name": "Rocket League",
-      "viewer_count": 807,
-      "follower_count": 111988,
+      "viewer_count": 784,
+      "follower_count": 111994,
       "language": "en",
       "started_at": "2026-08-17T00:07:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -34,8 +34,8 @@
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "Any professional mac users in chat? XD | !merch !throne !daki",
-      "game_name": "Just Chatting",
-      "viewer_count": 74,
+      "game_name": "Phoenix Wright: Ace Attorney Trilogy",
+      "viewer_count": 69,
       "follower_count": 6248,
       "language": "en",
       "started_at": "2026-08-16T23:34:59Z",
@@ -49,7 +49,7 @@
       "user_name": "FloodWater_",
       "is_live": true,
       "title": "💜⚔️Detroit Become Human First Time Playthrough! Part 2⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
-      "game_name": "Just Chatting",
+      "game_name": "Detroit: Become Human",
       "viewer_count": 9,
       "follower_count": 2102,
       "language": "en",
@@ -60,27 +60,12 @@
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": true,
-      "title": "Will we get the secret ending today today?",
-      "game_name": "PEAK",
-      "viewer_count": 8,
-      "follower_count": 1048,
-      "language": "en",
-      "started_at": "2026-08-16T22:07:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "Ain't nothing like the old school",
       "game_name": "ReStory: Chill Electronics Repairs",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 333,
       "language": "en",
       "started_at": "2026-08-16T22:20:47Z",
@@ -268,6 +253,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10fbac99-b892-40b3-88cb-3ba197ba88f8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/darkdemocracytv",
       "description": "Healthcare by day, streaming by night! I'm Adam a dad, who love all things games, anime, and entertainment, and I'm so glad you're here with us! "
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1048,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "dingo_dynasty",
