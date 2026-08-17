@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-17T18:54:35.662Z",
+  "generatedAt": "2026-08-17T19:50:06.580Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-17T18:54:35.611Z",
+    "updatedAt": "2026-08-17T19:50:06.537Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 25,
+    "entryCount": 26,
     "firstDate": "2026-08-16",
     "lastDate": "2026-08-24",
     "windowStart": "2026-08-16",
@@ -291,6 +291,19 @@
       "highlight": "orange",
       "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/ironden_tv"
+    },
+    {
+      "id": "evt_1786996206532_5acybq",
+      "date": "2026-08-23",
+      "dateLabel": "Sunday, August 23rd",
+      "weekday": "Sunday",
+      "streamer": "schemevillain",
+      "title": "Untitled stream",
+      "timeMinutes": 600,
+      "timeLabel": "10:00 AM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/schemevillain"
     },
     {
       "id": "evt_1786990993663_mtjxbg",
