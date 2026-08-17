@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-17T00:42:57.589Z",
+  "generatedAt": "2026-08-17T00:47:57.595Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-17T00:42:57.589Z",
+    "fetchedAt": "2026-08-17T00:47:57.595Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 947🫎!discord🫎!factor🫎MOOSE🫎YOU KNOW WHAT THAT MEANS🫎THERE'S NO PUNCH LINE KID YOU KNOW EXACTLY WHAT IN THE ABSOLU",
       "game_name": "Rocket League",
-      "viewer_count": 528,
-      "follower_count": 111829,
+      "viewer_count": 460,
+      "follower_count": 111832,
       "language": "en",
       "started_at": "2026-08-17T00:07:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Any professional mac users in chat? XD | !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 66,
+      "viewer_count": 67,
       "follower_count": 6243,
       "language": "en",
       "started_at": "2026-08-16T23:34:59Z",
@@ -45,12 +45,27 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
+      "user_login": "padbae",
+      "user_name": "padbae",
+      "is_live": true,
+      "title": "♡ no nicks allowed ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT3 | !lurk !sus !discord !gfuel !patreon",
+      "game_name": "The Dark Pictures Anthology: House of Ashes",
+      "viewer_count": 14,
+      "follower_count": 1342,
+      "language": "en",
+      "started_at": "2026-08-16T22:09:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/padbae",
+      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
+    },
+    {
       "user_login": "desertrose",
       "user_name": "Desertrose",
       "is_live": true,
       "title": "Will we get the secret ending today today?",
       "game_name": "PEAK",
-      "viewer_count": 11,
+      "viewer_count": 10,
       "follower_count": 1048,
       "language": "en",
       "started_at": "2026-08-16T22:07:16Z",
@@ -60,27 +75,12 @@
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
-      "user_login": "padbae",
-      "user_name": "padbae",
-      "is_live": true,
-      "title": "♡ no nicks allowed ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT3 | !lurk !sus !discord !gfuel !patreon",
-      "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 10,
-      "follower_count": 1341,
-      "language": "en",
-      "started_at": "2026-08-16T22:09:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/padbae",
-      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
-    },
-    {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "Ain't nothing like the old school",
       "game_name": "ReStory: Chill Electronics Repairs",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 333,
       "language": "en",
       "started_at": "2026-08-16T22:20:47Z",
@@ -88,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
-    },
-    {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": true,
-      "title": "Overwatch New Season Gaming W's ONLY!!",
-      "game_name": "Deadlock",
-      "viewer_count": 1,
-      "follower_count": 16,
-      "language": "en",
-      "started_at": "2026-08-16T21:55:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
     },
     {
       "user_login": "4kaizen_gaming",
@@ -480,6 +465,21 @@
       "description": "I'm not very good at it - but I do it anyway"
     },
     {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 16,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
+    },
+    {
       "user_login": "mustardfennek",
       "user_name": "mustardfennek",
       "is_live": false,
@@ -621,7 +621,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8593,
+      "follower_count": 8594,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
