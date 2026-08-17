@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-17T00:07:59.085Z",
+  "generatedAt": "2026-08-17T00:12:58.550Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-17T00:07:59.085Z",
+    "fetchedAt": "2026-08-17T00:12:58.550Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Any professional mac users in chat? XD | !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 52,
+      "viewer_count": 60,
       "follower_count": 6242,
       "language": "en",
       "started_at": "2026-08-16T23:34:59Z",
@@ -30,12 +30,27 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 947🫎!discord🫎!factor🫎MOOSE🫎YOU KNOW WHAT THAT MEANS🫎THERE'S NO PUNCH LINE KID YOU KNOW EXACTLY WHAT IN THE ABSOLU",
+      "game_name": "Rocket League",
+      "viewer_count": 58,
+      "follower_count": 111795,
+      "language": "en",
+      "started_at": "2026-08-17T00:07:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "padbae",
       "user_name": "padbae",
       "is_live": true,
       "title": "♡ no nicks allowed ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT3 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 17,
+      "viewer_count": 15,
       "follower_count": 1341,
       "language": "en",
       "started_at": "2026-08-16T22:09:04Z",
@@ -50,7 +65,7 @@
       "is_live": true,
       "title": "Will we get the secret ending today today?",
       "game_name": "PEAK",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 1048,
       "language": "en",
       "started_at": "2026-08-16T22:07:16Z",
@@ -78,8 +93,8 @@
       "user_login": "mrcarameldrizzle",
       "user_name": "MrCaramelDrizzle",
       "is_live": true,
-      "title": "Overwatch W's for sure right?? | Grinding for Affiliate!",
-      "game_name": "Overwatch",
+      "title": "Overwatch New Season Gaming W's ONLY!!",
+      "game_name": "Deadlock",
       "viewer_count": 1,
       "follower_count": 16,
       "language": "en",
@@ -223,21 +238,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 111796,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
