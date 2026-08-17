@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-17T18:16:57.060Z",
+  "generatedAt": "2026-08-17T18:23:16.959Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-17T18:16:57.022Z",
+    "updatedAt": "2026-08-17T18:23:16.916Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 16,
+    "entryCount": 20,
     "firstDate": "2026-08-16",
-    "lastDate": "2026-08-23",
+    "lastDate": "2026-08-24",
     "windowStart": "2026-08-16",
     "windowEnd": "2026-11-15",
     "invalidEntryCount": 0,
-    "duplicateEntryCount": 0
+    "duplicateEntryCount": 1
   },
   "entries": [
     {
@@ -70,6 +70,19 @@
       "highlight": "orange",
       "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/mrcarameldrizzle"
+    },
+    {
+      "id": "evt_1786990993663_wvobcn",
+      "date": "2026-08-17",
+      "dateLabel": "Monday, August 17th",
+      "weekday": "Monday",
+      "streamer": "HORROR_HEATHER",
+      "title": "ALAN WAKE II",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/horror_heather"
     },
     {
       "id": "evt_1786989857810_xr4eej",
@@ -135,6 +148,19 @@
       "highlight": "orange",
       "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/ironden_tv"
+    },
+    {
+      "id": "evt_1786990993663_r498a0",
+      "date": "2026-08-20",
+      "dateLabel": "Thursday, August 20th",
+      "weekday": "Thursday",
+      "streamer": "HORROR_HEATHER",
+      "title": "ALAN WAKE II",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/horror_heather"
     },
     {
       "id": "evt_1786989857811_234457",
@@ -215,6 +241,19 @@
       "url": "https://www.twitch.tv/ironden_tv"
     },
     {
+      "id": "evt_1786990993663_mtjxbg",
+      "date": "2026-08-23",
+      "dateLabel": "Sunday, August 23rd",
+      "weekday": "Sunday",
+      "streamer": "HORROR_HEATHER",
+      "title": "MOVIE NIGHT!",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
       "id": "evt_1786989857811_5n0771",
       "date": "2026-08-23",
       "dateLabel": "Sunday, August 23rd",
@@ -226,6 +265,19 @@
       "highlight": "orange",
       "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/ironden_tv"
+    },
+    {
+      "id": "evt_1786990993664_brybrn",
+      "date": "2026-08-24",
+      "dateLabel": "Mon, Aug 24",
+      "weekday": "",
+      "streamer": "HORROR_HEATHER",
+      "title": "RANDOM HORROR GAMES",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/horror_heather"
     }
   ]
 }
