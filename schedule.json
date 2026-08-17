@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-17T20:00:28.481Z",
+  "generatedAt": "2026-08-17T20:53:37.742Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-17T20:00:28.439Z",
+    "updatedAt": "2026-08-17T20:53:37.702Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 27,
+    "entryCount": 32,
     "firstDate": "2026-08-16",
     "lastDate": "2026-08-24",
     "windowStart": "2026-08-16",
@@ -98,6 +98,19 @@
       "url": "https://www.twitch.tv/skybanks"
     },
     {
+      "id": "evt_1787000017697_qot3vr",
+      "date": "2026-08-17",
+      "dateLabel": "Monday, August 17th",
+      "weekday": "Monday",
+      "streamer": "bmg_hd",
+      "title": "GTAVRP FiveM",
+      "timeMinutes": 1200,
+      "timeLabel": "8:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/bmg_hd"
+    },
+    {
       "id": "evt_1786989857810_xr4eej",
       "date": "2026-08-17",
       "dateLabel": "Monday, August 17th",
@@ -124,6 +137,19 @@
       "url": "https://www.twitch.tv/mustnrd_fenn"
     },
     {
+      "id": "evt_1787000017697_mn2tgs",
+      "date": "2026-08-18",
+      "dateLabel": "Tuesday, August 18th",
+      "weekday": "Tuesday",
+      "streamer": "bmg_hd",
+      "title": "GTAVRP FiveM",
+      "timeMinutes": 1200,
+      "timeLabel": "8:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/bmg_hd"
+    },
+    {
       "id": "evt_1786989857811_uci9rw",
       "date": "2026-08-18",
       "dateLabel": "Tuesday, August 18th",
@@ -148,6 +174,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/dingo_dynasty"
+    },
+    {
+      "id": "evt_1787000017698_6txm4c",
+      "date": "2026-08-19",
+      "dateLabel": "Wednesday, August 19th",
+      "weekday": "Wednesday",
+      "streamer": "bmg_hd",
+      "title": "GTAVRP FiveM",
+      "timeMinutes": 1200,
+      "timeLabel": "8:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/bmg_hd"
     },
     {
       "id": "evt_1786992843401_yam9lt",
@@ -187,6 +226,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1787000017698_u89auu",
+      "date": "2026-08-20",
+      "dateLabel": "Thursday, August 20th",
+      "weekday": "Thursday",
+      "streamer": "bmg_hd",
+      "title": "GTAVRP FiveM",
+      "timeMinutes": 1200,
+      "timeLabel": "8:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/bmg_hd"
     },
     {
       "id": "evt_1786992843401_mxdem2",
@@ -239,6 +291,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/mustnrd_fenn"
+    },
+    {
+      "id": "evt_1787000017698_kdio04",
+      "date": "2026-08-21",
+      "dateLabel": "Friday, August 21st",
+      "weekday": "Friday",
+      "streamer": "bmg_hd",
+      "title": "GTAVRP FiveM",
+      "timeMinutes": 1200,
+      "timeLabel": "8:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/bmg_hd"
     },
     {
       "id": "evt_1786992843401_fllnw9",
