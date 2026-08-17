@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-17T19:50:06.580Z",
+  "generatedAt": "2026-08-17T20:00:28.481Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-17T19:50:06.537Z",
+    "updatedAt": "2026-08-17T20:00:28.439Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 26,
+    "entryCount": 27,
     "firstDate": "2026-08-16",
     "lastDate": "2026-08-24",
     "windowStart": "2026-08-16",
@@ -83,6 +83,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1786996828433_lzhg3m",
+      "date": "2026-08-17",
+      "dateLabel": "Monday, August 17th",
+      "weekday": "Monday",
+      "streamer": "SkyBanks",
+      "title": "Fortnite",
+      "timeMinutes": 1140,
+      "timeLabel": "7:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/skybanks"
     },
     {
       "id": "evt_1786989857810_xr4eej",
