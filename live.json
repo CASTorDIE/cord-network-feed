@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-17T04:27:57.990Z",
+  "generatedAt": "2026-08-17T04:32:58.308Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-17T04:27:57.990Z",
+    "fetchedAt": "2026-08-17T04:32:58.308Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "💜⚔️Detroit Become Human First Time Playthrough! Part 2⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "Detroit: Become Human",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "follower_count": 2103,
       "language": "en",
       "started_at": "2026-08-17T01:01:49Z",
@@ -81,7 +81,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 6252,
+      "follower_count": 6254,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
