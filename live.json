@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-17T21:32:58.380Z",
+  "generatedAt": "2026-08-17T21:37:58.533Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-17T21:32:58.380Z",
+    "fetchedAt": "2026-08-17T21:37:58.533Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[drops] LAST STREAM BEFORE BIG EVENT STARTING FRIDAY WITH FRAY🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 94,
-      "follower_count": 10548,
+      "viewer_count": 98,
+      "follower_count": 10549,
       "language": "en",
       "started_at": "2026-08-17T20:37:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": true,
-      "title": "Modded Minecraft Solo run | Prominence 2 | I have no idea what i'm doing!!!",
-      "game_name": "Minecraft",
-      "viewer_count": 1,
-      "follower_count": 16,
-      "language": "en",
-      "started_at": "2026-08-17T21:06:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
-    },
-    {
       "user_login": "horror_heather",
       "user_name": "horror_heather",
       "is_live": true,
       "title": "First Playthrough! | Alan Wake 2 | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 0,
+      "viewer_count": 10,
       "follower_count": 628,
       "language": "en",
       "started_at": "2026-08-17T21:31:42Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/horror_heather",
       "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
+    },
+    {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": true,
+      "title": "Modded Minecraft Solo run | Prominence 2 | I have no idea what i'm doing!!!",
+      "game_name": "Minecraft",
+      "viewer_count": 2,
+      "follower_count": 16,
+      "language": "en",
+      "started_at": "2026-08-17T21:06:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
     },
     {
       "user_login": "4kaizen_gaming",
@@ -606,7 +606,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 1260,
+      "follower_count": 1259,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
