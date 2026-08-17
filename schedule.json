@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-17T18:32:51.814Z",
+  "generatedAt": "2026-08-17T18:54:35.662Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-17T18:32:51.768Z",
+    "updatedAt": "2026-08-17T18:54:35.611Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 20,
+    "entryCount": 25,
     "firstDate": "2026-08-16",
     "lastDate": "2026-08-24",
     "windowStart": "2026-08-16",
@@ -137,6 +137,19 @@
       "url": "https://www.twitch.tv/dingo_dynasty"
     },
     {
+      "id": "evt_1786992843401_yam9lt",
+      "date": "2026-08-19",
+      "dateLabel": "Wednesday, August 19th",
+      "weekday": "Wednesday",
+      "streamer": "smallfryalana",
+      "title": "Fortnite",
+      "timeMinutes": 1260,
+      "timeLabel": "9:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/smallfryalana"
+    },
+    {
       "id": "evt_1786989857811_112uy3",
       "date": "2026-08-19",
       "dateLabel": "Wednesday, August 19th",
@@ -161,6 +174,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1786992843401_mxdem2",
+      "date": "2026-08-20",
+      "dateLabel": "Thursday, August 20th",
+      "weekday": "Thursday",
+      "streamer": "smallfryalana",
+      "title": "Fortnite",
+      "timeMinutes": 1260,
+      "timeLabel": "9:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/smallfryalana"
     },
     {
       "id": "evt_1786989857811_234457",
@@ -202,6 +228,19 @@
       "url": "https://www.twitch.tv/mustnrd_fenn"
     },
     {
+      "id": "evt_1786992843401_fllnw9",
+      "date": "2026-08-21",
+      "dateLabel": "Friday, August 21st",
+      "weekday": "Friday",
+      "streamer": "smallfryalana",
+      "title": "Fortnite",
+      "timeMinutes": 1260,
+      "timeLabel": "9:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/smallfryalana"
+    },
+    {
       "id": "evt_1786989857811_g6thmv",
       "date": "2026-08-21",
       "dateLabel": "Friday, August 21st",
@@ -228,6 +267,19 @@
       "url": "https://www.twitch.tv/dingo_dynasty"
     },
     {
+      "id": "evt_1786992843401_g6cdvs",
+      "date": "2026-08-22",
+      "dateLabel": "Saturday, August 22nd",
+      "weekday": "Saturday",
+      "streamer": "smallfryalana",
+      "title": "Fortnite",
+      "timeMinutes": 1260,
+      "timeLabel": "9:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/smallfryalana"
+    },
+    {
       "id": "evt_1786989857811_17574l",
       "date": "2026-08-22",
       "dateLabel": "Saturday, August 22nd",
@@ -252,6 +304,19 @@
       "highlight": "green",
       "pillLabel": "SPECIAL",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1786992843401_y4xl2x",
+      "date": "2026-08-23",
+      "dateLabel": "Sunday, August 23rd",
+      "weekday": "Sunday",
+      "streamer": "smallfryalana",
+      "title": "Fortnite",
+      "timeMinutes": 1260,
+      "timeLabel": "9:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/smallfryalana"
     },
     {
       "id": "evt_1786989857811_5n0771",
