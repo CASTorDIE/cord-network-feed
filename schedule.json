@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-17T17:59:29.748Z",
+  "generatedAt": "2026-08-17T18:04:17.863Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-17T17:59:29.710Z",
+    "updatedAt": "2026-08-17T18:04:17.818Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 4,
+    "entryCount": 11,
     "firstDate": "2026-08-16",
-    "lastDate": "2026-08-16",
+    "lastDate": "2026-08-23",
     "windowStart": "2026-08-16",
     "windowEnd": "2026-11-15",
     "invalidEntryCount": 0,
@@ -70,6 +70,97 @@
       "highlight": "orange",
       "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/mrcarameldrizzle"
+    },
+    {
+      "id": "evt_1786989857810_xr4eej",
+      "date": "2026-08-17",
+      "dateLabel": "Monday, August 17th",
+      "weekday": "Monday",
+      "streamer": "ironden_tv",
+      "title": "Scary Games",
+      "timeMinutes": 1320,
+      "timeLabel": "10:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/ironden_tv"
+    },
+    {
+      "id": "evt_1786989857811_uci9rw",
+      "date": "2026-08-18",
+      "dateLabel": "Tuesday, August 18th",
+      "weekday": "Tuesday",
+      "streamer": "ironden_tv",
+      "title": "Scary Games",
+      "timeMinutes": 1320,
+      "timeLabel": "10:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/ironden_tv"
+    },
+    {
+      "id": "evt_1786989857811_112uy3",
+      "date": "2026-08-19",
+      "dateLabel": "Wednesday, August 19th",
+      "weekday": "Wednesday",
+      "streamer": "ironden_tv",
+      "title": "Scary Games",
+      "timeMinutes": 1320,
+      "timeLabel": "10:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/ironden_tv"
+    },
+    {
+      "id": "evt_1786989857811_234457",
+      "date": "2026-08-20",
+      "dateLabel": "Thursday, August 20th",
+      "weekday": "Thursday",
+      "streamer": "ironden_tv",
+      "title": "Scary Games",
+      "timeMinutes": 1320,
+      "timeLabel": "10:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/ironden_tv"
+    },
+    {
+      "id": "evt_1786989857811_g6thmv",
+      "date": "2026-08-21",
+      "dateLabel": "Friday, August 21st",
+      "weekday": "Friday",
+      "streamer": "ironden_tv",
+      "title": "Scary Games",
+      "timeMinutes": 1320,
+      "timeLabel": "10:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/ironden_tv"
+    },
+    {
+      "id": "evt_1786989857811_17574l",
+      "date": "2026-08-22",
+      "dateLabel": "Saturday, August 22nd",
+      "weekday": "Saturday",
+      "streamer": "ironden_tv",
+      "title": "Scary Games",
+      "timeMinutes": 1320,
+      "timeLabel": "10:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/ironden_tv"
+    },
+    {
+      "id": "evt_1786989857811_5n0771",
+      "date": "2026-08-23",
+      "dateLabel": "Sunday, August 23rd",
+      "weekday": "Sunday",
+      "streamer": "ironden_tv",
+      "title": "Scary Games",
+      "timeMinutes": 1320,
+      "timeLabel": "10:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/ironden_tv"
     }
   ]
 }
