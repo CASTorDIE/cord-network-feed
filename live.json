@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-17T22:22:58.231Z",
+  "generatedAt": "2026-08-17T22:27:58.326Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-17T22:22:58.231Z",
+    "fetchedAt": "2026-08-17T22:27:58.326Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[drops] LAST STREAM BEFORE BIG EVENT STARTING FRIDAY WITH FRAY🎀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 87,
+      "viewer_count": 80,
       "follower_count": 10549,
       "language": "en",
       "started_at": "2026-08-17T20:37:03Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "First Playthrough! | Alan Wake 2 | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 16,
+      "viewer_count": 19,
       "follower_count": 631,
       "language": "en",
       "started_at": "2026-08-17T21:31:42Z",
