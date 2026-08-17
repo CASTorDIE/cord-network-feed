@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-17T22:07:58.422Z",
+  "generatedAt": "2026-08-17T22:12:58.275Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-17T22:07:58.422Z",
+    "fetchedAt": "2026-08-17T22:12:58.275Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "First Playthrough! | Alan Wake 2 | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 22,
+      "viewer_count": 19,
       "follower_count": 631,
       "language": "en",
       "started_at": "2026-08-17T21:31:42Z",
