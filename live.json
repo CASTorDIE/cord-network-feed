@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T03:07:58.735Z",
+  "generatedAt": "2026-08-18T03:12:58.888Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-18T03:07:58.735Z",
+    "fetchedAt": "2026-08-18T03:12:58.888Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 948🐿️!discord🐿️!factor🐿️AAAAAAAAAAAAHHHHHHHHHHH🐿️AAAAAAAAAAAAHHHHHHHHHHHHHHH🐿️AAAAAAAAAAAAHHHHHHHHHHHHHH🐿️AAAAAA",
       "game_name": "Rocket League",
-      "viewer_count": 806,
-      "follower_count": 112330,
+      "viewer_count": 803,
+      "follower_count": 112332,
       "language": "en",
       "started_at": "2026-08-18T00:11:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| SOLO PEAKING AT THE NEW CLIMBS | !pizza !discord !telegram !vrc !micro | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "PEAK",
-      "viewer_count": 100,
+      "viewer_count": 106,
       "follower_count": 10103,
       "language": "en",
       "started_at": "2026-08-18T02:01:54Z",
@@ -43,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
-    {
-      "user_login": "alfieduu",
-      "user_name": "alfieduu",
-      "is_live": true,
-      "title": "GREAT GOOGLY MOOGLY",
-      "game_name": "GeoGuessr",
-      "viewer_count": 6,
-      "follower_count": 170,
-      "language": "en",
-      "started_at": "2026-08-18T01:47:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/alfieduu",
-      "description": "yo put your feet up homie"
     },
     {
       "user_login": "gatito_maldito",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "alfieduu",
+      "user_name": "alfieduu",
+      "is_live": true,
+      "title": "GREAT GOOGLY MOOGLY",
+      "game_name": "GeoGuessr",
+      "viewer_count": 5,
+      "follower_count": 170,
+      "language": "en",
+      "started_at": "2026-08-18T01:47:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/alfieduu",
+      "description": "yo put your feet up homie"
     },
     {
       "user_login": "4kaizen_gaming",
