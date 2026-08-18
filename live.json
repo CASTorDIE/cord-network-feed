@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T03:47:58.832Z",
+  "generatedAt": "2026-08-18T03:52:58.908Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-18T03:47:58.832Z",
+    "fetchedAt": "2026-08-18T03:52:58.908Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 948🐿️!discord🐿️!factor🐿️AAAAAAAAAAAAHHHHHHHHHHH🐿️AAAAAAAAAAAAHHHHHHHHHHHHHHH🐿️AAAAAAAAAAAAHHHHHHHHHHHHHH🐿️AAAAAA",
       "game_name": "Rocket League",
-      "viewer_count": 721,
+      "viewer_count": 702,
       "follower_count": 112376,
       "language": "en",
       "started_at": "2026-08-18T00:11:07Z",
