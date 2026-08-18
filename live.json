@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T20:12:58.183Z",
+  "generatedAt": "2026-08-18T20:17:58.067Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-18T20:12:58.183Z",
+    "fetchedAt": "2026-08-18T20:17:58.067Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,9 +19,9 @@
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 124/300",
-      "game_name": "Just Chatting",
-      "viewer_count": 94,
-      "follower_count": 14178,
+      "game_name": "ARC Raiders",
+      "viewer_count": 95,
+      "follower_count": 14179,
       "language": "en",
       "started_at": "2026-08-18T19:42:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
