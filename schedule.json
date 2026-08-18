@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-17T22:27:32.942Z",
+  "generatedAt": "2026-08-18T02:58:13.222Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-17T22:27:32.905Z",
+    "updatedAt": "2026-08-18T02:58:13.190Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 36,
+    "entryCount": 37,
     "firstDate": "2026-08-16",
     "lastDate": "2026-08-24",
     "windowStart": "2026-08-16",
@@ -187,6 +187,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
+      "id": "evt_1787021893184_osmua4",
+      "date": "2026-08-19",
+      "dateLabel": "Wednesday, August 19th",
+      "weekday": "Wednesday",
+      "streamer": "MinifigMig",
+      "title": "Tarkov, TATT",
+      "timeMinutes": 1140,
+      "timeLabel": "7:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/minifigmig"
     },
     {
       "id": "evt_1787000017698_6txm4c",
