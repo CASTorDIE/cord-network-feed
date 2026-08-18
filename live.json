@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T19:57:57.786Z",
+  "generatedAt": "2026-08-18T20:02:57.809Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-18T19:57:57.786Z",
+    "fetchedAt": "2026-08-18T20:02:57.809Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 124/300",
       "game_name": "Just Chatting",
-      "viewer_count": 96,
+      "viewer_count": 90,
       "follower_count": 14177,
       "language": "en",
       "started_at": "2026-08-18T19:42:38Z",
