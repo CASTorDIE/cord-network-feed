@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T22:22:58.028Z",
+  "generatedAt": "2026-08-18T22:27:58.084Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-18T22:22:58.028Z",
+    "fetchedAt": "2026-08-18T22:27:58.084Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 124/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 137,
+      "viewer_count": 143,
       "follower_count": 14192,
       "language": "en",
       "started_at": "2026-08-18T19:42:38Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "The Stinkiest Stack OAT 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 43,
+      "viewer_count": 46,
       "follower_count": 8594,
       "language": "en",
       "started_at": "2026-08-18T22:01:25Z",
