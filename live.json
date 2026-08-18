@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T04:52:58.374Z",
+  "generatedAt": "2026-08-18T04:57:58.377Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-18T04:52:58.374Z",
+    "fetchedAt": "2026-08-18T04:57:58.377Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| SOLO PEAKING AT THE NEW CLIMBS | !pizza !discord !telegram !vrc !micro | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "PEAK",
-      "viewer_count": 123,
-      "follower_count": 10104,
+      "viewer_count": 117,
+      "follower_count": 10105,
       "language": "en",
       "started_at": "2026-08-18T02:01:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
