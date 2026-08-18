@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T06:22:57.529Z",
+  "generatedAt": "2026-08-18T06:27:57.908Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-18T06:22:57.529Z",
+    "fetchedAt": "2026-08-18T06:27:57.908Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| OOC | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "OOC, The Playable Anime",
-      "viewer_count": 126,
-      "follower_count": 10103,
+      "viewer_count": 124,
+      "follower_count": 10104,
       "language": "en",
       "started_at": "2026-08-18T02:01:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
