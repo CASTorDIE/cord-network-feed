@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-18T00:22:58.698Z",
+  "generatedAt": "2026-08-18T00:27:58.731Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-18T00:22:58.698Z",
+    "fetchedAt": "2026-08-18T00:27:58.731Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 948🐿️!discord🐿️!factor🐿️AAAAAAAAAAAAHHHHHHHHHHH🐿️AAAAAAAAAAAAHHHHHHHHHHHHHHH🐿️AAAAAAAAAAAAHHHHHHHHHHHHHH🐿️AAAAAA",
       "game_name": "Rocket League",
-      "viewer_count": 279,
-      "follower_count": 112128,
+      "viewer_count": 357,
+      "follower_count": 112129,
       "language": "en",
       "started_at": "2026-08-18T00:11:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "[drops] LAST STREAM BEFORE BIG EVENT STARTING FRIDAY WITH FRAY🎀",
-      "game_name": "Marvel Rivals",
-      "viewer_count": 94,
-      "follower_count": 10549,
-      "language": "en",
-      "started_at": "2026-08-17T20:37:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 72,
+      "viewer_count": 78,
       "follower_count": 2422,
       "language": "en",
       "started_at": "2026-08-17T22:54:25Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "First Playthrough! | Alan Wake 2 | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 19,
+      "viewer_count": 17,
       "follower_count": 631,
       "language": "en",
       "started_at": "2026-08-17T21:31:42Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "Modded Minecraft Solo run | Prominence 2 | I have no idea what i'm doing!!!",
       "game_name": "Minecraft",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 16,
       "language": "en",
       "started_at": "2026-08-17T21:06:12Z",
@@ -193,6 +178,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 10549,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
       "user_login": "boww_wolf",
