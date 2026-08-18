@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T22:47:58.092Z",
+  "generatedAt": "2026-08-18T22:52:58.165Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-18T22:47:58.092Z",
+    "fetchedAt": "2026-08-18T22:52:58.165Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 124/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 150,
-      "follower_count": 14193,
+      "viewer_count": 158,
+      "follower_count": 14194,
       "language": "en",
       "started_at": "2026-08-18T19:42:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": true,
-      "title": "The Stinkiest Stack OAT 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
-      "game_name": "For Honor",
-      "viewer_count": 48,
-      "follower_count": 8594,
-      "language": "en",
-      "started_at": "2026-08-18T22:01:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 28,
+      "viewer_count": 57,
       "follower_count": 2427,
       "language": "en",
       "started_at": "2026-08-18T22:42:28Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "wexra",
+      "user_name": "Wexra",
+      "is_live": true,
+      "title": "The Stinkiest Stack OAT 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
+      "game_name": "For Honor",
+      "viewer_count": 41,
+      "follower_count": 8594,
+      "language": "en",
+      "started_at": "2026-08-18T22:01:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "mrcarameldrizzle",
