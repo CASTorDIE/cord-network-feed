@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-18T01:17:58.769Z",
+  "generatedAt": "2026-08-18T01:22:58.703Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-18T01:17:58.769Z",
+    "fetchedAt": "2026-08-18T01:22:58.703Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 948🐿️!discord🐿️!factor🐿️AAAAAAAAAAAAHHHHHHHHHHH🐿️AAAAAAAAAAAAHHHHHHHHHHHHHHH🐿️AAAAAAAAAAAAHHHHHHHHHHHHHH🐿️AAAAAA",
       "game_name": "Rocket League",
-      "viewer_count": 630,
-      "follower_count": 112179,
+      "viewer_count": 739,
+      "follower_count": 112192,
       "language": "en",
       "started_at": "2026-08-18T00:11:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -34,8 +34,8 @@
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
-      "game_name": "Just Chatting",
-      "viewer_count": 81,
+      "game_name": "Games + Demos",
+      "viewer_count": 97,
       "follower_count": 2423,
       "language": "en",
       "started_at": "2026-08-17T22:54:25Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Beast of reincarnation part 4",
       "game_name": "Beast of Reincarnation",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "follower_count": 393,
       "language": "en",
       "started_at": "2026-08-17T23:01:03Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": true,
+      "title": "Ain't nothing like the old school",
+      "game_name": "ReStory: Chill Electronics Repairs",
+      "viewer_count": 1,
+      "follower_count": 334,
+      "language": "en",
+      "started_at": "2026-08-18T01:20:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -298,21 +313,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
-    },
-    {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 334,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "gibsontales",
@@ -621,7 +621,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8595,
+      "follower_count": 8594,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
