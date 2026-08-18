@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T20:52:57.960Z",
+  "generatedAt": "2026-08-18T20:57:57.929Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-18T20:52:57.960Z",
+    "fetchedAt": "2026-08-18T20:57:57.929Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 124/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 122,
+      "viewer_count": 131,
       "follower_count": 14183,
       "language": "en",
       "started_at": "2026-08-18T19:42:38Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 112411,
+      "follower_count": 112412,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
