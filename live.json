@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T10:47:58.016Z",
+  "generatedAt": "2026-08-18T10:52:58.083Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-18T10:47:58.016Z",
+    "fetchedAt": "2026-08-18T10:52:58.083Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "End of Season Push - DROPS ON!!",
       "game_name": "Fortnite",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "follower_count": 156,
       "language": "en",
       "started_at": "2026-08-18T09:28:54Z",
