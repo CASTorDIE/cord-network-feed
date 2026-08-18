@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T00:57:58.691Z",
+  "generatedAt": "2026-08-18T01:02:58.903Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-18T00:57:58.691Z",
+    "fetchedAt": "2026-08-18T01:02:58.903Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 948🐿️!discord🐿️!factor🐿️AAAAAAAAAAAAHHHHHHHHHHH🐿️AAAAAAAAAAAAHHHHHHHHHHHHHHH🐿️AAAAAAAAAAAAHHHHHHHHHHHHHH🐿️AAAAAA",
       "game_name": "Rocket League",
-      "viewer_count": 402,
-      "follower_count": 112145,
+      "viewer_count": 436,
+      "follower_count": 112147,
       "language": "en",
       "started_at": "2026-08-18T00:11:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 79,
+      "viewer_count": 87,
       "follower_count": 2423,
       "language": "en",
       "started_at": "2026-08-17T22:54:25Z",
@@ -43,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": true,
-      "title": "Modded Minecraft Solo run | Prominence 2 | I have no idea what i'm doing!!!",
-      "game_name": "Minecraft",
-      "viewer_count": 2,
-      "follower_count": 16,
-      "language": "en",
-      "started_at": "2026-08-17T21:06:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
     },
     {
       "user_login": "bribeecool10",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": true,
+      "title": "Modded Minecraft Solo run | Prominence 2 | I have no idea what i'm doing!!!",
+      "game_name": "Minecraft",
+      "viewer_count": 1,
+      "follower_count": 16,
+      "language": "en",
+      "started_at": "2026-08-17T21:06:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
     },
     {
       "user_login": "4kaizen_gaming",
@@ -381,7 +381,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 631,
+      "follower_count": 632,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
