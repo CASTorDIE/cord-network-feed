@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T08:37:58.014Z",
+  "generatedAt": "2026-08-19T08:42:57.991Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-19T08:37:58.014Z",
+    "fetchedAt": "2026-08-19T08:42:57.991Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "DROPS ON!!! - Lets Finish This Collection",
       "game_name": "Fortnite",
-      "viewer_count": 9,
-      "follower_count": 162,
+      "viewer_count": 11,
+      "follower_count": 163,
       "language": "en",
       "started_at": "2026-08-19T07:01:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
