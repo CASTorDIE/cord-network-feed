@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-18T02:58:13.222Z",
+  "generatedAt": "2026-08-19T01:05:55.522Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-18T02:58:13.190Z",
+    "updatedAt": "2026-08-19T01:05:55.487Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 37,
+    "entryCount": 40,
     "firstDate": "2026-08-16",
     "lastDate": "2026-08-24",
     "windowStart": "2026-08-16",
-    "windowEnd": "2026-11-15",
+    "windowEnd": "2026-11-16",
     "invalidEntryCount": 0,
     "duplicateEntryCount": 0
   },
@@ -189,6 +189,19 @@
       "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
+      "id": "evt_1787101555481_vslho0",
+      "date": "2026-08-19",
+      "dateLabel": "Wednesday, August 19th",
+      "weekday": "Wednesday",
+      "streamer": "ao_zora_",
+      "title": "Karaoke",
+      "timeMinutes": 1110,
+      "timeLabel": "6:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/ao_zora_"
+    },
+    {
       "id": "evt_1787021893184_osmua4",
       "date": "2026-08-19",
       "dateLabel": "Wednesday, August 19th",
@@ -252,6 +265,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1787101555481_fltkvm",
+      "date": "2026-08-20",
+      "dateLabel": "Thursday, August 20th",
+      "weekday": "Thursday",
+      "streamer": "ao_zora_",
+      "title": "inKonbini",
+      "timeMinutes": 1110,
+      "timeLabel": "6:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/ao_zora_"
     },
     {
       "id": "evt_1787000017698_u89auu",
@@ -460,6 +486,19 @@
       "highlight": "green",
       "pillLabel": "SPECIAL",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1787101555481_nomtq3",
+      "date": "2026-08-23",
+      "dateLabel": "Sunday, August 23rd",
+      "weekday": "Sunday",
+      "streamer": "ao_zora_",
+      "title": "Ace Attorney",
+      "timeMinutes": 1110,
+      "timeLabel": "6:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/ao_zora_"
     },
     {
       "id": "evt_1786992843401_y4xl2x",
