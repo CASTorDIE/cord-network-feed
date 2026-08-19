@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T04:52:57.777Z",
+  "generatedAt": "2026-08-19T04:57:57.667Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-19T04:52:57.777Z",
+    "fetchedAt": "2026-08-19T04:57:57.667Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Wex on APEX? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Apex Legends",
-      "viewer_count": 28,
+      "viewer_count": 36,
       "follower_count": 8597,
       "language": "en",
       "started_at": "2026-08-18T22:01:25Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "A small Risk of Rain, with a \"sprinkle\" of mods :)  Pls stop by and chat!!",
       "game_name": "Risk of Rain 2",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 16,
       "language": "en",
       "started_at": "2026-08-19T04:30:20Z",
