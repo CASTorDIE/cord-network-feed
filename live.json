@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-19T04:37:57.649Z",
+  "generatedAt": "2026-08-19T04:42:57.635Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-19T04:37:57.649Z",
+    "fetchedAt": "2026-08-19T04:42:57.635Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Celeste Goldens, then we grind Ultimate Master (Again) in SF6",
       "game_name": "Street Fighter 6",
-      "viewer_count": 19,
+      "viewer_count": 14,
       "follower_count": 276,
       "language": "en",
       "started_at": "2026-08-19T00:58:17Z",
@@ -45,27 +45,12 @@
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
     },
     {
-      "user_login": "floodwater_",
-      "user_name": "FloodWater_",
-      "is_live": true,
-      "title": "💜⚔️Detroit Become Human First Time Playthrough! Part 3⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
-      "game_name": "Detroit: Become Human",
-      "viewer_count": 1,
-      "follower_count": 2109,
-      "language": "en",
-      "started_at": "2026-08-19T00:48:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/floodwater_",
-      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
-    },
-    {
       "user_login": "mrcarameldrizzle",
       "user_name": "MrCaramelDrizzle",
       "is_live": true,
       "title": "A small Risk of Rain, with a \"sprinkle\" of mods :)  Pls stop by and chat!!",
       "game_name": "Risk of Rain 2",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 16,
       "language": "en",
       "started_at": "2026-08-19T04:30:20Z",
@@ -216,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 112643,
+      "follower_count": 112642,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -328,6 +313,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
+    },
+    {
+      "user_login": "floodwater_",
+      "user_name": "FloodWater_",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2109,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/floodwater_",
+      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
       "user_login": "gatito_maldito",
