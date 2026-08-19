@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T13:57:58.408Z",
+  "generatedAt": "2026-08-19T14:02:58.480Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-19T13:57:58.408Z",
+    "fetchedAt": "2026-08-19T14:02:58.480Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We Each Control ONE Wheel… This Is Going Bad 😂 | Roll Together | Couple Plays | Sub Goal 24/50 for Hot Chip Challenge",
       "game_name": "Games + Demos",
-      "viewer_count": 24,
+      "viewer_count": 27,
       "follower_count": 949,
       "language": "en",
       "started_at": "2026-08-19T12:46:41Z",
@@ -666,7 +666,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 532,
+      "follower_count": 531,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
