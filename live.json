@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T04:47:57.683Z",
+  "generatedAt": "2026-08-19T04:52:57.777Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-19T04:47:57.683Z",
+    "fetchedAt": "2026-08-19T04:52:57.777Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Wex on APEX? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Apex Legends",
-      "viewer_count": 29,
+      "viewer_count": 28,
       "follower_count": 8597,
       "language": "en",
       "started_at": "2026-08-18T22:01:25Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Celeste Goldens, then we grind Ultimate Master (Again) in SF6",
       "game_name": "Street Fighter 6",
-      "viewer_count": 15,
+      "viewer_count": 14,
       "follower_count": 276,
       "language": "en",
       "started_at": "2026-08-19T00:58:17Z",
