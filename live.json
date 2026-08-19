@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T14:17:57.590Z",
+  "generatedAt": "2026-08-19T14:22:57.483Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-19T14:17:57.590Z",
+    "fetchedAt": "2026-08-19T14:22:57.483Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "We Each Control ONE Wheel… This Is Going Bad 😂 | Roll Together | Couple Plays | Sub Goal 24/50 for Hot Chip Challenge",
       "game_name": "Games + Demos",
-      "viewer_count": 26,
-      "follower_count": 959,
+      "viewer_count": 58,
+      "follower_count": 960,
       "language": "en",
       "started_at": "2026-08-19T12:46:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
