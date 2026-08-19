@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T20:08:00.142Z",
+  "generatedAt": "2026-08-19T20:12:58.024Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-19T20:08:00.142Z",
+    "fetchedAt": "2026-08-19T20:12:58.024Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|Weekly Reset| We've got a package| Giveaway time!! |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 48,
+      "viewer_count": 47,
       "follower_count": 2753,
       "language": "en",
       "started_at": "2026-08-19T19:30:16Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "worst ghost hunter is back with more spooks",
       "game_name": "Phasmophobia",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 66,
       "language": "en",
       "started_at": "2026-08-19T17:37:37Z",
