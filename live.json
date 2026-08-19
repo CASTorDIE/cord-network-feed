@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T10:37:58.241Z",
+  "generatedAt": "2026-08-19T10:42:58.169Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-19T10:37:58.241Z",
+    "fetchedAt": "2026-08-19T10:42:58.169Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "DROPS ON!!! - Lets Finish This Collection",
       "game_name": "Fortnite",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 164,
       "language": "en",
       "started_at": "2026-08-19T07:01:25Z",
@@ -141,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10551,
+      "follower_count": 10553,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
