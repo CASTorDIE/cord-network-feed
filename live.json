@@ -1,42 +1,27 @@
 {
-  "generatedAt": "2026-08-19T03:57:57.555Z",
+  "generatedAt": "2026-08-19T04:02:57.580Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-19T03:57:57.555Z",
+    "fetchedAt": "2026-08-19T04:02:57.580Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 949🛝!discord🛝!factor🛝CAN YOU DO ME A FAVOR AND JUST🛝MAYBE FOR THE NEXT STREAM YOU CAN🛝AND THEN YOU CAN DO ME A FV",
-      "game_name": "Rocket League",
-      "viewer_count": 457,
-      "follower_count": 112640,
-      "language": "en",
-      "started_at": "2026-08-19T00:09:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 124/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 125,
-      "follower_count": 14206,
+      "viewer_count": 127,
+      "follower_count": 14204,
       "language": "en",
       "started_at": "2026-08-18T19:42:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "Wex on APEX? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Apex Legends",
-      "viewer_count": 33,
+      "viewer_count": 32,
       "follower_count": 8597,
       "language": "en",
       "started_at": "2026-08-18T22:01:25Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "💜⚔️Detroit Become Human First Time Playthrough! Part 3⚔️💜!discord💜⚔️Are you ready for 6am?⚔️💜",
       "game_name": "Detroit: Become Human",
-      "viewer_count": 22,
+      "viewer_count": 21,
       "follower_count": 2109,
       "language": "en",
       "started_at": "2026-08-19T00:48:01Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "Celeste Goldens, then we grind Ultimate Master (Again) in SF6",
       "game_name": "Street Fighter 6",
-      "viewer_count": 13,
+      "viewer_count": 15,
       "follower_count": 276,
       "language": "en",
       "started_at": "2026-08-19T00:58:17Z",
@@ -223,6 +208,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 112643,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
