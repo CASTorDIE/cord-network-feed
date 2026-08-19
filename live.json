@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T18:57:57.955Z",
+  "generatedAt": "2026-08-19T19:02:57.962Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-19T18:57:57.955Z",
+    "fetchedAt": "2026-08-19T19:02:57.962Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "worst ghost hunter is back with more spooks",
       "game_name": "Phasmophobia",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 66,
       "language": "en",
       "started_at": "2026-08-19T17:37:37Z",
