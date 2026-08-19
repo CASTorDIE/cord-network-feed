@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T21:52:58.069Z",
+  "generatedAt": "2026-08-19T21:57:58.038Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-19T21:52:58.069Z",
+    "fetchedAt": "2026-08-19T21:57:58.038Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "First Time Noita Player!! Back-seating is ALLOWED! Trying not to blow myself up with wands...",
       "game_name": "Noita",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 17,
       "language": "en",
       "started_at": "2026-08-19T21:09:24Z",
