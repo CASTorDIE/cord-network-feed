@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T00:18:01.259Z",
+  "generatedAt": "2026-08-19T00:22:58.464Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-19T00:18:01.259Z",
+    "fetchedAt": "2026-08-19T00:22:58.464Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,12 +15,27 @@
   },
   "streamers": [
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 949🛝!discord🛝!factor🛝CAN YOU DO ME A FAVOR AND JUST🛝MAYBE FOR THE NEXT STREAM YOU CAN🛝AND THEN YOU CAN DO ME A FV",
+      "game_name": "Rocket League",
+      "viewer_count": 204,
+      "follower_count": 112422,
+      "language": "en",
+      "started_at": "2026-08-19T00:09:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 124/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 172,
+      "viewer_count": 168,
       "follower_count": 14194,
       "language": "en",
       "started_at": "2026-08-18T19:42:38Z",
@@ -30,27 +45,12 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 949🛝!discord🛝!factor🛝CAN YOU DO ME A FAVOR AND JUST🛝MAYBE FOR THE NEXT STREAM YOU CAN🛝AND THEN YOU CAN DO ME A FV",
-      "game_name": "Rocket League",
-      "viewer_count": 166,
-      "follower_count": 112415,
-      "language": "en",
-      "started_at": "2026-08-19T00:09:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 87,
+      "viewer_count": 95,
       "follower_count": 2427,
       "language": "en",
       "started_at": "2026-08-18T22:42:28Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "The Stinkiest Stack OAT 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 41,
+      "viewer_count": 45,
       "follower_count": 8593,
       "language": "en",
       "started_at": "2026-08-18T22:01:25Z",
@@ -90,21 +90,6 @@
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": true,
-      "title": "STACKING MODDED ITEMS UNTIL MY SCREEN TURNS INTO STATIC!!! | Risk Of Rain 2 Quality Mod |",
-      "game_name": "Risk of Rain 2",
-      "viewer_count": 2,
-      "follower_count": 15,
-      "language": "en",
-      "started_at": "2026-08-18T21:08:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
-    },
-    {
       "user_login": "thepuckgoa",
       "user_name": "ThePuckGOA",
       "is_live": true,
@@ -118,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": true,
+      "title": "STACKING MODDED ITEMS UNTIL MY SCREEN TURNS INTO STATIC!!! | Risk Of Rain 2 Quality Mod |",
+      "game_name": "Risk of Rain 2",
+      "viewer_count": 1,
+      "follower_count": 15,
+      "language": "en",
+      "started_at": "2026-08-18T21:08:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
     },
     {
       "user_login": "4kaizen_gaming",
