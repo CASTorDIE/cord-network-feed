@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-19T21:08:10.954Z",
+  "generatedAt": "2026-08-19T21:12:58.316Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-19T21:08:10.954Z",
+    "fetchedAt": "2026-08-19T21:12:58.316Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|Weekly Reset| We've got a package| Giveaway time!! |!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 46,
+      "viewer_count": 41,
       "follower_count": 2755,
       "language": "en",
       "started_at": "2026-08-19T19:30:16Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
       "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
+    },
+    {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": true,
+      "title": "First Time Noita Player!! Back-seating is ALLOWED! Trying not to blow myself up with wands...",
+      "game_name": "Noita",
+      "viewer_count": 1,
+      "follower_count": 17,
+      "language": "en",
+      "started_at": "2026-08-19T21:09:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
     },
     {
       "user_login": "4kaizen_gaming",
@@ -448,21 +463,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/memella",
       "description": "I'm not very good at it - but I do it anyway"
-    },
-    {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 17,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
     },
     {
       "user_login": "mustardfennek",
