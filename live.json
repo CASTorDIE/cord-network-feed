@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T04:32:57.917Z",
+  "generatedAt": "2026-08-20T04:37:57.939Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T04:32:57.917Z",
+    "fetchedAt": "2026-08-20T04:37:57.939Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, MICROSCAPE, & KARAOKE - Dungeon Key Day! !MICRO | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Marbles on Stream",
-      "viewer_count": 121,
+      "viewer_count": 124,
       "follower_count": 10103,
       "language": "en",
       "started_at": "2026-08-20T02:12:40Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Blind Sekiro Continues! The dragon rot chronicles",
       "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 13,
+      "viewer_count": 12,
       "follower_count": 276,
       "language": "en",
       "started_at": "2026-08-20T01:07:07Z",
@@ -43,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
-    },
-    {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": true,
-      "title": "“Modded Risk of Rain 2: Day 42 of Pretending I’m a Pro” | Late night grinding for Affiliate",
-      "game_name": "Risk of Rain 2",
-      "viewer_count": 2,
-      "follower_count": 17,
-      "language": "en",
-      "started_at": "2026-08-20T04:14:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
     },
     {
       "user_login": "gmclay_",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gmclay_",
       "description": "I alternate between MVP and WTF"
+    },
+    {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": true,
+      "title": "“Modded Risk of Rain 2: Day 42 of Pretending I’m a Pro” | Late night grinding for Affiliate",
+      "game_name": "Risk of Rain 2",
+      "viewer_count": 1,
+      "follower_count": 17,
+      "language": "en",
+      "started_at": "2026-08-20T04:14:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
     },
     {
       "user_login": "alfieduu",
