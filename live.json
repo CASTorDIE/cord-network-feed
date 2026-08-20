@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-20T00:42:57.518Z",
+  "generatedAt": "2026-08-20T00:47:57.562Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T00:42:57.518Z",
+    "fetchedAt": "2026-08-20T00:47:57.562Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 950👏!discord👏!factor👏#ad👏!Jlab👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W",
       "game_name": "Rocket League",
-      "viewer_count": 383,
-      "follower_count": 112658,
+      "viewer_count": 406,
+      "follower_count": 112664,
       "language": "en",
       "started_at": "2026-08-20T00:01:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Song Requests Here! >> !SL",
       "game_name": "Music",
-      "viewer_count": 87,
+      "viewer_count": 77,
       "follower_count": 6269,
       "language": "en",
       "started_at": "2026-08-19T23:31:27Z",
@@ -45,27 +45,12 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPING → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
-      "game_name": "Games + Demos",
-      "viewer_count": 73,
-      "follower_count": 2430,
-      "language": "en",
-      "started_at": "2026-08-19T22:41:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": true,
       "title": "Casual MM with Viewers! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 70,
+      "viewer_count": 74,
       "follower_count": 8605,
       "language": "en",
       "started_at": "2026-08-19T22:01:58Z",
@@ -75,19 +60,19 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
-      "user_login": "tehchno",
-      "user_name": "tehchno",
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
       "is_live": true,
-      "title": "Death Domain Expansion",
-      "game_name": "Baldur's Gate 3",
-      "viewer_count": 5,
-      "follower_count": 461,
+      "title": "YAPPING → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
+      "game_name": "Games + Demos",
+      "viewer_count": 72,
+      "follower_count": 2430,
       "language": "en",
-      "started_at": "2026-08-19T23:12:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tehchno-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/tehchno",
-      "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+      "started_at": "2026-08-19T22:41:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "bribeecool10",
@@ -95,7 +80,7 @@
       "is_live": true,
       "title": "Lost In Los Santos part 1",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "follower_count": 393,
       "language": "en",
       "started_at": "2026-08-19T23:08:29Z",
@@ -583,6 +568,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/slimchungusgaming",
       "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
+    },
+    {
+      "user_login": "tehchno",
+      "user_name": "tehchno",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 462,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/tehchno",
+      "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
     },
     {
       "user_login": "thepuckgoa",
