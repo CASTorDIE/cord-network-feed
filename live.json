@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T17:52:58.799Z",
+  "generatedAt": "2026-08-20T17:57:58.616Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T17:52:58.799Z",
+    "fetchedAt": "2026-08-20T17:57:58.616Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -621,7 +621,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8612,
+      "follower_count": 8613,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
