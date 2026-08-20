@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T20:02:57.294Z",
+  "generatedAt": "2026-08-20T20:07:59.516Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T20:02:57.294Z",
+    "fetchedAt": "2026-08-20T20:07:59.516Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -462,7 +462,7 @@
       "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "Just a small streamer looking to foster a community full of awesome folk! Hopefully able to pull you away from the hustle of the daily life, if only for a few hours.... "
+      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
     },
     {
       "user_login": "mustardfennek",
