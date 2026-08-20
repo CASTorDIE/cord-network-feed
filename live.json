@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T08:02:58.344Z",
+  "generatedAt": "2026-08-20T08:07:58.999Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T08:02:58.344Z",
+    "fetchedAt": "2026-08-20T08:07:58.999Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Operation Get out Of Bronze",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 10,
-      "follower_count": 169,
+      "viewer_count": 9,
+      "follower_count": 170,
       "language": "en",
       "started_at": "2026-08-20T07:00:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "LVL 41 ESCAPE FROM LITKOV",
       "game_name": "Escape from Tarkov",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 73,
       "language": "en",
       "started_at": "2026-08-20T02:00:54Z",
