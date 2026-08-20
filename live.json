@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-20T23:32:57.663Z",
+  "generatedAt": "2026-08-20T23:37:57.668Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T23:32:57.663Z",
+    "fetchedAt": "2026-08-20T23:37:57.668Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 154/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 125,
+      "viewer_count": 124,
       "follower_count": 14221,
       "language": "en",
       "started_at": "2026-08-20T20:15:37Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 68,
+      "viewer_count": 62,
       "follower_count": 2438,
       "language": "en",
       "started_at": "2026-08-20T22:42:02Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "First Playthrough! | Alan Wake 2 | Night Springs DLC | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 16,
+      "viewer_count": 15,
       "follower_count": 635,
       "language": "en",
       "started_at": "2026-08-20T22:06:07Z",
@@ -75,19 +75,19 @@
       "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
     },
     {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
+      "user_login": "ao_zora_",
+      "user_name": "Ao_Zora_",
       "is_live": true,
-      "title": "Modded Risk (pls help!) | STREAM DOESN'T END UNTIL WE GET A WIN!!",
-      "game_name": "Risk of Rain 2",
-      "viewer_count": 3,
-      "follower_count": 17,
+      "title": "Song Requests Here! >> !SL",
+      "game_name": "Music",
+      "viewer_count": 10,
+      "follower_count": 6276,
       "language": "en",
-      "started_at": "2026-08-20T21:15:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
+      "started_at": "2026-08-20T23:35:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
+      "twitch_url": "https://www.twitch.tv/ao_zora_",
+      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "thepuckgoa",
@@ -103,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": true,
+      "title": "Modded Risk (pls help!) | STREAM DOESN'T END UNTIL WE GET A WIN!!",
+      "game_name": "Risk of Rain 2",
+      "viewer_count": 1,
+      "follower_count": 17,
+      "language": "en",
+      "started_at": "2026-08-20T21:15:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -148,21 +163,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/allyreggie",
       "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
-    },
-    {
-      "user_login": "ao_zora_",
-      "user_name": "Ao_Zora_",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 6276,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
-      "twitch_url": "https://www.twitch.tv/ao_zora_",
-      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "astral_celestial",
