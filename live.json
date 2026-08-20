@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-20T21:12:57.418Z",
+  "generatedAt": "2026-08-20T21:17:57.417Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T21:12:57.418Z",
+    "fetchedAt": "2026-08-20T21:17:57.417Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 154/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 110,
+      "viewer_count": 125,
       "follower_count": 14209,
       "language": "en",
       "started_at": "2026-08-20T20:15:37Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/skavstheworld",
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": true,
+      "title": "First Playthrough of Noita (pls help!) | STREAM DOESN'T END UNTIL WE GET A WIN!!",
+      "game_name": "Noita",
+      "viewer_count": 2,
+      "follower_count": 16,
+      "language": "en",
+      "started_at": "2026-08-20T21:15:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -463,21 +478,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/memella",
       "description": "I'm not very good at it - but I do it anyway"
-    },
-    {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 16,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
     },
     {
       "user_login": "mustardfennek",
