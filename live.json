@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-20T02:12:57.658Z",
+  "generatedAt": "2026-08-20T02:17:57.696Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T02:12:57.658Z",
+    "fetchedAt": "2026-08-20T02:17:57.696Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 950👏!discord👏!factor👏#ad👏!Jlab👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W",
       "game_name": "Rocket League",
-      "viewer_count": 810,
-      "follower_count": 112776,
+      "viewer_count": 768,
+      "follower_count": 112783,
       "language": "en",
       "started_at": "2026-08-20T00:01:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 67,
+      "viewer_count": 65,
       "follower_count": 2432,
       "language": "en",
       "started_at": "2026-08-19T22:41:14Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "LEARNING APEX! Loba on top 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Apex Legends",
-      "viewer_count": 36,
+      "viewer_count": 38,
       "follower_count": 8607,
       "language": "en",
       "started_at": "2026-08-19T22:01:58Z",
@@ -60,12 +60,27 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
+      "user_login": "zaldar87",
+      "user_name": "Zaldar87",
+      "is_live": true,
+      "title": "🦊🦇| MARBLES, MICROSCAPE, & KARAOKE - Dungeon Key Day! !MICRO | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
+      "game_name": "Marbles on Stream",
+      "viewer_count": 15,
+      "follower_count": 10103,
+      "language": "en",
+      "started_at": "2026-08-20T02:12:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zaldar87",
+      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
+    },
+    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Blind Sekiro Continues! The dragon rot chronicles",
       "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 276,
       "language": "en",
       "started_at": "2026-08-20T01:07:07Z",
@@ -73,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Lost In Los Santos part 1",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "follower_count": 393,
-      "language": "en",
-      "started_at": "2026-08-19T23:08:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "gmclay_",
@@ -103,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gmclay_",
       "description": "I alternate between MVP and WTF"
-    },
-    {
-      "user_login": "zaldar87",
-      "user_name": "Zaldar87",
-      "is_live": true,
-      "title": "🦊🦇| MARBLES, MICROSCAPE, & KARAOKE - Dungeon Key Day! !MICRO | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
-      "game_name": "Marbles on Stream",
-      "viewer_count": 0,
-      "follower_count": 10103,
-      "language": "en",
-      "started_at": "2026-08-20T02:12:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zaldar87",
-      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "alfieduu",
@@ -223,6 +208,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 393,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
