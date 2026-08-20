@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T21:37:57.520Z",
+  "generatedAt": "2026-08-20T21:42:57.409Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T21:37:57.520Z",
+    "fetchedAt": "2026-08-20T21:42:57.409Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 154/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 122,
+      "viewer_count": 117,
       "follower_count": 14213,
       "language": "en",
       "started_at": "2026-08-20T20:15:37Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "First Playthrough! | Alan Wake 2 | Night Springs DLC | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 6,
+      "viewer_count": 14,
       "follower_count": 635,
       "language": "en",
       "started_at": "2026-08-20T21:31:31Z",
