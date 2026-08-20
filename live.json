@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-20T22:37:57.563Z",
+  "generatedAt": "2026-08-20T22:42:57.625Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T22:37:57.563Z",
+    "fetchedAt": "2026-08-20T22:42:57.625Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 154/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 110,
+      "viewer_count": 111,
       "follower_count": 14216,
       "language": "en",
       "started_at": "2026-08-20T20:15:37Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Khatun my Glorious Queen 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 53,
+      "viewer_count": 50,
       "follower_count": 8616,
       "language": "en",
       "started_at": "2026-08-20T22:17:40Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "First Playthrough! | Alan Wake 2 | Night Springs DLC | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 13,
+      "viewer_count": 12,
       "follower_count": 635,
       "language": "en",
       "started_at": "2026-08-20T22:06:07Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "First Playthrough of Noita (pls help!) | STREAM DOESN'T END UNTIL WE GET A WIN!!",
       "game_name": "Noita",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 17,
       "language": "en",
       "started_at": "2026-08-20T21:15:14Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
       "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPING → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 2437,
+      "language": "en",
+      "started_at": "2026-08-20T22:42:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -148,21 +163,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
-    },
-    {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 2437,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
