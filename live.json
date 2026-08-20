@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T07:37:58.213Z",
+  "generatedAt": "2026-08-20T07:42:58.270Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T07:37:58.213Z",
+    "fetchedAt": "2026-08-20T07:42:58.270Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Operation Get out Of Bronze",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 8,
+      "viewer_count": 5,
       "follower_count": 168,
       "language": "en",
       "started_at": "2026-08-20T07:00:33Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "LVL 41 ESCAPE FROM LITKOV",
       "game_name": "Escape from Tarkov",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 73,
       "language": "en",
       "started_at": "2026-08-20T02:00:54Z",
