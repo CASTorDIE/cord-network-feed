@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T00:02:57.286Z",
+  "generatedAt": "2026-08-20T00:08:00.909Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T00:02:57.286Z",
+    "fetchedAt": "2026-08-20T00:08:00.909Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,12 +15,27 @@
   },
   "streamers": [
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 950👏!discord👏!factor👏#ad👏!Jlab👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W",
+      "game_name": "Rocket League",
+      "viewer_count": 171,
+      "follower_count": 112641,
+      "language": "en",
+      "started_at": "2026-08-20T00:01:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 70,
+      "viewer_count": 74,
       "follower_count": 2429,
       "language": "en",
       "started_at": "2026-08-19T22:41:14Z",
@@ -30,12 +45,27 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "ao_zora_",
+      "user_name": "Ao_Zora_",
+      "is_live": true,
+      "title": "Song Requests Here! >> !SL",
+      "game_name": "Music",
+      "viewer_count": 50,
+      "follower_count": 6261,
+      "language": "en",
+      "started_at": "2026-08-19T23:31:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
+      "twitch_url": "https://www.twitch.tv/ao_zora_",
+      "description": "I sing and play games. Sometimes I bake"
+    },
+    {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": true,
       "title": "Casual MM with Viewers! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 52,
+      "viewer_count": 49,
       "follower_count": 8602,
       "language": "en",
       "started_at": "2026-08-19T22:01:58Z",
@@ -45,27 +75,12 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
-      "user_login": "ao_zora_",
-      "user_name": "Ao_Zora_",
-      "is_live": true,
-      "title": "Song Requests Here! >> !SL",
-      "game_name": "Music",
-      "viewer_count": 50,
-      "follower_count": 6260,
-      "language": "en",
-      "started_at": "2026-08-19T23:31:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
-      "twitch_url": "https://www.twitch.tv/ao_zora_",
-      "description": "I sing and play games. Sometimes I bake"
-    },
-    {
       "user_login": "tehchno",
       "user_name": "tehchno",
       "is_live": true,
       "title": "Death Domain Expansion",
       "game_name": "Baldur's Gate 3",
-      "viewer_count": 9,
+      "viewer_count": 6,
       "follower_count": 461,
       "language": "en",
       "started_at": "2026-08-19T23:12:21Z",
@@ -73,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 950👏!discord👏!factor👏#ad👏!Jlab👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W JLAB👏W",
-      "game_name": "Rocket League",
-      "viewer_count": 3,
-      "follower_count": 112642,
-      "language": "en",
-      "started_at": "2026-08-20T00:01:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "bribeecool10",
