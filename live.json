@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T03:52:57.884Z",
+  "generatedAt": "2026-08-20T03:57:57.886Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T03:52:57.884Z",
+    "fetchedAt": "2026-08-20T03:57:57.886Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "LEARNING APEX! Loba on top 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Apex Legends",
-      "viewer_count": 27,
+      "viewer_count": 22,
       "follower_count": 8607,
       "language": "en",
       "started_at": "2026-08-19T22:01:58Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Blind Sekiro Continues! The dragon rot chronicles",
       "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 276,
       "language": "en",
       "started_at": "2026-08-20T01:07:07Z",
