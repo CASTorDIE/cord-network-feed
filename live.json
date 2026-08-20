@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T11:07:58.573Z",
+  "generatedAt": "2026-08-20T11:12:57.593Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T11:07:58.573Z",
+    "fetchedAt": "2026-08-20T11:12:57.593Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Operation Get out Of Bronze",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 13,
+      "viewer_count": 9,
       "follower_count": 175,
       "language": "en",
       "started_at": "2026-08-20T07:00:33Z",
