@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-21T04:02:58.170Z",
+  "generatedAt": "2026-08-21T04:08:44.363Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T04:02:58.170Z",
+    "fetchedAt": "2026-08-21T04:08:44.363Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,29 +20,14 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 950🫐!discord🫐!factor🫐#ad🫐!BrooklynBeddingPartner🫐COMFY MATTRESS THURSDAY🫐 GET YOURSELF A NEW COMFY MATTRESS WITH",
       "game_name": "Rocket League",
-      "viewer_count": 541,
-      "follower_count": 113047,
+      "viewer_count": 529,
+      "follower_count": 113051,
       "language": "en",
       "started_at": "2026-08-21T00:06:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/brycexd",
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
-    {
-      "user_login": "ao_zora_",
-      "user_name": "Ao_Zora_",
-      "is_live": true,
-      "title": "How to Customer Service",
-      "game_name": "inKONBINI: One Store. Many Stories",
-      "viewer_count": 49,
-      "follower_count": 6280,
-      "language": "en",
-      "started_at": "2026-08-20T23:35:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
-      "twitch_url": "https://www.twitch.tv/ao_zora_",
-      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "💜🕵️Valorant! !!! 🕵️💜!discord💜🕵️Are you ready for 6am?🕵️💜",
       "game_name": "Marvel Rivals",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 2109,
       "language": "en",
       "started_at": "2026-08-21T02:01:18Z",
@@ -103,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/allyreggie",
       "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
+    },
+    {
+      "user_login": "ao_zora_",
+      "user_name": "Ao_Zora_",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 6280,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
+      "twitch_url": "https://www.twitch.tv/ao_zora_",
+      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "astral_celestial",
