@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-21T00:02:57.647Z",
+  "generatedAt": "2026-08-21T00:08:00.035Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T00:02:57.647Z",
+    "fetchedAt": "2026-08-21T00:08:00.035Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 8,
-    "offlineCount": 36
+    "liveCount": 9,
+    "offlineCount": 35
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 154/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 114,
+      "viewer_count": 118,
       "follower_count": 14222,
       "language": "en",
       "started_at": "2026-08-20T20:15:37Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 64,
+      "viewer_count": 71,
       "follower_count": 2439,
       "language": "en",
       "started_at": "2026-08-20T22:42:02Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "E-Girl Slams Ranked! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Apex Legends",
-      "viewer_count": 50,
+      "viewer_count": 44,
       "follower_count": 8619,
       "language": "en",
       "started_at": "2026-08-20T22:17:40Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "How to Customer Service",
       "game_name": "Just Chatting",
-      "viewer_count": 45,
+      "viewer_count": 43,
       "follower_count": 6276,
       "language": "en",
       "started_at": "2026-08-20T23:35:40Z",
@@ -75,12 +75,27 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 950🫐!discord🫐!factor🫐#ad🫐!BrooklynBeddingPartner🫐COMFY MATTRESS THURSDAY🫐 GET YOURSELF A NEW COMFY MATTRESS WITH",
+      "game_name": "Rocket League",
+      "viewer_count": 27,
+      "follower_count": 112842,
+      "language": "en",
+      "started_at": "2026-08-21T00:06:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "horror_heather",
       "user_name": "horror_heather",
       "is_live": true,
       "title": "First Playthrough! | Alan Wake 2 | Night Springs DLC | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "follower_count": 634,
       "language": "en",
       "started_at": "2026-08-20T22:06:07Z",
@@ -88,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/horror_heather",
       "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": true,
+      "title": "first ever Cagelocke with @chefjess_95",
+      "game_name": "Pokémon Sword/Shield",
+      "viewer_count": 2,
+      "follower_count": 393,
+      "language": "en",
+      "started_at": "2026-08-21T00:00:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "thepuckgoa",
@@ -103,21 +133,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "first ever Cagelocke with @chefjess_95",
-      "game_name": "Pokémon Sword/Shield",
-      "viewer_count": 1,
-      "follower_count": 393,
-      "language": "en",
-      "started_at": "2026-08-21T00:00:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "mrcarameldrizzle",
@@ -238,21 +253,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 112845,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
