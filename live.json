@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-21T02:08:38.112Z",
+  "generatedAt": "2026-08-21T02:12:57.906Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T02:08:38.112Z",
+    "fetchedAt": "2026-08-21T02:12:57.906Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 9,
-    "offlineCount": 35
+    "liveCount": 8,
+    "offlineCount": 36
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 950🫐!discord🫐!factor🫐#ad🫐!BrooklynBeddingPartner🫐COMFY MATTRESS THURSDAY🫐 GET YOURSELF A NEW COMFY MATTRESS WITH",
       "game_name": "Rocket League",
-      "viewer_count": 708,
-      "follower_count": 112947,
+      "viewer_count": 641,
+      "follower_count": 112952,
       "language": "en",
       "started_at": "2026-08-21T00:06:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 154/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 143,
-      "follower_count": 14231,
+      "viewer_count": 125,
+      "follower_count": 14234,
       "language": "en",
       "started_at": "2026-08-20T20:15:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 71,
+      "viewer_count": 79,
       "follower_count": 2440,
       "language": "en",
       "started_at": "2026-08-20T22:42:02Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "How to Customer Service",
       "game_name": "inKONBINI: One Store. Many Stories",
-      "viewer_count": 45,
+      "viewer_count": 50,
       "follower_count": 6280,
       "language": "en",
       "started_at": "2026-08-20T23:35:40Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "E-Girl Slams Ranked! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Apex Legends",
-      "viewer_count": 28,
+      "viewer_count": 29,
       "follower_count": 8620,
       "language": "en",
       "started_at": "2026-08-20T22:17:40Z",
@@ -110,7 +110,7 @@
       "is_live": true,
       "title": "💜🕵️Escape Simulator 2 w/ @sincerelyindie @xaydlove and @wholequeen !!! 🕵️💜!discord💜🕵️Are you ready for 6am?🕵️💜",
       "game_name": "Escape Simulator 2",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 2109,
       "language": "en",
       "started_at": "2026-08-21T02:01:18Z",
@@ -118,21 +118,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": true,
-      "title": "TG Thursday 08/20/26 Resident Evil 6",
-      "game_name": "Resident Evil 6",
-      "viewer_count": 2,
-      "follower_count": 22,
-      "language": "en",
-      "started_at": "2026-08-20T23:02:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "bribeecool10",
@@ -598,6 +583,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 22,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
