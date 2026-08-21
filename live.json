@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T20:52:57.945Z",
+  "generatedAt": "2026-08-21T20:57:57.898Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T20:52:57.945Z",
+    "fetchedAt": "2026-08-21T20:57:57.898Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,9 +18,9 @@
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
-      "title": "ELDEN RING \"DEATH LINK\" CO-OP EVENT DAY 1🎀 !ERGOALS -incentive to help or hurt players!!",
+      "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" CO-OP EVENT | DAY 1🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 63,
+      "viewer_count": 66,
       "follower_count": 10563,
       "language": "en",
       "started_at": "2026-08-21T17:02:40Z",
