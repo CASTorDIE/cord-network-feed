@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T21:12:58.050Z",
+  "generatedAt": "2026-08-21T21:17:57.997Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T21:12:58.050Z",
+    "fetchedAt": "2026-08-21T21:17:57.997Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" CO-OP EVENT | DAY 1🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 74,
+      "viewer_count": 73,
       "follower_count": 10561,
       "language": "en",
       "started_at": "2026-08-21T17:02:40Z",
