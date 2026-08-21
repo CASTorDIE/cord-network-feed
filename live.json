@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-20T23:57:57.699Z",
+  "generatedAt": "2026-08-21T00:02:57.647Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-20T23:57:57.699Z",
+    "fetchedAt": "2026-08-21T00:02:57.647Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 8,
+    "offlineCount": 36
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 154/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 116,
-      "follower_count": 14221,
+      "viewer_count": 114,
+      "follower_count": 14222,
       "language": "en",
       "started_at": "2026-08-20T20:15:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -30,12 +30,27 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
+      "game_name": "Games + Demos",
+      "viewer_count": 64,
+      "follower_count": 2439,
+      "language": "en",
+      "started_at": "2026-08-20T22:42:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": true,
       "title": "E-Girl Slams Ranked! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Apex Legends",
-      "viewer_count": 65,
+      "viewer_count": 50,
       "follower_count": 8619,
       "language": "en",
       "started_at": "2026-08-20T22:17:40Z",
@@ -45,27 +60,12 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
-      "game_name": "Games + Demos",
-      "viewer_count": 58,
-      "follower_count": 2438,
-      "language": "en",
-      "started_at": "2026-08-20T22:42:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "How to Customer Service",
       "game_name": "Just Chatting",
-      "viewer_count": 39,
+      "viewer_count": 45,
       "follower_count": 6276,
       "language": "en",
       "started_at": "2026-08-20T23:35:40Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "First Playthrough! | Alan Wake 2 | Night Springs DLC | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 634,
       "language": "en",
       "started_at": "2026-08-20T22:06:07Z",
@@ -103,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": true,
+      "title": "first ever Cagelocke with @chefjess_95",
+      "game_name": "Pokémon Sword/Shield",
+      "viewer_count": 1,
+      "follower_count": 393,
+      "language": "en",
+      "started_at": "2026-08-21T00:00:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "mrcarameldrizzle",
@@ -223,21 +238,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 393,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "brycexd",
