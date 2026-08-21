@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T17:27:57.637Z",
+  "generatedAt": "2026-08-21T17:33:01.741Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T17:27:57.637Z",
+    "fetchedAt": "2026-08-21T17:33:01.741Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "ELDEN RING \"DEATH LINK\" CO-OP EVENT DAY 1🎀",
       "game_name": "ELDEN RING",
-      "viewer_count": 61,
+      "viewer_count": 58,
       "follower_count": 10561,
       "language": "en",
       "started_at": "2026-08-21T17:02:40Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "We ended up in the Backrooms | Everyone Welcomed !hype !discord",
       "game_name": "Your Happy Place",
-      "viewer_count": 16,
+      "viewer_count": 15,
       "follower_count": 5123,
       "language": "en",
       "started_at": "2026-08-21T13:07:24Z",
