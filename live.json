@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T13:07:58.334Z",
+  "generatedAt": "2026-08-21T13:12:58.394Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T13:07:58.334Z",
+    "fetchedAt": "2026-08-21T13:12:58.394Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "The Simulacra Mystery Continues… | Everyone Welcomed !hype !discord",
       "game_name": "SIMULACRA 2",
-      "viewer_count": 0,
+      "viewer_count": 5,
       "follower_count": 5126,
       "language": "en",
       "started_at": "2026-08-21T13:07:24Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113053,
+      "follower_count": 113054,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
