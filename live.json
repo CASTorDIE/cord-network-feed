@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T16:32:57.511Z",
+  "generatedAt": "2026-08-21T16:37:57.539Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T16:32:57.511Z",
+    "fetchedAt": "2026-08-21T16:37:57.539Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "The Simulacra Mystery Continues… | Everyone Welcomed !hype !discord",
       "game_name": "SIMULACRA 2",
-      "viewer_count": 16,
+      "viewer_count": 15,
       "follower_count": 5124,
       "language": "en",
       "started_at": "2026-08-21T13:07:24Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "out in the middle of the ocean... nothing bad can happen right???",
       "game_name": "Still Wakes the Deep",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 66,
       "language": "en",
       "started_at": "2026-08-21T15:41:04Z",
