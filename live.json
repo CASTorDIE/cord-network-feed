@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-21T03:12:58.011Z",
+  "generatedAt": "2026-08-21T03:17:57.999Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T03:12:58.011Z",
+    "fetchedAt": "2026-08-21T03:17:57.999Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 950🫐!discord🫐!factor🫐#ad🫐!BrooklynBeddingPartner🫐COMFY MATTRESS THURSDAY🫐 GET YOURSELF A NEW COMFY MATTRESS WITH",
       "game_name": "Rocket League",
-      "viewer_count": 657,
-      "follower_count": 113010,
+      "viewer_count": 671,
+      "follower_count": 113017,
       "language": "en",
       "started_at": "2026-08-21T00:06:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 154/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 117,
+      "viewer_count": 126,
       "follower_count": 14239,
       "language": "en",
       "started_at": "2026-08-20T20:15:37Z",
@@ -45,27 +45,12 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
-      "game_name": "Games + Demos",
-      "viewer_count": 57,
-      "follower_count": 2440,
-      "language": "en",
-      "started_at": "2026-08-20T22:42:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "How to Customer Service",
       "game_name": "inKONBINI: One Store. Many Stories",
-      "viewer_count": 47,
+      "viewer_count": 46,
       "follower_count": 6280,
       "language": "en",
       "started_at": "2026-08-20T23:35:40Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "E-Girl Slams Ranked! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Apex Legends",
-      "viewer_count": 39,
+      "viewer_count": 33,
       "follower_count": 8621,
       "language": "en",
       "started_at": "2026-08-20T22:17:40Z",
@@ -95,7 +80,7 @@
       "is_live": true,
       "title": "Blind Sekiro Continues! Let's Git Gud together.",
       "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 14,
+      "viewer_count": 15,
       "follower_count": 276,
       "language": "en",
       "started_at": "2026-08-21T00:55:48Z",
@@ -110,7 +95,7 @@
       "is_live": true,
       "title": "💜🕵️Valorant! !!! 🕵️💜!discord💜🕵️Are you ready for 6am?🕵️💜",
       "game_name": "Marvel Rivals",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 2109,
       "language": "en",
       "started_at": "2026-08-21T02:01:18Z",
@@ -163,6 +148,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2440,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
