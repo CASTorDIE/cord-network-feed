@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-08-21T04:52:58.274Z",
+  "generatedAt": "2026-08-21T04:57:58.223Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T04:52:58.274Z",
+    "fetchedAt": "2026-08-21T04:57:58.223Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 0,
+    "offlineCount": 44
   },
   "streamers": [
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "Blind Sekiro Continues! Let's Git Gud together.",
-      "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 13,
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
       "follower_count": 276,
-      "language": "en",
-      "started_at": "2026-08-21T00:55:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "I am 4kaizen, you can call me 4k, Kai, or Kaizen for short.  I play souls, roguelikes, and fighting games.  I am a military vet with some crazy hobbies in my past so get ready for some stories.  And yes.  I am wearing a onesie.  What of it?"
