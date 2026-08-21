@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T09:52:57.783Z",
+  "generatedAt": "2026-08-21T09:57:57.725Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T09:52:57.783Z",
+    "fetchedAt": "2026-08-21T09:57:57.725Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Win or Crashout",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 180,
       "language": "en",
       "started_at": "2026-08-21T07:02:14Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Trying Something New, also a New Look.",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 418,
       "language": "en",
       "started_at": "2026-08-21T08:39:48Z",
