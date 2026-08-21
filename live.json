@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T23:52:58.284Z",
+  "generatedAt": "2026-08-21T23:57:58.302Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T23:52:58.284Z",
+    "fetchedAt": "2026-08-21T23:57:58.302Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" CO-OP EVENT | DAY 1🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 78,
+      "viewer_count": 71,
       "follower_count": 10561,
       "language": "en",
       "started_at": "2026-08-21T17:02:40Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "OG ZOMBIES EASTER EGGS!",
       "game_name": "Call of Duty: Black Ops",
-      "viewer_count": 3,
+      "viewer_count": 6,
       "follower_count": 393,
       "language": "en",
       "started_at": "2026-08-21T23:42:50Z",
