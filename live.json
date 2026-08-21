@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T18:57:57.745Z",
+  "generatedAt": "2026-08-21T19:02:57.848Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T18:57:57.745Z",
+    "fetchedAt": "2026-08-21T19:02:57.848Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "ELDEN RING \"DEATH LINK\" CO-OP EVENT DAY 1🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 68,
+      "viewer_count": 66,
       "follower_count": 10564,
       "language": "en",
       "started_at": "2026-08-21T17:02:40Z",
