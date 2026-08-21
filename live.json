@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-21T03:42:58.076Z",
+  "generatedAt": "2026-08-21T03:47:58.080Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T03:42:58.076Z",
+    "fetchedAt": "2026-08-21T03:47:58.080Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 950🫐!discord🫐!factor🫐#ad🫐!BrooklynBeddingPartner🫐COMFY MATTRESS THURSDAY🫐 GET YOURSELF A NEW COMFY MATTRESS WITH",
       "game_name": "Rocket League",
-      "viewer_count": 615,
-      "follower_count": 113029,
+      "viewer_count": 662,
+      "follower_count": 113039,
       "language": "en",
       "started_at": "2026-08-21T00:06:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 154/300",
-      "game_name": "ARC Raiders",
-      "viewer_count": 118,
-      "follower_count": 14239,
-      "language": "en",
-      "started_at": "2026-08-20T20:15:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
-    {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "How to Customer Service",
       "game_name": "inKONBINI: One Store. Many Stories",
-      "viewer_count": 45,
+      "viewer_count": 50,
       "follower_count": 6280,
       "language": "en",
       "started_at": "2026-08-20T23:35:40Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "E-Girl Slams Ranked! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Apex Legends",
-      "viewer_count": 22,
+      "viewer_count": 24,
       "follower_count": 8621,
       "language": "en",
       "started_at": "2026-08-20T22:17:40Z",
@@ -95,7 +80,7 @@
       "is_live": true,
       "title": "💜🕵️Valorant! !!! 🕵️💜!discord💜🕵️Are you ready for 6am?🕵️💜",
       "game_name": "Marvel Rivals",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 2109,
       "language": "en",
       "started_at": "2026-08-21T02:01:18Z",
@@ -553,6 +538,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
+    },
+    {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 14240,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "slimchungusgaming",
