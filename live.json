@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T17:07:57.500Z",
+  "generatedAt": "2026-08-21T17:12:57.823Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T17:07:57.500Z",
+    "fetchedAt": "2026-08-21T17:12:57.823Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "beckybplays",
-      "user_name": "BeckyBPlays",
-      "is_live": true,
-      "title": "We ended up in the Backrooms | Everyone Welcomed !hype !discord",
-      "game_name": "Your Happy Place",
-      "viewer_count": 16,
-      "follower_count": 5124,
-      "language": "en",
-      "started_at": "2026-08-21T13:07:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/beckybplays",
-      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
-    },
-    {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
       "title": "ELDEN RING \"DEATH LINK\" CO-OP EVENT DAY 1🎀",
       "game_name": "ELDEN RING",
-      "viewer_count": 3,
+      "viewer_count": 43,
       "follower_count": 10562,
       "language": "en",
       "started_at": "2026-08-21T17:02:40Z",
@@ -45,12 +30,27 @@
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
+      "user_login": "beckybplays",
+      "user_name": "BeckyBPlays",
+      "is_live": true,
+      "title": "We ended up in the Backrooms | Everyone Welcomed !hype !discord",
+      "game_name": "Your Happy Place",
+      "viewer_count": 18,
+      "follower_count": 5123,
+      "language": "en",
+      "started_at": "2026-08-21T13:07:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/beckybplays",
+      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
       "user_login": "kindessurchin",
       "user_name": "kindessurchin",
       "is_live": true,
       "title": "out in the middle of the ocean... nothing bad can happen right???",
       "game_name": "Still Wakes the Deep",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 66,
       "language": "en",
       "started_at": "2026-08-21T15:41:04Z",
