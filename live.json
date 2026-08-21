@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T07:22:57.542Z",
+  "generatedAt": "2026-08-21T07:27:57.500Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T07:22:57.542Z",
+    "fetchedAt": "2026-08-21T07:27:57.500Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Sonic Or Tails??",
       "game_name": "Fortnite",
-      "viewer_count": 4,
+      "viewer_count": 7,
       "follower_count": 178,
       "language": "en",
       "started_at": "2026-08-21T07:02:14Z",
