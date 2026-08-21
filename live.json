@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-21T00:27:59.873Z",
+  "generatedAt": "2026-08-21T00:32:57.759Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T00:27:59.873Z",
+    "fetchedAt": "2026-08-21T00:32:57.759Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 9,
-    "offlineCount": 35
+    "liveCount": 10,
+    "offlineCount": 34
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 950🫐!discord🫐!factor🫐#ad🫐!BrooklynBeddingPartner🫐COMFY MATTRESS THURSDAY🫐 GET YOURSELF A NEW COMFY MATTRESS WITH",
       "game_name": "Rocket League",
-      "viewer_count": 286,
-      "follower_count": 112850,
+      "viewer_count": 291,
+      "follower_count": 112853,
       "language": "en",
       "started_at": "2026-08-21T00:06:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🔴RAGEbaiting every Raider I come across 💀 PARTNER PLUS GOAL: 154/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 140,
-      "follower_count": 14222,
+      "viewer_count": 146,
+      "follower_count": 14223,
       "language": "en",
       "started_at": "2026-08-20T20:15:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 69,
+      "viewer_count": 73,
       "follower_count": 2439,
       "language": "en",
       "started_at": "2026-08-20T22:42:02Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "How to Customer Service",
       "game_name": "Just Chatting",
-      "viewer_count": 49,
+      "viewer_count": 54,
       "follower_count": 6279,
       "language": "en",
       "started_at": "2026-08-20T23:35:40Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "E-Girl Slams Ranked! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Apex Legends",
-      "viewer_count": 33,
+      "viewer_count": 23,
       "follower_count": 8619,
       "language": "en",
       "started_at": "2026-08-20T22:17:40Z",
@@ -95,7 +95,7 @@
       "is_live": true,
       "title": "First Playthrough! | Alan Wake 2 | Night Springs DLC | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 634,
       "language": "en",
       "started_at": "2026-08-20T22:06:07Z",
@@ -110,7 +110,7 @@
       "is_live": true,
       "title": "first ever Cagelocke with @chefjess_95",
       "game_name": "Pokémon Sword/Shield",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 393,
       "language": "en",
       "started_at": "2026-08-21T00:00:01Z",
@@ -133,6 +133,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "floodwater_",
+      "user_name": "FloodWater_",
+      "is_live": true,
+      "title": "💜🕵️Escape Simulator 2 w/ @sincerelyindie @xaydlove and @wholequeen !!! 🕵️💜!discord💜🕵️Are you ready for 6am?🕵️💜",
+      "game_name": "Escape Simulator 2",
+      "viewer_count": 1,
+      "follower_count": 2109,
+      "language": "en",
+      "started_at": "2026-08-21T00:30:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/floodwater_",
+      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
       "user_login": "mrcarameldrizzle",
@@ -358,21 +373,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
-    },
-    {
-      "user_login": "floodwater_",
-      "user_name": "FloodWater_",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 2109,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/floodwater_",
-      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
       "user_login": "gatito_maldito",
