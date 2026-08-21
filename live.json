@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T09:32:57.673Z",
+  "generatedAt": "2026-08-21T09:37:57.693Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T09:32:57.673Z",
+    "fetchedAt": "2026-08-21T09:37:57.693Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Win or Crashout",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 8,
+      "viewer_count": 6,
       "follower_count": 179,
       "language": "en",
       "started_at": "2026-08-21T07:02:14Z",
