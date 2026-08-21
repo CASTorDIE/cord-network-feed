@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T23:47:58.314Z",
+  "generatedAt": "2026-08-21T23:52:58.284Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T23:47:58.314Z",
+    "fetchedAt": "2026-08-21T23:52:58.284Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,14 +20,29 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" CO-OP EVENT | DAY 1🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 76,
-      "follower_count": 10560,
+      "viewer_count": 78,
+      "follower_count": 10561,
       "language": "en",
       "started_at": "2026-08-21T17:02:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "slimchungusgaming",
+      "user_name": "SlimChungusGaming",
+      "is_live": true,
+      "title": "OG ZOMBIES EASTER EGGS!",
+      "game_name": "Call of Duty: Black Ops",
+      "viewer_count": 3,
+      "follower_count": 393,
+      "language": "en",
+      "started_at": "2026-08-21T23:42:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimchungusgaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
+      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "bribeecool10",
@@ -43,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "slimchungusgaming",
-      "user_name": "SlimChungusGaming",
-      "is_live": true,
-      "title": "OG ZOMBIES EASTER EGGS!",
-      "game_name": "Call of Duty: Black Ops",
-      "viewer_count": 1,
-      "follower_count": 393,
-      "language": "en",
-      "started_at": "2026-08-21T23:42:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimchungusgaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
-      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "4kaizen_gaming",
