@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T13:12:58.394Z",
+  "generatedAt": "2026-08-21T13:17:58.232Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-21T13:12:58.394Z",
+    "fetchedAt": "2026-08-21T13:17:58.232Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "The Simulacra Mystery Continues… | Everyone Welcomed !hype !discord",
       "game_name": "SIMULACRA 2",
-      "viewer_count": 5,
-      "follower_count": 5126,
+      "viewer_count": 4,
+      "follower_count": 5125,
       "language": "en",
       "started_at": "2026-08-21T13:07:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
@@ -111,7 +111,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2441,
+      "follower_count": 2442,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
