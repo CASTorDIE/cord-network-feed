@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T15:22:57.691Z",
+  "generatedAt": "2026-08-22T15:27:57.688Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-22T15:22:57.691Z",
+    "fetchedAt": "2026-08-22T15:27:57.688Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Palia House Tours are Back!!! | Everyone Welcomed !addme !hype !discord with @jessicaa1987 and @tilliev",
       "game_name": "Palia",
-      "viewer_count": 49,
+      "viewer_count": 47,
       "follower_count": 5126,
       "language": "en",
       "started_at": "2026-08-22T13:05:57Z",
