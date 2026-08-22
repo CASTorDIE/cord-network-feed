@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T07:32:58.022Z",
+  "generatedAt": "2026-08-22T07:37:57.967Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-22T07:32:58.022Z",
+    "fetchedAt": "2026-08-22T07:37:57.967Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I May Have Started Another Plague | A Plague Tale: Requiem | Therapy & Chaos",
       "game_name": "A Plague Tale: Requiem",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 904,
       "language": "en",
       "started_at": "2026-08-22T04:05:42Z",
@@ -48,9 +48,9 @@
       "user_login": "fallentitanandy",
       "user_name": "FallenTitanAndy",
       "is_live": true,
-      "title": "Food, Fun and Friends. It's going to be a variety of games",
+      "title": "Friends hiding from friends",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 417,
       "language": "en",
       "started_at": "2026-08-22T07:29:04Z",
