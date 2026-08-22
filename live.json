@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T15:32:57.666Z",
+  "generatedAt": "2026-08-22T15:37:57.704Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-22T15:32:57.666Z",
+    "fetchedAt": "2026-08-22T15:37:57.704Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,9 +18,9 @@
       "user_login": "beckybplays",
       "user_name": "BeckyBPlays",
       "is_live": true,
-      "title": "Palia House Tours are Back!!! | Everyone Welcomed !addme !hype !discord with @jessicaa1987 and @tilliev",
+      "title": "Palia House Tours are Back!!! | Everyone Welcomed !addme !hype !discord with @12daniella_s and @calliekong16",
       "game_name": "Palia",
-      "viewer_count": 46,
+      "viewer_count": 47,
       "follower_count": 5126,
       "language": "en",
       "started_at": "2026-08-22T13:05:57Z",
