@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T13:12:57.563Z",
+  "generatedAt": "2026-08-22T13:17:57.689Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-22T13:12:57.563Z",
+    "fetchedAt": "2026-08-22T13:17:57.689Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Palia House Tours are Back!!! | Everyone Welcomed !hype !discord",
       "game_name": "Palia",
-      "viewer_count": 15,
-      "follower_count": 5123,
+      "viewer_count": 19,
+      "follower_count": 5124,
       "language": "en",
       "started_at": "2026-08-22T13:05:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113206,
+      "follower_count": 113207,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
