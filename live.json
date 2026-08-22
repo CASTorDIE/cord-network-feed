@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T07:07:59.915Z",
+  "generatedAt": "2026-08-22T07:12:57.977Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-22T07:07:59.915Z",
+    "fetchedAt": "2026-08-22T07:12:57.977Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| CROWD CONTROL PALWORLD 18+ Stream = I will be cursing | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Palworld",
-      "viewer_count": 136,
+      "viewer_count": 133,
       "follower_count": 10104,
       "language": "en",
       "started_at": "2026-08-22T02:01:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I May Have Started Another Plague | A Plague Tale: Requiem | Therapy & Chaos",
       "game_name": "A Plague Tale: Requiem",
-      "viewer_count": 8,
+      "viewer_count": 7,
       "follower_count": 904,
       "language": "en",
       "started_at": "2026-08-22T04:05:42Z",
