@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T16:32:57.756Z",
+  "generatedAt": "2026-08-22T16:37:57.764Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-22T16:32:57.756Z",
+    "fetchedAt": "2026-08-22T16:37:57.764Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Palia House Tours are Back!!! | Everyone Welcomed !addme !hype !discord with @EliRiversSmith and @leiacharis",
       "game_name": "Just Chatting",
-      "viewer_count": 35,
+      "viewer_count": 34,
       "follower_count": 5126,
       "language": "en",
       "started_at": "2026-08-22T13:05:57Z",
