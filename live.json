@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T07:42:57.959Z",
+  "generatedAt": "2026-08-22T07:47:57.971Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-22T07:42:57.959Z",
+    "fetchedAt": "2026-08-22T07:47:57.971Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I May Have Started Another Plague | A Plague Tale: Requiem | Therapy & Chaos",
       "game_name": "A Plague Tale: Requiem",
-      "viewer_count": 9,
+      "viewer_count": 7,
       "follower_count": 904,
       "language": "en",
       "started_at": "2026-08-22T04:05:42Z",
