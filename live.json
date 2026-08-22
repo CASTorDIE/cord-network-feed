@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-22T18:32:57.956Z",
+  "generatedAt": "2026-08-22T18:37:57.881Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-22T18:32:57.956Z",
+    "fetchedAt": "2026-08-22T18:37:57.881Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" CO-OP EVENT | DAY 2🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 64,
+      "viewer_count": 65,
       "follower_count": 10566,
       "language": "en",
       "started_at": "2026-08-22T17:01:30Z",
@@ -28,21 +28,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
-      "user_login": "beckybplays",
-      "user_name": "BeckyBPlays",
-      "is_live": true,
-      "title": "Little Nightmares VR | Everyone Welcomed !addme !hype !discord with @EliRiversSmith and @leiacharis",
-      "game_name": "Little Nightmares VR: Altered Echoes",
-      "viewer_count": 30,
-      "follower_count": 5126,
-      "language": "en",
-      "started_at": "2026-08-22T13:05:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/beckybplays",
-      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
       "user_login": "thepuckgoa",
@@ -148,6 +133,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "beckybplays",
+      "user_name": "BeckyBPlays",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 5126,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/beckybplays",
+      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
       "user_login": "boww_wolf",
