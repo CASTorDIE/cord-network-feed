@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T03:07:59.519Z",
+  "generatedAt": "2026-08-22T03:12:57.636Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-22T03:07:59.519Z",
+    "fetchedAt": "2026-08-22T03:12:57.636Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| CROWD CONTROL PALWORLD 18+ Stream = I will be cursing | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Palworld",
-      "viewer_count": 79,
+      "viewer_count": 98,
       "follower_count": 10103,
       "language": "en",
       "started_at": "2026-08-22T02:01:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Blind Sekiro Continues! Shadows die twice but I die 80 (and counting) times",
       "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 6,
+      "viewer_count": 10,
       "follower_count": 277,
       "language": "en",
       "started_at": "2026-08-22T00:59:21Z",
