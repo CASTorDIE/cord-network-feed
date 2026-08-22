@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-22T02:12:57.503Z",
+  "generatedAt": "2026-08-22T02:17:57.579Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-22T02:12:57.503Z",
+    "fetchedAt": "2026-08-22T02:17:57.579Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 951🧇!discord🧇!factor🧇WATCH NOW🧇WATCH NOW🧇WATCH NOW🧇WATCH NOW🧇WATCH NOW🧇WATCH NOW🧇WATCH NOW🧇WATCH NOW🧇WATCH",
       "game_name": "Rocket League",
-      "viewer_count": 677,
-      "follower_count": 113168,
+      "viewer_count": 663,
+      "follower_count": 113173,
       "language": "en",
       "started_at": "2026-08-22T00:10:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 72,
+      "viewer_count": 65,
       "follower_count": 2443,
       "language": "en",
       "started_at": "2026-08-22T00:29:40Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🦊🦇| CROWD CONTROL PALWORLD 18+ Stream = I will be cursing | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Palworld",
-      "viewer_count": 29,
+      "viewer_count": 36,
       "follower_count": 10100,
       "language": "en",
       "started_at": "2026-08-22T02:01:39Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Time to check out #GroundZeroHero (key given)",
-      "game_name": "Fortnite",
-      "viewer_count": 1,
-      "follower_count": 393,
-      "language": "en",
-      "started_at": "2026-08-21T22:59:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "alfieduu",
@@ -193,6 +178,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 393,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
