@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T10:32:58.136Z",
+  "generatedAt": "2026-08-22T10:37:58.176Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-22T10:32:58.136Z",
+    "fetchedAt": "2026-08-22T10:37:58.176Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Friends hiding from friends",
       "game_name": "MECCHA CHAMELEON",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 417,
       "language": "en",
       "started_at": "2026-08-22T07:29:04Z",
