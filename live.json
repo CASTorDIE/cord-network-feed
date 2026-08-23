@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T04:47:57.899Z",
+  "generatedAt": "2026-08-23T04:52:58.039Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T04:47:57.899Z",
+    "fetchedAt": "2026-08-23T04:52:58.039Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔥 MODERN WARFARE 4 BETA! | BETA CODE GIVEAWAYS 🎁 | ARC RAIDERS LATER PARTNER PLUS GOAL: 163/300",
       "game_name": "Call of Duty: Modern Warfare 4",
-      "viewer_count": 129,
-      "follower_count": 14289,
+      "viewer_count": 125,
+      "follower_count": 14290,
       "language": "en",
       "started_at": "2026-08-22T23:36:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Blind Sekiro Continues! Finishing the game today no matter how long it takes",
       "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 8,
+      "viewer_count": 12,
       "follower_count": 278,
       "language": "en",
       "started_at": "2026-08-23T00:58:32Z",
