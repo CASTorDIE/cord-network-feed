@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T22:07:59.807Z",
+  "generatedAt": "2026-08-23T22:12:57.548Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T22:07:59.807Z",
+    "fetchedAt": "2026-08-23T22:12:57.548Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 3🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 68,
-      "follower_count": 10574,
+      "viewer_count": 107,
+      "follower_count": 10577,
       "language": "en",
       "started_at": "2026-08-23T17:01:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "♡ Anime NYC Deez Nutz ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT4 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 5,
+      "viewer_count": 11,
       "follower_count": 1344,
       "language": "en",
       "started_at": "2026-08-23T22:02:13Z",
