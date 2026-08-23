@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T14:42:57.905Z",
+  "generatedAt": "2026-08-23T14:47:57.890Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T14:42:57.905Z",
+    "fetchedAt": "2026-08-23T14:47:57.890Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|First Survial world ever! Come help me!|!giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 77,
+      "viewer_count": 63,
       "follower_count": 2765,
       "language": "en",
       "started_at": "2026-08-23T11:57:42Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Bug Hunting and Plushie Challenge Prep | Everyone Welcomed !hype !discord with @EliRiversSmith and @leiacharis",
       "game_name": "Palia",
-      "viewer_count": 49,
+      "viewer_count": 45,
       "follower_count": 5129,
       "language": "en",
       "started_at": "2026-08-23T13:02:56Z",
@@ -516,7 +516,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 188,
+      "follower_count": 189,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -670,7 +670,7 @@
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c38acfa3-e780-4dc5-aa10-ee38f102fd5a-profile_image-300x300.png",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7129ede2-61eb-42b7-a23a-6268e69d3390-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zombaesempai",
       "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     }
