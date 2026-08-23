@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T12:08:36.125Z",
+  "generatedAt": "2026-08-23T12:12:57.561Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T12:08:36.125Z",
+    "fetchedAt": "2026-08-23T12:12:57.561Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|FINSHING OUR VALLEY!!!|!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 39,
+      "viewer_count": 41,
       "follower_count": 2757,
       "language": "en",
       "started_at": "2026-08-23T11:57:42Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Massive Yap Sesh",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 9,
       "follower_count": 187,
       "language": "en",
       "started_at": "2026-08-23T09:39:08Z",
