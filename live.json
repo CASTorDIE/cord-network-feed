@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-23T00:47:57.563Z",
+  "generatedAt": "2026-08-23T00:52:57.553Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T00:47:57.563Z",
+    "fetchedAt": "2026-08-23T00:52:57.553Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔥 MODERN WARFARE 4 BETA! | BETA CODE GIVEAWAYS 🎁 | ARC RAIDERS LATER PARTNER PLUS GOAL: 163/300",
       "game_name": "Call of Duty: Modern Warfare 4",
-      "viewer_count": 129,
+      "viewer_count": 119,
       "follower_count": 14263,
       "language": "en",
       "started_at": "2026-08-22T23:36:15Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| BIG WALKING BIG TALKIN' | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Big Walk",
-      "viewer_count": 87,
+      "viewer_count": 86,
       "follower_count": 10103,
       "language": "en",
       "started_at": "2026-08-22T21:02:23Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" CO-OP EVENT | DAY 2🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 70,
+      "viewer_count": 65,
       "follower_count": 10565,
       "language": "en",
       "started_at": "2026-08-22T17:01:30Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 57,
+      "viewer_count": 62,
       "follower_count": 2446,
       "language": "en",
       "started_at": "2026-08-23T00:35:23Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": true,
-      "title": "HITTING PLAT TONIGHT 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
-      "game_name": "Apex Legends",
-      "viewer_count": 37,
-      "follower_count": 8641,
-      "language": "en",
-      "started_at": "2026-08-22T20:55:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "desertrose",
@@ -110,7 +95,7 @@
       "is_live": true,
       "title": "TG Saturday Shuffle 08/22/26 Dead by Daylight",
       "game_name": "Dead by Daylight",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 22,
       "language": "en",
       "started_at": "2026-08-22T23:09:37Z",
@@ -643,6 +628,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/viridisbytes",
       "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
+    },
+    {
+      "user_login": "wexra",
+      "user_name": "Wexra",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 8641,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "wispy_witch",
