@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T21:12:57.347Z",
+  "generatedAt": "2026-08-23T21:17:57.415Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T21:12:57.347Z",
+    "fetchedAt": "2026-08-23T21:17:57.415Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 3🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 74,
-      "follower_count": 10573,
+      "viewer_count": 67,
+      "follower_count": 10572,
       "language": "en",
       "started_at": "2026-08-23T17:01:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -531,7 +531,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14303,
+      "follower_count": 14304,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
