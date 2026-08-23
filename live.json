@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-23T10:57:57.444Z",
+  "generatedAt": "2026-08-23T11:02:57.486Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T10:57:57.444Z",
+    "fetchedAt": "2026-08-23T11:02:57.486Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Massive Yap Sesh",
       "game_name": "Just Chatting",
-      "viewer_count": 9,
+      "viewer_count": 8,
       "follower_count": 187,
       "language": "en",
       "started_at": "2026-08-23T09:39:08Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Until Dawn + Hayden Panettiere",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 58,
       "language": "en",
       "started_at": "2026-08-23T08:23:18Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/joreeezy",
       "description": "🔔 Next livestream: To be announced on X/Threads 📲"
+    },
+    {
+      "user_login": "memella",
+      "user_name": "memella",
+      "is_live": true,
+      "title": "#TMCC August Raid Train!! - 👁️your song requests - piano / ukulele [novice] 🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
+      "game_name": "Music",
+      "viewer_count": 1,
+      "follower_count": 395,
+      "language": "en",
+      "started_at": "2026-08-23T10:58:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/memella",
+      "description": "I'm not very good at it - but I do it anyway"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -448,21 +463,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/laconsgamingnook",
       "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
-    },
-    {
-      "user_login": "memella",
-      "user_name": "memella",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 395,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/memella",
-      "description": "I'm not very good at it - but I do it anyway"
     },
     {
       "user_login": "mrcarameldrizzle",
