@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T02:32:57.742Z",
+  "generatedAt": "2026-08-23T02:37:57.638Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T02:32:57.742Z",
+    "fetchedAt": "2026-08-23T02:37:57.638Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 61,
-      "follower_count": 2447,
+      "viewer_count": 63,
+      "follower_count": 2448,
       "language": "en",
       "started_at": "2026-08-23T00:35:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "I've missed you! | Let's hold ands and be scared then go frolic with animals! | #Creepshow #PawsomeResort",
       "game_name": "Creepshow",
-      "viewer_count": 8,
+      "viewer_count": 3,
       "follower_count": 532,
       "language": "en",
       "started_at": "2026-08-23T01:15:02Z",
