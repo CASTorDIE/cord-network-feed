@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T09:52:57.384Z",
+  "generatedAt": "2026-08-23T09:57:57.391Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T09:52:57.384Z",
+    "fetchedAt": "2026-08-23T09:57:57.391Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Massive Yap Sesh",
       "game_name": "Just Chatting",
-      "viewer_count": 11,
+      "viewer_count": 9,
       "follower_count": 186,
       "language": "en",
       "started_at": "2026-08-23T09:39:08Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Until Dawn + Hayden Panettiere",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 58,
       "language": "en",
       "started_at": "2026-08-23T08:23:18Z",
