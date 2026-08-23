@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T14:52:57.826Z",
+  "generatedAt": "2026-08-23T14:57:57.856Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T14:52:57.826Z",
+    "fetchedAt": "2026-08-23T14:57:57.856Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|First Survial world ever! Come help me!|!giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 55,
+      "viewer_count": 52,
       "follower_count": 2765,
       "language": "en",
       "started_at": "2026-08-23T11:57:42Z",
