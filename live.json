@@ -1,26 +1,41 @@
 {
-  "generatedAt": "2026-08-23T17:02:57.963Z",
+  "generatedAt": "2026-08-23T17:08:00.725Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T17:02:57.963Z",
+    "fetchedAt": "2026-08-23T17:08:00.725Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 3🎀 !ERGOALS -incentive to help or hurt players!!",
+      "game_name": "ELDEN RING",
+      "viewer_count": 14,
+      "follower_count": 10565,
+      "language": "en",
+      "started_at": "2026-08-23T17:01:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
     {
       "user_login": "desertrose",
       "user_name": "Desertrose",
       "is_live": true,
       "title": "I'm walking here",
       "game_name": "Big Walk",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 1050,
       "language": "en",
       "started_at": "2026-08-23T15:13:25Z",
@@ -30,19 +45,19 @@
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
       "is_live": true,
-      "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 3🎀 !ERGOALS -incentive to help or hurt players!!",
-      "game_name": "ELDEN RING",
-      "viewer_count": 2,
-      "follower_count": 10565,
+      "title": "Steel Reaper Gaming 08/23/26 Resident Evil 4 Remake",
+      "game_name": "Resident Evil 4",
+      "viewer_count": 1,
+      "follower_count": 22,
       "language": "en",
-      "started_at": "2026-08-23T17:01:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+      "started_at": "2026-08-23T17:02:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -568,21 +583,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 22,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
