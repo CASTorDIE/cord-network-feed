@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T12:27:57.596Z",
+  "generatedAt": "2026-08-23T12:32:57.647Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T12:27:57.596Z",
+    "fetchedAt": "2026-08-23T12:32:57.647Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,12 +15,27 @@
   },
   "streamers": [
     {
+      "user_login": "memella",
+      "user_name": "memella",
+      "is_live": true,
+      "title": "August's Twitch Music Creator Club Raid Train",
+      "game_name": "Music",
+      "viewer_count": 141,
+      "follower_count": 403,
+      "language": "en",
+      "started_at": "2026-08-23T10:58:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/memella",
+      "description": "I'm not very good at it - but I do it anyway"
+    },
+    {
       "user_login": "jaxsberrypatch",
       "user_name": "jaxsberrypatch",
       "is_live": true,
       "title": "|FINSHING OUR VALLEY!!!|!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 55,
+      "viewer_count": 52,
       "follower_count": 2757,
       "language": "en",
       "started_at": "2026-08-23T11:57:42Z",
@@ -30,27 +45,12 @@
       "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
     {
-      "user_login": "memella",
-      "user_name": "memella",
-      "is_live": true,
-      "title": "August's Twitch Music Creator Club Raid Train",
-      "game_name": "Music",
-      "viewer_count": 24,
-      "follower_count": 399,
-      "language": "en",
-      "started_at": "2026-08-23T10:58:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/memella",
-      "description": "I'm not very good at it - but I do it anyway"
-    },
-    {
       "user_login": "rickett_raffy",
       "user_name": "rickett_raffy",
       "is_live": true,
       "title": "Massive Yap Sesh",
       "game_name": "Just Chatting",
-      "viewer_count": 10,
+      "viewer_count": 12,
       "follower_count": 188,
       "language": "en",
       "started_at": "2026-08-23T09:39:08Z",
