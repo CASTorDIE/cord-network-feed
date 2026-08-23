@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T11:47:57.552Z",
+  "generatedAt": "2026-08-23T11:52:57.548Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T11:47:57.552Z",
+    "fetchedAt": "2026-08-23T11:52:57.548Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "August's Twitch Music Creator Club Raid Train",
       "game_name": "Music",
-      "viewer_count": 12,
-      "follower_count": 395,
+      "viewer_count": 13,
+      "follower_count": 396,
       "language": "en",
       "started_at": "2026-08-23T10:58:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Massive Yap Sesh",
       "game_name": "Just Chatting",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 187,
       "language": "en",
       "started_at": "2026-08-23T09:39:08Z",
