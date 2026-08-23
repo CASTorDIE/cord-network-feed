@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T22:42:57.605Z",
+  "generatedAt": "2026-08-23T22:47:57.508Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T22:42:57.605Z",
+    "fetchedAt": "2026-08-23T22:47:57.508Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 3🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 103,
+      "viewer_count": 116,
       "follower_count": 10575,
       "language": "en",
       "started_at": "2026-08-23T17:01:11Z",
@@ -30,27 +30,12 @@
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
-      "user_login": "padbae",
-      "user_name": "padbae",
-      "is_live": true,
-      "title": "♡ Anime NYC Deez Nutz ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT4 | !lurk !sus !discord !gfuel !patreon",
-      "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 11,
-      "follower_count": 1344,
-      "language": "en",
-      "started_at": "2026-08-23T22:02:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/padbae",
-      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 36,
       "follower_count": 2447,
       "language": "en",
       "started_at": "2026-08-23T22:41:04Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "padbae",
+      "user_name": "padbae",
+      "is_live": true,
+      "title": "♡ Anime NYC Deez Nutz ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT4 | !lurk !sus !discord !gfuel !patreon",
+      "game_name": "The Dark Pictures Anthology: House of Ashes",
+      "viewer_count": 10,
+      "follower_count": 1344,
+      "language": "en",
+      "started_at": "2026-08-23T22:02:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/padbae",
+      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
       "user_login": "mrcarameldrizzle",
