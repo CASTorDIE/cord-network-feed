@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-23T23:27:57.885Z",
+  "generatedAt": "2026-08-23T23:32:57.701Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T23:27:57.885Z",
+    "fetchedAt": "2026-08-23T23:32:57.701Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 3🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 107,
+      "viewer_count": 103,
       "follower_count": 10575,
       "language": "en",
       "started_at": "2026-08-23T17:01:11Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 63,
+      "viewer_count": 68,
       "follower_count": 2446,
       "language": "en",
       "started_at": "2026-08-23T22:41:04Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "♡ Anime NYC Deez Nutz ♡ ⋆(๑•ᴗ•๑) | House of Ashes PT4 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 20,
+      "viewer_count": 19,
       "follower_count": 1343,
       "language": "en",
       "started_at": "2026-08-23T22:02:13Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
       "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
+    },
+    {
+      "user_login": "ao_zora_",
+      "user_name": "Ao_Zora_",
+      "is_live": true,
+      "title": "I woke up thinking I slept 12 hours and it was the next day... || !daki",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 6281,
+      "language": "en",
+      "started_at": "2026-08-23T23:31:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
+      "twitch_url": "https://www.twitch.tv/ao_zora_",
+      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -118,21 +133,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/allyreggie",
       "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
-    },
-    {
-      "user_login": "ao_zora_",
-      "user_name": "Ao_Zora_",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 6281,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
-      "twitch_url": "https://www.twitch.tv/ao_zora_",
-      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "astral_celestial",
@@ -531,7 +531,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14304,
+      "follower_count": 14305,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
