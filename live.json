@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T12:02:57.579Z",
+  "generatedAt": "2026-08-23T12:08:36.125Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T12:02:57.579Z",
+    "fetchedAt": "2026-08-23T12:08:36.125Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,19 +15,19 @@
   },
   "streamers": [
     {
-      "user_login": "rickett_raffy",
-      "user_name": "rickett_raffy",
+      "user_login": "jaxsberrypatch",
+      "user_name": "jaxsberrypatch",
       "is_live": true,
-      "title": "Massive Yap Sesh",
-      "game_name": "Just Chatting",
-      "viewer_count": 11,
-      "follower_count": 187,
+      "title": "|FINSHING OUR VALLEY!!!|!giveaway !discord !tip !linktree !merch |",
+      "game_name": "Disney Dreamlight Valley",
+      "viewer_count": 39,
+      "follower_count": 2757,
       "language": "en",
-      "started_at": "2026-08-23T09:39:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/rickett_raffy",
-      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
+      "started_at": "2026-08-23T11:57:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
+      "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
     {
       "user_login": "memella",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "August's Twitch Music Creator Club Raid Train",
       "game_name": "Music",
-      "viewer_count": 9,
-      "follower_count": 396,
+      "viewer_count": 22,
+      "follower_count": 397,
       "language": "en",
       "started_at": "2026-08-23T10:58:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
@@ -45,19 +45,19 @@
       "description": "I'm not very good at it - but I do it anyway"
     },
     {
-      "user_login": "jaxsberrypatch",
-      "user_name": "jaxsberrypatch",
+      "user_login": "rickett_raffy",
+      "user_name": "rickett_raffy",
       "is_live": true,
-      "title": "|FINSHING OUR VALLEY!!!|!giveaway !discord !tip !linktree !merch |",
-      "game_name": "Disney Dreamlight Valley",
+      "title": "Massive Yap Sesh",
+      "game_name": "Just Chatting",
       "viewer_count": 8,
-      "follower_count": 2757,
+      "follower_count": 187,
       "language": "en",
-      "started_at": "2026-08-23T11:57:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
-      "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
+      "started_at": "2026-08-23T09:39:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/rickett_raffy",
+      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
     },
     {
       "user_login": "4kaizen_gaming",
