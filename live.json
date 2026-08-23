@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T11:37:57.494Z",
+  "generatedAt": "2026-08-23T11:42:57.630Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T11:37:57.494Z",
+    "fetchedAt": "2026-08-23T11:42:57.630Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "rickett_raffy",
-      "user_name": "rickett_raffy",
-      "is_live": true,
-      "title": "Massive Yap Sesh",
-      "game_name": "Just Chatting",
-      "viewer_count": 13,
-      "follower_count": 187,
-      "language": "en",
-      "started_at": "2026-08-23T09:39:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/rickett_raffy",
-      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
-    },
-    {
       "user_login": "memella",
       "user_name": "memella",
       "is_live": true,
       "title": "#TMCC August Raid Train!! - 👁️your song requests - piano / ukulele [novice] 🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 6,
+      "viewer_count": 11,
       "follower_count": 395,
       "language": "en",
       "started_at": "2026-08-23T10:58:46Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/memella",
       "description": "I'm not very good at it - but I do it anyway"
+    },
+    {
+      "user_login": "rickett_raffy",
+      "user_name": "rickett_raffy",
+      "is_live": true,
+      "title": "Massive Yap Sesh",
+      "game_name": "Just Chatting",
+      "viewer_count": 10,
+      "follower_count": 187,
+      "language": "en",
+      "started_at": "2026-08-23T09:39:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/rickett_raffy",
+      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
     },
     {
       "user_login": "4kaizen_gaming",
