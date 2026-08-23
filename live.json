@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T15:09:01.689Z",
+  "generatedAt": "2026-08-23T15:12:57.894Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T15:09:01.689Z",
+    "fetchedAt": "2026-08-23T15:12:57.894Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Bug Hunting and Plushie Challenge Prep | Everyone Welcomed !hype !discord with @EliRiversSmith and @leiacharis",
       "game_name": "Palia",
-      "viewer_count": 44,
+      "viewer_count": 48,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-08-23T13:02:56Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "|First Survial world ever! Come help me!|!giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 39,
-      "follower_count": 2766,
+      "viewer_count": 40,
+      "follower_count": 2767,
       "language": "en",
       "started_at": "2026-08-23T11:57:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
