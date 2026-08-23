@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T16:12:57.993Z",
+  "generatedAt": "2026-08-23T16:17:57.995Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T16:12:57.993Z",
+    "fetchedAt": "2026-08-23T16:17:57.995Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I'm walking here",
       "game_name": "Big Walk",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 1050,
       "language": "en",
       "started_at": "2026-08-23T15:13:25Z",
@@ -141,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10565,
+      "follower_count": 10566,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
