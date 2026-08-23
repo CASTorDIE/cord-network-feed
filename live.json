@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T21:47:57.468Z",
+  "generatedAt": "2026-08-23T21:52:57.576Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T21:47:57.468Z",
+    "fetchedAt": "2026-08-23T21:52:57.576Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 3🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 68,
+      "viewer_count": 64,
       "follower_count": 10572,
       "language": "en",
       "started_at": "2026-08-23T17:01:11Z",
