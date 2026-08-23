@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T17:32:58.946Z",
+  "generatedAt": "2026-08-23T17:37:58.174Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T17:32:58.946Z",
+    "fetchedAt": "2026-08-23T17:37:58.174Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 3🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 43,
+      "viewer_count": 52,
       "follower_count": 10565,
       "language": "en",
       "started_at": "2026-08-23T17:01:11Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I'm walking here",
       "game_name": "Big Walk",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 1050,
       "language": "en",
       "started_at": "2026-08-23T15:13:25Z",
