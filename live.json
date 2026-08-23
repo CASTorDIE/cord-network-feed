@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T09:02:57.306Z",
+  "generatedAt": "2026-08-23T09:07:59.809Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T09:02:57.306Z",
+    "fetchedAt": "2026-08-23T09:07:59.809Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Blind Sekiro Continues! Finishing the game today no matter how long it takes",
       "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 9,
+      "viewer_count": 21,
       "follower_count": 278,
       "language": "en",
       "started_at": "2026-08-23T00:58:32Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Until Dawn + Hayden Panettiere",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "follower_count": 58,
       "language": "en",
       "started_at": "2026-08-23T08:23:18Z",
