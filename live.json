@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-23T11:08:02.001Z",
+  "generatedAt": "2026-08-23T11:12:57.604Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T11:08:02.001Z",
+    "fetchedAt": "2026-08-23T11:12:57.604Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "#TMCC August Raid Train!! - 👁️your song requests - piano / ukulele [novice] 🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 395,
       "language": "en",
       "started_at": "2026-08-23T10:58:46Z",
@@ -43,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/memella",
       "description": "I'm not very good at it - but I do it anyway"
-    },
-    {
-      "user_login": "joreeezy",
-      "user_name": "JOREEEZY",
-      "is_live": true,
-      "title": "Until Dawn + Hayden Panettiere",
-      "game_name": "Just Chatting",
-      "viewer_count": 2,
-      "follower_count": 58,
-      "language": "en",
-      "started_at": "2026-08-23T08:23:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_joreeezy-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/joreeezy",
-      "description": "🔔 Next livestream: To be announced on X/Threads 📲"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -433,6 +418,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
       "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
+    },
+    {
+      "user_login": "joreeezy",
+      "user_name": "JOREEEZY",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 58,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/joreeezy",
+      "description": "🔔 Next livestream: To be announced on X/Threads 📲"
     },
     {
       "user_login": "kindessurchin",
