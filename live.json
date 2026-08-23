@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T10:37:57.470Z",
+  "generatedAt": "2026-08-23T10:42:57.787Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T10:37:57.470Z",
+    "fetchedAt": "2026-08-23T10:42:57.787Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Massive Yap Sesh",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 9,
       "follower_count": 187,
       "language": "en",
       "started_at": "2026-08-23T09:39:08Z",
@@ -606,7 +606,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 1258,
+      "follower_count": 1259,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
