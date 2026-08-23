@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T15:52:58.075Z",
+  "generatedAt": "2026-08-23T15:57:57.911Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T15:52:58.075Z",
+    "fetchedAt": "2026-08-23T15:57:57.911Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|First Survial world ever! Come help me!|!giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 48,
+      "viewer_count": 44,
       "follower_count": 2767,
       "language": "en",
       "started_at": "2026-08-23T11:57:42Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I'm walking here",
       "game_name": "Big Walk",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 1050,
       "language": "en",
       "started_at": "2026-08-23T15:13:25Z",
