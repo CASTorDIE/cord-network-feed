@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T13:37:57.778Z",
+  "generatedAt": "2026-08-23T13:42:58.438Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T13:37:57.778Z",
+    "fetchedAt": "2026-08-23T13:42:58.438Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "|FINSHING OUR VALLEY!!!|!giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 68,
-      "follower_count": 2759,
+      "viewer_count": 77,
+      "follower_count": 2760,
       "language": "en",
       "started_at": "2026-08-23T11:57:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Bug Hunting and Plushie Challenge Prep | Everyone Welcomed !hype !discord with @EliRiversSmith and @leiacharis",
       "game_name": "Palia",
-      "viewer_count": 31,
+      "viewer_count": 26,
       "follower_count": 5127,
       "language": "en",
       "started_at": "2026-08-23T13:02:56Z",
