@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T04:02:57.850Z",
+  "generatedAt": "2026-08-23T04:08:00.430Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T04:02:57.850Z",
+    "fetchedAt": "2026-08-23T04:08:00.430Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔥 MODERN WARFARE 4 BETA! | BETA CODE GIVEAWAYS 🎁 | ARC RAIDERS LATER PARTNER PLUS GOAL: 163/300",
       "game_name": "Call of Duty: Modern Warfare 4",
-      "viewer_count": 114,
+      "viewer_count": 112,
       "follower_count": 14289,
       "language": "en",
       "started_at": "2026-08-22T23:36:15Z",
