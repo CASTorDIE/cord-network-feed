@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-23T15:27:57.904Z",
+  "generatedAt": "2026-08-23T15:32:57.938Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T15:27:57.904Z",
+    "fetchedAt": "2026-08-23T15:32:57.938Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|First Survial world ever! Come help me!|!giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 43,
+      "viewer_count": 41,
       "follower_count": 2767,
       "language": "en",
       "started_at": "2026-08-23T11:57:42Z",
@@ -30,27 +30,12 @@
       "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
     {
-      "user_login": "beckybplays",
-      "user_name": "BeckyBPlays",
-      "is_live": true,
-      "title": "Bug Hunting and Plushie Challenge Prep | Everyone Welcomed !hype !discord with @EliRiversSmith and @leiacharis",
-      "game_name": "Palia",
-      "viewer_count": 38,
-      "follower_count": 5130,
-      "language": "en",
-      "started_at": "2026-08-23T13:02:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/beckybplays",
-      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
-    },
-    {
       "user_login": "desertrose",
       "user_name": "Desertrose",
       "is_live": true,
       "title": "I'm walking here",
       "game_name": "Big Walk",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 1050,
       "language": "en",
       "started_at": "2026-08-23T15:13:25Z",
@@ -150,6 +135,21 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "beckybplays",
+      "user_name": "BeckyBPlays",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 5130,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/beckybplays",
+      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": false,
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113216,
+      "follower_count": 113217,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
