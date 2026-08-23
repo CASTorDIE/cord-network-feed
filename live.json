@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T11:42:57.630Z",
+  "generatedAt": "2026-08-23T11:47:57.552Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T11:42:57.630Z",
+    "fetchedAt": "2026-08-23T11:47:57.552Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,9 +18,9 @@
       "user_login": "memella",
       "user_name": "memella",
       "is_live": true,
-      "title": "#TMCC August Raid Train!! - 👁️your song requests - piano / ukulele [novice] 🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
+      "title": "August's Twitch Music Creator Club Raid Train",
       "game_name": "Music",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 395,
       "language": "en",
       "started_at": "2026-08-23T10:58:46Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Massive Yap Sesh",
       "game_name": "Just Chatting",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 187,
       "language": "en",
       "started_at": "2026-08-23T09:39:08Z",
