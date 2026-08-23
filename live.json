@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T06:57:58.156Z",
+  "generatedAt": "2026-08-23T07:02:58.219Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-23T06:57:58.156Z",
+    "fetchedAt": "2026-08-23T07:02:58.219Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Blind Sekiro Continues! Finishing the game today no matter how long it takes",
       "game_name": " SEKIRO: SHADOWS DIE TWICE",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "follower_count": 278,
       "language": "en",
       "started_at": "2026-08-23T00:58:32Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113213,
+      "follower_count": 113214,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
