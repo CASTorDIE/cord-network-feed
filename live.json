@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T04:12:58.439Z",
+  "generatedAt": "2026-08-24T04:17:58.054Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-24T04:12:58.439Z",
+    "fetchedAt": "2026-08-24T04:17:58.054Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Voice Acting with Matsu!! || !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 68,
+      "viewer_count": 73,
       "follower_count": 6287,
       "language": "en",
       "started_at": "2026-08-23T23:31:46Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "💜🕵️Come create with me!🕵️💜!discord💜🕵️Are you ready for 6am?🕵️💜",
       "game_name": "Co-working & Studying",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 2109,
       "language": "en",
       "started_at": "2026-08-24T01:33:41Z",
