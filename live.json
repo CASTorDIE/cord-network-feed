@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T22:32:57.877Z",
+  "generatedAt": "2026-08-24T22:37:57.860Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-24T22:32:57.877Z",
+    "fetchedAt": "2026-08-24T22:37:57.860Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "TEACH ME KHATUN! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 63,
+      "viewer_count": 60,
       "follower_count": 8645,
       "language": "en",
       "started_at": "2026-08-24T22:01:26Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "LAST STREAM BEFORE ICELAND! | Horror Games! | !links",
       "game_name": "HouseWarming",
-      "viewer_count": 19,
+      "viewer_count": 21,
       "follower_count": 636,
       "language": "en",
       "started_at": "2026-08-24T21:36:54Z",
