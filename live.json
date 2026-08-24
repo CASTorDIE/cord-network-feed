@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T04:57:58.162Z",
+  "generatedAt": "2026-08-24T05:02:58.195Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-24T04:57:58.162Z",
+    "fetchedAt": "2026-08-24T05:02:58.195Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "💜🕵️Come create with me!🕵️💜!discord💜🕵️Are you ready for 6am?🕵️💜",
       "game_name": "Co-working & Studying",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 2109,
       "language": "en",
       "started_at": "2026-08-24T01:33:41Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I’m Not Explaining This One… You Just Have to See It 👀 | w/ Nebulyx_VT",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 336,
       "language": "en",
       "started_at": "2026-08-24T02:03:38Z",
