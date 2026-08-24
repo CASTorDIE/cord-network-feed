@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T12:52:57.860Z",
+  "generatedAt": "2026-08-24T12:57:57.849Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-24T12:52:57.860Z",
+    "fetchedAt": "2026-08-24T12:57:57.849Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "FINALE: Were We Wrong About EVERYTHING? 👀| Little Hope| Couple Plays | Sub Goal 61/100 for waxing Trevor",
       "game_name": "The Dark Pictures Anthology: Little Hope",
-      "viewer_count": 4,
+      "viewer_count": 20,
       "follower_count": 960,
       "language": "en",
       "started_at": "2026-08-24T12:47:51Z",
@@ -126,7 +126,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 5128,
+      "follower_count": 5127,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
