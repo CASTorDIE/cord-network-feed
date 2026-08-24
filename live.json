@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T06:52:57.417Z",
+  "generatedAt": "2026-08-24T06:57:57.291Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-24T06:52:57.417Z",
+    "fetchedAt": "2026-08-24T06:57:57.291Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "💜🕵️Come create with me!🕵️💜!discord💜🕵️Are you ready for 6am?🕵️💜",
       "game_name": "Co-working & Studying",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 2109,
       "language": "en",
       "started_at": "2026-08-24T01:33:41Z",
