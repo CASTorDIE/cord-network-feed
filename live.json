@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T03:22:58.017Z",
+  "generatedAt": "2026-08-24T03:27:58.047Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-24T03:22:58.017Z",
+    "fetchedAt": "2026-08-24T03:27:58.047Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Voice Acting with Matsu!! || !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 77,
+      "viewer_count": 72,
       "follower_count": 6287,
       "language": "en",
       "started_at": "2026-08-23T23:31:46Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113232,
+      "follower_count": 113233,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
