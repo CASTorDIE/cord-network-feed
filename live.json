@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T03:47:58.072Z",
+  "generatedAt": "2026-08-24T03:52:58.038Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-24T03:47:58.072Z",
+    "fetchedAt": "2026-08-24T03:52:58.038Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Voice Acting with Matsu!! || !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 53,
+      "viewer_count": 71,
       "follower_count": 6287,
       "language": "en",
       "started_at": "2026-08-23T23:31:46Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "I’m Not Explaining This One… You Just Have to See It 👀 | w/ Nebulyx_VT",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 335,
       "language": "en",
       "started_at": "2026-08-24T02:03:38Z",
