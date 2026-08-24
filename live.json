@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T21:52:57.798Z",
+  "generatedAt": "2026-08-24T21:57:57.780Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-24T21:52:57.798Z",
+    "fetchedAt": "2026-08-24T21:57:57.780Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "LAST STREAM BEFORE ICELAND! | Horror Games! | !links",
       "game_name": "HouseWarming",
-      "viewer_count": 16,
-      "follower_count": 634,
+      "viewer_count": 25,
+      "follower_count": 636,
       "language": "en",
       "started_at": "2026-08-24T21:36:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_horror_heather-960x540.jpg",
