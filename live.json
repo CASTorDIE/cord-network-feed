@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-24T01:07:58.481Z",
+  "generatedAt": "2026-08-24T01:12:57.812Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-24T01:07:58.481Z",
+    "fetchedAt": "2026-08-24T01:12:57.812Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 3🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 100,
+      "viewer_count": 96,
       "follower_count": 10574,
       "language": "en",
       "started_at": "2026-08-23T17:01:11Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 67,
+      "viewer_count": 70,
       "follower_count": 2447,
       "language": "en",
       "started_at": "2026-08-23T22:41:04Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "I woke up thinking I slept 12 hours and it was the next day... || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 60,
+      "viewer_count": 59,
       "follower_count": 6282,
       "language": "en",
       "started_at": "2026-08-23T23:31:46Z",
@@ -58,36 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
       "twitch_url": "https://www.twitch.tv/ao_zora_",
       "description": "I sing and play games. Sometimes I bake"
-    },
-    {
-      "user_login": "padbae",
-      "user_name": "padbae",
-      "is_live": true,
-      "title": "♡ Anime NYC Deez Nutz ♡ ⋆(๑•ᴗ•๑) | Choicer Voicer | !lurk !sus !discord !gfuel !patreon",
-      "game_name": "The Choicer Voicer",
-      "viewer_count": 13,
-      "follower_count": 1344,
-      "language": "en",
-      "started_at": "2026-08-24T00:32:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/padbae",
-      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
-    },
-    {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": true,
-      "title": "STREAMING UNTIL WE GET A GOOD RUN!!! Come by and show some love!!",
-      "game_name": "Risk of Rain 2",
-      "viewer_count": 1,
-      "follower_count": 17,
-      "language": "en",
-      "started_at": "2026-08-23T21:56:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -201,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113230,
+      "follower_count": 113232,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -480,6 +450,21 @@
       "description": "I'm not very good at it - but I do it anyway"
     },
     {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 17,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
+    },
+    {
       "user_login": "mustardfennek",
       "user_name": "mustardfennek",
       "is_live": false,
@@ -508,6 +493,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": ""
+    },
+    {
+      "user_login": "padbae",
+      "user_name": "padbae",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1344,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/padbae",
+      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
       "user_login": "rickett_raffy",
