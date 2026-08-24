@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T10:08:00.221Z",
+  "generatedAt": "2026-08-24T10:12:57.569Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-24T10:08:00.221Z",
+    "fetchedAt": "2026-08-24T10:12:57.569Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Olivia Rodrigo IS in The Building",
       "game_name": "Just Chatting",
-      "viewer_count": 7,
+      "viewer_count": 9,
       "follower_count": 192,
       "language": "en",
       "started_at": "2026-08-24T09:01:01Z",
