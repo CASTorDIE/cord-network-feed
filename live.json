@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T07:37:57.436Z",
+  "generatedAt": "2026-08-24T07:42:57.343Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-24T07:37:57.436Z",
+    "fetchedAt": "2026-08-24T07:42:57.343Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "SOUTH OC ENVIRONMENTAL HAZARDS",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 58,
       "language": "en",
       "started_at": "2026-08-24T07:25:09Z",
