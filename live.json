@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T09:02:57.680Z",
+  "generatedAt": "2026-08-25T09:08:00.637Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T09:02:57.680Z",
+    "fetchedAt": "2026-08-25T09:08:00.637Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "The Only Place Slav3ry is Acceptable - Hardcore Playthrough",
       "game_name": "Minecraft",
-      "viewer_count": 0,
+      "viewer_count": 4,
       "follower_count": 197,
       "language": "en",
       "started_at": "2026-08-25T09:01:57Z",
