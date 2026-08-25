@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T23:27:58.209Z",
+  "generatedAt": "2026-08-25T23:32:58.128Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T23:27:58.209Z",
+    "fetchedAt": "2026-08-25T23:32:58.128Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We did it! 🔥| ARC RAIDERS VARIETY THEN VARIETY GAME LATER | PARTNER PLUS GOAL: 180/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 141,
+      "viewer_count": 155,
       "follower_count": 14335,
       "language": "en",
       "started_at": "2026-08-25T19:19:23Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 5🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 80,
+      "viewer_count": 82,
       "follower_count": 10601,
       "language": "en",
       "started_at": "2026-08-25T19:09:12Z",
@@ -45,27 +45,12 @@
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": true,
-      "title": "This is just the week of puzzles....",
-      "game_name": "Servant of the Lake",
-      "viewer_count": 7,
-      "follower_count": 1050,
-      "language": "en",
-      "started_at": "2026-08-25T21:10:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
       "user_login": "faytefireix",
       "user_name": "FayteFireix",
       "is_live": true,
       "title": "Kiddo's first day of school, complete! Study session! Math, Science, History, OBS, Stream Bots, etc! | 25/08/2026",
       "game_name": "Co-working & Studying",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-08-25T18:49:07Z",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": true,
+      "title": "This is just the week of puzzles....",
+      "game_name": "Servant of the Lake",
+      "viewer_count": 6,
+      "follower_count": 1050,
+      "language": "en",
+      "started_at": "2026-08-25T21:10:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "mrcarameldrizzle",
