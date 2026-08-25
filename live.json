@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T10:52:58.003Z",
+  "generatedAt": "2026-08-25T10:57:57.990Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T10:52:58.003Z",
+    "fetchedAt": "2026-08-25T10:57:57.990Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "The Only Place Slav3ry is Acceptable - Hardcore Playthrough",
       "game_name": "Minecraft",
-      "viewer_count": 8,
-      "follower_count": 198,
+      "viewer_count": 7,
+      "follower_count": 199,
       "language": "en",
       "started_at": "2026-08-25T09:42:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
