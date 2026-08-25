@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T23:22:58.102Z",
+  "generatedAt": "2026-08-25T23:27:58.209Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T23:22:58.102Z",
+    "fetchedAt": "2026-08-25T23:27:58.209Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "We did it! 🔥| ARC RAIDERS VARIETY THEN VARIETY GAME LATER | PARTNER PLUS GOAL: 180/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 150,
-      "follower_count": 14333,
+      "viewer_count": 141,
+      "follower_count": 14335,
       "language": "en",
       "started_at": "2026-08-25T19:19:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 5🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 81,
+      "viewer_count": 80,
       "follower_count": 10601,
       "language": "en",
       "started_at": "2026-08-25T19:09:12Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "This is just the week of puzzles....",
       "game_name": "Servant of the Lake",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 1050,
       "language": "en",
       "started_at": "2026-08-25T21:10:47Z",
@@ -75,6 +75,21 @@
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": true,
+      "title": "Stacking MODDED items on MODDED characters until the PC melts...",
+      "game_name": "Risk of Rain 2",
+      "viewer_count": 3,
+      "follower_count": 21,
+      "language": "en",
+      "started_at": "2026-08-25T21:56:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
+    },
+    {
       "user_login": "thepuckgoa",
       "user_name": "ThePuckGOA",
       "is_live": true,
@@ -88,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": true,
-      "title": "Stacking MODDED items on MODDED characters until the PC melts...",
-      "game_name": "Risk of Rain 2",
-      "viewer_count": 1,
-      "follower_count": 20,
-      "language": "en",
-      "started_at": "2026-08-25T21:56:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
     },
     {
       "user_login": "4kaizen_gaming",
