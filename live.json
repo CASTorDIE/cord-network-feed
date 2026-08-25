@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-25T03:47:57.234Z",
+  "generatedAt": "2026-08-25T03:52:57.271Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T03:47:57.234Z",
+    "fetchedAt": "2026-08-25T03:52:57.271Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 952🙂‍↔️!discord🙂‍↔️!factor🙂‍↔️WE ARE BACK🙂‍↔️I WAS NOT IN JAIL THIS TIME🙂‍↔️AT LEAST IF THE FEDS ASKA I WAS JUST",
       "game_name": "Rocket League",
-      "viewer_count": 604,
-      "follower_count": 113407,
+      "viewer_count": 573,
+      "follower_count": 113408,
       "language": "en",
       "started_at": "2026-08-25T00:04:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| TOO HOT FOR VR - So playing on of my favorite games | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "TUNIC",
-      "viewer_count": 106,
+      "viewer_count": 115,
       "follower_count": 10106,
       "language": "en",
       "started_at": "2026-08-25T02:02:30Z",
@@ -43,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
-    {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 4🎀 !ERGOALS -incentive to help or hurt players!!",
-      "game_name": "ELDEN RING",
-      "viewer_count": 52,
-      "follower_count": 10594,
-      "language": "en",
-      "started_at": "2026-08-25T00:16:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -163,6 +148,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 10596,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
       "user_login": "boww_wolf",
