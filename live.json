@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T15:37:57.367Z",
+  "generatedAt": "2026-08-25T15:42:57.423Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T15:37:57.367Z",
+    "fetchedAt": "2026-08-25T15:42:57.423Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Body doubling for those tedious tasks at work | 25/08/2026",
       "game_name": "Co-working & Studying",
-      "viewer_count": 1,
+      "viewer_count": 4,
       "follower_count": 726,
       "language": "en",
       "started_at": "2026-08-25T15:33:56Z",
