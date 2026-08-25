@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T06:08:00.167Z",
+  "generatedAt": "2026-08-25T06:12:57.510Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T06:08:00.167Z",
+    "fetchedAt": "2026-08-25T06:12:57.510Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| TOO HOT FOR VR - So playing on of my favorite games | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "TUNIC",
-      "viewer_count": 89,
+      "viewer_count": 105,
       "follower_count": 10107,
       "language": "en",
       "started_at": "2026-08-25T02:02:30Z",
