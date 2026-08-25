@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T03:52:57.271Z",
+  "generatedAt": "2026-08-25T03:57:57.280Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T03:52:57.271Z",
+    "fetchedAt": "2026-08-25T03:57:57.280Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 952🙂‍↔️!discord🙂‍↔️!factor🙂‍↔️WE ARE BACK🙂‍↔️I WAS NOT IN JAIL THIS TIME🙂‍↔️AT LEAST IF THE FEDS ASKA I WAS JUST",
       "game_name": "Rocket League",
-      "viewer_count": 573,
-      "follower_count": 113408,
+      "viewer_count": 598,
+      "follower_count": 113412,
       "language": "en",
       "started_at": "2026-08-25T00:04:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| TOO HOT FOR VR - So playing on of my favorite games | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "TUNIC",
-      "viewer_count": 115,
+      "viewer_count": 118,
       "follower_count": 10106,
       "language": "en",
       "started_at": "2026-08-25T02:02:30Z",
