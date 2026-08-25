@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T12:17:58.089Z",
+  "generatedAt": "2026-08-25T12:22:58.054Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T12:17:58.089Z",
+    "fetchedAt": "2026-08-25T12:22:58.054Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,9 +18,9 @@
       "user_login": "rickett_raffy",
       "user_name": "rickett_raffy",
       "is_live": true,
-      "title": "The Only Place Slav3ry is Acceptable - Hardcore Playthrough",
-      "game_name": "Minecraft",
-      "viewer_count": 9,
+      "title": "When one game annoys you, Make A second one Piss You Off",
+      "game_name": "Rainbow Six Siege",
+      "viewer_count": 8,
       "follower_count": 200,
       "language": "en",
       "started_at": "2026-08-25T09:42:57Z",
