@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-25T23:02:58.094Z",
+  "generatedAt": "2026-08-25T23:08:48.076Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T23:02:58.094Z",
+    "fetchedAt": "2026-08-25T23:08:48.076Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We did it! 🔥| ARC RAIDERS VARIETY THEN VARIETY GAME LATER | PARTNER PLUS GOAL: 180/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 165,
+      "viewer_count": 159,
       "follower_count": 14333,
       "language": "en",
       "started_at": "2026-08-25T19:19:23Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 5🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 61,
-      "follower_count": 10600,
+      "viewer_count": 56,
+      "follower_count": 10601,
       "language": "en",
       "started_at": "2026-08-25T19:09:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "This is just the week of puzzles....",
       "game_name": "Servant of the Lake",
-      "viewer_count": 9,
+      "viewer_count": 8,
       "follower_count": 1050,
       "language": "en",
       "started_at": "2026-08-25T21:10:47Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Kiddo's first day of school, complete! Study session! Math, Science, History, OBS, Stream Bots, etc! | 25/08/2026",
       "game_name": "Co-working & Studying",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-08-25T18:49:07Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "STACKING ITEMS UNTIL THE PC MELTS!! Come by and show some love!!",
       "game_name": "Risk of Rain 2",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 19,
       "language": "en",
       "started_at": "2026-08-25T21:56:35Z",
@@ -88,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
       "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": true,
+      "title": "Can you believe the Greatsword user isn't the Orange Cat here?!",
+      "game_name": "Monster Hunter Rise",
+      "viewer_count": 1,
+      "follower_count": 22,
+      "language": "en",
+      "started_at": "2026-08-25T23:03:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -568,21 +583,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 22,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
