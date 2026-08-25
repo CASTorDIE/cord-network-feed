@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T20:17:57.823Z",
+  "generatedAt": "2026-08-25T20:22:57.852Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T20:17:57.823Z",
+    "fetchedAt": "2026-08-25T20:22:57.852Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We did it! 🔥| ARC RAIDERS VARIETY THEN VARIETY GAME LATER | PARTNER PLUS GOAL: 180/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 100,
+      "viewer_count": 105,
       "follower_count": 14310,
       "language": "en",
       "started_at": "2026-08-25T19:19:23Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 5🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 47,
-      "follower_count": 10599,
+      "viewer_count": 52,
+      "follower_count": 10600,
       "language": "en",
       "started_at": "2026-08-25T19:09:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
