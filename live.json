@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T13:32:58.130Z",
+  "generatedAt": "2026-08-25T13:37:58.161Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T13:32:58.130Z",
+    "fetchedAt": "2026-08-25T13:37:58.161Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Chicken Jockey",
       "game_name": "Minecraft",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 200,
       "language": "en",
       "started_at": "2026-08-25T09:42:57Z",
