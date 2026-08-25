@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-25T21:52:58.015Z",
+  "generatedAt": "2026-08-25T21:57:57.995Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T21:52:58.015Z",
+    "fetchedAt": "2026-08-25T21:57:57.995Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We did it! 🔥| ARC RAIDERS VARIETY THEN VARIETY GAME LATER | PARTNER PLUS GOAL: 180/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 153,
+      "viewer_count": 159,
       "follower_count": 14327,
       "language": "en",
       "started_at": "2026-08-25T19:19:23Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 5🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 51,
+      "viewer_count": 55,
       "follower_count": 10600,
       "language": "en",
       "started_at": "2026-08-25T19:09:12Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "This is just the week of puzzles....",
       "game_name": "Servant of the Lake",
-      "viewer_count": 4,
+      "viewer_count": 6,
       "follower_count": 1050,
       "language": "en",
       "started_at": "2026-08-25T21:10:47Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Body doubling for those tedious tasks at work | 25/08/2026",
       "game_name": "Co-working & Studying",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-08-25T18:49:07Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
+    },
+    {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": true,
+      "title": "STACKING ITEMS UNTIL THE PC MELTS!! Come by and show some love!!",
+      "game_name": "Risk of Rain 2",
+      "viewer_count": 0,
+      "follower_count": 18,
+      "language": "en",
+      "started_at": "2026-08-25T21:56:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -463,21 +478,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/memella",
       "description": "I'm not very good at it - but I do it anyway"
-    },
-    {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 18,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
     },
     {
       "user_login": "mustardfennek",
