@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-25T00:47:58.078Z",
+  "generatedAt": "2026-08-25T00:52:58.014Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T00:47:58.078Z",
+    "fetchedAt": "2026-08-25T00:52:58.014Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 952🙂‍↔️!discord🙂‍↔️!factor🙂‍↔️WE ARE BACK🙂‍↔️I WAS NOT IN JAIL THIS TIME🙂‍↔️AT LEAST IF THE FEDS ASKA I WAS JUST",
       "game_name": "Rocket League",
-      "viewer_count": 378,
-      "follower_count": 113274,
+      "viewer_count": 393,
+      "follower_count": 113275,
       "language": "en",
       "started_at": "2026-08-25T00:04:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 92,
+      "viewer_count": 88,
       "follower_count": 2450,
       "language": "en",
       "started_at": "2026-08-24T22:57:57Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Top 1 Apex Gamer 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Apex Legends",
-      "viewer_count": 63,
+      "viewer_count": 61,
       "follower_count": 8650,
       "language": "en",
       "started_at": "2026-08-24T22:01:26Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 4🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 43,
+      "viewer_count": 42,
       "follower_count": 10587,
       "language": "en",
       "started_at": "2026-08-25T00:16:09Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
-      "user_login": "horror_heather",
-      "user_name": "horror_heather",
-      "is_live": true,
-      "title": "LAST STREAM BEFORE ICELAND! | Horror Games! | !links",
-      "game_name": "Fear Night Tales: Do You Like Coffee?",
-      "viewer_count": 21,
-      "follower_count": 636,
-      "language": "en",
-      "started_at": "2026-08-24T21:36:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_horror_heather-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/horror_heather",
-      "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
     },
     {
       "user_login": "bribeecool10",
@@ -388,6 +373,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e89b72d-44f9-4905-9ba3-27d3141210ff-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/guitardoll",
       "description": "Chaotic, high-energy, and probably one bad decision away from a jump scare. | Welcome to the Dollhouse | Tue & Thurs 7PM • Sat 5PM | Business Email: guitardoll.official@gmail.com"
+    },
+    {
+      "user_login": "horror_heather",
+      "user_name": "horror_heather",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 636,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/horror_heather",
+      "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
     },
     {
       "user_login": "jaxsberrypatch",
