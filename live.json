@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T05:52:57.519Z",
+  "generatedAt": "2026-08-25T05:57:57.462Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T05:52:57.519Z",
+    "fetchedAt": "2026-08-25T05:57:57.462Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| TOO HOT FOR VR - So playing on of my favorite games | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "TUNIC",
-      "viewer_count": 111,
-      "follower_count": 10106,
+      "viewer_count": 113,
+      "follower_count": 10107,
       "language": "en",
       "started_at": "2026-08-25T02:02:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
