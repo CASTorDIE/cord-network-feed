@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-25T00:32:58.006Z",
+  "generatedAt": "2026-08-25T00:37:57.999Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T00:32:58.006Z",
+    "fetchedAt": "2026-08-25T00:37:57.999Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 952🙂‍↔️!discord🙂‍↔️!factor🙂‍↔️WE ARE BACK🙂‍↔️I WAS NOT IN JAIL THIS TIME🙂‍↔️AT LEAST IF THE FEDS ASKA I WAS JUST",
       "game_name": "Rocket League",
-      "viewer_count": 338,
-      "follower_count": 113267,
+      "viewer_count": 368,
+      "follower_count": 113269,
       "language": "en",
       "started_at": "2026-08-25T00:04:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 78,
+      "viewer_count": 84,
       "follower_count": 2450,
       "language": "en",
       "started_at": "2026-08-24T22:57:57Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "DUELS PRACTICE 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 66,
+      "viewer_count": 71,
       "follower_count": 8648,
       "language": "en",
       "started_at": "2026-08-24T22:01:26Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 4🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 37,
+      "viewer_count": 38,
       "follower_count": 10587,
       "language": "en",
       "started_at": "2026-08-25T00:16:09Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "LAST STREAM BEFORE ICELAND! | Horror Games! | !links",
       "game_name": "Fear Night Tales: Do You Like Coffee?",
-      "viewer_count": 24,
+      "viewer_count": 19,
       "follower_count": 636,
       "language": "en",
       "started_at": "2026-08-24T21:36:54Z",
@@ -96,28 +96,13 @@
       "title": "beast of reincarnation part 6",
       "game_name": "Beast of Reincarnation",
       "viewer_count": 1,
-      "follower_count": 393,
+      "follower_count": 392,
       "language": "en",
       "started_at": "2026-08-24T23:03:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "kindessurchin",
-      "user_name": "kindessurchin",
-      "is_live": true,
-      "title": "im ready to get off this rig!!!",
-      "game_name": "Still Wakes the Deep",
-      "viewer_count": 1,
-      "follower_count": 66,
-      "language": "en",
-      "started_at": "2026-08-24T20:51:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kindessurchin-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36218414-d0f7-40cb-b29a-69cdf0b8d4d3-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/kindessurchin",
-      "description": "🎮 Variety gamer with zero self-controlCozy farming one stream, horror-game panic the next.Expect chaos, laughs, and terrible decisions ✨"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -433,6 +418,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/joreeezy",
       "description": "🔔 Next livestream: To be announced on X/Threads 📲"
+    },
+    {
+      "user_login": "kindessurchin",
+      "user_name": "kindessurchin",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 66,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/36218414-d0f7-40cb-b29a-69cdf0b8d4d3-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/kindessurchin",
+      "description": "🎮 Variety gamer with zero self-controlCozy farming one stream, horror-game panic the next.Expect chaos, laughs, and terrible decisions ✨"
     },
     {
       "user_login": "laconsgamingnook",
