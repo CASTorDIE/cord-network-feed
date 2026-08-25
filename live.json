@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T12:57:58.127Z",
+  "generatedAt": "2026-08-25T13:02:58.090Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-25T12:57:58.127Z",
+    "fetchedAt": "2026-08-25T13:02:58.090Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "When one game annoys you, Make A second one Piss You Off",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 5,
+      "viewer_count": 7,
       "follower_count": 200,
       "language": "en",
       "started_at": "2026-08-25T09:42:57Z",
