@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-26T22:07:19.181Z",
+  "generatedAt": "2026-08-26T22:12:36.957Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-26T22:07:19.148Z",
+    "updatedAt": "2026-08-26T22:12:36.926Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 11,
+    "entryCount": 20,
     "firstDate": "2026-08-23",
     "lastDate": "2026-08-30",
     "windowStart": "2026-08-23",
@@ -98,6 +98,19 @@
       "url": "https://www.twitch.tv/ironden_tv"
     },
     {
+      "id": "evt_1787782159087_go3k9i",
+      "date": "2026-08-24",
+      "dateLabel": "Monday, August 24th",
+      "weekday": "Monday",
+      "streamer": "gibsontales",
+      "title": "Dark Pictures Anthology: Little Hope",
+      "timeMinutes": 465,
+      "timeLabel": "7:45 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
       "id": "evt_1786990993664_brybrn",
       "date": "2026-08-24",
       "dateLabel": "Monday, August 24th",
@@ -109,6 +122,45 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1787782356922_u95vkp",
+      "date": "2026-08-24",
+      "dateLabel": "Monday, August 24th",
+      "weekday": "Monday",
+      "streamer": "Dingo_Dynasty",
+      "title": "Visage",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
+    },
+    {
+      "id": "evt_1787782356922_16zeia",
+      "date": "2026-08-25",
+      "dateLabel": "Tuesday, August 25th",
+      "weekday": "Tuesday",
+      "streamer": "Dingo_Dynasty",
+      "title": "Visage",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
+    },
+    {
+      "id": "evt_1787782159087_x5hrmg",
+      "date": "2026-08-26",
+      "dateLabel": "Wednesday, August 26th",
+      "weekday": "Wednesday",
+      "streamer": "gibsontales",
+      "title": "Roll Together",
+      "timeMinutes": 465,
+      "timeLabel": "7:45 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
     },
     {
       "id": "evt_1787782039144_nw5zfv",
@@ -124,6 +176,45 @@
       "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
+      "id": "evt_1787782356922_i2od3x",
+      "date": "2026-08-26",
+      "dateLabel": "Wednesday, August 26th",
+      "weekday": "Wednesday",
+      "streamer": "Dingo_Dynasty",
+      "title": "Visage",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
+    },
+    {
+      "id": "evt_1787782356922_2uqshz",
+      "date": "2026-08-27",
+      "dateLabel": "Thursday, August 27th",
+      "weekday": "Thursday",
+      "streamer": "Dingo_Dynasty",
+      "title": "A Plague Tale: Resonance",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
+    },
+    {
+      "id": "evt_1787782159087_uws44s",
+      "date": "2026-08-28",
+      "dateLabel": "Friday, August 28th",
+      "weekday": "Friday",
+      "streamer": "gibsontales",
+      "title": "Project Threshold",
+      "timeMinutes": 465,
+      "timeLabel": "7:45 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
       "id": "evt_1787782039144_jbyrig",
       "date": "2026-08-28",
       "dateLabel": "Friday, August 28th",
@@ -135,6 +226,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
+      "id": "evt_1787782356922_k6zrra",
+      "date": "2026-08-28",
+      "dateLabel": "Friday, August 28th",
+      "weekday": "Friday",
+      "streamer": "Dingo_Dynasty",
+      "title": "A Plague Tale: Resonance",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
     },
     {
       "id": "evt_1787782039144_fofyr9",
@@ -161,6 +265,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
+      "id": "evt_1787782159087_cn0j10",
+      "date": "2026-08-30",
+      "dateLabel": "Sunday, August 30th",
+      "weekday": "Sunday",
+      "streamer": "gibsontales",
+      "title": "Community Movie Night",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/gibsontales"
     }
   ]
 }
