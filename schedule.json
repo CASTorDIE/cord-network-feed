@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-26T22:12:36.957Z",
+  "generatedAt": "2026-08-26T22:21:31.786Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-26T22:12:36.926Z",
+    "updatedAt": "2026-08-26T22:21:31.750Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 20,
+    "entryCount": 31,
     "firstDate": "2026-08-23",
-    "lastDate": "2026-08-30",
+    "lastDate": "2026-09-21",
     "windowStart": "2026-08-23",
     "windowEnd": "2026-11-24",
     "invalidEntryCount": 0,
@@ -111,6 +111,19 @@
       "url": "https://www.twitch.tv/gibsontales"
     },
     {
+      "id": "evt_1787782719791_ihuujo",
+      "date": "2026-08-24",
+      "dateLabel": "Monday, August 24th",
+      "weekday": "Monday",
+      "streamer": "KINDESSURCHIN",
+      "title": "STILL WAKES THE DEEP/PHASMBOPIA",
+      "timeMinutes": 960,
+      "timeLabel": "4:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/kindessurchin"
+    },
+    {
       "id": "evt_1786990993664_brybrn",
       "date": "2026-08-24",
       "dateLabel": "Monday, August 24th",
@@ -174,6 +187,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
+      "id": "evt_1787782719791_nk10bg",
+      "date": "2026-08-26",
+      "dateLabel": "Wednesday, August 26th",
+      "weekday": "Wednesday",
+      "streamer": "KINDESSURCHIN",
+      "title": "STRAY",
+      "timeMinutes": 1080,
+      "timeLabel": "6:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/kindessurchin"
     },
     {
       "id": "evt_1787782356922_i2od3x",
@@ -254,6 +280,19 @@
       "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
+      "id": "evt_1787782719792_wvf5cu",
+      "date": "2026-08-29",
+      "dateLabel": "Saturday, August 29th",
+      "weekday": "Saturday",
+      "streamer": "KINDESSURCHIN",
+      "title": "STRAY",
+      "timeMinutes": 960,
+      "timeLabel": "4:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/kindessurchin"
+    },
+    {
       "id": "evt_1787782039144_w6e15y",
       "date": "2026-08-30",
       "dateLabel": "Sunday, August 30th",
@@ -278,6 +317,110 @@
       "highlight": "green",
       "pillLabel": "SPECIAL",
       "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
+      "id": "evt_1787782891746_3lt436",
+      "date": "2026-08-30",
+      "dateLabel": "Sunday, August 30th",
+      "weekday": "Sunday",
+      "streamer": "HORROR_HEATHER",
+      "title": "MOVIE NIGHT",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1787782891746_0hrzf1",
+      "date": "2026-09-06",
+      "dateLabel": "Sun, Sep 6",
+      "weekday": "",
+      "streamer": "HORROR_HEATHER",
+      "title": "MOVIE NIGHT",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1787782891746_9e2vtx",
+      "date": "2026-09-13",
+      "dateLabel": "Sun, Sep 13",
+      "weekday": "",
+      "streamer": "HORROR_HEATHER",
+      "title": "MOVIE NIGHT",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1787782891746_5osj5b",
+      "date": "2026-09-14",
+      "dateLabel": "Mon, Sep 14",
+      "weekday": "",
+      "streamer": "HORROR_HEATHER",
+      "title": "ALAN WAKE II",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1787782891746_5bdamz",
+      "date": "2026-09-17",
+      "dateLabel": "Thu, Sep 17",
+      "weekday": "",
+      "streamer": "HORROR_HEATHER",
+      "title": "ALAN WAKE II",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1787782891746_z1rz0i",
+      "date": "2026-09-19",
+      "dateLabel": "Sat, Sep 19",
+      "weekday": "",
+      "streamer": "HORROR_HEATHER",
+      "title": "COMMUNITY GAME NIGHT",
+      "timeMinutes": 1170,
+      "timeLabel": "7:30 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1787782891747_d7d5l4",
+      "date": "2026-09-20",
+      "dateLabel": "Sun, Sep 20",
+      "weekday": "",
+      "streamer": "HORROR_HEATHER",
+      "title": "COMMUNITY MOVIE NIGHT",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1787782891747_gq89cl",
+      "date": "2026-09-21",
+      "dateLabel": "Mon, Sep 21",
+      "weekday": "",
+      "streamer": "HORROR_HEATHER",
+      "title": "HORROR DEMOS!",
+      "timeMinutes": 990,
+      "timeLabel": "4:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/horror_heather"
     }
   ]
 }
