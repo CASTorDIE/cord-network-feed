@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T05:17:57.679Z",
+  "generatedAt": "2026-08-26T05:22:57.766Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T05:17:57.679Z",
+    "fetchedAt": "2026-08-26T05:22:57.766Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Infecting France, One Town At A Time! | A Plague Tale: Requiem | Therapy & Chaos",
       "game_name": "A Plague Tale: Requiem",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 904,
       "language": "en",
       "started_at": "2026-08-26T04:14:35Z",
