@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T13:52:57.472Z",
+  "generatedAt": "2026-08-26T13:57:57.476Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T13:52:57.472Z",
+    "fetchedAt": "2026-08-26T13:57:57.476Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "ONE Wheel Each… Why Are We STILL Going Sideways?! 😂 | Roll Together | Couple Plays | Sub Goal 67/100 we get to wax Trevor",
       "game_name": "Roll Together",
-      "viewer_count": 19,
-      "follower_count": 961,
+      "viewer_count": 21,
+      "follower_count": 962,
       "language": "en",
       "started_at": "2026-08-26T12:49:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
