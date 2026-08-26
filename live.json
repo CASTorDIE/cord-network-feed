@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-26T01:42:57.403Z",
+  "generatedAt": "2026-08-26T01:47:57.428Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T01:42:57.403Z",
+    "fetchedAt": "2026-08-26T01:47:57.428Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 953👍!discord👍!factor👍WE ARE GAMING ON THE GAMES👍TUBBA TUESDAY WE ARE REALLY GAMER GAMING ON THIS GAMER GAME GAMEDA",
       "game_name": "Rocket League",
-      "viewer_count": 527,
-      "follower_count": 113479,
+      "viewer_count": 568,
+      "follower_count": 113482,
       "language": "en",
       "started_at": "2026-08-26T00:05:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 5🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 88,
+      "viewer_count": 86,
       "follower_count": 10605,
       "language": "en",
       "started_at": "2026-08-25T19:09:12Z",
@@ -45,27 +45,12 @@
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
-      "user_login": "wispy_witch",
-      "user_name": "wispy_witch",
-      "is_live": true,
-      "title": "| Back in the (Vessel) Flesh! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "Just Chatting",
-      "viewer_count": 26,
-      "follower_count": 1722,
-      "language": "en",
-      "started_at": "2026-08-25T23:56:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Celeste Goldens and then SF6 Grind!",
       "game_name": "Celeste",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "follower_count": 281,
       "language": "en",
       "started_at": "2026-08-26T01:00:29Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "💜🕵️Detroit:Become Human First Play-through Part 3!🕵️💜!discord💜🕵️Are you ready for 6am?🕵️💜",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 7,
       "follower_count": 2110,
       "language": "en",
       "started_at": "2026-08-26T01:03:03Z",
@@ -531,7 +516,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 1343,
+      "follower_count": 1342,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -561,7 +546,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14341,
+      "follower_count": 14342,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -643,6 +628,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
+      "user_login": "wispy_witch",
+      "user_name": "wispy_witch",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1722,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wispy_witch",
+      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
       "user_login": "zaldar87",
