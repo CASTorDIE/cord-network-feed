@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T07:52:57.856Z",
+  "generatedAt": "2026-08-26T07:57:57.897Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T07:52:57.856Z",
+    "fetchedAt": "2026-08-26T07:57:57.897Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Giving Fortnite's New Season a 2nd Chance the Same Way I Do Men",
       "game_name": "Fortnite",
-      "viewer_count": 6,
-      "follower_count": 201,
+      "viewer_count": 4,
+      "follower_count": 202,
       "language": "en",
       "started_at": "2026-08-26T07:03:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
