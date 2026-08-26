@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-26T00:57:57.300Z",
+  "generatedAt": "2026-08-26T01:02:57.377Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T00:57:57.300Z",
+    "fetchedAt": "2026-08-26T01:02:57.377Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 8,
-    "offlineCount": 36
+    "liveCount": 9,
+    "offlineCount": 35
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 953👍!discord👍!factor👍WE ARE GAMING ON THE GAMES👍TUBBA TUESDAY WE ARE REALLY GAMER GAMING ON THIS GAMER GAME GAMEDA",
       "game_name": "Rocket League",
-      "viewer_count": 402,
-      "follower_count": 113444,
+      "viewer_count": 414,
+      "follower_count": 113447,
       "language": "en",
       "started_at": "2026-08-26T00:05:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "We did it! 🔥| ARC RAIDERS VARIETY THEN VARIETY GAME LATER | PARTNER PLUS GOAL: 180/300",
       "game_name": "Once Human",
-      "viewer_count": 133,
+      "viewer_count": 123,
       "follower_count": 14340,
       "language": "en",
       "started_at": "2026-08-25T19:19:23Z",
@@ -50,8 +50,8 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 5🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 77,
-      "follower_count": 10602,
+      "viewer_count": 117,
+      "follower_count": 10604,
       "language": "en",
       "started_at": "2026-08-25T19:09:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "| Back in the (Vessel) Flesh! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Just Chatting",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 1718,
       "language": "en",
       "started_at": "2026-08-25T23:56:22Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "This is just the week of puzzles....",
       "game_name": "Servant of the Lake",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 1050,
       "language": "en",
       "started_at": "2026-08-25T21:10:47Z",
@@ -120,6 +120,21 @@
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": true,
+      "title": "Celeste Goldens and then SF6 Grind!",
+      "game_name": "Celeste",
+      "viewer_count": 1,
+      "follower_count": 281,
+      "language": "en",
+      "started_at": "2026-08-26T01:00:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
       "user_login": "bribeecool10",
       "user_name": "bribeecool10",
       "is_live": true,
@@ -133,21 +148,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 281,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "alfieduu",
