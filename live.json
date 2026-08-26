@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-26T01:07:59.789Z",
+  "generatedAt": "2026-08-26T01:12:57.464Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T01:07:59.789Z",
+    "fetchedAt": "2026-08-26T01:12:57.464Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 10,
-    "offlineCount": 34
+    "liveCount": 9,
+    "offlineCount": 35
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 953👍!discord👍!factor👍WE ARE GAMING ON THE GAMES👍TUBBA TUESDAY WE ARE REALLY GAMER GAMING ON THIS GAMER GAME GAMEDA",
       "game_name": "Rocket League",
-      "viewer_count": 460,
-      "follower_count": 113448,
+      "viewer_count": 498,
+      "follower_count": 113456,
       "language": "en",
       "started_at": "2026-08-26T00:05:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "We did it! 🔥| ARC RAIDERS VARIETY THEN VARIETY GAME LATER | PARTNER PLUS GOAL: 180/300",
       "game_name": "Once Human",
-      "viewer_count": 121,
+      "viewer_count": 126,
       "follower_count": 14340,
       "language": "en",
       "started_at": "2026-08-25T19:19:23Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 5🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 103,
+      "viewer_count": 90,
       "follower_count": 10604,
       "language": "en",
       "started_at": "2026-08-25T19:09:12Z",
@@ -65,8 +65,8 @@
       "is_live": true,
       "title": "| Back in the (Vessel) Flesh! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Just Chatting",
-      "viewer_count": 15,
-      "follower_count": 1718,
+      "viewer_count": 31,
+      "follower_count": 1722,
       "language": "en",
       "started_at": "2026-08-25T23:56:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
@@ -75,19 +75,19 @@
       "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
       "is_live": true,
-      "title": "This is just the week of puzzles....",
-      "game_name": "Servant of the Lake",
+      "title": "Celeste Goldens and then SF6 Grind!",
+      "game_name": "Celeste",
       "viewer_count": 7,
-      "follower_count": 1050,
+      "follower_count": 281,
       "language": "en",
-      "started_at": "2026-08-25T21:10:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
+      "started_at": "2026-08-26T01:00:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "faytefireix",
@@ -105,19 +105,19 @@
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
+      "user_login": "floodwater_",
+      "user_name": "FloodWater_",
       "is_live": true,
-      "title": "Celeste Goldens and then SF6 Grind!",
-      "game_name": "Celeste",
-      "viewer_count": 3,
-      "follower_count": 281,
+      "title": "💜🕵️Detroit:Become Human First Play-through Part 3!🕵️💜!discord💜🕵️Are you ready for 6am?🕵️💜",
+      "game_name": "Just Chatting",
+      "viewer_count": 2,
+      "follower_count": 2110,
       "language": "en",
-      "started_at": "2026-08-26T01:00:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+      "started_at": "2026-08-26T01:03:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/floodwater_",
+      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
       "user_login": "thepuckgoa",
@@ -148,21 +148,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "floodwater_",
-      "user_name": "FloodWater_",
-      "is_live": true,
-      "title": "💜🕵️Detroit:Become Human First Play-through Part 3!🕵️💜!discord💜🕵️Are you ready for 6am?🕵️💜",
-      "game_name": "Just Chatting",
-      "viewer_count": 1,
-      "follower_count": 2110,
-      "language": "en",
-      "started_at": "2026-08-26T01:03:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/floodwater_",
-      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
       "user_login": "alfieduu",
@@ -313,6 +298,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10fbac99-b892-40b3-88cb-3ba197ba88f8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/darkdemocracytv",
       "description": "Healthcare by day, streaming by night! I'm Adam a dad, who love all things games, anime, and entertainment, and I'm so glad you're here with us! "
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1050,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "dingo_dynasty",
