@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T11:22:57.336Z",
+  "generatedAt": "2026-08-26T11:27:57.337Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T11:22:57.336Z",
+    "fetchedAt": "2026-08-26T11:27:57.337Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Giving Fortnite's New Season a 2nd Chance the Same Way I Do Men",
       "game_name": "Fortnite",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 207,
       "language": "en",
       "started_at": "2026-08-26T07:03:25Z",
@@ -621,7 +621,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8649,
+      "follower_count": 8648,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
