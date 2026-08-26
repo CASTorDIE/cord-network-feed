@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T14:07:59.124Z",
+  "generatedAt": "2026-08-26T14:12:57.443Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T14:07:59.124Z",
+    "fetchedAt": "2026-08-26T14:12:57.443Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "ONE Wheel Each… Why Are We STILL Going Sideways?! 😂 | Roll Together | Couple Plays | Sub Goal 67/100 we get to wax Trevor",
       "game_name": "Roll Together",
-      "viewer_count": 23,
+      "viewer_count": 22,
       "follower_count": 962,
       "language": "en",
       "started_at": "2026-08-26T12:49:22Z",
