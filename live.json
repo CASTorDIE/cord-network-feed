@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T14:57:57.526Z",
+  "generatedAt": "2026-08-26T15:02:57.549Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T14:57:57.526Z",
+    "fetchedAt": "2026-08-26T15:02:57.549Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "**Short** Stream Vibin' before work",
       "game_name": "Just Chatting",
-      "viewer_count": 9,
+      "viewer_count": 8,
       "follower_count": 336,
       "language": "en",
       "started_at": "2026-08-26T14:15:20Z",
