@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-08-26T14:17:57.475Z",
+  "generatedAt": "2026-08-26T14:22:57.455Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T14:17:57.475Z",
+    "fetchedAt": "2026-08-26T14:22:57.455Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
-    {
-      "user_login": "gibsontales",
-      "user_name": "GibsonTales",
-      "is_live": true,
-      "title": "ONE Wheel Each… Why Are We STILL Going Sideways?! 😂 | Roll Together | Couple Plays | Sub Goal 67/100 we get to wax Trevor",
-      "game_name": "Roll Together",
-      "viewer_count": 20,
-      "follower_count": 963,
-      "language": "en",
-      "started_at": "2026-08-26T12:49:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gibsontales",
-      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
-    },
     {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "**Short** Stream Vibin' before work",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 336,
       "language": "en",
       "started_at": "2026-08-26T14:15:20Z",
@@ -328,6 +313,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
+    },
+    {
+      "user_login": "gibsontales",
+      "user_name": "GibsonTales",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 963,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gibsontales",
+      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
     },
     {
       "user_login": "gmclay_",
