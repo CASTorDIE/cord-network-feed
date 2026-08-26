@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T22:42:57.985Z",
+  "generatedAt": "2026-08-26T22:47:58.050Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T22:42:57.985Z",
+    "fetchedAt": "2026-08-26T22:47:58.050Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 31,
       "follower_count": 2451,
       "language": "en",
       "started_at": "2026-08-26T22:39:18Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Getting back into Far Far West (been gone for a while) FROSTBURN COMING TOMORROW!!!",
       "game_name": "Far Far West",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 22,
       "language": "en",
       "started_at": "2026-08-26T22:05:21Z",
