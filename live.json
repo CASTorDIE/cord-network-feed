@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-26T00:02:58.222Z",
+  "generatedAt": "2026-08-26T00:08:00.719Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T00:02:58.222Z",
+    "fetchedAt": "2026-08-26T00:08:00.719Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 9,
+    "offlineCount": 35
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We did it! 🔥| ARC RAIDERS VARIETY THEN VARIETY GAME LATER | PARTNER PLUS GOAL: 180/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 153,
+      "viewer_count": 152,
       "follower_count": 14337,
       "language": "en",
       "started_at": "2026-08-25T19:19:23Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 5🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 61,
+      "viewer_count": 80,
       "follower_count": 10601,
       "language": "en",
       "started_at": "2026-08-25T19:09:12Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "| Back in the (Vessel) Flesh! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Just Chatting",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 1718,
       "language": "en",
       "started_at": "2026-08-25T23:56:22Z",
@@ -60,12 +60,27 @@
       "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 953👍!discord👍!factor👍WE ARE GAMING ON THE GAMES👍TUBBA TUESDAY WE ARE REALLY GAMER GAMING ON THIS GAMER GAME GAMEDA",
+      "game_name": "Rocket League",
+      "viewer_count": 8,
+      "follower_count": 113429,
+      "language": "en",
+      "started_at": "2026-08-26T00:05:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "desertrose",
       "user_name": "Desertrose",
       "is_live": true,
       "title": "This is just the week of puzzles....",
       "game_name": "Servant of the Lake",
-      "viewer_count": 10,
+      "viewer_count": 8,
       "follower_count": 1050,
       "language": "en",
       "started_at": "2026-08-25T21:10:47Z",
@@ -80,7 +95,7 @@
       "is_live": true,
       "title": "Kiddo takes over stream! | First Playthrough [EP.01] | 25/08/2026",
       "game_name": "The Legend of Dragoon",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-08-25T18:49:07Z",
@@ -118,6 +133,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": true,
+      "title": "Pokemon Cagelocke part 2 With @chefjess_95",
+      "game_name": "Pokémon Sword/Shield",
+      "viewer_count": 0,
+      "follower_count": 392,
+      "language": "en",
+      "started_at": "2026-08-26T00:07:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -238,36 +268,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 392,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 113430,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
