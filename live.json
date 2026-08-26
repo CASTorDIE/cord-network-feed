@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T04:37:57.728Z",
+  "generatedAt": "2026-08-26T04:42:57.662Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T04:37:57.728Z",
+    "fetchedAt": "2026-08-26T04:42:57.662Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Celeste Goldens and then SF6 Ultimate Master Grind!",
       "game_name": "Street Fighter 6",
-      "viewer_count": 13,
-      "follower_count": 282,
+      "viewer_count": 15,
+      "follower_count": 283,
       "language": "en",
       "started_at": "2026-08-26T01:00:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Infecting France, One Town At A Time! | A Plague Tale: Requiem | Therapy & Chaos",
       "game_name": "A Plague Tale: Requiem",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 904,
       "language": "en",
       "started_at": "2026-08-26T04:14:35Z",
