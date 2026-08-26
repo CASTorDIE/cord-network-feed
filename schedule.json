@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-26T22:21:31.786Z",
+  "generatedAt": "2026-08-26T22:24:59.874Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-08-26T22:21:31.750Z",
+    "updatedAt": "2026-08-26T22:24:59.833Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 31,
+    "entryCount": 35,
     "firstDate": "2026-08-23",
     "lastDate": "2026-09-21",
     "windowStart": "2026-08-23",
@@ -202,6 +202,19 @@
       "url": "https://www.twitch.tv/kindessurchin"
     },
     {
+      "id": "evt_1787783099829_452fpz",
+      "date": "2026-08-26",
+      "dateLabel": "Wednesday, August 26th",
+      "weekday": "Wednesday",
+      "streamer": "Ao_Zora_",
+      "title": "Karaoke",
+      "timeMinutes": 1110,
+      "timeLabel": "6:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/ao_zora_"
+    },
+    {
       "id": "evt_1787782356922_i2od3x",
       "date": "2026-08-26",
       "dateLabel": "Wednesday, August 26th",
@@ -213,6 +226,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/dingo_dynasty"
+    },
+    {
+      "id": "evt_1787783099830_dys1ua",
+      "date": "2026-08-27",
+      "dateLabel": "Thursday, August 27th",
+      "weekday": "Thursday",
+      "streamer": "Ao_Zora_",
+      "title": "inKONBINI / Running our Convinience Store",
+      "timeMinutes": 1110,
+      "timeLabel": "6:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/ao_zora_"
     },
     {
       "id": "evt_1787782356922_2uqshz",
@@ -330,6 +356,32 @@
       "highlight": "green",
       "pillLabel": "SPECIAL",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1787783018740_5gyecr",
+      "date": "2026-09-02",
+      "dateLabel": "Wed, Sep 2",
+      "weekday": "",
+      "streamer": "Ao_Zora_",
+      "title": "Karaoke",
+      "timeMinutes": 1110,
+      "timeLabel": "6:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/ao_zora_"
+    },
+    {
+      "id": "evt_1787783018740_7gbdvl",
+      "date": "2026-09-03",
+      "dateLabel": "Thu, Sep 3",
+      "weekday": "",
+      "streamer": "Ao_Zora_",
+      "title": "inKONBINI / Running our Convinience Store",
+      "timeMinutes": 1110,
+      "timeLabel": "6:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/ao_zora_"
     },
     {
       "id": "evt_1787782891746_0hrzf1",
