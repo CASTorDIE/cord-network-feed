@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T21:12:58.115Z",
+  "generatedAt": "2026-08-26T21:17:58.041Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-26T21:12:58.115Z",
+    "fetchedAt": "2026-08-26T21:17:58.041Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 6🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 49,
+      "viewer_count": 50,
       "follower_count": 10610,
       "language": "en",
       "started_at": "2026-08-26T19:02:55Z",
@@ -126,7 +126,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 5127,
+      "follower_count": 5126,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
