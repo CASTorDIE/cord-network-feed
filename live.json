@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T00:02:58.068Z",
+  "generatedAt": "2026-08-27T00:07:58.062Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T00:02:58.068Z",
+    "fetchedAt": "2026-08-27T00:07:58.062Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 88,
+      "viewer_count": 78,
       "follower_count": 2451,
       "language": "en",
       "started_at": "2026-08-26T22:39:18Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Request Songs Here! >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 45,
-      "follower_count": 6288,
+      "viewer_count": 53,
+      "follower_count": 6289,
       "language": "en",
       "started_at": "2026-08-26T23:30:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
