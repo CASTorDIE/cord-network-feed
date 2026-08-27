@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-27T00:57:58.216Z",
+  "generatedAt": "2026-08-27T01:02:58.268Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T00:57:58.216Z",
+    "fetchedAt": "2026-08-27T01:02:58.268Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 954😁!discord😁!factor😁!brooklyn😁#BrooklynBeddingPartner😁COMFY BED TIME😁WE ARE HAVING COMFY SLEEPING FOR THE BED T",
       "game_name": "Rocket League",
-      "viewer_count": 442,
-      "follower_count": 113535,
+      "viewer_count": 430,
+      "follower_count": 113536,
       "language": "en",
       "started_at": "2026-08-27T00:09:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 96,
+      "viewer_count": 87,
       "follower_count": 2451,
       "language": "en",
       "started_at": "2026-08-26T22:39:18Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Request Songs Here! >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 59,
+      "viewer_count": 63,
       "follower_count": 6291,
       "language": "en",
       "started_at": "2026-08-26T23:30:59Z",
@@ -77,14 +77,14 @@
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
+      "is_live": true,
+      "title": "Day 1 Spire! Can't wait to suck",
+      "game_name": "Slay the Spire",
+      "viewer_count": 3,
       "follower_count": 282,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
+      "language": "en",
+      "started_at": "2026-08-27T00:57:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
