@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T00:12:58.094Z",
+  "generatedAt": "2026-08-27T00:17:58.243Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T00:12:58.094Z",
+    "fetchedAt": "2026-08-27T00:17:58.243Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,12 +15,27 @@
   },
   "streamers": [
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 954😁!discord😁!factor😁!brooklyn😁#BrooklynBeddingPartner😁COMFY BED TIME😁WE ARE HAVING COMFY SLEEPING FOR THE BED T",
+      "game_name": "Rocket League",
+      "viewer_count": 346,
+      "follower_count": 113528,
+      "language": "en",
+      "started_at": "2026-08-27T00:09:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 81,
+      "viewer_count": 116,
       "follower_count": 2451,
       "language": "en",
       "started_at": "2026-08-26T22:39:18Z",
@@ -35,7 +50,7 @@
       "is_live": true,
       "title": "Request Songs Here! >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 54,
+      "viewer_count": 45,
       "follower_count": 6290,
       "language": "en",
       "started_at": "2026-08-26T23:30:59Z",
@@ -50,7 +65,7 @@
       "is_live": true,
       "title": "PEAK | Cuz We Da Best Of Friends!~ @nabbynabbster @l0rd0frand0m @definitelynotsoma @zarsai | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "PEAK",
-      "viewer_count": 9,
+      "viewer_count": 11,
       "follower_count": 1723,
       "language": "en",
       "started_at": "2026-08-26T23:35:24Z",
@@ -58,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 954😁!discord😁!factor😁!brooklyn😁#BrooklynBeddingPartner😁COMFY BED TIME😁WE ARE HAVING COMFY SLEEPING FOR THE BED T",
-      "game_name": "Rocket League",
-      "viewer_count": 2,
-      "follower_count": 113528,
-      "language": "en",
-      "started_at": "2026-08-27T00:09:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "4kaizen_gaming",
