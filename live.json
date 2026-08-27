@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T19:37:57.408Z",
+  "generatedAt": "2026-08-27T19:42:57.343Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T19:37:57.408Z",
+    "fetchedAt": "2026-08-27T19:42:57.343Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "We are gonna try this one more time... | PARTNER PLUS GOAL: 216/300",
-      "game_name": "Grand Theft Auto VI",
-      "viewer_count": 121,
+      "game_name": "ARC Raiders",
+      "viewer_count": 104,
       "follower_count": 14339,
       "language": "en",
       "started_at": "2026-08-27T17:51:48Z",
