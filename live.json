@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T06:02:58.045Z",
+  "generatedAt": "2026-08-27T06:07:58.128Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T06:02:58.045Z",
+    "fetchedAt": "2026-08-27T06:07:58.128Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Infecting France, One Town At A Time! | A Plague Tale: Requiem | Therapy & Chaos",
       "game_name": "A Plague Tale: Requiem",
-      "viewer_count": 10,
+      "viewer_count": 12,
       "follower_count": 901,
       "language": "en",
       "started_at": "2026-08-27T04:11:17Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Will We Ever Make It Out of This Cave",
       "game_name": "Minecraft",
-      "viewer_count": 1,
-      "follower_count": 209,
+      "viewer_count": 5,
+      "follower_count": 210,
       "language": "en",
       "started_at": "2026-08-27T06:00:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
