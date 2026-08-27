@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T03:52:58.499Z",
+  "generatedAt": "2026-08-27T03:57:58.415Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T03:52:58.499Z",
+    "fetchedAt": "2026-08-27T03:57:58.415Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Day 1 Spire! Can't wait to suck",
       "game_name": "Slay the Spire",
-      "viewer_count": 11,
+      "viewer_count": 14,
       "follower_count": 282,
       "language": "en",
       "started_at": "2026-08-27T00:57:46Z",
