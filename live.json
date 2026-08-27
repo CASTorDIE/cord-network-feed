@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T18:57:57.238Z",
+  "generatedAt": "2026-08-27T19:02:57.317Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T18:57:57.238Z",
+    "fetchedAt": "2026-08-27T19:02:57.317Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "We are gonna try this one more time... | PARTNER PLUS GOAL: 216/300",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 111,
-      "follower_count": 14341,
+      "viewer_count": 115,
+      "follower_count": 14340,
       "language": "en",
       "started_at": "2026-08-27T17:51:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
