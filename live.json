@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T18:52:57.272Z",
+  "generatedAt": "2026-08-27T18:57:57.238Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T18:52:57.272Z",
+    "fetchedAt": "2026-08-27T18:57:57.238Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "We are gonna try this one more time... | PARTNER PLUS GOAL: 216/300",
-      "game_name": "Just Chatting",
-      "viewer_count": 102,
+      "game_name": "Grand Theft Auto VI",
+      "viewer_count": 111,
       "follower_count": 14341,
       "language": "en",
       "started_at": "2026-08-27T17:51:48Z",
