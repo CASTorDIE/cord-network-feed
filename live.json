@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T03:22:58.401Z",
+  "generatedAt": "2026-08-27T03:27:58.544Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T03:22:58.401Z",
+    "fetchedAt": "2026-08-27T03:27:58.544Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Request Songs Here! >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 128,
+      "viewer_count": 120,
       "follower_count": 6306,
       "language": "en",
       "started_at": "2026-08-26T23:30:59Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Day 1 Spire! Can't wait to suck",
       "game_name": "Slay the Spire",
-      "viewer_count": 16,
+      "viewer_count": 14,
       "follower_count": 282,
       "language": "en",
       "started_at": "2026-08-27T00:57:46Z",
