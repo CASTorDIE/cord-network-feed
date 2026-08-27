@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T18:07:58.250Z",
+  "generatedAt": "2026-08-27T18:12:58.197Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T18:07:58.250Z",
+    "fetchedAt": "2026-08-27T18:12:58.197Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We are gonna try this one more time... | PARTNER PLUS GOAL: 216/300",
       "game_name": "Just Chatting",
-      "viewer_count": 93,
+      "viewer_count": 90,
       "follower_count": 14338,
       "language": "en",
       "started_at": "2026-08-27T17:51:48Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113623,
+      "follower_count": 113624,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
