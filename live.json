@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-27T01:52:58.367Z",
+  "generatedAt": "2026-08-27T01:57:58.322Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T01:52:58.367Z",
+    "fetchedAt": "2026-08-27T01:57:58.322Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 954😁!discord😁!factor😁!brooklyn😁#BrooklynBeddingPartner😁COMFY BED TIME😁WE ARE HAVING COMFY SLEEPING FOR THE BED T",
       "game_name": "Rocket League",
-      "viewer_count": 647,
+      "viewer_count": 626,
       "follower_count": 113575,
       "language": "en",
       "started_at": "2026-08-27T00:09:23Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Request Songs Here! >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 101,
-      "follower_count": 6295,
+      "viewer_count": 94,
+      "follower_count": 6296,
       "language": "en",
       "started_at": "2026-08-26T23:30:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 63,
+      "viewer_count": 61,
       "follower_count": 2450,
       "language": "en",
       "started_at": "2026-08-26T22:39:18Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Day 1 Spire! Can't wait to suck",
       "game_name": "Slay the Spire",
-      "viewer_count": 16,
+      "viewer_count": 13,
       "follower_count": 282,
       "language": "en",
       "started_at": "2026-08-27T00:57:46Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
-      "user_login": "wispy_witch",
-      "user_name": "wispy_witch",
-      "is_live": true,
-      "title": "PEAK | Cuz We Da Best Of Friends!~ @nabbynabbster @l0rd0frand0m @definitelynotsoma @zarsai | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "PEAK",
-      "viewer_count": 10,
-      "follower_count": 1723,
-      "language": "en",
-      "started_at": "2026-08-26T23:35:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
       "user_login": "alfieduu",
@@ -546,7 +531,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14340,
+      "follower_count": 14341,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -643,6 +628,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
+      "user_login": "wispy_witch",
+      "user_name": "wispy_witch",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1723,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wispy_witch",
+      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
       "user_login": "zaldar87",
