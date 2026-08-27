@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T19:27:57.416Z",
+  "generatedAt": "2026-08-27T19:32:57.340Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T19:27:57.416Z",
+    "fetchedAt": "2026-08-27T19:32:57.340Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We are gonna try this one more time... | PARTNER PLUS GOAL: 216/300",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 109,
+      "viewer_count": 141,
       "follower_count": 14339,
       "language": "en",
       "started_at": "2026-08-27T17:51:48Z",
