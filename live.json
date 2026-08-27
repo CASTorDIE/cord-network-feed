@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T02:37:58.334Z",
+  "generatedAt": "2026-08-27T02:42:58.354Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T02:37:58.334Z",
+    "fetchedAt": "2026-08-27T02:42:58.354Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 954😁!discord😁!factor😁!brooklyn😁#BrooklynBeddingPartner😁COMFY BED TIME😁WE ARE HAVING COMFY SLEEPING FOR THE BED T",
       "game_name": "Rocket League",
-      "viewer_count": 712,
+      "viewer_count": 700,
       "follower_count": 113611,
       "language": "en",
       "started_at": "2026-08-27T00:09:23Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 64,
+      "viewer_count": 65,
       "follower_count": 2451,
       "language": "en",
       "started_at": "2026-08-26T22:39:18Z",
