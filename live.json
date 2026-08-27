@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T11:32:57.570Z",
+  "generatedAt": "2026-08-27T11:37:57.588Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T11:32:57.570Z",
+    "fetchedAt": "2026-08-27T11:37:57.588Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Best Siege Operator??",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 11,
+      "viewer_count": 7,
       "follower_count": 213,
       "language": "en",
       "started_at": "2026-08-27T09:48:38Z",
