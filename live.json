@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T15:52:57.992Z",
+  "generatedAt": "2026-08-27T15:57:58.121Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T15:52:57.992Z",
+    "fetchedAt": "2026-08-27T15:57:58.121Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐DROPS⭐ Patch Notes 0.206 – Fall's Faire: Petals & Portraits !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 30,
+      "viewer_count": 31,
       "follower_count": 5127,
       "language": "en",
       "started_at": "2026-08-27T14:03:07Z",
