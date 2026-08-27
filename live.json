@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T21:47:57.550Z",
+  "generatedAt": "2026-08-27T21:52:57.584Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T21:47:57.550Z",
+    "fetchedAt": "2026-08-27T21:52:57.584Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "We are gonna try this one more time... | PARTNER PLUS GOAL: 216/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 129,
-      "follower_count": 14343,
+      "viewer_count": 143,
+      "follower_count": 14342,
       "language": "en",
       "started_at": "2026-08-27T17:51:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113627,
+      "follower_count": 113628,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
