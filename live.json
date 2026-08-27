@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T20:07:57.436Z",
+  "generatedAt": "2026-08-27T20:12:57.430Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-27T20:07:57.436Z",
+    "fetchedAt": "2026-08-27T20:12:57.430Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We are gonna try this one more time... | PARTNER PLUS GOAL: 216/300",
       "game_name": "ARC Raiders",
-      "viewer_count": 85,
+      "viewer_count": 90,
       "follower_count": 14339,
       "language": "en",
       "started_at": "2026-08-27T17:51:48Z",
