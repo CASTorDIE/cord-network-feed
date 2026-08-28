@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T13:22:57.980Z",
+  "generatedAt": "2026-08-28T13:27:58.000Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T13:22:57.980Z",
+    "fetchedAt": "2026-08-28T13:27:58.000Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "10 Doors. No Checkpoints. Trevor Has ONE Job 😭| Project Threshold | Couple Plays | Sub Goal 67/100 we get to wax Trevor",
       "game_name": "Games + Demos",
-      "viewer_count": 35,
+      "viewer_count": 38,
       "follower_count": 964,
       "language": "en",
       "started_at": "2026-08-28T12:47:30Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Freak Out Friday | Simulacra 2 | Scary Demos !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 14,
+      "viewer_count": 18,
       "follower_count": 5128,
       "language": "en",
       "started_at": "2026-08-28T13:07:11Z",
