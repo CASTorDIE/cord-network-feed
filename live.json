@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T12:57:57.965Z",
+  "generatedAt": "2026-08-28T13:02:57.917Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T12:57:57.965Z",
+    "fetchedAt": "2026-08-28T13:02:57.917Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "10 Doors. No Checkpoints. Trevor Has ONE Job 😭| Project Threshold | Couple Plays | Sub Goal 67/100 we get to wax Trevor",
       "game_name": "Games + Demos",
-      "viewer_count": 24,
+      "viewer_count": 32,
       "follower_count": 964,
       "language": "en",
       "started_at": "2026-08-28T12:47:30Z",
