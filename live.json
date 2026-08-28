@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T16:52:58.265Z",
+  "generatedAt": "2026-08-28T16:57:58.254Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T16:52:58.265Z",
+    "fetchedAt": "2026-08-28T16:57:58.254Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Freak Out Friday | Scary Demos !hype !newvlog !gamevideo",
       "game_name": "Games + Demos",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 5129,
       "language": "en",
       "started_at": "2026-08-28T16:38:30Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113631,
+      "follower_count": 113632,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
