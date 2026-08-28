@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T14:02:58.078Z",
+  "generatedAt": "2026-08-28T14:07:57.996Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T14:02:58.078Z",
+    "fetchedAt": "2026-08-28T14:07:57.996Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,12 +15,27 @@
   },
   "streamers": [
     {
+      "user_login": "wexra",
+      "user_name": "Wexra",
+      "is_live": true,
+      "title": "|WATCH PARTY| RANKED DOMINION IS HERE 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
+      "game_name": "For Honor",
+      "viewer_count": 36,
+      "follower_count": 8681,
+      "language": "en",
+      "started_at": "2026-08-28T13:58:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
       "user_login": "gibsontales",
       "user_name": "GibsonTales",
       "is_live": true,
       "title": "10 Doors. No Checkpoints. Trevor Has ONE Job 😭| Project Threshold | Couple Plays | Sub Goal 67/100 we get to wax Trevor",
       "game_name": "Games + Demos",
-      "viewer_count": 37,
+      "viewer_count": 33,
       "follower_count": 966,
       "language": "en",
       "started_at": "2026-08-28T12:47:30Z",
@@ -35,7 +50,7 @@
       "is_live": true,
       "title": "Freak Out Friday | Simulacra 2 | Scary Demos !hype !newvlog !gamevideo",
       "game_name": "SIMULACRA 2",
-      "viewer_count": 18,
+      "viewer_count": 19,
       "follower_count": 5128,
       "language": "en",
       "started_at": "2026-08-28T13:07:11Z",
@@ -43,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
-    },
-    {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": true,
-      "title": "|WATCH PARTY| RANKED DOMINION IS HERE 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
-      "game_name": "For Honor",
-      "viewer_count": 2,
-      "follower_count": 8681,
-      "language": "en",
-      "started_at": "2026-08-28T13:58:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "4kaizen_gaming",
