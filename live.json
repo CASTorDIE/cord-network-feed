@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T22:57:58.032Z",
+  "generatedAt": "2026-08-28T23:02:58.075Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T22:57:58.032Z",
+    "fetchedAt": "2026-08-28T23:02:58.075Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "WELFARE Raiding with the homies! w/ @misskitteenn | PARTNER PLUS GOAL: 230/300",
       "game_name": "Just Chatting",
-      "viewer_count": 100,
+      "viewer_count": 102,
       "follower_count": 14361,
       "language": "en",
       "started_at": "2026-08-28T22:13:49Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "LIFE IS SO GOOD OMG 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 56,
+      "viewer_count": 49,
       "follower_count": 8684,
       "language": "en",
       "started_at": "2026-08-28T22:26:33Z",
