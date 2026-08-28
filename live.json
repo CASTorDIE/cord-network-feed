@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T21:07:57.893Z",
+  "generatedAt": "2026-08-28T21:12:57.800Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T21:07:57.893Z",
+    "fetchedAt": "2026-08-28T21:12:57.800Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "jaxsberrypatch",
-      "user_name": "jaxsberrypatch",
-      "is_live": true,
-      "title": "|First Survial world ever!| I made my own modpack to play|!modpack!giveaway !discord !tip !linktree !merch |",
-      "game_name": "Minecraft",
-      "viewer_count": 27,
-      "follower_count": 2766,
-      "language": "en",
-      "started_at": "2026-08-28T19:22:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
-      "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
-    },
-    {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 6🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 1,
+      "viewer_count": 33,
       "follower_count": 10613,
       "language": "en",
       "started_at": "2026-08-28T21:02:21Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "jaxsberrypatch",
+      "user_name": "jaxsberrypatch",
+      "is_live": true,
+      "title": "|First Survial world ever!| I made my own modpack to play|!modpack!giveaway !discord !tip !linktree !merch |",
+      "game_name": "Minecraft",
+      "viewer_count": 30,
+      "follower_count": 2766,
+      "language": "en",
+      "started_at": "2026-08-28T19:22:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
+      "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
     {
       "user_login": "4kaizen_gaming",
