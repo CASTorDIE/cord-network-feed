@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T08:32:57.450Z",
+  "generatedAt": "2026-08-28T08:37:57.589Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T08:32:57.450Z",
+    "fetchedAt": "2026-08-28T08:37:57.589Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Getting this Place Squeaky Clean",
       "game_name": "PowerWash Simulator 2",
-      "viewer_count": 9,
+      "viewer_count": 8,
       "follower_count": 215,
       "language": "en",
       "started_at": "2026-08-28T07:00:59Z",
