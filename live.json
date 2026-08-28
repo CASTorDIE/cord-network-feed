@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-28T02:02:57.971Z",
+  "generatedAt": "2026-08-28T02:07:57.931Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T02:02:57.971Z",
+    "fetchedAt": "2026-08-28T02:07:57.931Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Our Final Chapter || !merch !throne !daki",
       "game_name": "inKONBINI: One Store. Many Stories",
-      "viewer_count": 62,
+      "viewer_count": 60,
       "follower_count": 6316,
       "language": "en",
       "started_at": "2026-08-27T23:30:35Z",
@@ -50,8 +50,8 @@
       "is_live": true,
       "title": "GAMING WITH THE POOKIES 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 52,
-      "follower_count": 8671,
+      "viewer_count": 57,
+      "follower_count": 8672,
       "language": "en",
       "started_at": "2026-08-27T22:05:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "One win in the books, let's try out new characters!",
       "game_name": "Slay the Spire",
-      "viewer_count": 16,
+      "viewer_count": 14,
       "follower_count": 282,
       "language": "en",
       "started_at": "2026-08-28T00:59:40Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "💜🕵️Detroit:Become Human First Play-through Part 4!🕵️💜!discord💜🕵️Are you ready for 6am?🕵️💜",
       "game_name": "Detroit: Become Human",
-      "viewer_count": 8,
+      "viewer_count": 6,
       "follower_count": 2110,
       "language": "en",
       "started_at": "2026-08-28T01:37:25Z",
@@ -103,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": true,
-      "title": "Who is this Man of Medan anyway?",
-      "game_name": "The Dark Pictures Anthology: Man of Medan",
-      "viewer_count": 1,
-      "follower_count": 22,
-      "language": "en",
-      "started_at": "2026-08-28T00:59:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "alfieduu",
@@ -216,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113629,
+      "follower_count": 113628,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -598,6 +583,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 22,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
