@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T08:27:57.495Z",
+  "generatedAt": "2026-08-28T08:32:57.450Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T08:27:57.495Z",
+    "fetchedAt": "2026-08-28T08:32:57.450Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,9 +18,9 @@
       "user_login": "rickett_raffy",
       "user_name": "rickett_raffy",
       "is_live": true,
-      "title": "GTA 6 New Trailer",
-      "game_name": "Just Chatting",
-      "viewer_count": 10,
+      "title": "Getting this Place Squeaky Clean",
+      "game_name": "PowerWash Simulator 2",
+      "viewer_count": 9,
       "follower_count": 215,
       "language": "en",
       "started_at": "2026-08-28T07:00:59Z",
