@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T06:02:57.291Z",
+  "generatedAt": "2026-08-28T06:07:57.341Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T06:02:57.291Z",
+    "fetchedAt": "2026-08-28T06:07:57.341Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "IT'S FINALLY ON CONSOLE? 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Once Human",
-      "viewer_count": 29,
+      "viewer_count": 32,
       "follower_count": 8678,
       "language": "en",
       "started_at": "2026-08-27T22:05:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Where The Rats AT!?!?! | Resonance: A Plague Tale Legacy | Therapy & Chaos",
       "game_name": "Resonance: A Plague Tale Legacy",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 901,
       "language": "en",
       "started_at": "2026-08-28T04:05:25Z",
