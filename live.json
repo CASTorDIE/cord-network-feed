@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-08-28T00:22:57.755Z",
+  "generatedAt": "2026-08-28T00:27:57.782Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T00:22:57.755Z",
+    "fetchedAt": "2026-08-28T00:27:57.782Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 8,
-    "offlineCount": 36
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
-    {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "We are gonna try this one more time... | PARTNER PLUS GOAL: 216/300",
-      "game_name": "ARC Raiders",
-      "viewer_count": 134,
-      "follower_count": 14353,
-      "language": "en",
-      "started_at": "2026-08-27T17:51:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
     {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPIN → GTA 6 TRAILER →   GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 79,
+      "viewer_count": 75,
       "follower_count": 2453,
       "language": "en",
       "started_at": "2026-08-27T22:34:15Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "Chatting until the Final Chapter || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 53,
+      "viewer_count": 50,
       "follower_count": 6315,
       "language": "en",
       "started_at": "2026-08-27T23:30:35Z",
@@ -65,8 +50,8 @@
       "is_live": true,
       "title": "GAMING WITH THE POOKIES 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 41,
-      "follower_count": 8665,
+      "viewer_count": 42,
+      "follower_count": 8666,
       "language": "en",
       "started_at": "2026-08-27T22:05:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "ENDACOPIA | I Fixed The Redeems! Hopefully... | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Just Chatting",
-      "viewer_count": 13,
+      "viewer_count": 12,
       "follower_count": 1723,
       "language": "en",
       "started_at": "2026-08-27T23:54:49Z",
@@ -583,6 +568,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
+    },
+    {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 14356,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "slimchungusgaming",
