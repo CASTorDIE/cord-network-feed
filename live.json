@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T08:52:57.640Z",
+  "generatedAt": "2026-08-28T08:57:57.603Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T08:52:57.640Z",
+    "fetchedAt": "2026-08-28T08:57:57.603Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "Getting this Place Squeaky Clean",
       "game_name": "PowerWash Simulator 2",
       "viewer_count": 7,
-      "follower_count": 215,
+      "follower_count": 214,
       "language": "en",
       "started_at": "2026-08-28T07:00:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
