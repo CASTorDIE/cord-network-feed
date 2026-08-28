@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T16:22:58.246Z",
+  "generatedAt": "2026-08-28T16:27:58.555Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T16:22:58.246Z",
+    "fetchedAt": "2026-08-28T16:27:58.555Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,9 +18,9 @@
       "user_login": "beckybplays",
       "user_name": "BeckyBPlays",
       "is_live": true,
-      "title": "Freak Out Friday | Simulacra 2 | Scary Demos !hype !newvlog !gamevideo",
-      "game_name": "SIMULACRA 2",
-      "viewer_count": 19,
+      "title": "Freak Out Friday | Scary Demos !hype !newvlog !gamevideo",
+      "game_name": "Games + Demos",
+      "viewer_count": 18,
       "follower_count": 5129,
       "language": "en",
       "started_at": "2026-08-28T13:07:11Z",
