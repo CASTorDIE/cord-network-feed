@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T01:27:57.860Z",
+  "generatedAt": "2026-08-28T01:32:57.909Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T01:27:57.860Z",
+    "fetchedAt": "2026-08-28T01:32:57.909Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPIN → GTA 6 TRAILER →   GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
-      "game_name": "Just Chatting",
-      "viewer_count": 58,
-      "follower_count": 2453,
-      "language": "en",
-      "started_at": "2026-08-27T22:34:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "Chatting until the Final Chapter || !merch !throne !daki",
-      "game_name": "Just Chatting",
-      "viewer_count": 53,
+      "game_name": "inKONBINI: One Store. Many Stories",
+      "viewer_count": 52,
       "follower_count": 6316,
       "language": "en",
       "started_at": "2026-08-27T23:30:35Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "GAMING WITH THE POOKIES 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 41,
+      "viewer_count": 52,
       "follower_count": 8670,
       "language": "en",
       "started_at": "2026-08-27T22:05:12Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPIN → GTA 6 TRAILER →   GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
+      "game_name": "Just Chatting",
+      "viewer_count": 51,
+      "follower_count": 2453,
+      "language": "en",
+      "started_at": "2026-08-27T22:34:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "wispy_witch",
@@ -90,6 +90,21 @@
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": true,
+      "title": "Finding ALL the SECRETS in the new FROSTBURN UPDATE!!",
+      "game_name": "Far Far West",
+      "viewer_count": 2,
+      "follower_count": 22,
+      "language": "en",
+      "started_at": "2026-08-27T22:12:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
+    },
+    {
       "user_login": "bribeecool10",
       "user_name": "bribeecool10",
       "is_live": true,
@@ -103,21 +118,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": true,
-      "title": "Finding ALL the SECRETS in the new FROSTBURN UPDATE!!",
-      "game_name": "Far Far West",
-      "viewer_count": 1,
-      "follower_count": 22,
-      "language": "en",
-      "started_at": "2026-08-27T22:12:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
     },
     {
       "user_login": "thepuckgoa",
