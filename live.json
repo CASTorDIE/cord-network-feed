@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T20:12:57.768Z",
+  "generatedAt": "2026-08-28T20:17:57.836Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T20:12:57.768Z",
+    "fetchedAt": "2026-08-28T20:17:57.836Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "|First Survial world ever!| I made my own modpack to play|!modpack!giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 32,
-      "follower_count": 2767,
+      "viewer_count": 30,
+      "follower_count": 2766,
       "language": "en",
       "started_at": "2026-08-28T19:22:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
