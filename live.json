@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T21:17:57.773Z",
+  "generatedAt": "2026-08-28T21:22:57.980Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T21:17:57.773Z",
+    "fetchedAt": "2026-08-28T21:22:57.980Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 6🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 27,
+      "viewer_count": 30,
       "follower_count": 10612,
       "language": "en",
       "started_at": "2026-08-28T21:02:21Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|First Survial world ever!| I made my own modpack to play|!modpack!giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 26,
+      "viewer_count": 25,
       "follower_count": 2766,
       "language": "en",
       "started_at": "2026-08-28T19:22:36Z",
