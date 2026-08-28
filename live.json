@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T07:02:57.420Z",
+  "generatedAt": "2026-08-28T07:07:57.405Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T07:02:57.420Z",
+    "fetchedAt": "2026-08-28T07:07:57.405Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GTA 6 New Trailer",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 4,
       "follower_count": 213,
       "language": "en",
       "started_at": "2026-08-28T07:00:59Z",
@@ -471,7 +471,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 22,
+      "follower_count": 23,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
