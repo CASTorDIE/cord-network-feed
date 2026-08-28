@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T19:47:57.728Z",
+  "generatedAt": "2026-08-28T19:52:57.555Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-28T19:47:57.728Z",
+    "fetchedAt": "2026-08-28T19:52:57.555Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|First Survial world ever!| I made my own modpack to play|!modpack!giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 25,
+      "viewer_count": 29,
       "follower_count": 2767,
       "language": "en",
       "started_at": "2026-08-28T19:22:36Z",
