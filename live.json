@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T01:47:58.052Z",
+  "generatedAt": "2026-08-29T01:52:58.355Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T01:47:58.052Z",
+    "fetchedAt": "2026-08-29T01:52:58.355Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "CONSOLE GAMERS UNITE 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "Once Human",
-      "viewer_count": 29,
+      "viewer_count": 28,
       "follower_count": 8690,
       "language": "en",
       "started_at": "2026-08-28T22:26:33Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Looking for our first Defect win!",
       "game_name": "Slay the Spire",
-      "viewer_count": 12,
+      "viewer_count": 9,
       "follower_count": 283,
       "language": "en",
       "started_at": "2026-08-29T00:55:43Z",
