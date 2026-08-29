@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T11:37:58.165Z",
+  "generatedAt": "2026-08-29T11:42:58.080Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T11:37:58.165Z",
+    "fetchedAt": "2026-08-29T11:42:58.080Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Fishing Gone Wrong?",
       "game_name": "How to Fish",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 417,
       "language": "en",
       "started_at": "2026-08-29T09:41:08Z",
