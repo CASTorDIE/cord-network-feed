@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T04:37:57.334Z",
+  "generatedAt": "2026-08-29T04:42:57.582Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T04:37:57.334Z",
+    "fetchedAt": "2026-08-29T04:42:57.582Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Where The Rats AT!?!?! | Resonance: A Plague Tale Legacy | Therapy & Chaos",
       "game_name": "Resonance: A Plague Tale Legacy",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 900,
       "language": "en",
       "started_at": "2026-08-29T04:01:46Z",
