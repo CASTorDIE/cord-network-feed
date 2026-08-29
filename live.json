@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T23:42:58.261Z",
+  "generatedAt": "2026-08-29T23:47:58.206Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T23:42:58.261Z",
+    "fetchedAt": "2026-08-29T23:47:58.206Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 65,
+      "viewer_count": 64,
       "follower_count": 2453,
       "language": "en",
       "started_at": "2026-08-29T22:43:28Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🔴 MW4 BETA | NEW WARZONE + COMMUNITY GAMES | PARTNER PLUS GOAL: 230/300",
       "game_name": "Just Chatting",
-      "viewer_count": 12,
+      "viewer_count": 57,
       "follower_count": 14366,
       "language": "en",
       "started_at": "2026-08-29T23:39:01Z",
