@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T15:17:57.566Z",
+  "generatedAt": "2026-08-29T15:22:57.375Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T15:17:57.566Z",
+    "fetchedAt": "2026-08-29T15:22:57.375Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐DROPS⭐ Hunting the NEW Muujimothy Plushie!   !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 61,
+      "viewer_count": 62,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-08-29T13:07:24Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Group thangs with @boopitz",
       "game_name": "Treasure Cove",
-      "viewer_count": 6,
+      "viewer_count": 4,
       "follower_count": 461,
       "language": "en",
       "started_at": "2026-08-29T14:48:08Z",
