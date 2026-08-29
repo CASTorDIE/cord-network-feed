@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-29T04:32:57.436Z",
+  "generatedAt": "2026-08-29T04:37:57.334Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T04:32:57.436Z",
+    "fetchedAt": "2026-08-29T04:37:57.334Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| I WAS HUMAN ONCE NOW ONLY FUR | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Once Human",
-      "viewer_count": 94,
+      "viewer_count": 100,
       "follower_count": 10103,
       "language": "en",
       "started_at": "2026-08-29T02:03:07Z",
@@ -30,27 +30,12 @@
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "Looking for our first Defect win!",
-      "game_name": "Slay the Spire",
-      "viewer_count": 16,
-      "follower_count": 283,
-      "language": "en",
-      "started_at": "2026-08-29T00:55:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
       "user_login": "dingo_dynasty",
       "user_name": "Dingo_Dynasty",
       "is_live": true,
       "title": "Where The Rats AT!?!?! | Resonance: A Plague Tale Legacy | Therapy & Chaos",
       "game_name": "Resonance: A Plague Tale Legacy",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 900,
       "language": "en",
       "started_at": "2026-08-29T04:01:46Z",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/fallentitanandy",
       "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
+    },
+    {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 284,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "alfieduu",
