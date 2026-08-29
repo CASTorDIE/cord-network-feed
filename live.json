@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T12:47:58.347Z",
+  "generatedAt": "2026-08-29T12:52:58.410Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T12:47:58.347Z",
+    "fetchedAt": "2026-08-29T12:52:58.410Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|We are working on our weekly to-dos |!modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 55,
+      "viewer_count": 48,
       "follower_count": 2766,
       "language": "en",
       "started_at": "2026-08-29T12:01:20Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👁️your song requests - piano / ukulele [novice] 🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 410,
       "language": "en",
       "started_at": "2026-08-29T12:16:36Z",
