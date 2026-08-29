@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T12:02:58.305Z",
+  "generatedAt": "2026-08-29T12:07:58.256Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T12:02:58.305Z",
+    "fetchedAt": "2026-08-29T12:07:58.256Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "fallentitanandy",
-      "user_name": "FallenTitanAndy",
-      "is_live": true,
-      "title": "Fishing Gone Wrong?",
-      "game_name": "How to Fish",
-      "viewer_count": 1,
-      "follower_count": 417,
-      "language": "en",
-      "started_at": "2026-08-29T09:41:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/fallentitanandy",
-      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
-    },
-    {
       "user_login": "jaxsberrypatch",
       "user_name": "jaxsberrypatch",
       "is_live": true,
       "title": "|We are working on our weekly to-dos |!modpack !giveaway !discord !tip !linktree !merch |",
-      "game_name": "Minecraft",
-      "viewer_count": 0,
+      "game_name": "Disney Dreamlight Valley",
+      "viewer_count": 27,
       "follower_count": 2766,
       "language": "en",
       "started_at": "2026-08-29T12:01:20Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
       "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
+    },
+    {
+      "user_login": "fallentitanandy",
+      "user_name": "FallenTitanAndy",
+      "is_live": true,
+      "title": "Fishing Gone Wrong?",
+      "game_name": "How to Fish",
+      "viewer_count": 2,
+      "follower_count": 418,
+      "language": "en",
+      "started_at": "2026-08-29T09:41:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/fallentitanandy",
+      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "4kaizen_gaming",
