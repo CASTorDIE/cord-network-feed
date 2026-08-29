@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T23:17:58.411Z",
+  "generatedAt": "2026-08-29T23:22:58.396Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T23:17:58.411Z",
+    "fetchedAt": "2026-08-29T23:22:58.396Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 66,
-      "follower_count": 2454,
+      "viewer_count": 67,
+      "follower_count": 2453,
       "language": "en",
       "started_at": "2026-08-29T22:43:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Stream Title Update: I missed you! | CreepShow/Person 5 Royal | Join th discord :]",
       "game_name": "Just Chatting",
-      "viewer_count": 11,
+      "viewer_count": 9,
       "follower_count": 532,
       "language": "en",
       "started_at": "2026-08-29T22:04:44Z",
