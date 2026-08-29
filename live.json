@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T19:37:58.075Z",
+  "generatedAt": "2026-08-29T19:42:57.845Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T19:37:58.075Z",
+    "fetchedAt": "2026-08-29T19:42:57.845Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 7🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 55,
+      "viewer_count": 56,
       "follower_count": 10617,
       "language": "en",
       "started_at": "2026-08-29T18:22:26Z",
@@ -30,12 +30,27 @@
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
+      "user_login": "zaldar87",
+      "user_name": "Zaldar87",
+      "is_live": true,
+      "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEY DROP| !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
+      "game_name": "Marbles on Stream",
+      "viewer_count": 18,
+      "follower_count": 10103,
+      "language": "en",
+      "started_at": "2026-08-29T19:35:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zaldar87",
+      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
+    },
+    {
       "user_login": "beckybplays",
       "user_name": "BeckyBPlays",
       "is_live": true,
       "title": "Then We're Going Into THE MANSION | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-08-29T13:07:24Z",
@@ -50,7 +65,7 @@
       "is_live": true,
       "title": "Coding the Metroid Dread Map Tracker before Chrono Trigger Runs! | 29/08/2026",
       "game_name": "Metroid Dread",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-08-29T18:39:13Z",
@@ -58,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
-    },
-    {
-      "user_login": "zaldar87",
-      "user_name": "Zaldar87",
-      "is_live": true,
-      "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEY DROP| !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
-      "game_name": "Marbles on Stream",
-      "viewer_count": 6,
-      "follower_count": 10103,
-      "language": "en",
-      "started_at": "2026-08-29T19:35:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zaldar87",
-      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "thepuckgoa",
