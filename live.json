@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T10:32:57.905Z",
+  "generatedAt": "2026-08-29T10:37:58.143Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T10:32:57.905Z",
+    "fetchedAt": "2026-08-29T10:37:58.143Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,8 +18,8 @@
       "user_login": "fallentitanandy",
       "user_name": "FallenTitanAndy",
       "is_live": true,
-      "title": "Is Delta Force like Battfield?",
-      "game_name": "Delta Force",
+      "title": "Fishing Gone Wrong?",
+      "game_name": "How to Fish",
       "viewer_count": 1,
       "follower_count": 417,
       "language": "en",
