@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T17:12:57.853Z",
+  "generatedAt": "2026-08-29T17:17:57.773Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T17:12:57.853Z",
+    "fetchedAt": "2026-08-29T17:17:57.773Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ENDACOPIA | I Woke Up Early For You People! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Endacopia",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 1724,
       "language": "en",
       "started_at": "2026-08-29T15:55:21Z",
@@ -216,7 +216,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113638,
+      "follower_count": 113639,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
