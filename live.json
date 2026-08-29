@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T23:27:58.204Z",
+  "generatedAt": "2026-08-29T23:32:58.277Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T23:27:58.204Z",
+    "fetchedAt": "2026-08-29T23:32:58.277Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 66,
+      "viewer_count": 70,
       "follower_count": 2453,
       "language": "en",
       "started_at": "2026-08-29T22:43:28Z",
@@ -34,8 +34,8 @@
       "user_name": "ZombaeSempai",
       "is_live": true,
       "title": "Stream Title Update: I missed you! | CreepShow/Person 5 Royal | Join th discord :]",
-      "game_name": "Just Chatting",
-      "viewer_count": 10,
+      "game_name": "Creepshow",
+      "viewer_count": 11,
       "follower_count": 532,
       "language": "en",
       "started_at": "2026-08-29T22:04:44Z",
