@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-29T21:07:57.960Z",
+  "generatedAt": "2026-08-29T21:12:57.981Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T21:07:57.960Z",
+    "fetchedAt": "2026-08-29T21:12:57.981Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEY DROP| !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Marbles on Stream",
-      "viewer_count": 151,
+      "viewer_count": 148,
       "follower_count": 10111,
       "language": "en",
       "started_at": "2026-08-29T19:35:53Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "QUICK REM PLAY THEN TOMORROW 207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 7🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "Deadlock",
-      "viewer_count": 66,
+      "viewer_count": 55,
       "follower_count": 10616,
       "language": "en",
       "started_at": "2026-08-29T18:22:26Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Coding the Metroid Dread Map Tracker before Chrono Trigger Runs! | 29/08/2026",
       "game_name": "Metroid Dread",
-      "viewer_count": 8,
+      "viewer_count": 7,
       "follower_count": 726,
       "language": "en",
       "started_at": "2026-08-29T18:39:13Z",
@@ -58,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
-    },
-    {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": true,
-      "title": "Affiliate Grindin.. (Deadlock Edition) will we suffer today??",
-      "game_name": "Deadlock",
-      "viewer_count": 1,
-      "follower_count": 23,
-      "language": "en",
-      "started_at": "2026-08-29T18:02:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -480,6 +465,21 @@
       "description": "I'm not very good at it - but I do it anyway"
     },
     {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 23,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
+    },
+    {
       "user_login": "mustardfennek",
       "user_name": "mustardfennek",
       "is_live": false,
@@ -561,7 +561,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 391,
+      "follower_count": 390,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
