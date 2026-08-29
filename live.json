@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T17:47:57.818Z",
+  "generatedAt": "2026-08-29T17:52:57.914Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T17:47:57.818Z",
+    "fetchedAt": "2026-08-29T17:52:57.914Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Then We're Going Into THE MANSION | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 39,
+      "viewer_count": 33,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-08-29T13:07:24Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ENDACOPIA | I Woke Up Early For You People! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Endacopia",
-      "viewer_count": 11,
+      "viewer_count": 14,
       "follower_count": 1724,
       "language": "en",
       "started_at": "2026-08-29T15:55:21Z",
