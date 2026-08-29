@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T22:12:58.517Z",
+  "generatedAt": "2026-08-29T22:17:58.214Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T22:12:58.517Z",
+    "fetchedAt": "2026-08-29T22:17:58.214Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEY DROP| !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Marbles on Stream",
-      "viewer_count": 137,
+      "viewer_count": 144,
       "follower_count": 10111,
       "language": "en",
       "started_at": "2026-08-29T19:35:53Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Stream Title Update: I missed you! | CreepShow/Person 5 Royal | Join th discord :]",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 532,
       "language": "en",
       "started_at": "2026-08-29T22:04:44Z",
