@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T06:57:57.847Z",
+  "generatedAt": "2026-08-29T07:02:57.713Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T06:57:57.847Z",
+    "fetchedAt": "2026-08-29T07:02:57.713Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| I WAS HUMAN ONCE NOW ONLY FUR | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Once Human",
-      "viewer_count": 96,
+      "viewer_count": 98,
       "follower_count": 10105,
       "language": "en",
       "started_at": "2026-08-29T02:03:07Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Where The Rats AT!?!?! | Resonance: A Plague Tale Legacy | Therapy & Chaos",
       "game_name": "Resonance: A Plague Tale Legacy",
-      "viewer_count": 26,
+      "viewer_count": 24,
       "follower_count": 901,
       "language": "en",
       "started_at": "2026-08-29T04:01:46Z",
