@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T21:27:58.276Z",
+  "generatedAt": "2026-08-29T21:32:57.996Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T21:27:58.276Z",
+    "fetchedAt": "2026-08-29T21:32:57.996Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "QUICK REM PLAY THEN TOMORROW 207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 7🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "Deadlock",
-      "viewer_count": 44,
-      "follower_count": 10616,
+      "viewer_count": 55,
+      "follower_count": 10617,
       "language": "en",
       "started_at": "2026-08-29T18:22:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
