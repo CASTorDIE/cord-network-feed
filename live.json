@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T14:07:57.419Z",
+  "generatedAt": "2026-08-29T14:12:57.495Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T14:07:57.419Z",
+    "fetchedAt": "2026-08-29T14:12:57.495Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐DROPS⭐ Hunting the NEW Muujimothy Plushie!   !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 57,
+      "viewer_count": 51,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-08-29T13:07:24Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|We are working on our weekly to-dos |!modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "IRL",
-      "viewer_count": 37,
+      "viewer_count": 33,
       "follower_count": 2767,
       "language": "en",
       "started_at": "2026-08-29T13:35:29Z",
