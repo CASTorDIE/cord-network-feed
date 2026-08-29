@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-29T18:37:57.961Z",
+  "generatedAt": "2026-08-29T18:42:57.791Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T18:37:57.961Z",
+    "fetchedAt": "2026-08-29T18:42:57.791Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 7🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "ELDEN RING",
-      "viewer_count": 44,
+      "viewer_count": 45,
       "follower_count": 10617,
       "language": "en",
       "started_at": "2026-08-29T18:22:26Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Then We're Going Into THE MANSION | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 15,
+      "viewer_count": 17,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-08-29T13:07:24Z",
@@ -45,12 +45,27 @@
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": true,
+      "title": "Coding the Metroid Dread Map Tracker before Chrono Trigger Runs! | 29/08/2026",
+      "game_name": "Metroid Dread",
+      "viewer_count": 2,
+      "follower_count": 725,
+      "language": "en",
+      "started_at": "2026-08-29T18:39:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
+    },
+    {
       "user_login": "mrcarameldrizzle",
       "user_name": "MrCaramelDrizzle",
       "is_live": true,
       "title": "Smooth Jazz Saturday Slay Stream... || Sit back, relax, and vibe out for a bit. (Welcome in All New Viewers! Chatters and Lurkers Alike!)",
       "game_name": "Slay the Spire II",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 23,
       "language": "en",
       "started_at": "2026-08-29T18:02:15Z",
@@ -298,21 +313,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/fallentitanandy",
       "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
-    },
-    {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 725,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "floodwater_",
