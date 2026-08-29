@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T15:42:57.509Z",
+  "generatedAt": "2026-08-29T15:47:57.430Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T15:42:57.509Z",
+    "fetchedAt": "2026-08-29T15:47:57.430Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|Froge Pond SMP!!|!modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 28,
+      "viewer_count": 29,
       "follower_count": 2766,
       "language": "en",
       "started_at": "2026-08-29T13:35:29Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Trying this new cozy game",
       "game_name": "Spirit Crossing",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 461,
       "language": "en",
       "started_at": "2026-08-29T14:48:08Z",
