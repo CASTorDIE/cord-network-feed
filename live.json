@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T21:17:58.158Z",
+  "generatedAt": "2026-08-29T21:22:58.029Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T21:17:58.158Z",
+    "fetchedAt": "2026-08-29T21:22:58.029Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEY DROP| !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Marbles on Stream",
-      "viewer_count": 152,
+      "viewer_count": 153,
       "follower_count": 10111,
       "language": "en",
       "started_at": "2026-08-29T19:35:53Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "QUICK REM PLAY THEN TOMORROW 207 BOSSES | ELDEN RING \"DEATH LINK\" | DAY 7🎀 !ERGOALS -incentive to help or hurt players!!",
       "game_name": "Deadlock",
-      "viewer_count": 60,
+      "viewer_count": 62,
       "follower_count": 10616,
       "language": "en",
       "started_at": "2026-08-29T18:22:26Z",
