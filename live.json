@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T21:42:57.975Z",
+  "generatedAt": "2026-08-29T21:47:58.155Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T21:42:57.975Z",
+    "fetchedAt": "2026-08-29T21:47:58.155Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEY DROP| !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Marbles on Stream",
-      "viewer_count": 168,
+      "viewer_count": 155,
       "follower_count": 10111,
       "language": "en",
       "started_at": "2026-08-29T19:35:53Z",
