@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-29T17:57:57.698Z",
+  "generatedAt": "2026-08-29T18:02:57.691Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T17:57:57.698Z",
+    "fetchedAt": "2026-08-29T18:02:57.691Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Then We're Going Into THE MANSION | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 28,
+      "viewer_count": 23,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-08-29T13:07:24Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ENDACOPIA | I Woke Up Early For You People! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Endacopia",
-      "viewer_count": 12,
+      "viewer_count": 14,
       "follower_count": 1724,
       "language": "en",
       "started_at": "2026-08-29T15:55:21Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Group Thangs @boopitz ! I'm brand new",
       "game_name": "Marvel Rivals",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 465,
       "language": "en",
       "started_at": "2026-08-29T14:48:08Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Ashley Stole my Lunch Money!",
       "game_name": "Resident Evil 4",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 22,
       "language": "en",
       "started_at": "2026-08-29T17:09:40Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": true,
+      "title": "Smooth Jazz Saturday Slay Stream... || Sit back, relax, and vibe out for a bit. (Welcome in All New Viewers! Chatters and Lurkers Alike!)",
+      "game_name": "Slay the Spire II",
+      "viewer_count": 0,
+      "follower_count": 23,
+      "language": "en",
+      "started_at": "2026-08-29T18:02:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -171,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10615,
+      "follower_count": 10616,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -495,21 +510,6 @@
       "description": "I'm not very good at it - but I do it anyway"
     },
     {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 23,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0edf9e5d-7c8d-4a28-a378-d51eec2da7e8-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
-    },
-    {
       "user_login": "mustardfennek",
       "user_name": "mustardfennek",
       "is_live": false,
@@ -651,7 +651,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10104,
+      "follower_count": 10105,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
