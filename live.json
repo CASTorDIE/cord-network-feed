@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T23:47:58.206Z",
+  "generatedAt": "2026-08-29T23:52:58.236Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T23:47:58.206Z",
+    "fetchedAt": "2026-08-29T23:52:58.236Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
-      "game_name": "Just Chatting",
-      "viewer_count": 64,
-      "follower_count": 2453,
-      "language": "en",
-      "started_at": "2026-08-29T22:43:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🔴 MW4 BETA | NEW WARZONE + COMMUNITY GAMES | PARTNER PLUS GOAL: 230/300",
       "game_name": "Just Chatting",
-      "viewer_count": 57,
+      "viewer_count": 112,
       "follower_count": 14366,
       "language": "en",
       "started_at": "2026-08-29T23:39:01Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/skavstheworld",
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
+      "game_name": "Just Chatting",
+      "viewer_count": 66,
+      "follower_count": 2453,
+      "language": "en",
+      "started_at": "2026-08-29T22:43:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "zombaesempai",
