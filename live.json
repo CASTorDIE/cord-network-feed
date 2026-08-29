@@ -1,34 +1,19 @@
 {
-  "generatedAt": "2026-08-29T07:47:57.686Z",
+  "generatedAt": "2026-08-29T07:52:57.702Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T07:47:57.686Z",
+    "fetchedAt": "2026-08-29T07:52:57.702Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 0,
+    "offlineCount": 44
   },
   "streamers": [
-    {
-      "user_login": "dingo_dynasty",
-      "user_name": "Dingo_Dynasty",
-      "is_live": true,
-      "title": "Where The Rats AT!?!?! | Resonance: A Plague Tale Legacy | Therapy & Chaos",
-      "game_name": "Resonance: A Plague Tale Legacy",
-      "viewer_count": 18,
-      "follower_count": 901,
-      "language": "en",
-      "started_at": "2026-08-29T04:01:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
-      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
-    },
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
@@ -253,6 +238,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
+    },
+    {
+      "user_login": "dingo_dynasty",
+      "user_name": "Dingo_Dynasty",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 901,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
+      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
       "user_login": "fallentitanandy",
