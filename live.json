@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-29T16:57:57.568Z",
+  "generatedAt": "2026-08-29T17:02:57.686Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T16:57:57.568Z",
+    "fetchedAt": "2026-08-29T17:02:57.686Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐DROPS⭐ Hunting the NEW Muujimothy Plushie!   !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 61,
+      "viewer_count": 62,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-08-29T13:07:24Z",
@@ -34,8 +34,8 @@
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "ENDACOPIA | I Woke Up Early For You People! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "Just Chatting",
-      "viewer_count": 19,
+      "game_name": "Endacopia",
+      "viewer_count": 20,
       "follower_count": 1724,
       "language": "en",
       "started_at": "2026-08-29T15:55:21Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Group Thangs @boopitz ! I'm brand new",
       "game_name": "Marvel Rivals",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 465,
       "language": "en",
       "started_at": "2026-08-29T14:48:08Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": true,
+      "title": "Ashley Stole my Lunch Money!",
+      "game_name": "Resident Evil 4",
+      "viewer_count": 1,
+      "follower_count": 22,
+      "language": "en",
+      "started_at": "2026-08-29T17:00:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -583,21 +598,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/slimchungusgaming",
       "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 22,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
