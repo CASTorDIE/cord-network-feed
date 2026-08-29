@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T06:37:57.697Z",
+  "generatedAt": "2026-08-29T06:42:57.493Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T06:37:57.697Z",
+    "fetchedAt": "2026-08-29T06:42:57.493Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| I WAS HUMAN ONCE NOW ONLY FUR | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Once Human",
-      "viewer_count": 103,
+      "viewer_count": 100,
       "follower_count": 10105,
       "language": "en",
       "started_at": "2026-08-29T02:03:07Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Where The Rats AT!?!?! | Resonance: A Plague Tale Legacy | Therapy & Chaos",
       "game_name": "Resonance: A Plague Tale Legacy",
-      "viewer_count": 11,
-      "follower_count": 900,
+      "viewer_count": 25,
+      "follower_count": 901,
       "language": "en",
       "started_at": "2026-08-29T04:01:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
