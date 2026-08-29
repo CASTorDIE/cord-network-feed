@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T05:22:57.372Z",
+  "generatedAt": "2026-08-29T05:27:57.622Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-29T05:22:57.372Z",
+    "fetchedAt": "2026-08-29T05:27:57.622Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| I WAS HUMAN ONCE NOW ONLY FUR | !pizza !discord !telegram !vrc | T1-T3 Subs & 50+ bits Gif Block the Screen",
       "game_name": "Once Human",
-      "viewer_count": 98,
-      "follower_count": 10103,
+      "viewer_count": 109,
+      "follower_count": 10104,
       "language": "en",
       "started_at": "2026-08-29T02:03:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
