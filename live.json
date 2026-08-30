@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T04:07:57.626Z",
+  "generatedAt": "2026-08-30T04:12:57.529Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T04:07:57.626Z",
+    "fetchedAt": "2026-08-30T04:12:57.529Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴 OVER the Beta - Trying Fortnite?! | PARTNER PLUS GOAL: 250/300",
       "game_name": "Fortnite",
-      "viewer_count": 101,
-      "follower_count": 14377,
+      "viewer_count": 91,
+      "follower_count": 14378,
       "language": "en",
       "started_at": "2026-08-29T23:39:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I'm Back on that weird S**t again",
       "game_name": "Just Chatting",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 336,
       "language": "en",
       "started_at": "2026-08-30T01:51:50Z",
