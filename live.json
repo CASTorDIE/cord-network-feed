@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-30T03:52:57.634Z",
+  "generatedAt": "2026-08-30T03:57:58.006Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T03:52:57.634Z",
+    "fetchedAt": "2026-08-30T03:57:58.006Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 OVER the Beta - Trying Fortnite?! | PARTNER PLUS GOAL: 250/300",
       "game_name": "Fortnite",
-      "viewer_count": 96,
+      "viewer_count": 93,
       "follower_count": 14376,
       "language": "en",
       "started_at": "2026-08-29T23:39:01Z",
@@ -30,27 +30,12 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "Day 1 now that we finished Spire 1",
-      "game_name": "Slay the Spire II",
-      "viewer_count": 12,
-      "follower_count": 284,
-      "language": "en",
-      "started_at": "2026-08-30T01:01:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "I'm Back on that weird S**t again",
       "game_name": "Just Chatting",
-      "viewer_count": 4,
+      "viewer_count": 7,
       "follower_count": 336,
       "language": "en",
       "started_at": "2026-08-30T01:51:50Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 284,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "alfieduu",
