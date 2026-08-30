@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-30T00:57:57.429Z",
+  "generatedAt": "2026-08-30T01:02:57.376Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T00:57:57.429Z",
+    "fetchedAt": "2026-08-30T01:02:57.376Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 MW4 BETA | NEW WARZONE + COMMUNITY GAMES | PARTNER PLUS GOAL: 230/300",
       "game_name": "Call of Duty: Modern Warfare 4",
-      "viewer_count": 107,
+      "viewer_count": 111,
       "follower_count": 14369,
       "language": "en",
       "started_at": "2026-08-29T23:39:01Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "How to Fish",
-      "viewer_count": 58,
+      "viewer_count": 55,
       "follower_count": 2453,
       "language": "en",
       "started_at": "2026-08-30T00:38:21Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Stream Title Update: I missed you! | CreepShow/Person 5 Royal | Join th discord :]",
       "game_name": "Creepshow",
-      "viewer_count": 14,
+      "viewer_count": 15,
       "follower_count": 534,
       "language": "en",
       "started_at": "2026-08-29T22:04:44Z",
@@ -77,17 +77,32 @@
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
+      "is_live": true,
+      "title": "Day 1 now that we finished Spire 1",
+      "game_name": "Slay the Spire II",
+      "viewer_count": 0,
       "follower_count": 284,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
+      "language": "en",
+      "started_at": "2026-08-30T01:01:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": true,
+      "title": "Fishing with...GUNS?",
+      "game_name": "How to Fish",
+      "viewer_count": 0,
+      "follower_count": 1051,
+      "language": "en",
+      "started_at": "2026-08-30T01:02:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "alfieduu",
@@ -268,21 +283,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10fbac99-b892-40b3-88cb-3ba197ba88f8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/darkdemocracytv",
       "description": "Healthcare by day, streaming by night! I'm Adam a dad, who love all things games, anime, and entertainment, and I'm so glad you're here with us! "
-    },
-    {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1051,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "dingo_dynasty",
