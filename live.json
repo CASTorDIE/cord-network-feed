@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-30T00:32:58.540Z",
+  "generatedAt": "2026-08-30T00:37:57.325Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T00:32:58.540Z",
+    "fetchedAt": "2026-08-30T00:37:57.325Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 MW4 BETA | NEW WARZONE + COMMUNITY GAMES | PARTNER PLUS GOAL: 230/300",
       "game_name": "Call of Duty: Modern Warfare 4",
-      "viewer_count": 112,
+      "viewer_count": 110,
       "follower_count": 14368,
       "language": "en",
       "started_at": "2026-08-29T23:39:01Z",
@@ -30,27 +30,12 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
-      "game_name": "Just Chatting",
-      "viewer_count": 84,
-      "follower_count": 2453,
-      "language": "en",
-      "started_at": "2026-08-29T22:43:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "zombaesempai",
       "user_name": "ZombaeSempai",
       "is_live": true,
       "title": "Stream Title Update: I missed you! | CreepShow/Person 5 Royal | Join th discord :]",
       "game_name": "Creepshow",
-      "viewer_count": 16,
+      "viewer_count": 14,
       "follower_count": 534,
       "language": "en",
       "started_at": "2026-08-29T22:04:44Z",
@@ -148,6 +133,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2453,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
