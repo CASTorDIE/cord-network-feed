@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T12:02:57.397Z",
+  "generatedAt": "2026-08-30T12:07:57.603Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T12:02:57.397Z",
+    "fetchedAt": "2026-08-30T12:07:57.603Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|Surival World Day 2| Making a fall themed survial town |!modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 3,
+      "viewer_count": 11,
       "follower_count": 2766,
       "language": "en",
       "started_at": "2026-08-30T12:00:27Z",
