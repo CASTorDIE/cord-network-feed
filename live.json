@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T14:52:57.789Z",
+  "generatedAt": "2026-08-30T14:57:57.843Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T14:52:57.789Z",
+    "fetchedAt": "2026-08-30T14:57:57.843Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "jaxsberrypatch",
-      "user_name": "jaxsberrypatch",
-      "is_live": true,
-      "title": "|Surival World Day 2| Making a fall themed survial town |!modpack !giveaway !discord !tip !linktree !merch |",
-      "game_name": "Minecraft",
-      "viewer_count": 39,
-      "follower_count": 2764,
-      "language": "en",
-      "started_at": "2026-08-30T12:00:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
-      "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
-    },
-    {
       "user_login": "beckybplays",
       "user_name": "BeckyBPlays",
       "is_live": true,
       "title": "⭐DROP⭐ Material Hunting and Plushie Hunting Prep | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 38,
+      "viewer_count": 45,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-08-30T13:03:33Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
+      "user_login": "jaxsberrypatch",
+      "user_name": "jaxsberrypatch",
+      "is_live": true,
+      "title": "|Surival World Day 2| Making a fall themed survial town |!modpack !giveaway !discord !tip !linktree !merch |",
+      "game_name": "Minecraft",
+      "viewer_count": 42,
+      "follower_count": 2764,
+      "language": "en",
+      "started_at": "2026-08-30T12:00:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
+      "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
     {
       "user_login": "4kaizen_gaming",
