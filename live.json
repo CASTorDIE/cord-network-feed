@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T16:37:57.826Z",
+  "generatedAt": "2026-08-30T16:42:58.132Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T16:37:57.826Z",
+    "fetchedAt": "2026-08-30T16:42:58.132Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐DROP⭐ Material Hunting and Plushie Hunting Prep | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 50,
+      "viewer_count": 53,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-08-30T13:03:33Z",
@@ -621,7 +621,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8701,
+      "follower_count": 8702,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
