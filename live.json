@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T03:27:57.787Z",
+  "generatedAt": "2026-08-30T03:32:57.795Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T03:27:57.787Z",
+    "fetchedAt": "2026-08-30T03:32:57.795Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 OVER the Beta - Trying Fortnite?! | PARTNER PLUS GOAL: 250/300",
       "game_name": "Fortnite",
-      "viewer_count": 101,
+      "viewer_count": 88,
       "follower_count": 14376,
       "language": "en",
       "started_at": "2026-08-29T23:39:01Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Day 1 now that we finished Spire 1",
       "game_name": "Slay the Spire II",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "follower_count": 284,
       "language": "en",
       "started_at": "2026-08-30T01:01:03Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcf57e8c-efd8-46a0-8250-63818c9a6029-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": true,
+      "title": "I'm Back on that weird S**t again",
+      "game_name": "Just Chatting",
+      "viewer_count": 4,
+      "follower_count": 336,
+      "language": "en",
+      "started_at": "2026-08-30T01:51:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "desertrose",
@@ -58,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": true,
-      "title": "I'm Back on that weird S**t again",
-      "game_name": "Just Chatting",
-      "viewer_count": 3,
-      "follower_count": 336,
-      "language": "en",
-      "started_at": "2026-08-30T01:51:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "alfieduu",
