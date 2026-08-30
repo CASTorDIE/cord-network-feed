@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T01:17:57.328Z",
+  "generatedAt": "2026-08-30T01:22:57.349Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T01:17:57.328Z",
+    "fetchedAt": "2026-08-30T01:22:57.349Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "How to Fish",
-      "viewer_count": 50,
+      "viewer_count": 57,
       "follower_count": 2453,
       "language": "en",
       "started_at": "2026-08-30T00:38:21Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 1 now that we finished Spire 1",
       "game_name": "Slay the Spire II",
-      "viewer_count": 5,
+      "viewer_count": 8,
       "follower_count": 284,
       "language": "en",
       "started_at": "2026-08-30T01:01:03Z",
