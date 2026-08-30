@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T06:22:57.818Z",
+  "generatedAt": "2026-08-30T06:27:58.000Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T06:22:57.818Z",
+    "fetchedAt": "2026-08-30T06:27:58.000Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 OVER the Beta - Trying Fortnite?! | PARTNER PLUS GOAL: 250/300",
       "game_name": "Fortnite",
-      "viewer_count": 79,
+      "viewer_count": 105,
       "follower_count": 14380,
       "language": "en",
       "started_at": "2026-08-29T23:39:01Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Its Gonna Be A Big Walk...",
       "game_name": "Big Walk",
-      "viewer_count": 8,
-      "follower_count": 216,
+      "viewer_count": 13,
+      "follower_count": 217,
       "language": "en",
       "started_at": "2026-08-30T06:00:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
