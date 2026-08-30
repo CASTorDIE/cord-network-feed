@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T17:57:58.173Z",
+  "generatedAt": "2026-08-30T18:02:58.215Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T17:57:58.173Z",
+    "fetchedAt": "2026-08-30T18:02:58.215Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐DROP⭐ Material Hunting and Plushie Hunting Prep | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 83,
+      "viewer_count": 87,
       "follower_count": 5136,
       "language": "en",
       "started_at": "2026-08-30T13:03:33Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Puzzles... puzzles.... and more?",
       "game_name": "Big Walk",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 1053,
       "language": "en",
       "started_at": "2026-08-30T15:16:12Z",
