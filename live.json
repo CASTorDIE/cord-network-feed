@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T13:47:57.599Z",
+  "generatedAt": "2026-08-30T13:52:57.572Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T13:47:57.599Z",
+    "fetchedAt": "2026-08-30T13:52:57.572Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|Surival World Day 2| Making a fall themed survial town |!modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 64,
+      "viewer_count": 62,
       "follower_count": 2766,
       "language": "en",
       "started_at": "2026-08-30T12:00:27Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "⭐DROP⭐ Material Hunting and Plushie Hunting Prep | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 37,
+      "viewer_count": 35,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-08-30T13:03:33Z",
