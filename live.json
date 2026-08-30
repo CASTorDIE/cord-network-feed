@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T05:42:57.852Z",
+  "generatedAt": "2026-08-30T05:47:57.944Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T05:42:57.852Z",
+    "fetchedAt": "2026-08-30T05:47:57.944Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 OVER the Beta - Trying Fortnite?! | PARTNER PLUS GOAL: 250/300",
       "game_name": "Fortnite",
-      "viewer_count": 91,
+      "viewer_count": 94,
       "follower_count": 14379,
       "language": "en",
       "started_at": "2026-08-29T23:39:01Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "I'm Back on that weird S**t again",
       "game_name": "Just Chatting",
-      "viewer_count": 4,
-      "follower_count": 336,
+      "viewer_count": 5,
+      "follower_count": 337,
       "language": "en",
       "started_at": "2026-08-30T01:51:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
