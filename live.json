@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-30T01:47:57.283Z",
+  "generatedAt": "2026-08-30T01:52:57.315Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T01:47:57.283Z",
+    "fetchedAt": "2026-08-30T01:52:57.315Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 MW4 BETA | NEW WARZONE + COMMUNITY GAMES | PARTNER PLUS GOAL: 230/300",
       "game_name": "Call of Duty: Modern Warfare 4",
-      "viewer_count": 109,
+      "viewer_count": 103,
       "follower_count": 14372,
       "language": "en",
       "started_at": "2026-08-29T23:39:01Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "How to Fish",
-      "viewer_count": 49,
+      "viewer_count": 47,
       "follower_count": 2454,
       "language": "en",
       "started_at": "2026-08-30T00:38:21Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 1 now that we finished Spire 1",
       "game_name": "Slay the Spire II",
-      "viewer_count": 6,
+      "viewer_count": 8,
       "follower_count": 284,
       "language": "en",
       "started_at": "2026-08-30T01:01:03Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Fishing with...GUNS?",
       "game_name": "How to Fish",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "follower_count": 1052,
       "language": "en",
       "started_at": "2026-08-30T01:02:39Z",
@@ -88,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": true,
+      "title": "I'm Back on that weird S**t again",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 336,
+      "language": "en",
+      "started_at": "2026-08-30T01:51:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "alfieduu",
@@ -328,21 +343,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
-    },
-    {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 336,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "gibsontales",
