@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T20:57:58.438Z",
+  "generatedAt": "2026-08-30T21:02:58.487Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T20:57:58.438Z",
+    "fetchedAt": "2026-08-30T21:02:58.487Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "♡ GET YOUR POKEMON! ♡ ⋆(๑•ᴗ•๑) | Pokemon FireRed | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Pokémon FireRed/LeafGreen",
-      "viewer_count": 9,
+      "viewer_count": 13,
       "follower_count": 1342,
       "language": "en",
       "started_at": "2026-08-30T20:21:20Z",
