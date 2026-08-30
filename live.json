@@ -1,34 +1,19 @@
 {
-  "generatedAt": "2026-08-30T18:37:58.088Z",
+  "generatedAt": "2026-08-30T18:42:58.255Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T18:37:58.088Z",
+    "fetchedAt": "2026-08-30T18:42:58.255Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
-    {
-      "user_login": "beckybplays",
-      "user_name": "BeckyBPlays",
-      "is_live": true,
-      "title": "⭐DROP⭐ Material Hunting and Plushie Hunting Prep | !hype !newvlog !gamevideo",
-      "game_name": "Palia",
-      "viewer_count": 73,
-      "follower_count": 5136,
-      "language": "en",
-      "started_at": "2026-08-30T13:03:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/beckybplays",
-      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
-    },
     {
       "user_login": "desertrose",
       "user_name": "Desertrose",
@@ -148,6 +133,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "beckybplays",
+      "user_name": "BeckyBPlays",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 5136,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/beckybplays",
+      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
       "user_login": "billygoat",
