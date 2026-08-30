@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T16:32:57.825Z",
+  "generatedAt": "2026-08-30T16:37:57.826Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T16:32:57.825Z",
+    "fetchedAt": "2026-08-30T16:37:57.826Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "BeckyBPlays",
       "is_live": true,
       "title": "⭐DROP⭐ Material Hunting and Plushie Hunting Prep | !hype !newvlog !gamevideo",
-      "game_name": "Just Chatting",
-      "viewer_count": 45,
+      "game_name": "Palia",
+      "viewer_count": 50,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-08-30T13:03:33Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Puzzles... puzzles.... and more?",
       "game_name": "Big Walk",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 1053,
       "language": "en",
       "started_at": "2026-08-30T15:16:12Z",
