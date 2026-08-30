@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T09:17:58.092Z",
+  "generatedAt": "2026-08-30T09:22:58.328Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T09:17:58.092Z",
+    "fetchedAt": "2026-08-30T09:22:58.328Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Its Gonna Be A Big Walk...",
       "game_name": "Big Walk",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "follower_count": 218,
       "language": "en",
       "started_at": "2026-08-30T06:00:23Z",
