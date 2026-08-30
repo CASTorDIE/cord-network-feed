@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T02:47:57.632Z",
+  "generatedAt": "2026-08-30T02:52:57.715Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T02:47:57.632Z",
+    "fetchedAt": "2026-08-30T02:52:57.715Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 MW4 BETA | NEW WARZONE + COMMUNITY GAMES | PARTNER PLUS GOAL: 230/300",
       "game_name": "Call of Duty: Modern Warfare 4",
-      "viewer_count": 109,
+      "viewer_count": 107,
       "follower_count": 14374,
       "language": "en",
       "started_at": "2026-08-29T23:39:01Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "I'm Back on that weird S**t again",
       "game_name": "Just Chatting",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "follower_count": 336,
       "language": "en",
       "started_at": "2026-08-30T01:51:50Z",
