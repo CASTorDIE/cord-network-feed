@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T19:22:58.272Z",
+  "generatedAt": "2026-08-30T19:27:58.101Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T19:22:58.272Z",
+    "fetchedAt": "2026-08-30T19:27:58.101Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Puzzles... puzzles.... and more?",
       "game_name": "Big Walk",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 1053,
       "language": "en",
       "started_at": "2026-08-30T15:16:12Z",
