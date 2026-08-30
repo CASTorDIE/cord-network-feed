@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T06:17:57.977Z",
+  "generatedAt": "2026-08-30T06:22:57.818Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T06:17:57.977Z",
+    "fetchedAt": "2026-08-30T06:22:57.818Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴 OVER the Beta - Trying Fortnite?! | PARTNER PLUS GOAL: 250/300",
       "game_name": "Fortnite",
-      "viewer_count": 93,
-      "follower_count": 14379,
+      "viewer_count": 79,
+      "follower_count": 14380,
       "language": "en",
       "started_at": "2026-08-29T23:39:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
