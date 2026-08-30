@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T05:32:57.624Z",
+  "generatedAt": "2026-08-30T05:37:57.718Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T05:32:57.624Z",
+    "fetchedAt": "2026-08-30T05:37:57.718Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 OVER the Beta - Trying Fortnite?! | PARTNER PLUS GOAL: 250/300",
       "game_name": "Fortnite",
-      "viewer_count": 95,
+      "viewer_count": 100,
       "follower_count": 14379,
       "language": "en",
       "started_at": "2026-08-29T23:39:01Z",
