@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T16:02:57.795Z",
+  "generatedAt": "2026-08-30T16:07:58.105Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T16:02:57.795Z",
+    "fetchedAt": "2026-08-30T16:07:58.105Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐DROP⭐ Material Hunting and Plushie Hunting Prep | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 46,
+      "viewer_count": 43,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-08-30T13:03:33Z",
@@ -141,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10620,
+      "follower_count": 10621,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
