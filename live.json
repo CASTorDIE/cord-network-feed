@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T20:22:58.509Z",
+  "generatedAt": "2026-08-30T20:27:58.441Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T20:22:58.509Z",
+    "fetchedAt": "2026-08-30T20:27:58.441Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": true,
-      "title": "Puzzles... puzzles.... and more?",
-      "game_name": "Big Walk",
-      "viewer_count": 3,
-      "follower_count": 1053,
-      "language": "en",
-      "started_at": "2026-08-30T15:16:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
       "user_login": "padbae",
       "user_name": "padbae",
       "is_live": true,
       "title": "♡ GET YOUR POKEMON! ♡ ⋆(๑•ᴗ•๑) | Pokemon FireRed | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Pokémon FireRed/LeafGreen",
-      "viewer_count": 0,
+      "viewer_count": 7,
       "follower_count": 1342,
       "language": "en",
       "started_at": "2026-08-30T20:21:20Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/padbae",
       "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": true,
+      "title": "Puzzles... puzzles.... and more?",
+      "game_name": "Big Walk",
+      "viewer_count": 4,
+      "follower_count": 1053,
+      "language": "en",
+      "started_at": "2026-08-30T15:16:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113639,
+      "follower_count": 113638,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
