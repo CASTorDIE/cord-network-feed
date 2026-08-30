@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T18:57:58.320Z",
+  "generatedAt": "2026-08-30T19:02:58.136Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T18:57:58.320Z",
+    "fetchedAt": "2026-08-30T19:02:58.136Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I only shot Ashley in the face twice!",
       "game_name": "Resident Evil 4",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 22,
       "language": "en",
       "started_at": "2026-08-30T17:00:16Z",
