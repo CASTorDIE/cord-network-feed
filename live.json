@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-30T16:57:58.032Z",
+  "generatedAt": "2026-08-30T17:02:58.094Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T16:57:58.032Z",
+    "fetchedAt": "2026-08-30T17:02:58.094Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐DROP⭐ Material Hunting and Plushie Hunting Prep | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 58,
+      "viewer_count": 49,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-08-30T13:03:33Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": true,
+      "title": "I only shot Ashley in the face twice!",
+      "game_name": "Resident Evil 4",
+      "viewer_count": 1,
+      "follower_count": 22,
+      "language": "en",
+      "started_at": "2026-08-30T17:00:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -568,21 +583,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 22,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
