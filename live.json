@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T08:32:58.218Z",
+  "generatedAt": "2026-08-30T08:37:58.107Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T08:32:58.218Z",
+    "fetchedAt": "2026-08-30T08:37:58.107Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Its Gonna Be A Big Walk...",
       "game_name": "Big Walk",
-      "viewer_count": 9,
-      "follower_count": 217,
+      "viewer_count": 12,
+      "follower_count": 218,
       "language": "en",
       "started_at": "2026-08-30T06:00:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
@@ -111,7 +111,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2454,
+      "follower_count": 2455,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
