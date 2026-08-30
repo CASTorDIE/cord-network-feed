@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-08-30T06:42:57.826Z",
+  "generatedAt": "2026-08-30T06:47:57.890Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-30T06:42:57.826Z",
+    "fetchedAt": "2026-08-30T06:47:57.890Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
-    {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "🔴 OVER the Beta - Trying Fortnite?! | PARTNER PLUS GOAL: 250/300",
-      "game_name": "Fortnite",
-      "viewer_count": 93,
-      "follower_count": 14380,
-      "language": "en",
-      "started_at": "2026-08-29T23:39:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
     {
       "user_login": "rickett_raffy",
       "user_name": "rickett_raffy",
       "is_live": true,
       "title": "Its Gonna Be A Big Walk...",
       "game_name": "Big Walk",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "follower_count": 217,
       "language": "en",
       "started_at": "2026-08-30T06:00:23Z",
@@ -540,6 +525,21 @@
       "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 14380,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
       "user_login": "slimchungusgaming",
       "user_name": "SlimChungusGaming",
       "is_live": false,
@@ -636,7 +636,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 1724,
+      "follower_count": 1723,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
