@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-31T03:27:57.885Z",
+  "generatedAt": "2026-08-31T03:32:57.839Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-31T03:27:57.885Z",
+    "fetchedAt": "2026-08-31T03:32:57.839Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Voice acting with friends!! After a professional start || !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 44,
+      "viewer_count": 43,
       "follower_count": 6319,
       "language": "en",
       "started_at": "2026-08-30T23:30:33Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Just Felt Like Going Live | ReStory",
       "game_name": "ReStory: Chill Electronics Repairs",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 337,
       "language": "en",
       "started_at": "2026-08-30T23:35:09Z",
