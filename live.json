@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-31T21:07:57.583Z",
+  "generatedAt": "2026-08-31T21:12:57.583Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-31T21:07:57.583Z",
+    "fetchedAt": "2026-08-31T21:12:57.583Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "69 BOSSES LEFT| ELDEN RING \"DEATH LINK\" | DAY 8🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 64,
+      "viewer_count": 65,
       "follower_count": 10617,
       "language": "en",
       "started_at": "2026-08-31T18:39:25Z",
