@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-31T05:02:58.066Z",
+  "generatedAt": "2026-08-31T05:07:58.223Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-31T05:02:58.066Z",
+    "fetchedAt": "2026-08-31T05:07:58.223Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🪙Sonicx Fortnite?!?!? Yes!🪙!discord🪙Are you ready for 6am?🪙",
       "game_name": "Fortnite",
-      "viewer_count": 13,
+      "viewer_count": 15,
       "follower_count": 2113,
       "language": "en",
       "started_at": "2026-08-31T01:20:35Z",
