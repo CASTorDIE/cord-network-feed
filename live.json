@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-31T20:02:57.439Z",
+  "generatedAt": "2026-08-31T20:07:57.555Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-31T20:02:57.439Z",
+    "fetchedAt": "2026-08-31T20:07:57.555Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "69 BOSSES LEFT| ELDEN RING \"DEATH LINK\" | DAY 8🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 60,
-      "follower_count": 10619,
+      "viewer_count": 56,
+      "follower_count": 10618,
       "language": "en",
       "started_at": "2026-08-31T18:39:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113652,
+      "follower_count": 113653,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
