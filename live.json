@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-31T04:32:58.122Z",
+  "generatedAt": "2026-08-31T04:37:58.012Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-31T04:32:58.122Z",
+    "fetchedAt": "2026-08-31T04:37:58.012Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Voice acting with friends!! After a professional start || !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 43,
+      "viewer_count": 46,
       "follower_count": 6319,
       "language": "en",
       "started_at": "2026-08-30T23:30:33Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🪙Sonicx Fortnite?!?!? Yes!🪙!discord🪙Are you ready for 6am?🪙",
       "game_name": "Fortnite",
-      "viewer_count": 15,
+      "viewer_count": 14,
       "follower_count": 2113,
       "language": "en",
       "started_at": "2026-08-31T01:20:35Z",
