@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-31T18:42:57.355Z",
+  "generatedAt": "2026-08-31T18:47:57.346Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-31T18:42:57.355Z",
+    "fetchedAt": "2026-08-31T18:47:57.346Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "69 BOSSES LEFT| ELDEN RING \"DEATH LINK\" | DAY 8🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 1,
+      "viewer_count": 13,
       "follower_count": 10619,
       "language": "en",
       "started_at": "2026-08-31T18:39:25Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "daniii_phantommm",
+      "user_name": "daniii_phantommm",
+      "is_live": true,
+      "title": "🍪⛏️ GETTING THE MINECRAFT COOKIES 🍪⛏️ SWEET TREAT 🍪⛏️ JESUS IS KING🍪⛏️",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 43,
+      "language": "en",
+      "started_at": "2026-08-31T18:45:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daniii_phantommm-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
+      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -178,21 +193,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/brycexd",
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
-    {
-      "user_login": "daniii_phantommm",
-      "user_name": "daniii_phantommm",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 43,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75412e1f-b7ee-4755-9507-e661f96a4a9e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/daniii_phantommm",
-      "description": "Just a Jesus loving girl in the world who likes games, food and laughing!"
     },
     {
       "user_login": "danniedee55",
