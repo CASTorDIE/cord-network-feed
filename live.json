@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-31T22:07:57.675Z",
+  "generatedAt": "2026-08-31T22:12:58.003Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-31T22:07:57.675Z",
+    "fetchedAt": "2026-08-31T22:12:58.003Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "69 BOSSES LEFT| ELDEN RING \"DEATH LINK\" | DAY 8🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 41,
-      "follower_count": 10615,
+      "viewer_count": 40,
+      "follower_count": 10614,
       "language": "en",
       "started_at": "2026-08-31T18:39:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Just Felt Like Going Live | ReStory",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 337,
       "language": "en",
       "started_at": "2026-08-31T22:03:54Z",
