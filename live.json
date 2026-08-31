@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-31T03:52:57.955Z",
+  "generatedAt": "2026-08-31T03:57:58.265Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-31T03:52:57.955Z",
+    "fetchedAt": "2026-08-31T03:57:58.265Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Voice acting with friends!! After a professional start || !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 45,
+      "viewer_count": 46,
       "follower_count": 6319,
       "language": "en",
       "started_at": "2026-08-30T23:30:33Z",
