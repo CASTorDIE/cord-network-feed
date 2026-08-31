@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-31T02:12:57.810Z",
+  "generatedAt": "2026-08-31T02:17:57.803Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-31T02:12:57.810Z",
+    "fetchedAt": "2026-08-31T02:17:57.803Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 91,
+      "viewer_count": 82,
       "follower_count": 2459,
       "language": "en",
       "started_at": "2026-08-31T00:16:40Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Voice acting with friends!! After a professional start || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 59,
+      "viewer_count": 61,
       "follower_count": 6319,
       "language": "en",
       "started_at": "2026-08-30T23:30:33Z",
