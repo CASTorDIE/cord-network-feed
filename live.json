@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-08-31T03:12:57.953Z",
+  "generatedAt": "2026-08-31T03:17:57.827Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-08-31T03:12:57.953Z",
+    "fetchedAt": "2026-08-31T03:17:57.827Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
-    {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPIN → GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
-      "game_name": "Games + Demos",
-      "viewer_count": 69,
-      "follower_count": 2459,
-      "language": "en",
-      "started_at": "2026-08-31T00:16:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
     {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "Voice acting with friends!! After a professional start || !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 47,
+      "viewer_count": 42,
       "follower_count": 6319,
       "language": "en",
       "started_at": "2026-08-30T23:30:33Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "🪙Sonicx Fortnite?!?!? Yes!🪙!discord🪙Are you ready for 6am?🪙",
       "game_name": "Fortnite",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 2111,
       "language": "en",
       "started_at": "2026-08-31T01:20:35Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "Just Felt Like Going Live | ReStory",
       "game_name": "ReStory: Chill Electronics Repairs",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 337,
       "language": "en",
       "started_at": "2026-08-30T23:35:09Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "How many cards can i hold in my hand at once?? | Late night RANDOM ONLY Ascension grind |",
       "game_name": "Slay the Spire II",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "follower_count": 23,
       "language": "en",
       "started_at": "2026-08-31T03:09:46Z",
@@ -148,6 +133,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2459,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
