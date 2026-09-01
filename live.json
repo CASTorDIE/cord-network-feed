@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T18:52:57.854Z",
+  "generatedAt": "2026-09-01T18:57:57.810Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-01T18:52:57.854Z",
+    "fetchedAt": "2026-09-01T18:57:57.810Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "Just Chatting",
-      "viewer_count": 0,
+      "viewer_count": 72,
       "follower_count": 14394,
       "language": "en",
       "started_at": "2026-09-01T18:51:43Z",
@@ -576,7 +576,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 23,
+      "follower_count": 24,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
