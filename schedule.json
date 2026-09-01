@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-01T21:22:27.668Z",
+  "generatedAt": "2026-09-01T21:27:19.740Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-09-01T21:22:27.635Z",
+    "updatedAt": "2026-09-01T21:27:19.709Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 16,
+    "entryCount": 26,
     "firstDate": "2026-08-30",
     "lastDate": "2026-09-21",
     "windowStart": "2026-08-30",
@@ -59,6 +59,58 @@
       "url": "https://www.twitch.tv/horror_heather"
     },
     {
+      "id": "evt_1788297911540_2dhbup",
+      "date": "2026-08-31",
+      "dateLabel": "Monday, August 31st",
+      "weekday": "Monday",
+      "streamer": "gibsontales",
+      "title": "Beyond: Two Souls",
+      "timeMinutes": 465,
+      "timeLabel": "7:45 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
+      "id": "evt_1788297861173_d65mge",
+      "date": "2026-08-31",
+      "dateLabel": "Monday, August 31st",
+      "weekday": "Monday",
+      "streamer": "Gothipire",
+      "title": "Game Review / Big Sis Horror Reviews",
+      "timeMinutes": 1290,
+      "timeLabel": "9:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gothipire"
+    },
+    {
+      "id": "evt_1788298039705_cmb40o",
+      "date": "2026-09-01",
+      "dateLabel": "Tuesday, September 1st",
+      "weekday": "Tuesday",
+      "streamer": "FloodWater_",
+      "title": "Untitled stream",
+      "timeMinutes": 1245,
+      "timeLabel": "8:45 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/floodwater_"
+    },
+    {
+      "id": "evt_1788297911540_70fvfz",
+      "date": "2026-09-02",
+      "dateLabel": "Wednesday, September 2nd",
+      "weekday": "Wednesday",
+      "streamer": "gibsontales",
+      "title": "Roll Together",
+      "timeMinutes": 465,
+      "timeLabel": "7:45 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
       "id": "evt_1788297747631_n3dziu",
       "date": "2026-09-02",
       "dateLabel": "Wednesday, September 2nd",
@@ -98,6 +150,45 @@
       "url": "https://www.twitch.tv/ao_zora_"
     },
     {
+      "id": "evt_1788298039705_epq7wv",
+      "date": "2026-09-03",
+      "dateLabel": "Thursday, September 3rd",
+      "weekday": "Thursday",
+      "streamer": "FloodWater_",
+      "title": "Untitled stream",
+      "timeMinutes": 1245,
+      "timeLabel": "8:45 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/floodwater_"
+    },
+    {
+      "id": "evt_1788297861173_4xmave",
+      "date": "2026-09-03",
+      "dateLabel": "Thursday, September 3rd",
+      "weekday": "Thursday",
+      "streamer": "Gothipire",
+      "title": "Gun Game / SOMA",
+      "timeMinutes": 1290,
+      "timeLabel": "9:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gothipire"
+    },
+    {
+      "id": "evt_1788297911540_mgzquu",
+      "date": "2026-09-04",
+      "dateLabel": "Friday, September 4th",
+      "weekday": "Friday",
+      "streamer": "gibsontales",
+      "title": "Ghost Buster: Village",
+      "timeMinutes": 465,
+      "timeLabel": "7:45 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
       "id": "evt_1788297747631_8emyhe",
       "date": "2026-09-04",
       "dateLabel": "Friday, September 4th",
@@ -109,6 +200,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
+      "id": "evt_1788297861173_o7lokg",
+      "date": "2026-09-04",
+      "dateLabel": "Friday, September 4th",
+      "weekday": "Friday",
+      "streamer": "Gothipire",
+      "title": "Soma / Valorant",
+      "timeMinutes": 1290,
+      "timeLabel": "9:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gothipire"
     },
     {
       "id": "evt_1788297747631_vxx6zq",
@@ -137,6 +241,19 @@
       "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
+      "id": "evt_1788297911540_7n256o",
+      "date": "2026-09-06",
+      "dateLabel": "Sunday, September 6th",
+      "weekday": "Sunday",
+      "streamer": "gibsontales",
+      "title": "Community Movie Night",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
       "id": "evt_1787782891746_0hrzf1",
       "date": "2026-09-06",
       "dateLabel": "Sunday, September 6th",
@@ -148,6 +265,19 @@
       "highlight": "green",
       "pillLabel": "SPECIAL",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1788298039705_e8e1ys",
+      "date": "2026-09-06",
+      "dateLabel": "Sunday, September 6th",
+      "weekday": "Sunday",
+      "streamer": "FloodWater_",
+      "title": "Untitled stream",
+      "timeMinutes": 1230,
+      "timeLabel": "8:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/floodwater_"
     },
     {
       "id": "evt_1787782891746_9e2vtx",
