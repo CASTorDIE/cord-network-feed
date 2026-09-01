@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T10:37:57.997Z",
+  "generatedAt": "2026-09-01T10:42:58.023Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-01T10:37:57.997Z",
+    "fetchedAt": "2026-09-01T10:42:58.023Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "600+ Pack Opening - Cons... They Aren't Mine! !Discord !Socials",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 219,
       "language": "en",
       "started_at": "2026-09-01T09:01:01Z",
