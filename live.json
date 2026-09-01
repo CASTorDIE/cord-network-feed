@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T20:12:58.185Z",
+  "generatedAt": "2026-09-01T20:17:57.973Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-01T20:12:58.185Z",
+    "fetchedAt": "2026-09-01T20:17:57.973Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "ARC Raiders",
-      "viewer_count": 106,
+      "viewer_count": 116,
       "follower_count": 14393,
       "language": "en",
       "started_at": "2026-09-01T18:51:43Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "45 BOSSES LEFT| ELDEN RING \"DEATH LINK\" | DAY 9🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 25,
+      "viewer_count": 35,
       "follower_count": 10617,
       "language": "en",
       "started_at": "2026-09-01T20:02:04Z",
