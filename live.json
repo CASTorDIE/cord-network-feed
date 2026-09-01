@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T04:57:57.424Z",
+  "generatedAt": "2026-09-01T05:02:57.294Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-01T04:57:57.424Z",
+    "fetchedAt": "2026-09-01T05:02:57.294Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "a stream about coal - gift 5 subs or subscribe tier 3 to change the game",
       "game_name": "Coal LLC",
-      "viewer_count": 45,
-      "follower_count": 10109,
+      "viewer_count": 46,
+      "follower_count": 10108,
       "language": "en",
       "started_at": "2026-09-01T02:05:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "chillin w/ the homie @rcthrasher",
       "game_name": "Just Chatting",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 338,
       "language": "en",
       "started_at": "2026-08-31T22:03:54Z",
