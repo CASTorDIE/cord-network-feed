@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-01T21:27:19.740Z",
+  "generatedAt": "2026-09-01T21:28:43.025Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-09-01T21:27:19.709Z",
+    "updatedAt": "2026-09-01T21:28:42.993Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 26,
+    "entryCount": 29,
     "firstDate": "2026-08-30",
     "lastDate": "2026-09-21",
     "windowStart": "2026-08-30",
@@ -98,6 +98,19 @@
       "url": "https://www.twitch.tv/floodwater_"
     },
     {
+      "id": "evt_1788298122989_4licg3",
+      "date": "2026-09-01",
+      "dateLabel": "Tuesday, September 1st",
+      "weekday": "Tuesday",
+      "streamer": "Dingo_Dynasty",
+      "title": "Untitled stream",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
+    },
+    {
       "id": "evt_1788297911540_70fvfz",
       "date": "2026-09-02",
       "dateLabel": "Wednesday, September 2nd",
@@ -176,6 +189,19 @@
       "url": "https://www.twitch.tv/gothipire"
     },
     {
+      "id": "evt_1788298122989_banmih",
+      "date": "2026-09-03",
+      "dateLabel": "Thursday, September 3rd",
+      "weekday": "Thursday",
+      "streamer": "Dingo_Dynasty",
+      "title": "Untitled stream",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
+    },
+    {
       "id": "evt_1788297911540_mgzquu",
       "date": "2026-09-04",
       "dateLabel": "Friday, September 4th",
@@ -213,6 +239,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/gothipire"
+    },
+    {
+      "id": "evt_1788298122989_d4gwdm",
+      "date": "2026-09-04",
+      "dateLabel": "Friday, September 4th",
+      "weekday": "Friday",
+      "streamer": "Dingo_Dynasty",
+      "title": "Untitled stream",
+      "timeMinutes": 1380,
+      "timeLabel": "11:00 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/dingo_dynasty"
     },
     {
       "id": "evt_1788297747631_vxx6zq",
