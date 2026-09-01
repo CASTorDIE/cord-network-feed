@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-01T05:17:57.362Z",
+  "generatedAt": "2026-09-01T05:22:57.407Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-01T05:17:57.362Z",
+    "fetchedAt": "2026-09-01T05:22:57.407Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "a stream about coal - gift 5 subs or subscribe tier 3 to change the game",
       "game_name": "Coal LLC",
-      "viewer_count": 40,
+      "viewer_count": 23,
       "follower_count": 10108,
       "language": "en",
       "started_at": "2026-09-01T05:16:43Z",
@@ -28,21 +28,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
-    {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": true,
-      "title": "chillin w/ the homie @rcthrasher",
-      "game_name": "Just Chatting",
-      "viewer_count": 11,
-      "follower_count": 338,
-      "language": "en",
-      "started_at": "2026-08-31T22:03:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -328,6 +313,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 338,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "gibsontales",
