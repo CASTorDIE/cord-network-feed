@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T10:47:58.047Z",
+  "generatedAt": "2026-09-01T10:52:57.951Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-01T10:47:58.047Z",
+    "fetchedAt": "2026-09-01T10:52:57.951Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "600+ Pack Opening - Cons... They Aren't Mine! !Discord !Socials",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 15,
-      "follower_count": 219,
+      "viewer_count": 11,
+      "follower_count": 220,
       "language": "en",
       "started_at": "2026-09-01T09:01:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
