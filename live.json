@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-01T19:57:57.920Z",
+  "generatedAt": "2026-09-01T20:02:57.957Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-01T19:57:57.920Z",
+    "fetchedAt": "2026-09-01T20:02:57.957Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "Just Chatting",
-      "viewer_count": 100,
+      "viewer_count": 102,
       "follower_count": 14393,
       "language": "en",
       "started_at": "2026-09-01T18:51:43Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/skavstheworld",
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "45 BOSSES LEFT| ELDEN RING \"DEATH LINK\" | DAY 9🎀 !ERGOALS",
+      "game_name": "ELDEN RING",
+      "viewer_count": 0,
+      "follower_count": 10617,
+      "language": "en",
+      "started_at": "2026-09-01T20:02:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -133,21 +148,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
-    },
-    {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 10617,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
       "user_login": "boww_wolf",
