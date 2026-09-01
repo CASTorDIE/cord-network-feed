@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T21:37:58.714Z",
+  "generatedAt": "2026-09-01T21:42:58.653Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-01T21:37:58.714Z",
+    "fetchedAt": "2026-09-01T21:42:58.653Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "ARC Raiders",
-      "viewer_count": 118,
+      "viewer_count": 128,
       "follower_count": 14400,
       "language": "en",
       "started_at": "2026-09-01T18:51:43Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "45 BOSSES LEFT| ELDEN RING \"DEATH LINK\" | DAY 9🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 58,
-      "follower_count": 10618,
+      "viewer_count": 55,
+      "follower_count": 10616,
       "language": "en",
       "started_at": "2026-09-01T20:02:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
