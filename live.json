@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T05:42:57.445Z",
+  "generatedAt": "2026-09-01T05:47:57.540Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-01T05:42:57.445Z",
+    "fetchedAt": "2026-09-01T05:47:57.540Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "a stream about coal - gift 5 subs or subscribe tier 3 to change the game",
       "game_name": "Coal LLC",
-      "viewer_count": 41,
+      "viewer_count": 42,
       "follower_count": 10108,
       "language": "en",
       "started_at": "2026-09-01T05:25:31Z",
