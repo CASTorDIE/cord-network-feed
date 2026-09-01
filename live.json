@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-01T23:47:58.089Z",
+  "generatedAt": "2026-09-01T23:52:58.034Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-01T23:47:58.089Z",
+    "fetchedAt": "2026-09-01T23:52:58.034Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "ARC Raiders",
-      "viewer_count": 128,
+      "viewer_count": 132,
       "follower_count": 14401,
       "language": "en",
       "started_at": "2026-09-01T18:51:43Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 86,
+      "viewer_count": 79,
       "follower_count": 2464,
       "language": "en",
       "started_at": "2026-09-01T22:44:19Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "45 BOSSES LEFT| ELDEN RING \"DEATH LINK\" | DAY 9🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 52,
+      "viewer_count": 56,
       "follower_count": 10617,
       "language": "en",
       "started_at": "2026-09-01T20:02:04Z",
@@ -58,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
-      "user_login": "mrcarameldrizzle",
-      "user_name": "MrCaramelDrizzle",
-      "is_live": true,
-      "title": "Seeing if Bedrock Edition is as cursed as they say... | Gaming with the SQUAD!| W/ @Taydo_1 , @purgegamer_",
-      "game_name": "Minecraft",
-      "viewer_count": 1,
-      "follower_count": 24,
-      "language": "en",
-      "started_at": "2026-09-01T22:46:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrcarameldrizzle-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a574093b-6d39-4358-9c0b-e8edcdbdff6f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
-      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
     },
     {
       "user_login": "thepuckgoa",
@@ -351,7 +336,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 337,
+      "follower_count": 338,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -493,6 +478,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/memella",
       "description": "I'm not very good at it - but I do it anyway"
+    },
+    {
+      "user_login": "mrcarameldrizzle",
+      "user_name": "MrCaramelDrizzle",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 24,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a574093b-6d39-4358-9c0b-e8edcdbdff6f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/mrcarameldrizzle",
+      "description": "We do a bit of GAMING around here, with a nice cozy jazz coffee shop aesthetic! So pls come by stay for a while and join the community!"
     },
     {
       "user_login": "mustardfennek",
