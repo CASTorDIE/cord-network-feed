@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T12:02:58.133Z",
+  "generatedAt": "2026-09-01T12:07:58.125Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-01T12:02:58.133Z",
+    "fetchedAt": "2026-09-01T12:07:58.125Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "👁️your song requests - piano / ukulele [novice] 🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 2,
+      "viewer_count": 5,
       "follower_count": 412,
       "language": "en",
       "started_at": "2026-09-01T11:55:34Z",
