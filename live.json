@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T14:27:57.691Z",
+  "generatedAt": "2026-09-02T14:32:57.741Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-02T14:27:57.691Z",
+    "fetchedAt": "2026-09-02T14:32:57.741Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "We Each Control ONE Wheel… and STILL Can’t Drive Straight 😂 | Roll Together | Sub Goal 75/100 we get to wax Trevor",
       "game_name": "Games + Demos",
-      "viewer_count": 16,
-      "follower_count": 972,
+      "viewer_count": 24,
+      "follower_count": 973,
       "language": "en",
       "started_at": "2026-09-02T12:41:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
