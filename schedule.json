@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-01T21:28:43.025Z",
+  "generatedAt": "2026-09-02T19:26:52.658Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-09-01T21:28:42.993Z",
+    "updatedAt": "2026-09-02T19:26:52.617Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 29,
+    "entryCount": 35,
     "firstDate": "2026-08-30",
     "lastDate": "2026-09-21",
     "windowStart": "2026-08-30",
-    "windowEnd": "2026-11-30",
+    "windowEnd": "2026-12-01",
     "invalidEntryCount": 0,
     "duplicateEntryCount": 0
   },
@@ -72,6 +72,19 @@
       "url": "https://www.twitch.tv/gibsontales"
     },
     {
+      "id": "evt_1788377212610_eux3dg",
+      "date": "2026-08-31",
+      "dateLabel": "Monday, August 31st",
+      "weekday": "Monday",
+      "streamer": "DarkWolfRosa",
+      "title": "Star Wars: Zero Company",
+      "timeMinutes": 1230,
+      "timeLabel": "8:30 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/darkwolfrosa"
+    },
+    {
       "id": "evt_1788297861173_d65mge",
       "date": "2026-08-31",
       "dateLabel": "Monday, August 31st",
@@ -83,6 +96,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/gothipire"
+    },
+    {
+      "id": "evt_1788377212610_pczm0q",
+      "date": "2026-09-01",
+      "dateLabel": "Tuesday, September 1st",
+      "weekday": "Tuesday",
+      "streamer": "DarkWolfRosa",
+      "title": "Beast of Reincarnation",
+      "timeMinutes": 1230,
+      "timeLabel": "8:30 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/darkwolfrosa"
     },
     {
       "id": "evt_1788298039705_cmb40o",
@@ -150,6 +176,19 @@
       "url": "https://www.twitch.tv/ao_zora_"
     },
     {
+      "id": "evt_1788377212610_m235mn",
+      "date": "2026-09-02",
+      "dateLabel": "Wednesday, September 2nd",
+      "weekday": "Wednesday",
+      "streamer": "DarkWolfRosa",
+      "title": "Community Movie Night",
+      "timeMinutes": 1230,
+      "timeLabel": "8:30 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/darkwolfrosa"
+    },
+    {
       "id": "evt_1787783018740_7gbdvl",
       "date": "2026-09-03",
       "dateLabel": "Thursday, September 3rd",
@@ -161,6 +200,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/ao_zora_"
+    },
+    {
+      "id": "evt_1788377212610_ar2qbb",
+      "date": "2026-09-03",
+      "dateLabel": "Thursday, September 3rd",
+      "weekday": "Thursday",
+      "streamer": "DarkWolfRosa",
+      "title": "Overwatch",
+      "timeMinutes": 1230,
+      "timeLabel": "8:30 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/darkwolfrosa"
     },
     {
       "id": "evt_1788298039705_epq7wv",
@@ -228,6 +280,19 @@
       "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
+      "id": "evt_1788377212610_4f0dn3",
+      "date": "2026-09-04",
+      "dateLabel": "Friday, September 4th",
+      "weekday": "Friday",
+      "streamer": "DarkWolfRosa",
+      "title": "Star Wars: Zero Company",
+      "timeMinutes": 1230,
+      "timeLabel": "8:30 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/darkwolfrosa"
+    },
+    {
       "id": "evt_1788297861173_o7lokg",
       "date": "2026-09-04",
       "dateLabel": "Friday, September 4th",
@@ -265,6 +330,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
+      "id": "evt_1788377212610_0az4dy",
+      "date": "2026-09-05",
+      "dateLabel": "Saturday, September 5th",
+      "weekday": "Saturday",
+      "streamer": "DarkWolfRosa",
+      "title": "Friday Night Stream Continuation",
+      "timeMinutes": 1230,
+      "timeLabel": "8:30 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/darkwolfrosa"
     },
     {
       "id": "evt_1788297747631_50p113",
