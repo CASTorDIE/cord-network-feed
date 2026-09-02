@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T00:12:57.936Z",
+  "generatedAt": "2026-09-02T00:17:58.093Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-02T00:12:57.936Z",
+    "fetchedAt": "2026-09-02T00:17:58.093Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "ARC Raiders",
-      "viewer_count": 136,
+      "viewer_count": 132,
       "follower_count": 14402,
       "language": "en",
       "started_at": "2026-09-01T18:51:43Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 77,
+      "viewer_count": 83,
       "follower_count": 2464,
       "language": "en",
       "started_at": "2026-09-01T22:44:19Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "45 BOSSES LEFT| ELDEN RING \"DEATH LINK\" | DAY 9🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 58,
+      "viewer_count": 53,
       "follower_count": 10617,
       "language": "en",
       "started_at": "2026-09-01T20:02:04Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "ENDACOPIA | It's Subby Wubby September Already? | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Just Chatting",
-      "viewer_count": 9,
+      "viewer_count": 11,
       "follower_count": 1724,
       "language": "en",
       "started_at": "2026-09-01T23:53:23Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Episode 3 of the pokemon sword cagelock with @chefjess_95",
-      "game_name": "Pokémon Sword/Shield",
-      "viewer_count": 2,
-      "follower_count": 394,
-      "language": "en",
-      "started_at": "2026-09-02T00:03:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "thepuckgoa",
@@ -103,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": true,
+      "title": "Episode 3 of the pokemon sword cagelock with @chefjess_95",
+      "game_name": "Pokémon Sword/Shield",
+      "viewer_count": 1,
+      "follower_count": 394,
+      "language": "en",
+      "started_at": "2026-09-02T00:03:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "4kaizen_gaming",
