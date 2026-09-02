@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T23:12:58.207Z",
+  "generatedAt": "2026-09-02T23:17:58.227Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-02T23:12:58.207Z",
+    "fetchedAt": "2026-09-02T23:17:58.227Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 59,
+      "viewer_count": 68,
       "follower_count": 2464,
       "language": "en",
       "started_at": "2026-09-02T22:50:52Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Dealing Death as a Cleric",
       "game_name": "Baldur's Gate 3",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "follower_count": 463,
       "language": "en",
       "started_at": "2026-09-02T23:10:59Z",
