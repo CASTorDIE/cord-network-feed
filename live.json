@@ -1,26 +1,41 @@
 {
-  "generatedAt": "2026-09-02T02:02:58.122Z",
+  "generatedAt": "2026-09-02T02:07:58.174Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-02T02:02:58.122Z",
+    "fetchedAt": "2026-09-02T02:07:58.174Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "MALENIA MOMMY| ELDEN RING \"DEATH LINK\" | DAY 9🎀 !ERGOALS",
+      "game_name": "ELDEN RING",
+      "viewer_count": 88,
+      "follower_count": 10617,
+      "language": "en",
+      "started_at": "2026-09-01T20:02:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
     {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 87,
+      "viewer_count": 85,
       "follower_count": 2464,
       "language": "en",
       "started_at": "2026-09-01T22:44:19Z",
@@ -30,27 +45,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "MALENIA MOMMY| ELDEN RING \"DEATH LINK\" | DAY 9🎀 !ERGOALS",
-      "game_name": "ELDEN RING",
-      "viewer_count": 51,
-      "follower_count": 10616,
-      "language": "en",
-      "started_at": "2026-09-01T20:02:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Celeste Goldens followed by Street Fighter",
       "game_name": "Celeste",
-      "viewer_count": 14,
+      "viewer_count": 15,
       "follower_count": 284,
       "language": "en",
       "started_at": "2026-09-02T00:55:33Z",
@@ -60,27 +60,12 @@
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
-      "user_login": "wispy_witch",
-      "user_name": "wispy_witch",
-      "is_live": true,
-      "title": "ENDACOPIA | It's Subby Wubby September Already? | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "Endacopia",
-      "viewer_count": 9,
-      "follower_count": 1724,
-      "language": "en",
-      "started_at": "2026-09-01T23:53:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-    },
-    {
       "user_login": "floodwater_",
       "user_name": "FloodWater_",
       "is_live": true,
       "title": "🦸Marvel Rivals?!?!? Yes!🦸!discord🦸Are you ready for 6am?🦸",
       "game_name": "Marvel Rivals",
-      "viewer_count": 6,
+      "viewer_count": 8,
       "follower_count": 2113,
       "language": "en",
       "started_at": "2026-09-02T01:45:42Z",
@@ -98,7 +83,7 @@
       "viewer_count": 1,
       "follower_count": 394,
       "language": "en",
-      "started_at": "2026-09-02T00:03:15Z",
+      "started_at": "2026-09-02T02:04:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
@@ -643,6 +628,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
+      "user_login": "wispy_witch",
+      "user_name": "wispy_witch",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1724,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wispy_witch",
+      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
       "user_login": "zaldar87",
