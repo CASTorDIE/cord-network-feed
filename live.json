@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-09-02T02:07:58.174Z",
+  "generatedAt": "2026-09-02T02:12:58.104Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-02T02:07:58.174Z",
+    "fetchedAt": "2026-09-02T02:12:58.104Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
-    {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "MALENIA MOMMY| ELDEN RING \"DEATH LINK\" | DAY 9🎀 !ERGOALS",
-      "game_name": "ELDEN RING",
-      "viewer_count": 88,
-      "follower_count": 10617,
-      "language": "en",
-      "started_at": "2026-09-01T20:02:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
     {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 85,
+      "viewer_count": 84,
       "follower_count": 2464,
       "language": "en",
       "started_at": "2026-09-01T22:44:19Z",
@@ -45,12 +30,27 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "MALENIA MOMMY| ELDEN RING \"DEATH LINK\" | DAY 9🎀 !ERGOALS",
+      "game_name": "ELDEN RING",
+      "viewer_count": 64,
+      "follower_count": 10617,
+      "language": "en",
+      "started_at": "2026-09-01T20:02:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Celeste Goldens followed by Street Fighter",
       "game_name": "Celeste",
-      "viewer_count": 15,
+      "viewer_count": 18,
       "follower_count": 284,
       "language": "en",
       "started_at": "2026-09-02T00:55:33Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "🦸Marvel Rivals?!?!? Yes!🦸!discord🦸Are you ready for 6am?🦸",
       "game_name": "Marvel Rivals",
-      "viewer_count": 8,
+      "viewer_count": 10,
       "follower_count": 2113,
       "language": "en",
       "started_at": "2026-09-02T01:45:42Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Episode 3 of the pokemon sword cagelock with @chefjess_95",
-      "game_name": "Pokémon Sword/Shield",
-      "viewer_count": 1,
-      "follower_count": 394,
-      "language": "en",
-      "started_at": "2026-09-02T02:04:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "alfieduu",
@@ -178,6 +163,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 394,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "brycexd",
