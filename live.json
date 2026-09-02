@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T04:12:58.312Z",
+  "generatedAt": "2026-09-02T04:17:58.310Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-02T04:12:58.312Z",
+    "fetchedAt": "2026-09-02T04:17:58.310Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "MALENIA MOMMY| ELDEN RING \"DEATH LINK\" | DAY 9🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 45,
+      "viewer_count": 39,
       "follower_count": 10615,
       "language": "en",
       "started_at": "2026-09-01T20:02:04Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "UNC Ultimate Master Honda grind",
       "game_name": "Street Fighter 6",
-      "viewer_count": 14,
+      "viewer_count": 12,
       "follower_count": 285,
       "language": "en",
       "started_at": "2026-09-02T00:55:33Z",
