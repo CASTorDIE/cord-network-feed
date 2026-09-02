@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T01:47:58.082Z",
+  "generatedAt": "2026-09-02T01:52:58.202Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-02T01:47:58.082Z",
+    "fetchedAt": "2026-09-02T01:52:58.202Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "MALENIA MOMMY| ELDEN RING \"DEATH LINK\" | DAY 9🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 58,
+      "viewer_count": 48,
       "follower_count": 10616,
       "language": "en",
       "started_at": "2026-09-01T20:02:04Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Celeste Goldens followed by Street Fighter",
       "game_name": "Celeste",
-      "viewer_count": 17,
+      "viewer_count": 15,
       "follower_count": 284,
       "language": "en",
       "started_at": "2026-09-02T00:55:33Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "ENDACOPIA | It's Subby Wubby September Already? | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Endacopia",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 1724,
       "language": "en",
       "started_at": "2026-09-01T23:53:23Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    {
+      "user_login": "floodwater_",
+      "user_name": "FloodWater_",
+      "is_live": true,
+      "title": "🦸Marvel Rivals?!?!? Yes!🦸!discord🦸Are you ready for 6am?🦸",
+      "game_name": "Marvel Rivals",
+      "viewer_count": 2,
+      "follower_count": 2112,
+      "language": "en",
+      "started_at": "2026-09-02T01:45:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/floodwater_",
+      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
       "user_login": "bribeecool10",
@@ -103,21 +118,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "floodwater_",
-      "user_name": "FloodWater_",
-      "is_live": true,
-      "title": "🦸Marvel Rivals?!?!? Yes!🦸!discord🦸Are you ready for 6am?🦸",
-      "game_name": "Marvel Rivals",
-      "viewer_count": 0,
-      "follower_count": 2112,
-      "language": "en",
-      "started_at": "2026-09-02T01:45:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/floodwater_",
-      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
       "user_login": "alfieduu",
