@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T04:42:57.752Z",
+  "generatedAt": "2026-09-02T04:47:57.785Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-02T04:42:57.752Z",
+    "fetchedAt": "2026-09-02T04:47:57.785Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "UNC Ultimate Master Honda grind",
       "game_name": "Street Fighter 6",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 286,
       "language": "en",
       "started_at": "2026-09-02T00:55:33Z",
