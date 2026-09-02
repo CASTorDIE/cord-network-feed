@@ -1,19 +1,34 @@
 {
-  "generatedAt": "2026-09-02T19:02:59.048Z",
+  "generatedAt": "2026-09-02T19:07:58.875Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-02T19:02:59.048Z",
+    "fetchedAt": "2026-09-02T19:07:58.875Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 0,
-    "offlineCount": 44
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
+    {
+      "user_login": "jaxsberrypatch",
+      "user_name": "jaxsberrypatch",
+      "is_live": true,
+      "title": "Weekly reset day!! | Dreamsnaps, weekly duties and more! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
+      "game_name": "Disney Dreamlight Valley",
+      "viewer_count": 2,
+      "follower_count": 2763,
+      "language": "en",
+      "started_at": "2026-09-02T19:04:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
+      "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
+    },
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
@@ -373,21 +388,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/horror_heather",
       "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
-    },
-    {
-      "user_login": "jaxsberrypatch",
-      "user_name": "jaxsberrypatch",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 2763,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
-      "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
     {
       "user_login": "joreeezy",
