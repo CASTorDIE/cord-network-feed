@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T03:37:58.338Z",
+  "generatedAt": "2026-09-02T03:42:58.247Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-02T03:37:58.338Z",
+    "fetchedAt": "2026-09-02T03:42:58.247Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "MALENIA MOMMY| ELDEN RING \"DEATH LINK\" | DAY 9🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 43,
+      "viewer_count": 46,
       "follower_count": 10616,
       "language": "en",
       "started_at": "2026-09-01T20:02:04Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🦸Marvel Rivals?!?!? Yes!🦸!discord🦸Are you ready for 6am?🦸",
       "game_name": "Marvel Rivals",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "follower_count": 2113,
       "language": "en",
       "started_at": "2026-09-02T01:45:42Z",
