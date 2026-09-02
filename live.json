@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T13:57:57.760Z",
+  "generatedAt": "2026-09-02T14:02:57.758Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-02T13:57:57.760Z",
+    "fetchedAt": "2026-09-02T14:02:57.758Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We Each Control ONE Wheel… and STILL Can’t Drive Straight 😂 | Roll Together | Sub Goal 75/100 we get to wax Trevor",
       "game_name": "Games + Demos",
-      "viewer_count": 22,
+      "viewer_count": 20,
       "follower_count": 972,
       "language": "en",
       "started_at": "2026-09-02T12:41:37Z",
@@ -321,7 +321,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 338,
+      "follower_count": 339,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
