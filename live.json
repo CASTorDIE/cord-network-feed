@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T04:07:58.066Z",
+  "generatedAt": "2026-09-03T04:12:58.084Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T04:07:58.066Z",
+    "fetchedAt": "2026-09-03T04:12:58.084Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEY DROP| !pizza !discord !telegram !vrc |  | Song Requests -> !SL <-",
       "game_name": "Marbles on Stream",
-      "viewer_count": 117,
+      "viewer_count": 115,
       "follower_count": 10110,
       "language": "en",
       "started_at": "2026-09-03T02:08:21Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Can we get our first Silent win?",
       "game_name": "Slay the Spire II",
-      "viewer_count": 15,
+      "viewer_count": 16,
       "follower_count": 286,
       "language": "en",
       "started_at": "2026-09-03T00:55:10Z",
