@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-03T22:57:57.833Z",
+  "generatedAt": "2026-09-03T23:02:57.847Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T22:57:57.833Z",
+    "fetchedAt": "2026-09-03T23:02:57.847Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "ARC Raiders",
-      "viewer_count": 119,
-      "follower_count": 14437,
+      "viewer_count": 125,
+      "follower_count": 14438,
       "language": "en",
       "started_at": "2026-09-03T18:49:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎 #AD !VIKING",
       "game_name": "Viking Rise",
-      "viewer_count": 66,
+      "viewer_count": 73,
       "follower_count": 2466,
       "language": "en",
       "started_at": "2026-09-03T22:41:46Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "MALENIA MOMMY| ELDEN RING \"DEATH LINK\" | DAY 10🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 42,
+      "viewer_count": 40,
       "follower_count": 10618,
       "language": "en",
       "started_at": "2026-09-03T22:10:55Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": true,
+      "title": "Checking out a new survivors game.(sponsored) #yetanotherzombiesurvivors",
+      "game_name": "Yet Another Zombie Survivors",
+      "viewer_count": 4,
+      "follower_count": 395,
+      "language": "en",
+      "started_at": "2026-09-03T22:59:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -165,28 +180,13 @@
       "description": ""
     },
     {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 395,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
       "user_login": "brycexd",
       "user_name": "BrycexD",
       "is_live": false,
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113922,
+      "follower_count": 113923,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
