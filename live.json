@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T21:47:57.694Z",
+  "generatedAt": "2026-09-03T21:52:57.824Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T21:47:57.694Z",
+    "fetchedAt": "2026-09-03T21:52:57.824Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "ARC Raiders",
-      "viewer_count": 113,
+      "viewer_count": 116,
       "follower_count": 14431,
       "language": "en",
       "started_at": "2026-09-03T18:49:20Z",
