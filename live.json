@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T07:17:57.374Z",
+  "generatedAt": "2026-09-03T07:22:57.322Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T07:17:57.374Z",
+    "fetchedAt": "2026-09-03T07:22:57.322Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "New Season Placement Matches - Drops On  - !Discord !Socials",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 7,
+      "viewer_count": 3,
       "follower_count": 225,
       "language": "en",
       "started_at": "2026-09-03T06:59:46Z",
@@ -621,7 +621,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8705,
+      "follower_count": 8706,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
