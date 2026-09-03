@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T19:07:57.902Z",
+  "generatedAt": "2026-09-03T19:12:57.489Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T19:07:57.902Z",
+    "fetchedAt": "2026-09-03T19:12:57.489Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "Just Chatting",
-      "viewer_count": 112,
-      "follower_count": 14422,
+      "viewer_count": 120,
+      "follower_count": 14424,
       "language": "en",
       "started_at": "2026-09-03T18:49:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
