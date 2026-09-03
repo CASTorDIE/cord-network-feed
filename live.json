@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T21:37:58.525Z",
+  "generatedAt": "2026-09-03T21:42:57.831Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T21:37:58.525Z",
+    "fetchedAt": "2026-09-03T21:42:57.831Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "ARC Raiders",
-      "viewer_count": 124,
-      "follower_count": 14431,
+      "viewer_count": 127,
+      "follower_count": 14432,
       "language": "en",
       "started_at": "2026-09-03T18:49:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -141,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10616,
+      "follower_count": 10617,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
