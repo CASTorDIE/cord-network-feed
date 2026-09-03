@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-03T00:57:58.318Z",
+  "generatedAt": "2026-09-03T01:02:58.398Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T00:57:58.318Z",
+    "fetchedAt": "2026-09-03T01:02:58.398Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 94,
+      "viewer_count": 79,
       "follower_count": 2465,
       "language": "en",
       "started_at": "2026-09-02T22:50:52Z",
@@ -30,12 +30,27 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 956👨!discord👨‍🦰HEY👨‍🦰HOW ARE YOU DOING👨‍🦰IM HERE FOR A LITTLE BIT👨‍🦰GONNA BE A SHORT STREAM AGAIN👨‍🦰I HAVE",
+      "game_name": "Rocket League",
+      "viewer_count": 69,
+      "follower_count": 113771,
+      "language": "en",
+      "started_at": "2026-09-03T00:59:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Can we get our first Silent win?",
       "game_name": "Slay the Spire II",
-      "viewer_count": 2,
+      "viewer_count": 9,
       "follower_count": 286,
       "language": "en",
       "started_at": "2026-09-03T00:55:10Z",
@@ -163,21 +178,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 113773,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
