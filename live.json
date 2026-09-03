@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T20:17:57.591Z",
+  "generatedAt": "2026-09-03T20:22:58.116Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T20:17:57.591Z",
+    "fetchedAt": "2026-09-03T20:22:58.116Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "Scary Game 2: The Mad Shepherd",
-      "viewer_count": 95,
+      "viewer_count": 93,
       "follower_count": 14422,
       "language": "en",
       "started_at": "2026-09-03T18:49:20Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113917,
+      "follower_count": 113916,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
