@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T06:47:57.345Z",
+  "generatedAt": "2026-09-03T06:52:57.294Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T06:47:57.345Z",
+    "fetchedAt": "2026-09-03T06:52:57.294Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEY DROP| !pizza !discord !telegram !vrc |  | Song Requests -> !SL <-",
       "game_name": "VRChat",
-      "viewer_count": 124,
+      "viewer_count": 119,
       "follower_count": 10110,
       "language": "en",
       "started_at": "2026-09-03T02:08:21Z",
