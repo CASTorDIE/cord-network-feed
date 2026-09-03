@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-03T23:27:57.808Z",
+  "generatedAt": "2026-09-03T23:32:57.903Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T23:27:57.808Z",
+    "fetchedAt": "2026-09-03T23:32:57.903Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "ARC Raiders",
-      "viewer_count": 141,
-      "follower_count": 14441,
+      "viewer_count": 137,
+      "follower_count": 14443,
       "language": "en",
       "started_at": "2026-09-03T18:49:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎 #AD !VIKING",
       "game_name": "Viking Rise",
-      "viewer_count": 76,
+      "viewer_count": 71,
       "follower_count": 2466,
       "language": "en",
       "started_at": "2026-09-03T22:41:46Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "MALENIA MOMMY| ELDEN RING \"DEATH LINK\" | DAY 10🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 40,
+      "viewer_count": 42,
       "follower_count": 10618,
       "language": "en",
       "started_at": "2026-09-03T22:10:55Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Checking out a new survivors game.(sponsored) #yetanotherzombiesurvivors",
       "game_name": "Yet Another Zombie Survivors",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "follower_count": 395,
       "language": "en",
       "started_at": "2026-09-03T22:59:51Z",
@@ -88,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "ao_zora_",
+      "user_name": "Ao_Zora_",
+      "is_live": true,
+      "title": "Voice acting with friends!! After a professional start || !merch !throne !daki",
+      "game_name": "Phoenix Wright: Ace Attorney Trilogy",
+      "viewer_count": 0,
+      "follower_count": 6321,
+      "language": "en",
+      "started_at": "2026-09-03T23:32:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
+      "twitch_url": "https://www.twitch.tv/ao_zora_",
+      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -133,21 +148,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/allyreggie",
       "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
-    },
-    {
-      "user_login": "ao_zora_",
-      "user_name": "Ao_Zora_",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 6321,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
-      "twitch_url": "https://www.twitch.tv/ao_zora_",
-      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "astral_celestial",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113922,
+      "follower_count": 113923,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
