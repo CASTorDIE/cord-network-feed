@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-03T06:57:57.280Z",
+  "generatedAt": "2026-09-03T07:02:57.321Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T06:57:57.280Z",
+    "fetchedAt": "2026-09-03T07:02:57.321Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEY DROP| !pizza !discord !telegram !vrc |  | Song Requests -> !SL <-",
       "game_name": "VRChat",
-      "viewer_count": 115,
+      "viewer_count": 120,
       "follower_count": 10110,
       "language": "en",
       "started_at": "2026-09-03T02:08:21Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
+    },
+    {
+      "user_login": "rickett_raffy",
+      "user_name": "rickett_raffy",
+      "is_live": true,
+      "title": "New Season Placement Matches - Drops On  - !Discord !Socials",
+      "game_name": "Rainbow Six Siege",
+      "viewer_count": 1,
+      "follower_count": 225,
+      "language": "en",
+      "started_at": "2026-09-03T06:59:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/rickett_raffy",
+      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
     },
     {
       "user_login": "4kaizen_gaming",
@@ -186,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113868,
+      "follower_count": 113869,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -523,21 +538,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/padbae",
       "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
-    },
-    {
-      "user_login": "rickett_raffy",
-      "user_name": "rickett_raffy",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 225,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/rickett_raffy",
-      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
     },
     {
       "user_login": "skavstheworld",
