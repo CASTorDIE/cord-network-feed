@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T02:02:58.529Z",
+  "generatedAt": "2026-09-03T02:07:58.480Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T02:02:58.529Z",
+    "fetchedAt": "2026-09-03T02:07:58.480Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "✅24/7 DROP STREAM✅DAY 956👨!discord👨‍🦰HEY👨‍🦰HOW ARE YOU DOING👨‍🦰IM HERE FOR A LITTLE BIT👨‍🦰GONNA BE A SHORT STREAM AGAIN👨‍🦰I HAVE",
       "game_name": "Rocket League",
       "viewer_count": 540,
-      "follower_count": 113813,
+      "follower_count": 113817,
       "language": "en",
       "started_at": "2026-09-03T00:59:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 81,
+      "viewer_count": 82,
       "follower_count": 2465,
       "language": "en",
       "started_at": "2026-09-02T22:50:52Z",
