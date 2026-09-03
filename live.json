@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T08:52:57.427Z",
+  "generatedAt": "2026-09-03T08:57:57.470Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T08:52:57.427Z",
+    "fetchedAt": "2026-09-03T08:57:57.470Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "New Season Placement Matches - Drops On  - !Discord !Socials",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 8,
-      "follower_count": 226,
+      "viewer_count": 9,
+      "follower_count": 227,
       "language": "en",
       "started_at": "2026-09-03T06:59:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
