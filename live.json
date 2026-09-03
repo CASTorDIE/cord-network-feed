@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T00:27:58.352Z",
+  "generatedAt": "2026-09-03T00:32:58.400Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T00:27:58.352Z",
+    "fetchedAt": "2026-09-03T00:32:58.400Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 93,
+      "viewer_count": 94,
       "follower_count": 2465,
       "language": "en",
       "started_at": "2026-09-02T22:50:52Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "First time soulslike... Help",
       "game_name": "Valor Mortis",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 463,
       "language": "en",
       "started_at": "2026-09-02T23:10:59Z",
