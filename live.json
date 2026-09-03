@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T20:37:57.607Z",
+  "generatedAt": "2026-09-03T20:42:57.584Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T20:37:57.607Z",
+    "fetchedAt": "2026-09-03T20:42:57.584Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
-      "game_name": "Scary Game 2: The Mad Shepherd",
-      "viewer_count": 94,
+      "game_name": "ARC Raiders",
+      "viewer_count": 103,
       "follower_count": 14422,
       "language": "en",
       "started_at": "2026-09-03T18:49:20Z",
