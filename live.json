@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T00:22:58.329Z",
+  "generatedAt": "2026-09-03T00:27:58.352Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T00:22:58.329Z",
+    "fetchedAt": "2026-09-03T00:27:58.352Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 85,
+      "viewer_count": 93,
       "follower_count": 2465,
       "language": "en",
       "started_at": "2026-09-02T22:50:52Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Lost in los Santos episode 3",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 394,
       "language": "en",
       "started_at": "2026-09-02T23:07:59Z",
