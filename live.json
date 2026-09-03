@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T04:42:58.140Z",
+  "generatedAt": "2026-09-03T04:47:58.162Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T04:42:58.140Z",
+    "fetchedAt": "2026-09-03T04:47:58.162Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEY DROP| !pizza !discord !telegram !vrc |  | Song Requests -> !SL <-",
       "game_name": "Marbles on Stream",
-      "viewer_count": 118,
+      "viewer_count": 120,
       "follower_count": 10110,
       "language": "en",
       "started_at": "2026-09-03T02:08:21Z",
@@ -126,7 +126,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 5135,
+      "follower_count": 5136,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
