@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T03:07:57.967Z",
+  "generatedAt": "2026-09-03T03:12:58.047Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T03:07:57.967Z",
+    "fetchedAt": "2026-09-03T03:12:58.047Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE DUNGEON KEY DROP| !pizza !discord !telegram !vrc |  | Song Requests -> !SL <-",
       "game_name": "Marbles on Stream",
-      "viewer_count": 97,
-      "follower_count": 10110,
+      "viewer_count": 104,
+      "follower_count": 10111,
       "language": "en",
       "started_at": "2026-09-03T02:08:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
@@ -546,7 +546,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14407,
+      "follower_count": 14408,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
