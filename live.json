@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T19:57:57.502Z",
+  "generatedAt": "2026-09-03T20:02:57.566Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T19:57:57.502Z",
+    "fetchedAt": "2026-09-03T20:02:57.566Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
-      "game_name": "Just Chatting",
-      "viewer_count": 103,
+      "game_name": "Scary Game 2: The Mad Shepherd",
+      "viewer_count": 109,
       "follower_count": 14423,
       "language": "en",
       "started_at": "2026-09-03T18:49:20Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113915,
+      "follower_count": 113916,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
