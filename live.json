@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-03T23:02:57.847Z",
+  "generatedAt": "2026-09-03T23:07:57.866Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-03T23:02:57.847Z",
+    "fetchedAt": "2026-09-03T23:07:57.866Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "ARC Raiders",
-      "viewer_count": 125,
-      "follower_count": 14438,
+      "viewer_count": 128,
+      "follower_count": 14439,
       "language": "en",
       "started_at": "2026-09-03T18:49:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎 #AD !VIKING",
       "game_name": "Viking Rise",
-      "viewer_count": 73,
+      "viewer_count": 75,
       "follower_count": 2466,
       "language": "en",
       "started_at": "2026-09-03T22:41:46Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "MALENIA MOMMY| ELDEN RING \"DEATH LINK\" | DAY 10🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 40,
+      "viewer_count": 37,
       "follower_count": 10618,
       "language": "en",
       "started_at": "2026-09-03T22:10:55Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Checking out a new survivors game.(sponsored) #yetanotherzombiesurvivors",
       "game_name": "Yet Another Zombie Survivors",
-      "viewer_count": 4,
+      "viewer_count": 1,
       "follower_count": 395,
       "language": "en",
       "started_at": "2026-09-03T22:59:51Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": true,
+      "title": "Connie is a Dick!",
+      "game_name": "The Dark Pictures Anthology: Man of Medan",
+      "viewer_count": 1,
+      "follower_count": 25,
+      "language": "en",
+      "started_at": "2026-09-03T23:02:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -568,21 +583,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 25,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
