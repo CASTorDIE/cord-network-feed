@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-02T19:26:52.658Z",
+  "generatedAt": "2026-09-03T04:33:10.474Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-09-02T19:26:52.617Z",
+    "updatedAt": "2026-09-03T04:33:10.441Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 35,
+    "entryCount": 38,
     "firstDate": "2026-08-30",
     "lastDate": "2026-09-21",
     "windowStart": "2026-08-30",
@@ -189,6 +189,19 @@
       "url": "https://www.twitch.tv/darkwolfrosa"
     },
     {
+      "id": "evt_1788409990437_1vs7iq",
+      "date": "2026-09-02",
+      "dateLabel": "Wednesday, September 2nd",
+      "weekday": "Wednesday",
+      "streamer": "kayn_OO",
+      "title": "Untitled stream",
+      "timeMinutes": 1260,
+      "timeLabel": "9:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/kayn_oo"
+    },
+    {
       "id": "evt_1787783018740_7gbdvl",
       "date": "2026-09-03",
       "dateLabel": "Thursday, September 3rd",
@@ -226,6 +239,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/floodwater_"
+    },
+    {
+      "id": "evt_1788409990437_0e95qx",
+      "date": "2026-09-03",
+      "dateLabel": "Thursday, September 3rd",
+      "weekday": "Thursday",
+      "streamer": "kayn_OO",
+      "title": "Untitled stream",
+      "timeMinutes": 1260,
+      "timeLabel": "9:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/kayn_oo"
     },
     {
       "id": "evt_1788297861173_4xmave",
@@ -291,6 +317,19 @@
       "highlight": "orange",
       "pillLabel": "GUEST",
       "url": "https://www.twitch.tv/darkwolfrosa"
+    },
+    {
+      "id": "evt_1788409990437_s64262",
+      "date": "2026-09-04",
+      "dateLabel": "Friday, September 4th",
+      "weekday": "Friday",
+      "streamer": "kayn_OO",
+      "title": "Untitled stream",
+      "timeMinutes": 1260,
+      "timeLabel": "9:00 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/kayn_oo"
     },
     {
       "id": "evt_1788297861173_o7lokg",
