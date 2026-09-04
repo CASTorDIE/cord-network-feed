@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T16:52:57.463Z",
+  "generatedAt": "2026-09-04T16:57:57.471Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T16:52:57.463Z",
+    "fetchedAt": "2026-09-04T16:57:57.471Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I Thought I Knew This Story… Then I Played as Marcus | @jussrondo !hype !newvlog !gamevideo",
       "game_name": "Games + Demos",
-      "viewer_count": 14,
+      "viewer_count": 8,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-09-04T13:00:29Z",
@@ -651,7 +651,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10109,
+      "follower_count": 10108,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
