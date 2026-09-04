@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T05:02:57.475Z",
+  "generatedAt": "2026-09-04T05:07:57.379Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T05:02:57.475Z",
+    "fetchedAt": "2026-09-04T05:07:57.379Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "36 bosses left | ELDEN RING \"DEATH LINK\" | DAY 10🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 64,
+      "viewer_count": 55,
       "follower_count": 10618,
       "language": "en",
       "started_at": "2026-09-03T22:10:55Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦸New Fortnite Season with Sonic??? Yes!🦸!discord🦸Are you ready for 6am?🦸",
       "game_name": "Fortnite",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 2114,
       "language": "en",
       "started_at": "2026-09-04T01:27:38Z",
