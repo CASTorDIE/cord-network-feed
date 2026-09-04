@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T15:02:58.214Z",
+  "generatedAt": "2026-09-04T15:07:58.311Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T15:02:58.214Z",
+    "fetchedAt": "2026-09-04T15:07:58.311Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "BeckyBPlays",
       "is_live": true,
       "title": "I Thought I Knew This Story… Then I Played as Marcus | @jussrondo !hype !newvlog !gamevideo",
-      "game_name": "Just Chatting",
-      "viewer_count": 18,
+      "game_name": "Fears to Fathom - Scratch Creek",
+      "viewer_count": 14,
       "follower_count": 5131,
       "language": "en",
       "started_at": "2026-09-04T13:00:29Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Accidental chair stream....",
       "game_name": "",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 462,
       "language": "en",
       "started_at": "2026-09-04T11:52:52Z",
