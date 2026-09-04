@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T04:22:57.350Z",
+  "generatedAt": "2026-09-04T04:27:57.295Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T04:22:57.350Z",
+    "fetchedAt": "2026-09-04T04:27:57.295Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "36 bosses left | ELDEN RING \"DEATH LINK\" | DAY 10🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 44,
+      "viewer_count": 43,
       "follower_count": 10617,
       "language": "en",
       "started_at": "2026-09-03T22:10:55Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Can we win with Regent?",
       "game_name": "Slay the Spire II",
-      "viewer_count": 33,
-      "follower_count": 288,
+      "viewer_count": 28,
+      "follower_count": 290,
       "language": "en",
       "started_at": "2026-09-04T00:57:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
