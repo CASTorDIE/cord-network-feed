@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T20:17:57.839Z",
+  "generatedAt": "2026-09-04T20:22:58.337Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T20:17:57.839Z",
+    "fetchedAt": "2026-09-04T20:22:58.337Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Froge Pond SMP| Decorating our pond! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 39,
-      "follower_count": 2761,
+      "viewer_count": 41,
+      "follower_count": 2760,
       "language": "en",
       "started_at": "2026-09-04T19:32:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
