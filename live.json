@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T07:52:57.771Z",
+  "generatedAt": "2026-09-04T07:57:57.616Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T07:52:57.771Z",
+    "fetchedAt": "2026-09-04T07:57:57.616Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "New Season Means New Grindd !Socials !Discord",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 7,
-      "follower_count": 231,
+      "viewer_count": 14,
+      "follower_count": 233,
       "language": "en",
       "started_at": "2026-09-04T07:02:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113939,
+      "follower_count": 113940,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
