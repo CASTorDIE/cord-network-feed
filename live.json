@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-04T23:37:58.117Z",
+  "generatedAt": "2026-09-04T23:42:58.135Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T23:37:58.117Z",
+    "fetchedAt": "2026-09-04T23:42:58.135Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 GHOST Girls Meccha Game Night! ALL GIRLS WELCOME 🎯DROPS ENABLED",
       "game_name": "Just Chatting",
-      "viewer_count": 88,
+      "viewer_count": 102,
       "follower_count": 14460,
       "language": "en",
       "started_at": "2026-09-04T23:24:35Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → HOW TO FISH WITH @kritur 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 81,
+      "viewer_count": 75,
       "follower_count": 2470,
       "language": "en",
       "started_at": "2026-09-04T22:40:50Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": true,
+      "title": "Are we finishing our walk?",
+      "game_name": "Big Walk",
+      "viewer_count": 1,
+      "follower_count": 1052,
+      "language": "en",
+      "started_at": "2026-09-04T23:38:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -238,21 +253,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10fbac99-b892-40b3-88cb-3ba197ba88f8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/darkdemocracytv",
       "description": "Healthcare by day, streaming by night! I'm Adam a dad, who love all things games, anime, and entertainment, and I'm so glad you're here with us! "
-    },
-    {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1052,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "dingo_dynasty",
