@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T17:47:57.539Z",
+  "generatedAt": "2026-09-04T17:52:57.552Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T17:47:57.539Z",
+    "fetchedAt": "2026-09-04T17:52:57.552Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Chatting it up |  !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 6,
       "follower_count": 5129,
       "language": "en",
       "started_at": "2026-09-04T13:00:29Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113963,
+      "follower_count": 113964,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
