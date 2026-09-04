@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T11:17:57.898Z",
+  "generatedAt": "2026-09-04T11:22:57.908Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T11:17:57.898Z",
+    "fetchedAt": "2026-09-04T11:22:57.908Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "New Season Means New Grindd !Socials !Discord",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 18,
+      "viewer_count": 20,
       "follower_count": 240,
       "language": "en",
       "started_at": "2026-09-04T07:02:03Z",
@@ -531,7 +531,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14458,
+      "follower_count": 14459,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
