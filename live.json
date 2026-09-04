@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T13:12:58.087Z",
+  "generatedAt": "2026-09-04T13:17:58.157Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T13:12:58.087Z",
+    "fetchedAt": "2026-09-04T13:17:58.157Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I Thought I Knew This Story… Then I Played as Marcus | @jussrondo !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 5132,
       "language": "en",
       "started_at": "2026-09-04T13:00:29Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113950,
+      "follower_count": 113951,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
