@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T15:22:57.335Z",
+  "generatedAt": "2026-09-04T15:27:57.263Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T15:22:57.335Z",
+    "fetchedAt": "2026-09-04T15:27:57.263Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "I Thought I Knew This Story… Then I Played as Marcus | @jussrondo !hype !newvlog !gamevideo",
       "game_name": "Fears to Fathom - Scratch Creek",
-      "viewer_count": 18,
-      "follower_count": 5131,
+      "viewer_count": 20,
+      "follower_count": 5130,
       "language": "en",
       "started_at": "2026-09-04T13:00:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
