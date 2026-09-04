@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T17:37:57.503Z",
+  "generatedAt": "2026-09-04T17:42:57.510Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T17:37:57.503Z",
+    "fetchedAt": "2026-09-04T17:42:57.510Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Plushy's Playground +18 |  !hype !newvlog !gamevideo",
       "game_name": "Games + Demos",
-      "viewer_count": 9,
-      "follower_count": 5130,
+      "viewer_count": 7,
+      "follower_count": 5129,
       "language": "en",
       "started_at": "2026-09-04T13:00:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
