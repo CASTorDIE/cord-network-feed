@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-04T02:52:58.188Z",
+  "generatedAt": "2026-09-04T02:57:58.186Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T02:52:58.188Z",
+    "fetchedAt": "2026-09-04T02:57:58.186Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Song Requests Here >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 87,
-      "follower_count": 6327,
+      "viewer_count": 90,
+      "follower_count": 6328,
       "language": "en",
       "started_at": "2026-09-03T23:32:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎 #AD !VIKING",
-      "game_name": "Games + Demos",
-      "viewer_count": 75,
-      "follower_count": 2466,
-      "language": "en",
-      "started_at": "2026-09-03T22:41:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
       "title": "36 bosses left | ELDEN RING \"DEATH LINK\" | DAY 10🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 48,
+      "viewer_count": 37,
       "follower_count": 10619,
       "language": "en",
       "started_at": "2026-09-03T22:10:55Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "Can we win with Regent?",
       "game_name": "Slay the Spire II",
-      "viewer_count": 13,
+      "viewer_count": 8,
       "follower_count": 287,
       "language": "en",
       "started_at": "2026-09-04T00:57:36Z",
@@ -135,6 +120,21 @@
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
     },
     {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2467,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
       "user_login": "beckybplays",
       "user_name": "BeckyBPlays",
       "is_live": false,
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113931,
+      "follower_count": 113932,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
