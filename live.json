@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-04T01:22:58.178Z",
+  "generatedAt": "2026-09-04T01:27:58.076Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T01:22:58.178Z",
+    "fetchedAt": "2026-09-04T01:27:58.076Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 8,
-    "offlineCount": 36
+    "liveCount": 9,
+    "offlineCount": 35
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "ARC Raiders",
-      "viewer_count": 162,
-      "follower_count": 14451,
+      "viewer_count": 166,
+      "follower_count": 14452,
       "language": "en",
       "started_at": "2026-09-03T18:49:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -36,7 +36,7 @@
       "title": "Song Requests Here >> !SL || !merch !throne !daki",
       "game_name": "Music",
       "viewer_count": 81,
-      "follower_count": 6320,
+      "follower_count": 6322,
       "language": "en",
       "started_at": "2026-09-03T23:32:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎 #AD !VIKING",
       "game_name": "Games + Demos",
-      "viewer_count": 75,
+      "viewer_count": 78,
       "follower_count": 2466,
       "language": "en",
       "started_at": "2026-09-03T22:41:46Z",
@@ -60,27 +60,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "36 bosses left | ELDEN RING \"DEATH LINK\" | DAY 10🎀 !ERGOALS",
-      "game_name": "ELDEN RING",
-      "viewer_count": 48,
-      "follower_count": 10619,
-      "language": "en",
-      "started_at": "2026-09-03T22:10:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "wispy_witch",
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "ENDACOPIA | Which is better? Tea or Coffee? | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Endacopia",
-      "viewer_count": 27,
+      "viewer_count": 51,
       "follower_count": 1727,
       "language": "en",
       "started_at": "2026-09-03T23:55:20Z",
@@ -90,12 +75,27 @@
       "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "36 bosses left | ELDEN RING \"DEATH LINK\" | DAY 10🎀 !ERGOALS",
+      "game_name": "ELDEN RING",
+      "viewer_count": 41,
+      "follower_count": 10619,
+      "language": "en",
+      "started_at": "2026-09-03T22:10:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Can we win with Regent?",
       "game_name": "Slay the Spire II",
-      "viewer_count": 10,
+      "viewer_count": 8,
       "follower_count": 286,
       "language": "en",
       "started_at": "2026-09-04T00:57:36Z",
@@ -110,7 +110,7 @@
       "is_live": true,
       "title": "Checking out a new survivors game.(sponsored) #yetanotherzombiesurvivors",
       "game_name": "Yet Another Zombie Survivors",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 395,
       "language": "en",
       "started_at": "2026-09-03T22:59:51Z",
@@ -133,6 +133,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "floodwater_",
+      "user_name": "FloodWater_",
+      "is_live": true,
+      "title": "🦸Marvel Rivals?!?!? Yes!🦸!discord🦸Are you ready for 6am?🦸",
+      "game_name": "Marvel Rivals",
+      "viewer_count": 0,
+      "follower_count": 2114,
+      "language": "en",
+      "started_at": "2026-09-04T01:27:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/floodwater_",
+      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
       "user_login": "alfieduu",
@@ -328,21 +343,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
-    },
-    {
-      "user_login": "floodwater_",
-      "user_name": "FloodWater_",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 2114,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/floodwater_",
-      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
       "user_login": "gatito_maldito",
