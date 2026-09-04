@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T13:02:58.218Z",
+  "generatedAt": "2026-09-04T13:07:58.127Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T13:02:58.218Z",
+    "fetchedAt": "2026-09-04T13:07:58.127Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "I Thought I Knew This Story… Then I Played as Marcus | @jussrondo !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
-      "follower_count": 5133,
+      "viewer_count": 7,
+      "follower_count": 5132,
       "language": "en",
       "started_at": "2026-09-04T13:00:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
