@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T03:27:58.228Z",
+  "generatedAt": "2026-09-04T03:32:58.292Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T03:27:58.228Z",
+    "fetchedAt": "2026-09-04T03:32:58.292Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Can we win with Regent?",
       "game_name": "Slay the Spire II",
-      "viewer_count": 11,
+      "viewer_count": 35,
       "follower_count": 287,
       "language": "en",
       "started_at": "2026-09-04T00:57:36Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🦸New Fortnite Season with Sonic??? Yes!🦸!discord🦸Are you ready for 6am?🦸",
       "game_name": "Fortnite",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "follower_count": 2115,
       "language": "en",
       "started_at": "2026-09-04T01:27:38Z",
