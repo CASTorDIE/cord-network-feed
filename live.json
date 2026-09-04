@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T12:17:58.053Z",
+  "generatedAt": "2026-09-04T12:22:57.998Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T12:17:58.053Z",
+    "fetchedAt": "2026-09-04T12:22:57.998Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "First time soulslike... Help",
       "game_name": "Valor Mortis",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 462,
       "language": "en",
       "started_at": "2026-09-04T11:52:52Z",
@@ -456,7 +456,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 417,
+      "follower_count": 418,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
