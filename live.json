@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T17:17:57.462Z",
+  "generatedAt": "2026-09-04T17:22:57.499Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T17:17:57.462Z",
+    "fetchedAt": "2026-09-04T17:22:57.499Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Plushy's Playground +18 |  !hype !newvlog !gamevideo",
       "game_name": "Games + Demos",
-      "viewer_count": 8,
+      "viewer_count": 6,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-09-04T13:00:29Z",
