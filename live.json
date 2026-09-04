@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T11:57:58.043Z",
+  "generatedAt": "2026-09-04T12:02:58.058Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T11:57:58.043Z",
+    "fetchedAt": "2026-09-04T12:02:58.058Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "First time soulslike... Help",
       "game_name": "Valor Mortis",
-      "viewer_count": 1,
-      "follower_count": 463,
+      "viewer_count": 2,
+      "follower_count": 462,
       "language": "en",
       "started_at": "2026-09-04T11:52:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tehchno-960x540.jpg",
@@ -396,7 +396,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2762,
+      "follower_count": 2761,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
