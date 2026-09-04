@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T20:27:57.777Z",
+  "generatedAt": "2026-09-04T20:32:57.779Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T20:27:57.777Z",
+    "fetchedAt": "2026-09-04T20:32:57.779Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Froge Pond SMP| Decorating our pond! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 44,
+      "viewer_count": 39,
       "follower_count": 2761,
       "language": "en",
       "started_at": "2026-09-04T19:32:18Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113971,
+      "follower_count": 113972,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
