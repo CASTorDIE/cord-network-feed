@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T13:57:58.247Z",
+  "generatedAt": "2026-09-04T14:02:58.182Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T13:57:58.247Z",
+    "fetchedAt": "2026-09-04T14:02:58.182Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I Thought I Knew This Story… Then I Played as Marcus | @jussrondo !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 15,
+      "viewer_count": 17,
       "follower_count": 5132,
       "language": "en",
       "started_at": "2026-09-04T13:00:29Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "First time soulslike... Help",
       "game_name": "Valor Mortis",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "follower_count": 462,
       "language": "en",
       "started_at": "2026-09-04T11:52:52Z",
