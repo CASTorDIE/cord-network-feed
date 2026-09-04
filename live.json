@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-04T00:52:57.997Z",
+  "generatedAt": "2026-09-04T00:57:58.059Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T00:52:57.997Z",
+    "fetchedAt": "2026-09-04T00:57:58.059Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 8,
+    "offlineCount": 36
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 The Welfare Raider Strikes Again 🎯DROPS ENABLED",
       "game_name": "ARC Raiders",
-      "viewer_count": 147,
+      "viewer_count": 150,
       "follower_count": 14448,
       "language": "en",
       "started_at": "2026-09-03T18:49:20Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → HORROR GAMIN 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎 #AD !VIKING",
       "game_name": "Viking Rise",
-      "viewer_count": 77,
+      "viewer_count": 85,
       "follower_count": 2466,
       "language": "en",
       "started_at": "2026-09-03T22:41:46Z",
@@ -45,27 +45,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "ao_zora_",
-      "user_name": "Ao_Zora_",
-      "is_live": true,
-      "title": "Song Requests Here >> !SL || !merch !throne !daki",
-      "game_name": "Music",
-      "viewer_count": 62,
-      "follower_count": 6318,
-      "language": "en",
-      "started_at": "2026-09-03T23:32:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
-      "twitch_url": "https://www.twitch.tv/ao_zora_",
-      "description": "I sing and play games. Sometimes I bake"
-    },
-    {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
       "title": "38 bosses left | ELDEN RING \"DEATH LINK\" | DAY 10🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 49,
+      "viewer_count": 48,
       "follower_count": 10619,
       "language": "en",
       "started_at": "2026-09-03T22:10:55Z",
@@ -75,12 +60,27 @@
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
+      "user_login": "ao_zora_",
+      "user_name": "Ao_Zora_",
+      "is_live": true,
+      "title": "Song Requests Here >> !SL || !merch !throne !daki",
+      "game_name": "Music",
+      "viewer_count": 46,
+      "follower_count": 6318,
+      "language": "en",
+      "started_at": "2026-09-03T23:32:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
+      "twitch_url": "https://www.twitch.tv/ao_zora_",
+      "description": "I sing and play games. Sometimes I bake"
+    },
+    {
       "user_login": "wispy_witch",
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "ENDACOPIA | Which is better? Tea or Coffee? | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "Just Chatting",
-      "viewer_count": 21,
+      "game_name": "Endacopia",
+      "viewer_count": 22,
       "follower_count": 1725,
       "language": "en",
       "started_at": "2026-09-03T23:55:20Z",
@@ -122,14 +122,14 @@
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
+      "is_live": true,
+      "title": "Can we win with Regent?",
+      "game_name": "Slay the Spire II",
+      "viewer_count": 0,
       "follower_count": 286,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
+      "language": "en",
+      "started_at": "2026-09-04T00:57:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
