@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T19:07:57.688Z",
+  "generatedAt": "2026-09-04T19:12:57.628Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T19:07:57.688Z",
+    "fetchedAt": "2026-09-04T19:12:57.628Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Accidental chair stream....",
       "game_name": "",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 462,
       "language": "en",
       "started_at": "2026-09-04T11:52:52Z",
