@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T17:02:57.405Z",
+  "generatedAt": "2026-09-04T17:07:57.427Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-04T17:02:57.405Z",
+    "fetchedAt": "2026-09-04T17:07:57.427Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,9 +18,9 @@
       "user_login": "beckybplays",
       "user_name": "BeckyBPlays",
       "is_live": true,
-      "title": "I Thought I Knew This Story… Then I Played as Marcus | @jussrondo !hype !newvlog !gamevideo",
+      "title": "Plushy's Playground +18 |  !hype !newvlog !gamevideo",
       "game_name": "Games + Demos",
-      "viewer_count": 10,
+      "viewer_count": 13,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-09-04T13:00:29Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113962,
+      "follower_count": 113963,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
