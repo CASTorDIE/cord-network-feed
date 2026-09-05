@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T17:57:57.735Z",
+  "generatedAt": "2026-09-05T18:02:58.629Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T17:57:57.735Z",
+    "fetchedAt": "2026-09-05T18:02:58.629Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -33,9 +33,9 @@
       "user_login": "wispy_witch",
       "user_name": "wispy_witch",
       "is_live": true,
-      "title": "Pokemon | Saturday Morning Spoopy Vibes | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
+      "title": "Withering Realms | Saturday Morning Spoopy Vibes | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Withering Realms",
-      "viewer_count": 23,
+      "viewer_count": 24,
       "follower_count": 1730,
       "language": "en",
       "started_at": "2026-09-05T15:56:19Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113999,
+      "follower_count": 114000,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
