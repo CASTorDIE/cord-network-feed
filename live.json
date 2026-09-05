@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T12:07:58.265Z",
+  "generatedAt": "2026-09-05T12:12:58.268Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T12:07:58.265Z",
+    "fetchedAt": "2026-09-05T12:12:58.268Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Spell Brook SMP| Building our cute witches hut! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 5,
+      "viewer_count": 26,
       "follower_count": 2762,
       "language": "en",
       "started_at": "2026-09-05T12:00:30Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 113992,
+      "follower_count": 113993,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
