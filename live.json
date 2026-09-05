@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T19:07:57.785Z",
+  "generatedAt": "2026-09-05T19:12:57.820Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T19:07:57.785Z",
+    "fetchedAt": "2026-09-05T19:12:57.820Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "Leon vs The Creepy Little Freak!",
       "game_name": "Resident Evil 4",
       "viewer_count": 2,
-      "follower_count": 27,
+      "follower_count": 26,
       "language": "en",
       "started_at": "2026-09-05T17:04:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114005,
+      "follower_count": 114006,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
