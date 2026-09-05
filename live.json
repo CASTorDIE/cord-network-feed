@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T15:37:57.520Z",
+  "generatedAt": "2026-09-05T15:42:57.610Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T15:37:57.520Z",
+    "fetchedAt": "2026-09-05T15:42:57.610Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐DROPS⭐ 12 Hour Stream Prep! |  !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 50,
+      "viewer_count": 57,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-09-05T13:06:43Z",
