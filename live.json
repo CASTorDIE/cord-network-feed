@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T04:17:57.556Z",
+  "generatedAt": "2026-09-05T04:22:57.557Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T04:17:57.556Z",
+    "fetchedAt": "2026-09-05T04:22:57.557Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPIN → HOW TO FISH WITH @kritur 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "How to Fish",
-      "viewer_count": 37,
+      "viewer_count": 36,
       "follower_count": 2472,
       "language": "en",
       "started_at": "2026-09-04T22:40:50Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Regent down, time for the next character!",
       "game_name": "Slay the Spire II",
-      "viewer_count": 13,
+      "viewer_count": 12,
       "follower_count": 293,
       "language": "en",
       "started_at": "2026-09-05T01:04:51Z",
