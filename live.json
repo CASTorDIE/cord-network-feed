@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T14:27:57.430Z",
+  "generatedAt": "2026-09-05T14:32:57.521Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T14:27:57.430Z",
+    "fetchedAt": "2026-09-05T14:32:57.521Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Spell Brook SMP| Building our cute witches hut! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 63,
+      "viewer_count": 55,
       "follower_count": 2764,
       "language": "en",
       "started_at": "2026-09-05T12:00:30Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "⭐DROPS⭐ 12 Hour Stream Prep! |  !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 42,
+      "viewer_count": 41,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-09-05T13:06:43Z",
