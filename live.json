@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T20:12:58.029Z",
+  "generatedAt": "2026-09-05T20:17:57.936Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T20:12:58.029Z",
+    "fetchedAt": "2026-09-05T20:17:57.936Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "33 bosses left | ELDEN RING \"DEATH LINK\" | DAY 11🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 49,
+      "viewer_count": 52,
       "follower_count": 10619,
       "language": "en",
       "started_at": "2026-09-05T19:34:10Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114004,
+      "follower_count": 114003,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
