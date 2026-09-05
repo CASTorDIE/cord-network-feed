@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T00:07:58.082Z",
+  "generatedAt": "2026-09-05T00:12:58.173Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T00:07:58.082Z",
+    "fetchedAt": "2026-09-05T00:12:58.173Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 GHOST Girls Meccha Game Night! ALL GIRLS WELCOME 🎯DROPS ENABLED",
       "game_name": "MECCHA CHAMELEON",
-      "viewer_count": 121,
+      "viewer_count": 105,
       "follower_count": 14461,
       "language": "en",
       "started_at": "2026-09-04T23:24:35Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPIN → HOW TO FISH WITH @kritur 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 75,
+      "viewer_count": 71,
       "follower_count": 2471,
       "language": "en",
       "started_at": "2026-09-04T22:40:50Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "allyreggie",
+      "user_name": "AllyReggie",
+      "is_live": true,
+      "title": "I am lost but it is fine",
+      "game_name": "Big Walk",
+      "viewer_count": 4,
+      "follower_count": 527,
+      "language": "en",
+      "started_at": "2026-09-05T00:05:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_allyreggie-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/allyreggie",
+      "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
     },
     {
       "user_login": "desertrose",
@@ -58,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
-      "user_login": "allyreggie",
-      "user_name": "AllyReggie",
-      "is_live": true,
-      "title": "I am lost but it is fine",
-      "game_name": "Big Walk",
-      "viewer_count": 0,
-      "follower_count": 527,
-      "language": "en",
-      "started_at": "2026-09-05T00:05:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_allyreggie-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/allyreggie",
-      "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
     },
     {
       "user_login": "4kaizen_gaming",
