@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T18:17:57.775Z",
+  "generatedAt": "2026-09-05T18:22:57.907Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T18:17:57.775Z",
+    "fetchedAt": "2026-09-05T18:22:57.907Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "beckybplays",
-      "user_name": "BeckyBPlays",
-      "is_live": true,
-      "title": "Who wants to just chat for a little bit|  !hype !newvlog !gamevideo",
-      "game_name": "SIMULACRA",
-      "viewer_count": 23,
-      "follower_count": 5130,
-      "language": "en",
-      "started_at": "2026-09-05T13:06:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/beckybplays",
-      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
-    },
-    {
       "user_login": "wispy_witch",
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "Withering Realms | Saturday Morning Spoopy Vibes | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Withering Realms",
-      "viewer_count": 23,
+      "viewer_count": 24,
       "follower_count": 1730,
       "language": "en",
       "started_at": "2026-09-05T15:56:19Z",
@@ -45,12 +30,27 @@
       "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
+      "user_login": "beckybplays",
+      "user_name": "BeckyBPlays",
+      "is_live": true,
+      "title": "Who wants to just chat for a little bit|  !hype !newvlog !gamevideo",
+      "game_name": "SIMULACRA",
+      "viewer_count": 22,
+      "follower_count": 5130,
+      "language": "en",
+      "started_at": "2026-09-05T13:06:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/beckybplays",
+      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
       "user_login": "thepuckgoa",
       "user_name": "ThePuckGOA",
       "is_live": true,
       "title": "Leon vs The Creepy Little Freak!",
       "game_name": "Resident Evil 4",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 26,
       "language": "en",
       "started_at": "2026-09-05T17:04:21Z",
