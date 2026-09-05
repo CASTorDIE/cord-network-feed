@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T18:27:57.808Z",
+  "generatedAt": "2026-09-05T18:32:57.774Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T18:27:57.808Z",
+    "fetchedAt": "2026-09-05T18:32:57.774Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Who wants to just chat for a little bit|  !hype !newvlog !gamevideo",
       "game_name": "SIMULACRA",
-      "viewer_count": 23,
+      "viewer_count": 25,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-09-05T13:06:43Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Withering Realms | Saturday Morning Spoopy Vibes | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Withering Realms",
-      "viewer_count": 22,
+      "viewer_count": 21,
       "follower_count": 1730,
       "language": "en",
       "started_at": "2026-09-05T15:56:19Z",
