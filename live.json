@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T13:47:57.400Z",
+  "generatedAt": "2026-09-05T13:52:57.431Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T13:47:57.400Z",
+    "fetchedAt": "2026-09-05T13:52:57.431Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Spell Brook SMP| Building our cute witches hut! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 48,
-      "follower_count": 2764,
+      "viewer_count": 54,
+      "follower_count": 2765,
       "language": "en",
       "started_at": "2026-09-05T12:00:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "⭐DROPS⭐ 12 Hour Stream Prep! |  !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 36,
+      "viewer_count": 32,
       "follower_count": 5129,
       "language": "en",
       "started_at": "2026-09-05T13:06:43Z",
