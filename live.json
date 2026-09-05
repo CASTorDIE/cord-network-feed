@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-09-05T03:57:57.563Z",
+  "generatedAt": "2026-09-05T04:03:20.439Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T03:57:57.563Z",
+    "fetchedAt": "2026-09-05T04:03:20.439Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
-    {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "🔴 NEW HALLOWEEN HORROR GAME",
-      "game_name": "Halloween: The Game",
-      "viewer_count": 101,
-      "follower_count": 14469,
-      "language": "en",
-      "started_at": "2026-09-04T23:24:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
     {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPIN → HOW TO FISH WITH @kritur 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "How to Fish",
-      "viewer_count": 44,
+      "viewer_count": 40,
       "follower_count": 2472,
       "language": "en",
       "started_at": "2026-09-04T22:40:50Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "Regent down, time for the next character!",
       "game_name": "Slay the Spire II",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 293,
       "language": "en",
       "started_at": "2026-09-05T01:04:51Z",
@@ -75,21 +60,6 @@
       "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
     },
     {
-      "user_login": "fallentitanandy",
-      "user_name": "FallenTitanAndy",
-      "is_live": true,
-      "title": "1 Week until Charity Stream, but in the meantime let's be pirates",
-      "game_name": "Sea of Thieves",
-      "viewer_count": 2,
-      "follower_count": 418,
-      "language": "en",
-      "started_at": "2026-09-05T01:57:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/fallentitanandy",
-      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
-    },
-    {
       "user_login": "desertrose",
       "user_name": "Desertrose",
       "is_live": true,
@@ -103,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
+    },
+    {
+      "user_login": "fallentitanandy",
+      "user_name": "FallenTitanAndy",
+      "is_live": true,
+      "title": "1 Week until Charity Stream, but in the meantime let's be pirates",
+      "game_name": "Sea of Thieves",
+      "viewer_count": 1,
+      "follower_count": 418,
+      "language": "en",
+      "started_at": "2026-09-05T01:57:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/fallentitanandy",
+      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "alfieduu",
@@ -538,6 +523,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
+    },
+    {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 14469,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "slimchungusgaming",
