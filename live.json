@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T09:37:58.004Z",
+  "generatedAt": "2026-09-05T09:42:57.974Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T09:37:58.004Z",
+    "fetchedAt": "2026-09-05T09:42:57.974Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Is Today The Day?? Do I Finally Make Silver. !Discord - Please Do Not Ask To Play",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 248,
       "language": "en",
       "started_at": "2026-09-05T07:00:01Z",
