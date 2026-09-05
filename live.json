@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T20:52:57.959Z",
+  "generatedAt": "2026-09-05T20:57:58.073Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T20:52:57.959Z",
+    "fetchedAt": "2026-09-05T20:57:58.073Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "32 bosses left | ELDEN RING \"DEATH LINK\" | DAY 11🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 51,
-      "follower_count": 10619,
+      "viewer_count": 56,
+      "follower_count": 10618,
       "language": "en",
       "started_at": "2026-09-05T19:34:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
