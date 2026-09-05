@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-05T08:32:58.055Z",
+  "generatedAt": "2026-09-05T08:37:57.862Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T08:32:58.055Z",
+    "fetchedAt": "2026-09-05T08:37:57.862Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Is Today The Day?? Do I Finally Make Silver. !Discord - Please Do Not Ask To Play",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 247,
       "language": "en",
       "started_at": "2026-09-05T07:00:01Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
+    },
+    {
+      "user_login": "fallentitanandy",
+      "user_name": "FallenTitanAndy",
+      "is_live": true,
+      "title": "1 Week until Charity Stream, Until then More Piracy in Sea of Thieves",
+      "game_name": "Sea of Thieves",
+      "viewer_count": 2,
+      "follower_count": 418,
+      "language": "en",
+      "started_at": "2026-09-05T08:35:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/fallentitanandy",
+      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "4kaizen_gaming",
@@ -268,21 +283,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
-    },
-    {
-      "user_login": "fallentitanandy",
-      "user_name": "FallenTitanAndy",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 418,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/fallentitanandy",
-      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "faytefireix",
@@ -531,7 +531,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14470,
+      "follower_count": 14471,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
