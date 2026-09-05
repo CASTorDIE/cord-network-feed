@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T17:12:57.703Z",
+  "generatedAt": "2026-09-05T17:17:57.704Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-05T17:12:57.703Z",
+    "fetchedAt": "2026-09-05T17:17:57.704Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Who wants to just chat for a little bit|  !hype !newvlog !gamevideo",
       "game_name": "SIMULACRA",
-      "viewer_count": 38,
+      "viewer_count": 37,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-09-05T13:06:43Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Pokemon | Saturday Morning Pokemon Vibes | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Just Chatting",
-      "viewer_count": 15,
-      "follower_count": 1730,
+      "viewer_count": 18,
+      "follower_count": 1729,
       "language": "en",
       "started_at": "2026-09-05T15:56:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
