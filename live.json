@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-06T11:12:57.345Z",
+  "generatedAt": "2026-09-06T11:17:57.368Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T11:12:57.345Z",
+    "fetchedAt": "2026-09-06T11:17:57.368Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Starting our fall survival town!! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 26,
+      "viewer_count": 27,
       "follower_count": 2764,
       "language": "en",
       "started_at": "2026-09-06T10:58:45Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "[18+]I Came. I Saw. I Panicked. | RE9 | !advanced !discord !lurk !time !clip |",
       "game_name": "RESIDENT EVIL: requiem",
-      "viewer_count": 14,
+      "viewer_count": 16,
       "follower_count": 1258,
       "language": "en",
       "started_at": "2026-09-06T07:00:51Z",
@@ -43,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/viridisbytes",
       "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
-    },
-    {
-      "user_login": "gmclay_",
-      "user_name": "GMCLAY_",
-      "is_live": true,
-      "title": "PRESTIGE GRIND",
-      "game_name": "WARDOGS",
-      "viewer_count": 1,
-      "follower_count": 73,
-      "language": "en",
-      "started_at": "2026-09-06T04:22:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gmclay_-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gmclay_",
-      "description": "I alternate between MVP and WTF"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -373,6 +358,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gibsontales",
       "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
+    },
+    {
+      "user_login": "gmclay_",
+      "user_name": "GMCLAY_",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 73,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gmclay_",
+      "description": "I alternate between MVP and WTF"
     },
     {
       "user_login": "guitardoll",
