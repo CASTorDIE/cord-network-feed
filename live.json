@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T11:47:57.430Z",
+  "generatedAt": "2026-09-06T11:52:57.404Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T11:47:57.430Z",
+    "fetchedAt": "2026-09-06T11:52:57.404Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Starting our fall survival town!! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 40,
+      "viewer_count": 43,
       "follower_count": 2765,
       "language": "en",
       "started_at": "2026-09-06T10:58:45Z",
