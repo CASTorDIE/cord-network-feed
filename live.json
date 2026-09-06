@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T09:57:58.892Z",
+  "generatedAt": "2026-09-06T10:02:58.138Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T09:57:58.892Z",
+    "fetchedAt": "2026-09-06T10:02:58.138Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+]I Came. I Saw. I Panicked. | RE9 | !advanced !discord !lurk !time !clip |",
       "game_name": "RESIDENT EVIL: requiem",
-      "viewer_count": 18,
+      "viewer_count": 20,
       "follower_count": 1257,
       "language": "en",
       "started_at": "2026-09-06T07:00:51Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Battle Royale or Reload",
       "game_name": "Fortnite",
-      "viewer_count": 12,
+      "viewer_count": 9,
       "follower_count": 249,
       "language": "en",
       "started_at": "2026-09-06T09:31:32Z",
