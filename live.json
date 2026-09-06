@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T20:37:58.124Z",
+  "generatedAt": "2026-09-06T20:42:58.071Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T20:37:58.124Z",
+    "fetchedAt": "2026-09-06T20:42:58.071Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "5 BOSSES LEFT | ELDEN RING \"DEATH LINK\" | LAST DAY LETS GET IT🎀 35% off subs!!! !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 40,
+      "viewer_count": 45,
       "follower_count": 10623,
       "language": "en",
       "started_at": "2026-09-06T20:25:21Z",
