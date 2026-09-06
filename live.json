@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T08:27:57.987Z",
+  "generatedAt": "2026-09-06T08:32:58.092Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T08:27:57.987Z",
+    "fetchedAt": "2026-09-06T08:32:58.092Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+]I Came. I Saw. I Panicked. | RE9 | !advanced !discord !lurk !time !clip |",
       "game_name": "RESIDENT EVIL: requiem",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 1256,
       "language": "en",
       "started_at": "2026-09-06T07:00:51Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "We're Learning How To Fish",
       "game_name": "How to Fish",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 249,
       "language": "en",
       "started_at": "2026-09-06T08:05:58Z",
