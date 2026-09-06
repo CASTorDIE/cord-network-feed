@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T22:42:57.312Z",
+  "generatedAt": "2026-09-06T22:47:57.332Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T22:42:57.312Z",
+    "fetchedAt": "2026-09-06T22:47:57.332Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "2 BOSSES LEFT | ELDEN RING \"DEATH LINK\" | LAST DAY LETS GET IT🎀 35% off subs!!! !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 56,
+      "viewer_count": 54,
       "follower_count": 10623,
       "language": "en",
       "started_at": "2026-09-06T20:25:21Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 0,
-      "follower_count": 2475,
+      "viewer_count": 33,
+      "follower_count": 2474,
       "language": "en",
       "started_at": "2026-09-06T22:42:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
