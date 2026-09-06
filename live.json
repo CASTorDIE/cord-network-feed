@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T09:02:58.561Z",
+  "generatedAt": "2026-09-06T09:07:58.095Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T09:02:58.561Z",
+    "fetchedAt": "2026-09-06T09:07:58.095Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "We're Learning How To Fish",
       "game_name": "How to Fish",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "follower_count": 249,
       "language": "en",
       "started_at": "2026-09-06T08:05:58Z",
