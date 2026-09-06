@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T15:02:57.539Z",
+  "generatedAt": "2026-09-06T15:07:57.579Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T15:02:57.539Z",
+    "fetchedAt": "2026-09-06T15:07:57.579Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐Drops⭐ Muujimithony Hunting |  !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 47,
+      "viewer_count": 45,
       "follower_count": 5132,
       "language": "en",
       "started_at": "2026-09-06T13:43:59Z",
