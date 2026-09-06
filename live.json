@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T11:07:57.231Z",
+  "generatedAt": "2026-09-06T11:12:57.345Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T11:07:57.231Z",
+    "fetchedAt": "2026-09-06T11:12:57.345Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "viridisbytes",
-      "user_name": "ViridisBytes",
-      "is_live": true,
-      "title": "[18+]I Came. I Saw. I Panicked. | RE9 | !advanced !discord !lurk !time !clip |",
-      "game_name": "RESIDENT EVIL: requiem",
-      "viewer_count": 15,
-      "follower_count": 1258,
-      "language": "en",
-      "started_at": "2026-09-06T07:00:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/viridisbytes",
-      "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
-    },
-    {
       "user_login": "jaxsberrypatch",
       "user_name": "jaxsberrypatch",
       "is_live": true,
       "title": "Starting our fall survival town!! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 6,
+      "viewer_count": 26,
       "follower_count": 2764,
       "language": "en",
       "started_at": "2026-09-06T10:58:45Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
       "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
+    },
+    {
+      "user_login": "viridisbytes",
+      "user_name": "ViridisBytes",
+      "is_live": true,
+      "title": "[18+]I Came. I Saw. I Panicked. | RE9 | !advanced !discord !lurk !time !clip |",
+      "game_name": "RESIDENT EVIL: requiem",
+      "viewer_count": 14,
+      "follower_count": 1258,
+      "language": "en",
+      "started_at": "2026-09-06T07:00:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/viridisbytes",
+      "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
     },
     {
       "user_login": "gmclay_",
@@ -216,7 +216,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114017,
+      "follower_count": 114018,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
