@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-09-06T04:37:57.683Z",
+  "generatedAt": "2026-09-06T04:42:57.748Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T04:37:57.683Z",
+    "fetchedAt": "2026-09-06T04:42:57.748Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
-    {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "5 bosses left | ELDEN RING \"DEATH LINK\" | DAY 11🎀 !ERGOALS",
-      "game_name": "ELDEN RING",
-      "viewer_count": 68,
-      "follower_count": 10621,
-      "language": "en",
-      "started_at": "2026-09-05T19:34:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
     {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "Whatever Happens, Happens (ง •̀_•́)ง🔪",
       "game_name": "Games + Demos",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 343,
       "language": "en",
       "started_at": "2026-09-06T01:50:39Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "#1 PILOT GUY / MORTAR MASTER",
       "game_name": "WARDOGS",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 73,
       "language": "en",
       "started_at": "2026-09-06T04:22:55Z",
@@ -163,6 +148,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 10621,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
     },
     {
       "user_login": "boww_wolf",
