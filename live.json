@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T04:47:57.752Z",
+  "generatedAt": "2026-09-06T04:52:57.722Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T04:47:57.752Z",
+    "fetchedAt": "2026-09-06T04:52:57.722Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Whatever Happens, Happens (ง •̀_•́)ง🔪",
       "game_name": "Games + Demos",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 343,
       "language": "en",
       "started_at": "2026-09-06T01:50:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "#1 PILOT GUY / MORTAR MASTER",
       "game_name": "WARDOGS",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 73,
       "language": "en",
       "started_at": "2026-09-06T04:22:55Z",
