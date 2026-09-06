@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-09-06T04:22:57.637Z",
+  "generatedAt": "2026-09-06T04:27:57.662Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T04:22:57.637Z",
+    "fetchedAt": "2026-09-06T04:27:57.662Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
-      "title": "6 bosses left | ELDEN RING \"DEATH LINK\" | DAY 11🎀 !ERGOALS",
+      "title": "5 bosses left | ELDEN RING \"DEATH LINK\" | DAY 11🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 70,
+      "viewer_count": 75,
       "follower_count": 10621,
       "language": "en",
       "started_at": "2026-09-05T19:34:10Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Some multiplayer games! Defect finished",
       "game_name": "Slay the Spire II",
-      "viewer_count": 7,
+      "viewer_count": 11,
       "follower_count": 294,
       "language": "en",
       "started_at": "2026-09-06T00:55:12Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "gmclay_",
+      "user_name": "GMCLAY_",
+      "is_live": true,
+      "title": "#1 PILOT GUY / MORTAR MASTER",
+      "game_name": "WARDOGS",
+      "viewer_count": 1,
+      "follower_count": 73,
+      "language": "en",
+      "started_at": "2026-09-06T04:22:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gmclay_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gmclay_",
+      "description": "I alternate between MVP and WTF"
     },
     {
       "user_login": "alfieduu",
@@ -328,21 +343,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gibsontales",
       "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
-    },
-    {
-      "user_login": "gmclay_",
-      "user_name": "GMCLAY_",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 73,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gmclay_",
-      "description": "I alternate between MVP and WTF"
     },
     {
       "user_login": "guitardoll",
