@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T05:52:57.742Z",
+  "generatedAt": "2026-09-06T05:57:57.794Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T05:52:57.742Z",
+    "fetchedAt": "2026-09-06T05:57:57.794Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,7 +18,7 @@
       "user_login": "gmclay_",
       "user_name": "GMCLAY_",
       "is_live": true,
-      "title": "#1 PILOT GUY / MORTAR MASTER",
+      "title": "PRESTIGE GRIND",
       "game_name": "WARDOGS",
       "viewer_count": 1,
       "follower_count": 73,
