@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T07:27:57.936Z",
+  "generatedAt": "2026-09-06T07:32:57.987Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T07:27:57.936Z",
+    "fetchedAt": "2026-09-06T07:32:57.987Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+]I Came. I Saw. I Panicked. | RE9 | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 9,
+      "viewer_count": 11,
       "follower_count": 1257,
       "language": "en",
       "started_at": "2026-09-06T07:00:51Z",
@@ -156,7 +156,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10621,
+      "follower_count": 10622,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
