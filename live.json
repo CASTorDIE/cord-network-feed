@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T14:57:57.565Z",
+  "generatedAt": "2026-09-06T15:02:57.539Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T14:57:57.565Z",
+    "fetchedAt": "2026-09-06T15:02:57.539Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "⭐Drops⭐ Muujimithony Hunting |  !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 41,
-      "follower_count": 5131,
+      "viewer_count": 47,
+      "follower_count": 5132,
       "language": "en",
       "started_at": "2026-09-06T13:43:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114023,
+      "follower_count": 114024,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
