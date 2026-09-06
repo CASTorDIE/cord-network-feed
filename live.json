@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T22:32:57.322Z",
+  "generatedAt": "2026-09-06T22:37:57.375Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T22:32:57.322Z",
+    "fetchedAt": "2026-09-06T22:37:57.375Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,9 +18,9 @@
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
-      "title": "3 BOSSES LEFT | ELDEN RING \"DEATH LINK\" | LAST DAY LETS GET IT🎀 35% off subs!!! !ERGOALS",
+      "title": "2 BOSSES LEFT | ELDEN RING \"DEATH LINK\" | LAST DAY LETS GET IT🎀 35% off subs!!! !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 46,
+      "viewer_count": 55,
       "follower_count": 10623,
       "language": "en",
       "started_at": "2026-09-06T20:25:21Z",
