@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T04:17:57.689Z",
+  "generatedAt": "2026-09-06T04:22:57.637Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T04:17:57.689Z",
+    "fetchedAt": "2026-09-06T04:22:57.637Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "6 bosses left | ELDEN RING \"DEATH LINK\" | DAY 11🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 69,
+      "viewer_count": 70,
       "follower_count": 10621,
       "language": "en",
       "started_at": "2026-09-05T19:34:10Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Some multiplayer games! Defect finished",
       "game_name": "Slay the Spire II",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 294,
       "language": "en",
       "started_at": "2026-09-06T00:55:12Z",
