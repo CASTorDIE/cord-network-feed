@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T04:52:57.722Z",
+  "generatedAt": "2026-09-06T04:57:57.754Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T04:52:57.722Z",
+    "fetchedAt": "2026-09-06T04:57:57.754Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Whatever Happens, Happens (ง •̀_•́)ง🔪",
       "game_name": "Games + Demos",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 343,
       "language": "en",
       "started_at": "2026-09-06T01:50:39Z",
