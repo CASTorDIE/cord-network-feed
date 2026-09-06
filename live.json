@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T18:12:57.868Z",
+  "generatedAt": "2026-09-06T18:17:57.883Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T18:12:57.868Z",
+    "fetchedAt": "2026-09-06T18:17:57.883Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "BeckyBPlays",
       "is_live": true,
       "title": "⭐Drops⭐ Muujimithony Hunting |  !hype !newvlog !gamevideo",
-      "game_name": "Oxygen Not Included",
-      "viewer_count": 19,
+      "game_name": "Palia",
+      "viewer_count": 17,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-09-06T13:43:59Z",
