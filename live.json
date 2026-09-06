@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T07:47:57.934Z",
+  "generatedAt": "2026-09-06T07:52:57.952Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T07:47:57.934Z",
+    "fetchedAt": "2026-09-06T07:52:57.952Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+]I Came. I Saw. I Panicked. | RE9 | !advanced !discord !lurk !time !clip |",
       "game_name": "RESIDENT EVIL: requiem",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 1256,
       "language": "en",
       "started_at": "2026-09-06T07:00:51Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "PRESTIGE GRIND",
       "game_name": "WARDOGS",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 73,
       "language": "en",
       "started_at": "2026-09-06T04:22:55Z",
