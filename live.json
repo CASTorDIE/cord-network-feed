@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T18:07:57.870Z",
+  "generatedAt": "2026-09-06T18:12:57.868Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T18:07:57.870Z",
+    "fetchedAt": "2026-09-06T18:12:57.868Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐Drops⭐ Muujimithony Hunting |  !hype !newvlog !gamevideo",
       "game_name": "Oxygen Not Included",
-      "viewer_count": 18,
+      "viewer_count": 19,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-09-06T13:43:59Z",
@@ -651,7 +651,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10109,
+      "follower_count": 10108,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
