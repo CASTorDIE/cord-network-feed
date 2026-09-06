@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T03:52:57.549Z",
+  "generatedAt": "2026-09-06T03:57:57.631Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T03:52:57.549Z",
+    "fetchedAt": "2026-09-06T03:57:57.631Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "6 bosses left | ELDEN RING \"DEATH LINK\" | DAY 11🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 85,
+      "viewer_count": 83,
       "follower_count": 10620,
       "language": "en",
       "started_at": "2026-09-05T19:34:10Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Whatever Happens, Happens (ง •̀_•́)ง🔪",
       "game_name": "Games + Demos",
-      "viewer_count": 6,
+      "viewer_count": 4,
       "follower_count": 343,
       "language": "en",
       "started_at": "2026-09-06T01:50:39Z",
