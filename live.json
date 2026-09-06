@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T07:32:57.987Z",
+  "generatedAt": "2026-09-06T07:37:58.037Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T07:32:57.987Z",
+    "fetchedAt": "2026-09-06T07:37:58.037Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "ViridisBytes",
       "is_live": true,
       "title": "[18+]I Came. I Saw. I Panicked. | RE9 | !advanced !discord !lurk !time !clip |",
-      "game_name": "Just Chatting",
-      "viewer_count": 11,
+      "game_name": "RESIDENT EVIL: requiem",
+      "viewer_count": 12,
       "follower_count": 1257,
       "language": "en",
       "started_at": "2026-09-06T07:00:51Z",
