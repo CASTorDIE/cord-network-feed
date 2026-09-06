@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T11:22:57.345Z",
+  "generatedAt": "2026-09-06T11:27:57.433Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-06T11:22:57.345Z",
+    "fetchedAt": "2026-09-06T11:27:57.433Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Starting our fall survival town!! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 32,
+      "viewer_count": 36,
       "follower_count": 2764,
       "language": "en",
       "started_at": "2026-09-06T10:58:45Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "[18+]I Came. I Saw. I Panicked. | RE9 | !advanced !discord !lurk !time !clip |",
       "game_name": "RESIDENT EVIL: requiem",
-      "viewer_count": 14,
+      "viewer_count": 15,
       "follower_count": 1258,
       "language": "en",
       "started_at": "2026-09-06T07:00:51Z",
