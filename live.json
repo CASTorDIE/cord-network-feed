@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-07T05:42:58.022Z",
+  "generatedAt": "2026-09-07T05:47:58.116Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-07T05:42:58.022Z",
+    "fetchedAt": "2026-09-07T05:47:58.116Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "206/207 BOSSES | ELDEN RING \"DEATH LINK\" | LAST DAY LETS GET IT🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 63,
+      "viewer_count": 64,
       "follower_count": 10623,
       "language": "en",
       "started_at": "2026-09-06T20:25:21Z",
