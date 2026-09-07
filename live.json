@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-07T07:12:58.090Z",
+  "generatedAt": "2026-09-07T07:17:58.181Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-07T07:12:58.090Z",
+    "fetchedAt": "2026-09-07T07:17:58.181Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "206/207 BOSSES | ELDEN RING \"DEATH LINK\" | LAST DAY LETS GET IT🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 69,
+      "viewer_count": 68,
       "follower_count": 10622,
       "language": "en",
       "started_at": "2026-09-06T20:25:21Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "[18+]I Came. I Saw. I Panicked. | RE9 | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 1256,
       "language": "en",
       "started_at": "2026-09-07T07:00:29Z",
