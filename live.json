@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-07T07:52:58.212Z",
+  "generatedAt": "2026-09-07T07:57:58.227Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-07T07:52:58.212Z",
+    "fetchedAt": "2026-09-07T07:57:58.227Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "206/207 BOSSES | ELDEN RING \"DEATH LINK\" | LAST DAY LETS GET IT🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 67,
+      "viewer_count": 65,
       "follower_count": 10622,
       "language": "en",
       "started_at": "2026-09-06T20:25:21Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "[18+]I Came. I Saw. I Panicked. | RE9 | !advanced !discord !lurk !time !clip |",
       "game_name": "RESIDENT EVIL: requiem",
-      "viewer_count": 24,
+      "viewer_count": 22,
       "follower_count": 1257,
       "language": "en",
       "started_at": "2026-09-07T07:00:29Z",
