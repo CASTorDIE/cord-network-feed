@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-07T03:47:57.953Z",
+  "generatedAt": "2026-09-07T03:52:57.780Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-07T03:47:57.953Z",
+    "fetchedAt": "2026-09-07T03:52:57.780Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "LAST BOSS TIME RAHHH | ELDEN RING \"DEATH LINK\" | LAST DAY LETS GET IT🎀 !ERGOALS",
       "game_name": "ELDEN RING",
-      "viewer_count": 68,
+      "viewer_count": 72,
       "follower_count": 10624,
       "language": "en",
       "started_at": "2026-09-06T20:25:21Z",
