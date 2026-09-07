@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-07T23:02:57.663Z",
+  "generatedAt": "2026-09-07T23:07:57.643Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-07T23:02:57.663Z",
+    "fetchedAt": "2026-09-07T23:07:57.643Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 63,
-      "follower_count": 2476,
+      "viewer_count": 66,
+      "follower_count": 2475,
       "language": "en",
       "started_at": "2026-09-07T22:48:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114217,
+      "follower_count": 114218,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
