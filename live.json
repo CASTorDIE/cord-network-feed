@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-07T18:27:58.162Z",
+  "generatedAt": "2026-09-07T18:32:58.173Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-07T18:27:58.162Z",
+    "fetchedAt": "2026-09-07T18:32:58.173Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Figuring Out Once Human!! | Drizzle's Dreary Jazz Corner",
       "game_name": "Once Human",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 25,
       "language": "en",
       "started_at": "2026-09-07T17:57:16Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114201,
+      "follower_count": 114202,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
