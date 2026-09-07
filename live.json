@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-07T23:42:57.648Z",
+  "generatedAt": "2026-09-07T23:47:57.716Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-07T23:42:57.648Z",
+    "fetchedAt": "2026-09-07T23:47:57.716Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 95,
+      "viewer_count": 94,
       "follower_count": 2475,
       "language": "en",
       "started_at": "2026-09-07T22:48:07Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114219,
+      "follower_count": 114220,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
