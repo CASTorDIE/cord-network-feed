@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-07T09:27:57.282Z",
+  "generatedAt": "2026-09-07T09:32:57.338Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-07T09:27:57.282Z",
+    "fetchedAt": "2026-09-07T09:32:57.338Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "HELP ME ESCAPE DA BACKROOMS",
       "game_name": "Just Chatting",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "follower_count": 58,
       "language": "en",
       "started_at": "2026-09-07T08:34:31Z",
