@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T21:32:57.557Z",
+  "generatedAt": "2026-09-08T21:37:57.573Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T21:32:57.557Z",
+    "fetchedAt": "2026-09-08T21:37:57.573Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 50% OFF SUBS! 💾 SANDISK SPONSORED | Trolling ARC Raiders Lobbies 😈",
       "game_name": "ARC Raiders",
-      "viewer_count": 137,
+      "viewer_count": 146,
       "follower_count": 14479,
       "language": "en",
       "started_at": "2026-09-08T18:25:39Z",
