@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T12:22:57.852Z",
+  "generatedAt": "2026-09-08T12:27:57.866Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T12:22:57.852Z",
+    "fetchedAt": "2026-09-08T12:27:57.866Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "I Keep Coming Back to This Game.....",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 13,
-      "follower_count": 256,
+      "viewer_count": 10,
+      "follower_count": 257,
       "language": "en",
       "started_at": "2026-09-08T09:01:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👁️your song requests - piano / ukulele [novice] 🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 421,
       "language": "en",
       "started_at": "2026-09-08T11:59:18Z",
