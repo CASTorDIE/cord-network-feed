@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T20:12:57.519Z",
+  "generatedAt": "2026-09-08T20:17:57.541Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T20:12:57.519Z",
+    "fetchedAt": "2026-09-08T20:17:57.541Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 50% OFF SUBS! 💾 SANDISK SPONSORED | Trolling ARC Raiders Lobbies 😈",
       "game_name": "ARC Raiders",
-      "viewer_count": 119,
+      "viewer_count": 128,
       "follower_count": 14478,
       "language": "en",
       "started_at": "2026-09-08T18:25:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Cowork the day away! | 08/09/2026",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-09-08T16:38:45Z",
