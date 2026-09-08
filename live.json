@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T22:57:57.723Z",
+  "generatedAt": "2026-09-08T23:02:57.835Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T22:57:57.723Z",
+    "fetchedAt": "2026-09-08T23:02:57.835Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 Trolling ARC Raiders Lobbies 😈 !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 144,
+      "viewer_count": 149,
       "follower_count": 14484,
       "language": "en",
       "started_at": "2026-09-08T18:25:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 66,
+      "viewer_count": 62,
       "follower_count": 2475,
       "language": "en",
       "started_at": "2026-09-08T22:40:58Z",
