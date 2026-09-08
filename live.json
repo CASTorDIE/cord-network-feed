@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T00:37:57.732Z",
+  "generatedAt": "2026-09-08T00:42:57.840Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T00:37:57.732Z",
+    "fetchedAt": "2026-09-08T00:42:57.840Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,12 +15,27 @@
   },
   "streamers": [
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 958🦜!discord🦜WE ARE HERE GAMING FORT HE GAMERS IN GAMING FOR GAMING IS HOW WE ARE GAMING WITH GAMERS AWHO ARE GAHMIG",
+      "game_name": "Rocket League",
+      "viewer_count": 151,
+      "follower_count": 114217,
+      "language": "en",
+      "started_at": "2026-09-08T00:36:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 124,
+      "viewer_count": 102,
       "follower_count": 2474,
       "language": "en",
       "started_at": "2026-09-07T22:48:07Z",
@@ -43,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 958🦜!discord🦜WE ARE HERE GAMING FORT HE GAMERS IN GAMING FOR GAMING IS HOW WE ARE GAMING WITH GAMERS AWHO ARE GAHMIG",
-      "game_name": "Rocket League",
-      "viewer_count": 1,
-      "follower_count": 114219,
-      "language": "en",
-      "started_at": "2026-09-08T00:36:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "4kaizen_gaming",
