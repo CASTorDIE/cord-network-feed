@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T08:12:57.425Z",
+  "generatedAt": "2026-09-08T08:17:57.537Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T08:12:57.425Z",
+    "fetchedAt": "2026-09-08T08:17:57.537Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "THE WORST TEAM IMAGINABLE",
       "game_name": "Escape from Tarkov: Arena",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 73,
       "language": "en",
       "started_at": "2026-09-08T04:02:42Z",
