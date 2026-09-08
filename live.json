@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-08T02:32:59.057Z",
+  "generatedAt": "2026-09-08T02:37:57.911Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T02:32:59.057Z",
+    "fetchedAt": "2026-09-08T02:37:57.911Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 958🦜!discord🦜WE ARE HERE GAMING FORT HE GAMERS IN GAMING FOR GAMING IS HOW WE ARE GAMING WITH GAMERS AWHO ARE GAHMIG",
       "game_name": "Rocket League",
-      "viewer_count": 626,
-      "follower_count": 114312,
+      "viewer_count": 722,
+      "follower_count": 114320,
       "language": "en",
       "started_at": "2026-09-08T00:36:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 78,
+      "viewer_count": 73,
       "follower_count": 2475,
       "language": "en",
       "started_at": "2026-09-07T22:48:07Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🦊🦇| More Tunic and Vibes | !pizza !discord !telegram !vrc |",
       "game_name": "TUNIC",
-      "viewer_count": 38,
+      "viewer_count": 37,
       "follower_count": 10108,
       "language": "en",
       "started_at": "2026-09-08T02:08:13Z",
@@ -58,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Its mastery monday yippie",
-      "game_name": "Fortnite",
-      "viewer_count": 1,
-      "follower_count": 395,
-      "language": "en",
-      "started_at": "2026-09-07T23:08:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -193,6 +178,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 395,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
