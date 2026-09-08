@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T18:12:57.332Z",
+  "generatedAt": "2026-09-08T18:17:57.314Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T18:12:57.332Z",
+    "fetchedAt": "2026-09-08T18:17:57.314Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Cowork the day away! | 08/09/2026",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-09-08T16:38:45Z",
