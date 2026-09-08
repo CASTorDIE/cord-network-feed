@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-08T03:27:57.986Z",
+  "generatedAt": "2026-09-08T03:32:58.055Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T03:27:57.986Z",
+    "fetchedAt": "2026-09-08T03:32:58.055Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| More Tunic and Vibes | !pizza !discord !telegram !vrc |",
       "game_name": "TUNIC",
-      "viewer_count": 42,
+      "viewer_count": 44,
       "follower_count": 10109,
       "language": "en",
       "started_at": "2026-09-08T02:08:13Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
+    },
+    {
+      "user_login": "gmclay_",
+      "user_name": "GMCLAY_",
+      "is_live": true,
+      "title": "THE WORST TEAM IMAGINABLE",
+      "game_name": "Escape from Tarkov: Arena",
+      "viewer_count": 0,
+      "follower_count": 73,
+      "language": "en",
+      "started_at": "2026-09-08T03:30:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gmclay_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gmclay_",
+      "description": "I alternate between MVP and WTF"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -343,21 +358,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gibsontales",
       "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
-    },
-    {
-      "user_login": "gmclay_",
-      "user_name": "GMCLAY_",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 73,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gmclay_",
-      "description": "I alternate between MVP and WTF"
     },
     {
       "user_login": "guitardoll",
