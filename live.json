@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T21:42:57.642Z",
+  "generatedAt": "2026-09-08T21:47:57.616Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T21:42:57.642Z",
+    "fetchedAt": "2026-09-08T21:47:57.616Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,10 +18,10 @@
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
-      "title": "🔴 50% OFF SUBS! 💾 SANDISK SPONSORED | Trolling ARC Raiders Lobbies 😈",
+      "title": "🔴 Trolling ARC Raiders Lobbies 😈 !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 144,
-      "follower_count": 14480,
+      "viewer_count": 158,
+      "follower_count": 14481,
       "language": "en",
       "started_at": "2026-09-08T18:25:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
