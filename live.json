@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T12:02:57.844Z",
+  "generatedAt": "2026-09-08T12:07:57.914Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T12:02:57.844Z",
+    "fetchedAt": "2026-09-08T12:07:57.914Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I Keep Coming Back to This Game.....",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 12,
+      "viewer_count": 17,
       "follower_count": 256,
       "language": "en",
       "started_at": "2026-09-08T09:01:23Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👁️your song requests - piano / ukulele [novice] 🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 419,
       "language": "en",
       "started_at": "2026-09-08T11:59:18Z",
