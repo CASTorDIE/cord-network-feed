@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T22:02:57.661Z",
+  "generatedAt": "2026-09-08T22:07:57.644Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T22:02:57.661Z",
+    "fetchedAt": "2026-09-08T22:07:57.644Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 Trolling ARC Raiders Lobbies 😈 !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 152,
+      "viewer_count": 149,
       "follower_count": 14482,
       "language": "en",
       "started_at": "2026-09-08T18:25:39Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114404,
+      "follower_count": 114403,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
