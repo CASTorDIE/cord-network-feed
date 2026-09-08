@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T23:32:57.828Z",
+  "generatedAt": "2026-09-08T23:37:57.842Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T23:32:57.828Z",
+    "fetchedAt": "2026-09-08T23:37:57.842Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 Trolling ARC Raiders Lobbies 😈 !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 161,
+      "viewer_count": 159,
       "follower_count": 14484,
       "language": "en",
       "started_at": "2026-09-08T18:25:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 76,
+      "viewer_count": 75,
       "follower_count": 2475,
       "language": "en",
       "started_at": "2026-09-08T22:40:58Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Cowork the day away! | 08/09/2026",
       "game_name": "Just Chatting",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-09-08T16:38:45Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": true,
+      "title": "it's time to become a spy Drops enabled",
+      "game_name": "007 First Light",
+      "viewer_count": 2,
+      "follower_count": 395,
+      "language": "en",
+      "started_at": "2026-09-08T23:08:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "thepuckgoa",
@@ -73,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "it's time to become a spy Drops enabled",
-      "game_name": "007 First Light",
-      "viewer_count": 1,
-      "follower_count": 395,
-      "language": "en",
-      "started_at": "2026-09-08T23:08:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -216,7 +216,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114407,
+      "follower_count": 114408,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
