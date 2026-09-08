@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T22:17:57.671Z",
+  "generatedAt": "2026-09-08T22:22:57.646Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T22:17:57.671Z",
+    "fetchedAt": "2026-09-08T22:22:57.646Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 Trolling ARC Raiders Lobbies 😈 !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 147,
+      "viewer_count": 154,
       "follower_count": 14482,
       "language": "en",
       "started_at": "2026-09-08T18:25:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Cowork the day away! | 08/09/2026",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-09-08T16:38:45Z",
