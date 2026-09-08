@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T07:37:57.454Z",
+  "generatedAt": "2026-09-08T07:42:57.425Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T07:37:57.454Z",
+    "fetchedAt": "2026-09-08T07:42:57.425Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| More Tunic and Vibes | !pizza !discord !telegram !vrc |",
       "game_name": "TUNIC",
-      "viewer_count": 59,
+      "viewer_count": 60,
       "follower_count": 10112,
       "language": "en",
       "started_at": "2026-09-08T02:08:13Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114371,
+      "follower_count": 114372,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
