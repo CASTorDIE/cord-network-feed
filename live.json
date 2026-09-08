@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T10:57:57.707Z",
+  "generatedAt": "2026-09-08T11:02:57.769Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T10:57:57.707Z",
+    "fetchedAt": "2026-09-08T11:02:57.769Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I Keep Coming Back to This Game.....",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 10,
+      "viewer_count": 13,
       "follower_count": 256,
       "language": "en",
       "started_at": "2026-09-08T09:01:23Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114375,
+      "follower_count": 114376,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
