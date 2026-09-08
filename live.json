@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T18:47:57.463Z",
+  "generatedAt": "2026-09-08T18:52:57.443Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T18:47:57.463Z",
+    "fetchedAt": "2026-09-08T18:52:57.443Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 50% OFF SUBS! 💾 SANDISK SPONSORED | Trolling ARC Raiders Lobbies 😈",
       "game_name": "Just Chatting",
-      "viewer_count": 110,
+      "viewer_count": 115,
       "follower_count": 14476,
       "language": "en",
       "started_at": "2026-09-08T18:25:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Cowork the day away! | 08/09/2026",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-09-08T16:38:45Z",
@@ -400,7 +400,7 @@
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/179c7c20-ce48-431e-92dc-5c2b5ebd4a26-profile_image-300x300.png",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1cf556-9d84-4acf-a233-65f10ac1d1fa-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
       "description": "🍓 Welcome to JaxsBerryPatch! Cozy Disney Dreamlight Valley streams filled with DreamSnaps, decorating, quests, and magical vibes. Grab a cozy drink and join our berry sweet community! 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
