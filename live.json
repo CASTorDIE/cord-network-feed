@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T03:57:58.188Z",
+  "generatedAt": "2026-09-08T04:02:58.187Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T03:57:58.188Z",
+    "fetchedAt": "2026-09-08T04:02:58.187Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,10 +35,10 @@
       "is_live": true,
       "title": "THE WORST TEAM IMAGINABLE",
       "game_name": "Escape from Tarkov: Arena",
-      "viewer_count": 3,
+      "viewer_count": 0,
       "follower_count": 73,
       "language": "en",
-      "started_at": "2026-09-08T03:30:43Z",
+      "started_at": "2026-09-08T04:02:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gmclay_-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff04e1c0-78ca-4478-8068-d26e925022c9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gmclay_",
