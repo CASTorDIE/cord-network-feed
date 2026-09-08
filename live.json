@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T21:47:57.616Z",
+  "generatedAt": "2026-09-08T21:52:57.629Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T21:47:57.616Z",
+    "fetchedAt": "2026-09-08T21:52:57.629Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴 Trolling ARC Raiders Lobbies 😈 !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 158,
-      "follower_count": 14481,
+      "viewer_count": 153,
+      "follower_count": 14482,
       "language": "en",
       "started_at": "2026-09-08T18:25:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
