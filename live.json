@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T07:17:57.343Z",
+  "generatedAt": "2026-09-08T07:22:57.387Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T07:17:57.343Z",
+    "fetchedAt": "2026-09-08T07:22:57.387Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| More Tunic and Vibes | !pizza !discord !telegram !vrc |",
       "game_name": "TUNIC",
-      "viewer_count": 59,
-      "follower_count": 10111,
+      "viewer_count": 63,
+      "follower_count": 10112,
       "language": "en",
       "started_at": "2026-09-08T02:08:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
