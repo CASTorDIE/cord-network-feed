@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-09T01:17:58.057Z",
+  "generatedAt": "2026-09-09T01:22:58.056Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-09T01:17:58.057Z",
+    "fetchedAt": "2026-09-09T01:22:58.056Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 8,
-    "offlineCount": 36
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 959🥞!discord🥞DO NOT FEAR🥞THE LOUDEST ROCKE TLEAGUE PLAEYR IS HERE🥞WE ARE GOING OT BE THE STREMAI FOR THAIN FOEKFAL",
       "game_name": "Rocket League",
-      "viewer_count": 343,
+      "viewer_count": 373,
       "follower_count": 114432,
       "language": "en",
       "started_at": "2026-09-09T00:18:05Z",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "🔴 Trolling ARC Raiders Lobbies 😈 !discord",
-      "game_name": "Marvel Rivals",
-      "viewer_count": 99,
-      "follower_count": 14491,
-      "language": "en",
-      "started_at": "2026-09-08T18:25:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 77,
+      "viewer_count": 72,
       "follower_count": 2475,
       "language": "en",
       "started_at": "2026-09-08T22:40:58Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "ENDACOPIA | Computers, Clowns, and Critters, Oh My! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Endacopia",
-      "viewer_count": 12,
+      "viewer_count": 10,
       "follower_count": 1729,
       "language": "en",
       "started_at": "2026-09-09T00:37:29Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "Celeste Goldens and then Street Fighter!",
       "game_name": "Celeste",
-      "viewer_count": 8,
+      "viewer_count": 7,
       "follower_count": 294,
       "language": "en",
       "started_at": "2026-09-09T01:10:35Z",
@@ -568,6 +553,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
+    },
+    {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 14491,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "slimchungusgaming",
