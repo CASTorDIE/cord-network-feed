@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T23:57:57.924Z",
+  "generatedAt": "2026-09-09T00:02:57.871Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-08T23:57:57.924Z",
+    "fetchedAt": "2026-09-09T00:02:57.871Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 Trolling ARC Raiders Lobbies 😈 !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 156,
+      "viewer_count": 158,
       "follower_count": 14487,
       "language": "en",
       "started_at": "2026-09-08T18:25:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 77,
+      "viewer_count": 91,
       "follower_count": 2475,
       "language": "en",
       "started_at": "2026-09-08T22:40:58Z",
@@ -45,10 +45,25 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "wispy_witch",
+      "user_name": "wispy_witch",
+      "is_live": true,
+      "title": "ENDACOPIA | Computers, Clowns, and Critters, Oh My! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
+      "game_name": "Just Chatting",
+      "viewer_count": 9,
+      "follower_count": 1729,
+      "language": "en",
+      "started_at": "2026-09-08T23:55:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wispy_witch",
+      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    {
       "user_login": "faytefireix",
       "user_name": "FayteFireix",
       "is_live": true,
-      "title": "Cowork the day away! | 08/09/2026",
+      "title": "Study Hall w/ Kiddo & Programming the Metroid Dread Map Tracker! | 08/09/2026",
       "game_name": "Just Chatting",
       "viewer_count": 5,
       "follower_count": 725,
@@ -88,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "wispy_witch",
-      "user_name": "wispy_witch",
-      "is_live": true,
-      "title": "ENDACOPIA | Computers, Clowns, and Critters, Oh My! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "Just Chatting",
-      "viewer_count": 1,
-      "follower_count": 1729,
-      "language": "en",
-      "started_at": "2026-09-08T23:55:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
       "user_login": "4kaizen_gaming",
