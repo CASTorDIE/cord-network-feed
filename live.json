@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-09T13:37:58.221Z",
+  "generatedAt": "2026-09-09T13:42:58.153Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-09T13:37:58.221Z",
+    "fetchedAt": "2026-09-09T13:42:58.153Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "My Husband Is Literally My Ghost 👻 | Beyond: Two Souls",
       "game_name": "Games + Demos",
-      "viewer_count": 22,
+      "viewer_count": 19,
       "follower_count": 973,
       "language": "en",
       "started_at": "2026-09-09T12:48:20Z",
