@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-09T17:43:07.970Z",
+  "generatedAt": "2026-09-09T17:52:45.366Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-09-09T17:43:07.936Z",
+    "updatedAt": "2026-09-09T17:52:45.326Z",
     "timezone": "America/Chicago"
   },
   "summary": {
@@ -98,12 +98,12 @@
       "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
-      "id": "evt_1788975780818_jwm32s",
+      "id": "evt_1788976365321_tl1d95",
       "date": "2026-09-11",
       "dateLabel": "Friday, September 11th",
       "weekday": "Friday",
       "streamer": "InariStar",
-      "title": "Untitled stream",
+      "title": "TATT, audio balance, left ear sound",
       "timeMinutes": 1230,
       "timeLabel": "8:30 PM",
       "highlight": "orange",
@@ -124,12 +124,12 @@
       "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
-      "id": "evt_1788975780818_3gw1rf",
+      "id": "evt_1788976365321_xuuqba",
       "date": "2026-09-12",
       "dateLabel": "Saturday, September 12th",
       "weekday": "Saturday",
       "streamer": "InariStar",
-      "title": "Untitled stream",
+      "title": "TATT, audio balance, left ear sound",
       "timeMinutes": 1230,
       "timeLabel": "8:30 PM",
       "highlight": "orange",
@@ -176,12 +176,12 @@
       "url": "https://www.twitch.tv/bradybits"
     },
     {
-      "id": "evt_1788975780818_g0gbgd",
+      "id": "evt_1788976365321_z035vp",
       "date": "2026-09-13",
       "dateLabel": "Sunday, September 13th",
       "weekday": "Sunday",
       "streamer": "InariStar",
-      "title": "Untitled stream",
+      "title": "TATT, audio balance, left ear sound",
       "timeMinutes": 1230,
       "timeLabel": "8:30 PM",
       "highlight": "orange",
