@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-09T01:37:58.857Z",
+  "generatedAt": "2026-09-09T01:42:57.997Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-09T01:37:58.857Z",
+    "fetchedAt": "2026-09-09T01:42:57.997Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 8,
+    "offlineCount": 36
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 959🥞!discord🥞DO NOT FEAR🥞THE LOUDEST ROCKE TLEAGUE PLAEYR IS HERE🥞WE ARE GOING OT BE THE STREMAI FOR THAIN FOEKFAL",
       "game_name": "Rocket League",
-      "viewer_count": 527,
-      "follower_count": 114449,
+      "viewer_count": 582,
+      "follower_count": 114453,
       "language": "en",
       "started_at": "2026-09-09T00:18:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 75,
+      "viewer_count": 69,
       "follower_count": 2475,
       "language": "en",
       "started_at": "2026-09-08T22:40:58Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Celeste Goldens and then Street Fighter!",
       "game_name": "Celeste",
-      "viewer_count": 13,
+      "viewer_count": 12,
       "follower_count": 294,
       "language": "en",
       "started_at": "2026-09-09T01:10:35Z",
@@ -90,12 +90,27 @@
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
+      "user_login": "alfieduu",
+      "user_name": "alfieduu",
+      "is_live": true,
+      "title": "GREAT GOOGLY MOOGLY",
+      "game_name": "Worming from Home",
+      "viewer_count": 5,
+      "follower_count": 170,
+      "language": "en",
+      "started_at": "2026-09-09T01:40:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/alfieduu",
+      "description": "yo put your feet up homie"
+    },
+    {
       "user_login": "bribeecool10",
       "user_name": "bribeecool10",
       "is_live": true,
       "title": "it's time to become a spy Drops enabled",
       "game_name": "007 First Light",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 395,
       "language": "en",
       "started_at": "2026-09-08T23:08:03Z",
@@ -118,21 +133,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "alfieduu",
-      "user_name": "alfieduu",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 170,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/alfieduu",
-      "description": "yo put your feet up homie"
     },
     {
       "user_login": "allyreggie",
@@ -561,7 +561,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14491,
+      "follower_count": 14492,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
