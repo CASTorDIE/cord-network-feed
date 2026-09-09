@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-09T08:57:57.715Z",
+  "generatedAt": "2026-09-09T09:02:57.758Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-09T08:57:57.715Z",
+    "fetchedAt": "2026-09-09T09:02:57.758Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Shes A Crash out Queen - Drops On",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 5,
+      "viewer_count": 7,
       "follower_count": 259,
       "language": "en",
       "started_at": "2026-09-09T08:49:35Z",
@@ -531,7 +531,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14493,
+      "follower_count": 14494,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
