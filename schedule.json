@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-09T17:37:17.363Z",
+  "generatedAt": "2026-09-09T17:43:07.970Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-09-09T17:37:17.327Z",
+    "updatedAt": "2026-09-09T17:43:07.936Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 15,
+    "entryCount": 18,
     "firstDate": "2026-09-06",
     "lastDate": "2026-09-21",
     "windowStart": "2026-09-06",
@@ -22,8 +22,8 @@
     {
       "id": "evt_1788297747631_50p113",
       "date": "2026-09-06",
-      "dateLabel": "Sun, Sep 6",
-      "weekday": "",
+      "dateLabel": "Sunday, September 6th",
+      "weekday": "Sunday",
       "streamer": "JaxsBerryPatch",
       "title": "Untitled stream",
       "timeMinutes": 420,
@@ -35,8 +35,8 @@
     {
       "id": "evt_1788297911540_7n256o",
       "date": "2026-09-06",
-      "dateLabel": "Sun, Sep 6",
-      "weekday": "",
+      "dateLabel": "Sunday, September 6th",
+      "weekday": "Sunday",
       "streamer": "gibsontales",
       "title": "Community Movie Night",
       "timeMinutes": 1020,
@@ -48,8 +48,8 @@
     {
       "id": "evt_1787782891746_0hrzf1",
       "date": "2026-09-06",
-      "dateLabel": "Sun, Sep 6",
-      "weekday": "",
+      "dateLabel": "Sunday, September 6th",
+      "weekday": "Sunday",
       "streamer": "HORROR_HEATHER",
       "title": "MOVIE NIGHT",
       "timeMinutes": 1020,
@@ -61,8 +61,8 @@
     {
       "id": "evt_1788298039705_e8e1ys",
       "date": "2026-09-06",
-      "dateLabel": "Sun, Sep 6",
-      "weekday": "",
+      "dateLabel": "Sunday, September 6th",
+      "weekday": "Sunday",
       "streamer": "FloodWater_",
       "title": "Untitled stream",
       "timeMinutes": 1230,
@@ -74,8 +74,8 @@
     {
       "id": "evt_1788885463611_873cba",
       "date": "2026-09-09",
-      "dateLabel": "Wed, Sep 9",
-      "weekday": "",
+      "dateLabel": "Wednesday, September 9th",
+      "weekday": "Wednesday",
       "streamer": "JaxsBerryPatch",
       "title": "Weekly Reset! Checking out Snaps, the premium shop and routine duties!!",
       "timeMinutes": 870,
@@ -87,8 +87,8 @@
     {
       "id": "evt_1788885463611_19e7d5",
       "date": "2026-09-11",
-      "dateLabel": "Fri, Sep 11",
-      "weekday": "",
+      "dateLabel": "Friday, September 11th",
+      "weekday": "Friday",
       "streamer": "JaxsBerryPatch",
       "title": "Continuing our fall town build!! Finishing the inside of our house!",
       "timeMinutes": 990,
@@ -98,10 +98,23 @@
       "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
+      "id": "evt_1788975780818_jwm32s",
+      "date": "2026-09-11",
+      "dateLabel": "Friday, September 11th",
+      "weekday": "Friday",
+      "streamer": "InariStar",
+      "title": "Untitled stream",
+      "timeMinutes": 1230,
+      "timeLabel": "8:30 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/inaristar"
+    },
+    {
       "id": "evt_1788885463611_e7ccac",
       "date": "2026-09-12",
-      "dateLabel": "Sat, Sep 12",
-      "weekday": "",
+      "dateLabel": "Saturday, September 12th",
+      "weekday": "Saturday",
       "streamer": "JaxsBerryPatch",
       "title": "Day one of building houses for the men! Lets make some cute fall townhouses and shops!",
       "timeMinutes": 420,
@@ -111,10 +124,23 @@
       "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
+      "id": "evt_1788975780818_3gw1rf",
+      "date": "2026-09-12",
+      "dateLabel": "Saturday, September 12th",
+      "weekday": "Saturday",
+      "streamer": "InariStar",
+      "title": "Untitled stream",
+      "timeMinutes": 1230,
+      "timeLabel": "8:30 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/inaristar"
+    },
+    {
       "id": "evt_1788885463611_300f12",
       "date": "2026-09-13",
-      "dateLabel": "Sun, Sep 13",
-      "weekday": "",
+      "dateLabel": "Sunday, September 13th",
+      "weekday": "Sunday",
       "streamer": "JaxsBerryPatch",
       "title": "Its my Birthday!!! Working on our town some more!!",
       "timeMinutes": 420,
@@ -126,8 +152,8 @@
     {
       "id": "evt_1787782891746_9e2vtx",
       "date": "2026-09-13",
-      "dateLabel": "Sun, Sep 13",
-      "weekday": "",
+      "dateLabel": "Sunday, September 13th",
+      "weekday": "Sunday",
       "streamer": "HORROR_HEATHER",
       "title": "MOVIE NIGHT",
       "timeMinutes": 1020,
@@ -139,8 +165,8 @@
     {
       "id": "evt_1788975042496_0jsafp",
       "date": "2026-09-13",
-      "dateLabel": "Sun, Sep 13",
-      "weekday": "",
+      "dateLabel": "Sunday, September 13th",
+      "weekday": "Sunday",
       "streamer": "BradyBits",
       "title": "Untitled stream",
       "timeMinutes": 1140,
@@ -148,6 +174,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/bradybits"
+    },
+    {
+      "id": "evt_1788975780818_g0gbgd",
+      "date": "2026-09-13",
+      "dateLabel": "Sunday, September 13th",
+      "weekday": "Sunday",
+      "streamer": "InariStar",
+      "title": "Untitled stream",
+      "timeMinutes": 1230,
+      "timeLabel": "8:30 PM",
+      "highlight": "orange",
+      "pillLabel": "GUEST",
+      "url": "https://www.twitch.tv/inaristar"
     },
     {
       "id": "evt_1787782891746_5osj5b",
