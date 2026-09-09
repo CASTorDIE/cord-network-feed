@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-09-09T03:02:58.133Z",
+  "generatedAt": "2026-09-09T03:07:58.170Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-09T03:02:58.133Z",
+    "fetchedAt": "2026-09-09T03:07:58.170Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 959🥞!discord🥞DO NOT FEAR🥞THE LOUDEST ROCKE TLEAGUE PLAEYR IS HERE🥞WE ARE GOING OT BE THE STREMAI FOR THAIN FOEKFAL",
-      "game_name": "Rocket League",
-      "viewer_count": 483,
-      "follower_count": 114558,
-      "language": "en",
-      "started_at": "2026-09-09T00:18:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
-      "title": "Celeste Goldens and then Street Fighter!",
-      "game_name": "Celeste",
-      "viewer_count": 12,
+      "title": "UNC Grinds back to Ultimate Master",
+      "game_name": "Street Fighter 6",
+      "viewer_count": 13,
       "follower_count": 294,
       "language": "en",
       "started_at": "2026-09-09T01:10:35Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "Study Hall w/ Kiddo & Programming the Metroid Dread Map Tracker! | 08/09/2026",
       "game_name": "Just Chatting",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-09-08T16:38:45Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "GREAT GOOGLY MOOGLY",
       "game_name": "Worming from Home",
-      "viewer_count": 7,
+      "viewer_count": 4,
       "follower_count": 171,
       "language": "en",
       "started_at": "2026-09-09T01:40:17Z",
@@ -193,6 +178,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 114560,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
