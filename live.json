@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-09T23:37:58.644Z",
+  "generatedAt": "2026-09-09T23:42:58.823Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-09T23:37:58.644Z",
+    "fetchedAt": "2026-09-09T23:42:58.823Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 79,
+      "viewer_count": 75,
       "follower_count": 2476,
       "language": "en",
       "started_at": "2026-09-09T22:40:34Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Request Songs Here! >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 16,
+      "viewer_count": 26,
       "follower_count": 6342,
       "language": "en",
       "started_at": "2026-09-09T23:31:18Z",
