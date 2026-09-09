@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-09T17:30:47.789Z",
+  "generatedAt": "2026-09-09T17:37:17.363Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-09-09T17:30:47.756Z",
+    "updatedAt": "2026-09-09T17:37:17.327Z",
     "timezone": "America/Chicago"
   },
   "summary": {
@@ -113,8 +113,8 @@
     {
       "id": "evt_1788885463611_300f12",
       "date": "2026-09-13",
-      "dateLabel": "Sunday, September 13th",
-      "weekday": "Sunday",
+      "dateLabel": "Sun, Sep 13",
+      "weekday": "",
       "streamer": "JaxsBerryPatch",
       "title": "Its my Birthday!!! Working on our town some more!!",
       "timeMinutes": 420,
@@ -126,8 +126,8 @@
     {
       "id": "evt_1787782891746_9e2vtx",
       "date": "2026-09-13",
-      "dateLabel": "Sunday, September 13th",
-      "weekday": "Sunday",
+      "dateLabel": "Sun, Sep 13",
+      "weekday": "",
       "streamer": "HORROR_HEATHER",
       "title": "MOVIE NIGHT",
       "timeMinutes": 1020,
@@ -139,8 +139,8 @@
     {
       "id": "evt_1788975042496_0jsafp",
       "date": "2026-09-13",
-      "dateLabel": "Sunday, September 13th",
-      "weekday": "Sunday",
+      "dateLabel": "Sun, Sep 13",
+      "weekday": "",
       "streamer": "BradyBits",
       "title": "Untitled stream",
       "timeMinutes": 1140,
@@ -152,8 +152,8 @@
     {
       "id": "evt_1787782891746_5osj5b",
       "date": "2026-09-14",
-      "dateLabel": "Monday, September 14th",
-      "weekday": "Monday",
+      "dateLabel": "Mon, Sep 14",
+      "weekday": "",
       "streamer": "HORROR_HEATHER",
       "title": "ALAN WAKE II",
       "timeMinutes": 990,
@@ -165,8 +165,8 @@
     {
       "id": "evt_1787782891746_5bdamz",
       "date": "2026-09-17",
-      "dateLabel": "Thursday, September 17th",
-      "weekday": "Thursday",
+      "dateLabel": "Thu, Sep 17",
+      "weekday": "",
       "streamer": "HORROR_HEATHER",
       "title": "ALAN WAKE II",
       "timeMinutes": 990,
@@ -178,8 +178,8 @@
     {
       "id": "evt_1787782891746_z1rz0i",
       "date": "2026-09-19",
-      "dateLabel": "Saturday, September 19th",
-      "weekday": "Saturday",
+      "dateLabel": "Sat, Sep 19",
+      "weekday": "",
       "streamer": "HORROR_HEATHER",
       "title": "COMMUNITY GAME NIGHT",
       "timeMinutes": 1170,
@@ -191,8 +191,8 @@
     {
       "id": "evt_1787782891747_d7d5l4",
       "date": "2026-09-20",
-      "dateLabel": "Sunday, September 20th",
-      "weekday": "Sunday",
+      "dateLabel": "Sun, Sep 20",
+      "weekday": "",
       "streamer": "HORROR_HEATHER",
       "title": "COMMUNITY MOVIE NIGHT",
       "timeMinutes": 1020,
