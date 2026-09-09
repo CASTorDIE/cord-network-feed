@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-09T10:47:57.919Z",
+  "generatedAt": "2026-09-09T10:52:58.021Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-09T10:47:57.919Z",
+    "fetchedAt": "2026-09-09T10:52:58.021Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Shes A Crash out Queen - Drops On",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 10,
-      "follower_count": 261,
+      "viewer_count": 12,
+      "follower_count": 262,
       "language": "en",
       "started_at": "2026-09-09T08:49:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
