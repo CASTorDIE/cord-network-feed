@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T05:22:57.685Z",
+  "generatedAt": "2026-09-10T05:27:57.639Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-10T05:22:57.685Z",
+    "fetchedAt": "2026-09-10T05:27:57.639Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, MICROSCAPE, & KARAOKE | !pizza !discord !telegram !vrc !micro |",
       "game_name": "VRChat",
-      "viewer_count": 55,
+      "viewer_count": 58,
       "follower_count": 10110,
       "language": "en",
       "started_at": "2026-09-10T02:11:20Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Discussing Nintendo Direct First Look || Ghost of Tsushima Game Play - First Play through [Episode 12]  | 09/09/2026",
       "game_name": "Ghost of Tsushima",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-09-10T02:38:21Z",
