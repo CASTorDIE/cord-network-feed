@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T03:57:58.201Z",
+  "generatedAt": "2026-09-10T04:02:58.125Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-10T03:57:58.201Z",
+    "fetchedAt": "2026-09-10T04:02:58.125Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, MICROSCAPE, & KARAOKE | !pizza !discord !telegram !vrc !micro |",
       "game_name": "Marbles on Stream",
-      "viewer_count": 65,
+      "viewer_count": 68,
       "follower_count": 10109,
       "language": "en",
       "started_at": "2026-09-10T02:11:20Z",
