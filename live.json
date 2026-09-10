@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-10T01:52:58.174Z",
+  "generatedAt": "2026-09-10T01:57:57.926Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-10T01:52:58.174Z",
+    "fetchedAt": "2026-09-10T01:57:57.926Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 960🧅!discord🧅IM SICK🧅ONIONS🧅IM SICK🧅ONIONS🧅I WANT TO FELL BETTER THIS IS TNOT FOR FEELIGN VERY WELL IN MY BRAINS",
       "game_name": "Rocket League",
-      "viewer_count": 555,
-      "follower_count": 114626,
+      "viewer_count": 588,
+      "follower_count": 114633,
       "language": "en",
       "started_at": "2026-09-10T00:13:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Request Songs Here! >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 64,
-      "follower_count": 6344,
+      "viewer_count": 62,
+      "follower_count": 6345,
       "language": "en",
       "started_at": "2026-09-09T23:31:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
@@ -45,27 +45,12 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
-      "game_name": "Games + Demos",
-      "viewer_count": 56,
-      "follower_count": 2476,
-      "language": "en",
-      "started_at": "2026-09-09T22:40:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Day 1 of blind Lies of P!",
       "game_name": "",
-      "viewer_count": 17,
+      "viewer_count": 18,
       "follower_count": 295,
       "language": "en",
       "started_at": "2026-09-10T00:57:07Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "GREAT GOOGLY MOOGLY",
       "game_name": "League of Legends",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 171,
       "language": "en",
       "started_at": "2026-09-10T01:36:48Z",
@@ -133,6 +118,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2477,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
