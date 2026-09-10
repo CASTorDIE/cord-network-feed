@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T04:17:57.640Z",
+  "generatedAt": "2026-09-10T04:22:57.536Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-10T04:17:57.640Z",
+    "fetchedAt": "2026-09-10T04:22:57.536Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, MICROSCAPE, & KARAOKE | !pizza !discord !telegram !vrc !micro |",
       "game_name": "Marbles on Stream",
-      "viewer_count": 59,
+      "viewer_count": 77,
       "follower_count": 10109,
       "language": "en",
       "started_at": "2026-09-10T02:11:20Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Day 1 of blind Lies of P!",
       "game_name": "Lies of P",
-      "viewer_count": 17,
+      "viewer_count": 15,
       "follower_count": 295,
       "language": "en",
       "started_at": "2026-09-10T00:57:07Z",
