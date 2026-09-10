@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T22:07:58.160Z",
+  "generatedAt": "2026-09-10T22:12:58.136Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-10T22:07:58.160Z",
+    "fetchedAt": "2026-09-10T22:12:58.136Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴 50% OFF SUBS?! 🔥 SanDisk Sponsored ARC Raiders Community Games + Chaos",
       "game_name": "Just Chatting",
-      "viewer_count": 89,
-      "follower_count": 14500,
+      "viewer_count": 94,
+      "follower_count": 14499,
       "language": "en",
       "started_at": "2026-09-10T21:48:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
