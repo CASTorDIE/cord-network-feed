@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-10T03:07:58.175Z",
+  "generatedAt": "2026-09-10T03:12:58.090Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-10T03:07:58.175Z",
+    "fetchedAt": "2026-09-10T03:12:58.090Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, MICROSCAPE, & KARAOKE | !pizza !discord !telegram !vrc !micro |",
       "game_name": "Marbles on Stream",
-      "viewer_count": 53,
+      "viewer_count": 45,
       "follower_count": 10110,
       "language": "en",
       "started_at": "2026-09-10T02:11:20Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Day 1 of blind Lies of P!",
       "game_name": "Lies of P",
-      "viewer_count": 17,
+      "viewer_count": 15,
       "follower_count": 295,
       "language": "en",
       "started_at": "2026-09-10T00:57:07Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Nintendo Direct First Look || Then Ghost of Tsushima | First Play through [Episode 12  | 09/09/2026",
       "game_name": "Just Chatting",
-      "viewer_count": 6,
+      "viewer_count": 8,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-09-10T02:38:21Z",
@@ -62,14 +62,14 @@
     {
       "user_login": "alfieduu",
       "user_name": "alfieduu",
-      "is_live": true,
-      "title": "GREAT GOOGLY MOOGLY",
-      "game_name": "League of Legends",
-      "viewer_count": 5,
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
       "follower_count": 171,
-      "language": "en",
-      "started_at": "2026-09-10T01:36:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/alfieduu",
       "description": "yo put your feet up homie"
