@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T11:32:58.194Z",
+  "generatedAt": "2026-09-10T11:37:58.232Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-10T11:32:58.194Z",
+    "fetchedAt": "2026-09-10T11:37:58.232Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] I Came. I Saw. I Panicked. -- PNG EDITION | RE9 | !advanced !discord !lurk !time !clip |",
       "game_name": "RESIDENT EVIL: requiem",
-      "viewer_count": 23,
+      "viewer_count": 24,
       "follower_count": 1258,
       "language": "en",
       "started_at": "2026-09-10T07:00:08Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Use This Stream as ASMR",
       "game_name": "Minecraft",
-      "viewer_count": 7,
+      "viewer_count": 9,
       "follower_count": 269,
       "language": "en",
       "started_at": "2026-09-10T07:02:41Z",
