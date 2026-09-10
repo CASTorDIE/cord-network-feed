@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-10T02:37:58.769Z",
+  "generatedAt": "2026-09-10T02:42:58.234Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-10T02:37:58.769Z",
+    "fetchedAt": "2026-09-10T02:42:58.234Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 960🧅!discord🧅IM SICK🧅ONIONS🧅IM SICK🧅ONIONS🧅I WANT TO FELL BETTER THIS IS TNOT FOR FEELIGN VERY WELL IN MY BRAINS",
       "game_name": "Rocket League",
-      "viewer_count": 661,
-      "follower_count": 114677,
+      "viewer_count": 594,
+      "follower_count": 114683,
       "language": "en",
       "started_at": "2026-09-10T00:13:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Request Songs Here! >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 55,
+      "viewer_count": 51,
       "follower_count": 6346,
       "language": "en",
       "started_at": "2026-09-09T23:31:18Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, MICROSCAPE, & KARAOKE | !pizza !discord !telegram !vrc !micro |",
       "game_name": "Marbles on Stream",
-      "viewer_count": 53,
+      "viewer_count": 51,
       "follower_count": 10112,
       "language": "en",
       "started_at": "2026-09-10T02:11:20Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Day 1 of blind Lies of P!",
       "game_name": "",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 295,
       "language": "en",
       "started_at": "2026-09-10T00:57:07Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "GREAT GOOGLY MOOGLY",
       "game_name": "League of Legends",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 171,
       "language": "en",
       "started_at": "2026-09-10T01:36:48Z",
@@ -88,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/alfieduu",
       "description": "yo put your feet up homie"
+    },
+    {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": true,
+      "title": "Nintendo Direct First Look || Then Ghost of Tsushima | First Play through [Episode 12  | 09/09/2026",
+      "game_name": "Just Chatting",
+      "viewer_count": 2,
+      "follower_count": 725,
+      "language": "en",
+      "started_at": "2026-09-10T02:38:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "allyreggie",
@@ -283,21 +298,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/fallentitanandy",
       "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
-    },
-    {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 725,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "floodwater_",
