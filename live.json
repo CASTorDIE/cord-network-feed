@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T04:57:57.614Z",
+  "generatedAt": "2026-09-10T05:02:57.727Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-10T04:57:57.614Z",
+    "fetchedAt": "2026-09-10T05:02:57.727Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, MICROSCAPE, & KARAOKE | !pizza !discord !telegram !vrc !micro |",
       "game_name": "Marbles on Stream",
-      "viewer_count": 60,
+      "viewer_count": 52,
       "follower_count": 10110,
       "language": "en",
       "started_at": "2026-09-10T02:11:20Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Discussing Nintendo Direct First Look || Ghost of Tsushima Game Play - First Play through [Episode 12]  | 09/09/2026",
       "game_name": "Ghost of Tsushima",
-      "viewer_count": 8,
+      "viewer_count": 9,
       "follower_count": 725,
       "language": "en",
       "started_at": "2026-09-10T02:38:21Z",
