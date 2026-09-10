@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T06:27:57.813Z",
+  "generatedAt": "2026-09-10T06:32:57.763Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-10T06:27:57.813Z",
+    "fetchedAt": "2026-09-10T06:32:57.763Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| MICROSCAPE & CHATTING | !pizza !discord !telegram !vrc !micro |",
       "game_name": "VRChat",
-      "viewer_count": 61,
-      "follower_count": 10111,
+      "viewer_count": 68,
+      "follower_count": 10112,
       "language": "en",
       "started_at": "2026-09-10T02:11:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
