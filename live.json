@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T21:52:58.194Z",
+  "generatedAt": "2026-09-10T21:57:58.152Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-10T21:52:58.194Z",
+    "fetchedAt": "2026-09-10T21:57:58.152Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 50% OFF SUBS?! 🔥 SanDisk Sponsored ARC Raiders Community Games + Chaos",
       "game_name": "Just Chatting",
-      "viewer_count": 29,
+      "viewer_count": 45,
       "follower_count": 14498,
       "language": "en",
       "started_at": "2026-09-10T21:48:10Z",
