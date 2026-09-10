@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T23:42:57.332Z",
+  "generatedAt": "2026-09-10T23:47:57.311Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-10T23:42:57.332Z",
+    "fetchedAt": "2026-09-10T23:47:57.311Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 50% OFF SUBS?! 🔥 SanDisk Sponsored ARC Raiders Community Games + Chaos",
       "game_name": "ARC Raiders",
-      "viewer_count": 114,
+      "viewer_count": 122,
       "follower_count": 14509,
       "language": "en",
       "started_at": "2026-09-10T21:48:10Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114740,
+      "follower_count": 114741,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
