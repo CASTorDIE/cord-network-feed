@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T00:37:57.379Z",
+  "generatedAt": "2026-09-11T00:42:57.388Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T00:37:57.379Z",
+    "fetchedAt": "2026-09-11T00:42:57.388Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 ARC Raiders Community Games + Chaos",
       "game_name": "ARC Raiders",
-      "viewer_count": 137,
+      "viewer_count": 142,
       "follower_count": 14509,
       "language": "en",
       "started_at": "2026-09-10T21:48:10Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING TILL GM 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 62,
-      "follower_count": 8708,
+      "viewer_count": 85,
+      "follower_count": 8709,
       "language": "en",
       "started_at": "2026-09-10T23:59:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
