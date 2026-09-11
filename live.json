@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T12:47:57.315Z",
+  "generatedAt": "2026-09-11T12:52:57.405Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T12:47:57.315Z",
+    "fetchedAt": "2026-09-11T12:52:57.405Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Home Alone With ONE Rule: DON'T OPEN THE DOOR 😭 | Can I Come In?",
       "game_name": "Games + Demos",
-      "viewer_count": 0,
+      "viewer_count": 14,
       "follower_count": 972,
       "language": "en",
       "started_at": "2026-09-11T12:46:10Z",
