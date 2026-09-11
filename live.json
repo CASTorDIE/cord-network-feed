@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T13:42:57.376Z",
+  "generatedAt": "2026-09-11T13:47:57.353Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T13:42:57.376Z",
+    "fetchedAt": "2026-09-11T13:47:57.353Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I’m Playing the SCARIEST Demos I Could Find 😨 |  !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 25,
+      "viewer_count": 23,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-09-11T13:06:06Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Home Alone With ONE Rule: DON'T OPEN THE DOOR 😭 | Can I Come In?",
       "game_name": "Games + Demos",
-      "viewer_count": 20,
+      "viewer_count": 23,
       "follower_count": 973,
       "language": "en",
       "started_at": "2026-09-11T12:46:10Z",
