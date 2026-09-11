@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T10:17:58.043Z",
+  "generatedAt": "2026-09-11T10:22:58.076Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T10:17:58.043Z",
+    "fetchedAt": "2026-09-11T10:22:58.076Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Are We Going into the Nether???",
       "game_name": "Minecraft",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 273,
       "language": "en",
       "started_at": "2026-09-11T07:04:39Z",
@@ -621,7 +621,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8764,
+      "follower_count": 8765,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
