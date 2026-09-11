@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T00:07:57.324Z",
+  "generatedAt": "2026-09-11T00:12:57.420Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T00:07:57.324Z",
+    "fetchedAt": "2026-09-11T00:12:57.420Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 ARC Raiders Community Games + Chaos",
       "game_name": "ARC Raiders",
-      "viewer_count": 142,
+      "viewer_count": 130,
       "follower_count": 14510,
       "language": "en",
       "started_at": "2026-09-10T21:48:10Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING TILL GM 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 47,
+      "viewer_count": 54,
       "follower_count": 8705,
       "language": "en",
       "started_at": "2026-09-10T23:59:07Z",
