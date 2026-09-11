@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T19:37:57.869Z",
+  "generatedAt": "2026-09-11T19:42:57.899Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T19:37:57.869Z",
+    "fetchedAt": "2026-09-11T19:42:57.899Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Building more of our fall world! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 14,
-      "follower_count": 2768,
+      "viewer_count": 27,
+      "follower_count": 2769,
       "language": "en",
       "started_at": "2026-09-11T19:30:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
