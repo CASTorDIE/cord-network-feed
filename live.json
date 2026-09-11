@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T21:17:57.998Z",
+  "generatedAt": "2026-09-11T21:22:58.028Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T21:17:57.998Z",
+    "fetchedAt": "2026-09-11T21:22:58.028Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Building more of our fall world! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 46,
+      "viewer_count": 54,
       "follower_count": 2768,
       "language": "en",
       "started_at": "2026-09-11T19:30:54Z",
