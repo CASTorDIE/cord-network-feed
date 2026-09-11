@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-11T01:17:57.487Z",
+  "generatedAt": "2026-09-11T01:22:57.477Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T01:17:57.487Z",
+    "fetchedAt": "2026-09-11T01:22:57.477Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴 ARC Raiders Community Games + Chaos",
       "game_name": "ARC Raiders",
-      "viewer_count": 138,
-      "follower_count": 14508,
+      "viewer_count": 136,
+      "follower_count": 14509,
       "language": "en",
       "started_at": "2026-09-10T21:48:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING TILL GM 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 87,
-      "follower_count": 8712,
+      "viewer_count": 93,
+      "follower_count": 8713,
       "language": "en",
       "started_at": "2026-09-10T23:59:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 2 Blind Lies of P",
       "game_name": "Lies of P",
-      "viewer_count": 10,
+      "viewer_count": 12,
       "follower_count": 296,
       "language": "en",
       "started_at": "2026-09-11T00:55:50Z",
@@ -60,12 +60,27 @@
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
+      "user_login": "alfieduu",
+      "user_name": "alfieduu",
+      "is_live": true,
+      "title": "GREAT GOOGLY MOOGLY",
+      "game_name": "League of Legends",
+      "viewer_count": 3,
+      "follower_count": 171,
+      "language": "en",
+      "started_at": "2026-09-11T01:20:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/alfieduu",
+      "description": "yo put your feet up homie"
+    },
+    {
       "user_login": "bribeecool10",
       "user_name": "bribeecool10",
       "is_live": true,
       "title": "Secret agent 0010 reporting for duty",
       "game_name": "007 First Light",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 395,
       "language": "en",
       "started_at": "2026-09-10T23:01:35Z",
@@ -88,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "alfieduu",
-      "user_name": "alfieduu",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 171,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/alfieduu",
-      "description": "yo put your feet up homie"
     },
     {
       "user_login": "allyreggie",
