@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T01:02:57.472Z",
+  "generatedAt": "2026-09-11T01:07:57.387Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T01:02:57.472Z",
+    "fetchedAt": "2026-09-11T01:07:57.387Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING TILL GM 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 81,
+      "viewer_count": 72,
       "follower_count": 8712,
       "language": "en",
       "started_at": "2026-09-10T23:59:07Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 2 Blind Lies of P",
       "game_name": "Lies of P",
-      "viewer_count": 14,
+      "viewer_count": 8,
       "follower_count": 296,
       "language": "en",
       "started_at": "2026-09-11T00:55:50Z",
