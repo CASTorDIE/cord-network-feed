@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T23:52:57.313Z",
+  "generatedAt": "2026-09-11T23:57:57.267Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T23:52:57.313Z",
+    "fetchedAt": "2026-09-11T23:57:57.267Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 66,
+      "viewer_count": 64,
       "follower_count": 2479,
       "language": "en",
       "started_at": "2026-09-11T22:47:04Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "BARKING FOR HEALS🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 33,
-      "follower_count": 10621,
+      "viewer_count": 37,
+      "follower_count": 10620,
       "language": "en",
       "started_at": "2026-09-11T23:42:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
