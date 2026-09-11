@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-11T03:37:57.771Z",
+  "generatedAt": "2026-09-11T03:42:57.700Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T03:37:57.771Z",
+    "fetchedAt": "2026-09-11T03:42:57.700Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING TILL GM 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 207,
-      "follower_count": 8731,
+      "viewer_count": 217,
+      "follower_count": 8732,
       "language": "en",
       "started_at": "2026-09-10T23:59:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Day 2 Blind Lies of P",
       "game_name": "Lies of P",
-      "viewer_count": 15,
+      "viewer_count": 14,
       "follower_count": 296,
       "language": "en",
       "started_at": "2026-09-11T00:55:50Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Meeting with our uncle before facing the Mongols again. Chase them north! | Ghost of Tsushima - First Play through [Episode 13] | 09/09/2026",
       "game_name": "Ghost of Tsushima",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 726,
       "language": "en",
       "started_at": "2026-09-11T02:58:01Z",
@@ -62,14 +62,14 @@
     {
       "user_login": "alfieduu",
       "user_name": "alfieduu",
-      "is_live": true,
-      "title": "GREAT GOOGLY MOOGLY",
-      "game_name": "League of Legends",
-      "viewer_count": 6,
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
       "follower_count": 171,
-      "language": "en",
-      "started_at": "2026-09-11T01:20:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/alfieduu",
       "description": "yo put your feet up homie"
