@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-11T02:22:57.520Z",
+  "generatedAt": "2026-09-11T02:27:57.642Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T02:22:57.520Z",
+    "fetchedAt": "2026-09-11T02:27:57.642Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING TILL GM 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 202,
+      "viewer_count": 215,
       "follower_count": 8723,
       "language": "en",
       "started_at": "2026-09-10T23:59:07Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Day 2 Blind Lies of P",
       "game_name": "Lies of P",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 296,
       "language": "en",
       "started_at": "2026-09-11T00:55:50Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "GREAT GOOGLY MOOGLY",
       "game_name": "League of Legends",
-      "viewer_count": 6,
+      "viewer_count": 9,
       "follower_count": 171,
       "language": "en",
       "started_at": "2026-09-11T01:20:41Z",
@@ -58,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/alfieduu",
       "description": "yo put your feet up homie"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Secret agent 0010 reporting for duty",
-      "game_name": "007 First Light",
-      "viewer_count": 1,
-      "follower_count": 395,
-      "language": "en",
-      "started_at": "2026-09-10T23:01:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "allyreggie",
@@ -178,6 +163,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 395,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "brycexd",
