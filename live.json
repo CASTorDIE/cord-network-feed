@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T07:52:57.738Z",
+  "generatedAt": "2026-09-11T07:57:57.840Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T07:52:57.738Z",
+    "fetchedAt": "2026-09-11T07:57:57.840Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING TILL GM 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 216,
-      "follower_count": 8751,
+      "viewer_count": 210,
+      "follower_count": 8753,
       "language": "en",
       "started_at": "2026-09-10T23:59:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Are We Going into the Nether???",
       "game_name": "Minecraft",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 271,
       "language": "en",
       "started_at": "2026-09-11T07:04:39Z",
