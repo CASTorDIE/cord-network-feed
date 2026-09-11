@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T03:42:57.700Z",
+  "generatedAt": "2026-09-11T03:47:57.826Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T03:42:57.700Z",
+    "fetchedAt": "2026-09-11T03:47:57.826Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING TILL GM 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 217,
-      "follower_count": 8732,
+      "viewer_count": 205,
+      "follower_count": 8734,
       "language": "en",
       "started_at": "2026-09-10T23:59:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Meeting with our uncle before facing the Mongols again. Chase them north! | Ghost of Tsushima - First Play through [Episode 13] | 09/09/2026",
       "game_name": "Ghost of Tsushima",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 726,
       "language": "en",
       "started_at": "2026-09-11T02:58:01Z",
