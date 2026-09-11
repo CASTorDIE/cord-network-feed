@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T08:02:57.946Z",
+  "generatedAt": "2026-09-11T08:07:57.985Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T08:02:57.946Z",
+    "fetchedAt": "2026-09-11T08:07:57.985Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| NOT ENDING TILL GM 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 232,
+      "viewer_count": 196,
       "follower_count": 8753,
       "language": "en",
       "started_at": "2026-09-10T23:59:07Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Are We Going into the Nether???",
       "game_name": "Minecraft",
-      "viewer_count": 8,
+      "viewer_count": 9,
       "follower_count": 271,
       "language": "en",
       "started_at": "2026-09-11T07:04:39Z",
