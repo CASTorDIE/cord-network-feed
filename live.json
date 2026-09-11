@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T13:17:57.382Z",
+  "generatedAt": "2026-09-11T13:22:57.348Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-11T13:17:57.382Z",
+    "fetchedAt": "2026-09-11T13:22:57.348Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "gibsontales",
-      "user_name": "GibsonTales",
-      "is_live": true,
-      "title": "Home Alone With ONE Rule: DON'T OPEN THE DOOR 😭 | Can I Come In?",
-      "game_name": "Games + Demos",
-      "viewer_count": 18,
-      "follower_count": 973,
-      "language": "en",
-      "started_at": "2026-09-11T12:46:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gibsontales",
-      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
-    },
-    {
       "user_login": "beckybplays",
       "user_name": "BeckyBPlays",
       "is_live": true,
       "title": "I’m Playing the SCARIEST Demos I Could Find 😨 |  !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 16,
+      "viewer_count": 23,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-09-11T13:06:06Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
+      "user_login": "gibsontales",
+      "user_name": "GibsonTales",
+      "is_live": true,
+      "title": "Home Alone With ONE Rule: DON'T OPEN THE DOOR 😭 | Can I Come In?",
+      "game_name": "Games + Demos",
+      "viewer_count": 19,
+      "follower_count": 973,
+      "language": "en",
+      "started_at": "2026-09-11T12:46:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gibsontales",
+      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
     },
     {
       "user_login": "4kaizen_gaming",
