@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T06:07:57.804Z",
+  "generatedAt": "2026-09-12T06:12:57.791Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T06:07:57.804Z",
+    "fetchedAt": "2026-09-12T06:12:57.791Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MICROSCAPE & CHATTING | !pizza !discord !telegram !vrc !micro |",
       "game_name": "VRChat",
-      "viewer_count": 72,
+      "viewer_count": 75,
       "follower_count": 10111,
       "language": "en",
       "started_at": "2026-09-12T02:37:53Z",
