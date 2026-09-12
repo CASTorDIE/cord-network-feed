@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T09:22:58.224Z",
+  "generatedAt": "2026-09-12T09:27:58.121Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T09:22:58.224Z",
+    "fetchedAt": "2026-09-12T09:27:58.121Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[18+] I Came. I Saw. I Panicked.  | RE9 | !advanced !discord !lurk !time !clip |",
       "game_name": "RESIDENT EVIL: requiem",
-      "viewer_count": 13,
-      "follower_count": 1262,
+      "viewer_count": 11,
+      "follower_count": 1261,
       "language": "en",
       "started_at": "2026-09-12T07:01:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
