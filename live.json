@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T18:42:58.065Z",
+  "generatedAt": "2026-09-12T18:47:58.096Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T18:42:58.065Z",
+    "fetchedAt": "2026-09-12T18:47:58.096Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Skyrim Crowd Control | The Legend of SWOLE-spy! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
-      "viewer_count": 17,
+      "viewer_count": 13,
       "follower_count": 1730,
       "language": "en",
       "started_at": "2026-09-12T15:55:56Z",
@@ -411,7 +411,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2769,
+      "follower_count": 2768,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
