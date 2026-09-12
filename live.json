@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-12T06:57:57.950Z",
+  "generatedAt": "2026-09-12T07:02:57.846Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T06:57:57.950Z",
+    "fetchedAt": "2026-09-12T07:02:57.846Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MICROSCAPE & CHATTING | !pizza !discord !telegram !vrc !micro |",
       "game_name": "VRChat",
-      "viewer_count": 81,
+      "viewer_count": 84,
       "follower_count": 10111,
       "language": "en",
       "started_at": "2026-09-12T06:25:32Z",
@@ -28,6 +28,36 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
+    },
+    {
+      "user_login": "rickett_raffy",
+      "user_name": "rickett_raffy",
+      "is_live": true,
+      "title": "Is Today the Day the Dragon Dies",
+      "game_name": "Minecraft",
+      "viewer_count": 0,
+      "follower_count": 273,
+      "language": "en",
+      "started_at": "2026-09-12T07:01:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/rickett_raffy",
+      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
+    },
+    {
+      "user_login": "viridisbytes",
+      "user_name": "ViridisBytes",
+      "is_live": true,
+      "title": "[18+] I Came. I Saw. I Panicked.  | RE9 | !advanced !discord !lurk !time !clip |",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 1263,
+      "language": "en",
+      "started_at": "2026-09-12T07:01:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/viridisbytes",
+      "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -525,21 +555,6 @@
       "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
-      "user_login": "rickett_raffy",
-      "user_name": "rickett_raffy",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 273,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/rickett_raffy",
-      "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
-    },
-    {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": false,
@@ -613,21 +628,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/300584e8-db38-4b02-8678-93f5777ab1ba-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/vaporwavejoe",
       "description": "yoyo my name is Joe and on this channel we chill, play games and listen to a genre i love which is Vaporwave. "
-    },
-    {
-      "user_login": "viridisbytes",
-      "user_name": "ViridisBytes",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1263,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/viridisbytes",
-      "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
     },
     {
       "user_login": "wexra",
