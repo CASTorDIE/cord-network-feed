@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T23:22:57.608Z",
+  "generatedAt": "2026-09-12T23:27:57.605Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T23:22:57.608Z",
+    "fetchedAt": "2026-09-12T23:27:57.605Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -30,27 +30,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": true,
-      "title": "100 Token Hunt! | Bonus Saturday Stream | Randomizer Shenanigans | 11/09/2026",
-      "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 3,
-      "follower_count": 727,
-      "language": "en",
-      "started_at": "2026-09-12T22:27:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
-    },
-    {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🔴 COMMUNITY Welfare Raiders",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 41,
       "follower_count": 14513,
       "language": "en",
       "started_at": "2026-09-12T23:21:30Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/skavstheworld",
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": true,
+      "title": "100 Token Hunt! | Bonus Saturday Stream | Randomizer Shenanigans | 11/09/2026",
+      "game_name": "The Legend of Zelda: Ocarina of Time",
+      "viewer_count": 7,
+      "follower_count": 727,
+      "language": "en",
+      "started_at": "2026-09-12T22:27:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "thepuckgoa",
