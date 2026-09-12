@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-12T15:57:57.882Z",
+  "generatedAt": "2026-09-12T16:02:57.857Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T15:57:57.882Z",
+    "fetchedAt": "2026-09-12T16:02:57.857Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "⭐Drops⭐ Muujimmothy Hunting Together |  !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 75,
+      "viewer_count": 77,
       "follower_count": 5131,
       "language": "en",
       "started_at": "2026-09-12T13:38:23Z",
@@ -30,27 +30,12 @@
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
-      "user_login": "jaxsberrypatch",
-      "user_name": "jaxsberrypatch",
-      "is_live": true,
-      "title": "Drops on! Building more of our fall world! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
-      "game_name": "Minecraft",
-      "viewer_count": 53,
-      "follower_count": 2769,
-      "language": "en",
-      "started_at": "2026-09-12T12:00:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1cf556-9d84-4acf-a233-65f10ac1d1fa-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
-      "description": "🍓 Welcome to JaxsBerryPatch! ✨ Cozy games, creative builds & chaotic fun! I’m Jax, streaming Disney Dreamlight Valley & Minecraft. Come get comfy, hang out, and let’s create a little magic together! 🌸💕 Come hang out, 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
-    },
-    {
       "user_login": "wispy_witch",
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "Skyrim Crowd Control | The Legend of SWOLE-spy! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "follower_count": 1730,
       "language": "en",
       "started_at": "2026-09-12T15:55:56Z",
@@ -403,6 +388,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/horror_heather",
       "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
+    },
+    {
+      "user_login": "jaxsberrypatch",
+      "user_name": "jaxsberrypatch",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2769,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1cf556-9d84-4acf-a233-65f10ac1d1fa-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
+      "description": "🍓 Welcome to JaxsBerryPatch! ✨ Cozy games, creative builds & chaotic fun! I’m Jax, streaming Disney Dreamlight Valley & Minecraft. Come get comfy, hang out, and let’s create a little magic together! 🌸💕 Come hang out, 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
     {
       "user_login": "joreeezy",
