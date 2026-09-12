@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T22:47:57.520Z",
+  "generatedAt": "2026-09-12T22:52:57.510Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T22:47:57.520Z",
+    "fetchedAt": "2026-09-12T22:52:57.510Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "100 Token Hunt! | Bonus Saturday Stream | Randomizer Shenanigans | 11/09/2026",
       "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 727,
       "language": "en",
       "started_at": "2026-09-12T22:27:58Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114774,
+      "follower_count": 114775,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
