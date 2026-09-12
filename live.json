@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T00:42:57.343Z",
+  "generatedAt": "2026-09-12T00:47:57.442Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T00:42:57.343Z",
+    "fetchedAt": "2026-09-12T00:47:57.442Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "BARKING FOR HEALS🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 75,
+      "viewer_count": 72,
       "follower_count": 10634,
       "language": "en",
       "started_at": "2026-09-11T23:42:01Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 58,
+      "viewer_count": 63,
       "follower_count": 2479,
       "language": "en",
       "started_at": "2026-09-11T22:47:04Z",
