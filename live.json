@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T13:02:57.619Z",
+  "generatedAt": "2026-09-12T13:07:57.616Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T13:02:57.619Z",
+    "fetchedAt": "2026-09-12T13:07:57.616Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Drops on! Building more of our fall world! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 41,
+      "viewer_count": 46,
       "follower_count": 2769,
       "language": "en",
       "started_at": "2026-09-12T12:00:13Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114761,
+      "follower_count": 114762,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
