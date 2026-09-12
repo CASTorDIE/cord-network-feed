@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T03:52:57.679Z",
+  "generatedAt": "2026-09-12T03:57:57.653Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T03:52:57.679Z",
+    "fetchedAt": "2026-09-12T03:57:57.653Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "BARKING FOR HEALS🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 115,
+      "viewer_count": 111,
       "follower_count": 10642,
       "language": "en",
       "started_at": "2026-09-11T23:42:01Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| MICROSCAPE & CHATTING | !pizza !discord !telegram !vrc !micro |",
       "game_name": "VRChat",
-      "viewer_count": 38,
+      "viewer_count": 41,
       "follower_count": 10111,
       "language": "en",
       "started_at": "2026-09-12T02:37:53Z",
