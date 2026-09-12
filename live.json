@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T15:02:57.740Z",
+  "generatedAt": "2026-09-12T15:07:57.842Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T15:02:57.740Z",
+    "fetchedAt": "2026-09-12T15:07:57.842Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Drops on! Building more of our fall world! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Minecraft",
-      "viewer_count": 56,
+      "viewer_count": 54,
       "follower_count": 2769,
       "language": "en",
       "started_at": "2026-09-12T12:00:13Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "⭐Drops⭐ Muujimmothy Hunting Together |  !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 43,
+      "viewer_count": 42,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-09-12T13:38:23Z",
