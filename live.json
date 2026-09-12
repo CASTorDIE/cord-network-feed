@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T00:57:57.387Z",
+  "generatedAt": "2026-09-12T01:02:57.412Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T00:57:57.387Z",
+    "fetchedAt": "2026-09-12T01:02:57.412Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "BARKING FOR HEALS🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 75,
+      "viewer_count": 64,
       "follower_count": 10634,
       "language": "en",
       "started_at": "2026-09-11T23:42:01Z",
@@ -45,27 +45,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "we are exposing the 00 project 👀",
-      "game_name": "007 First Light",
-      "viewer_count": 2,
-      "follower_count": 395,
-      "language": "en",
-      "started_at": "2026-09-12T00:05:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Day 3 Blind Lies of P. Our nose be growing",
       "game_name": "Lies of P",
-      "viewer_count": 0,
+      "viewer_count": 9,
       "follower_count": 299,
       "language": "en",
       "started_at": "2026-09-12T00:56:48Z",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": true,
+      "title": "we are exposing the 00 project 👀",
+      "game_name": "007 First Light",
+      "viewer_count": 1,
+      "follower_count": 395,
+      "language": "en",
+      "started_at": "2026-09-12T00:05:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "alfieduu",
