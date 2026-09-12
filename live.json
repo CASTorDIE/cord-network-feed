@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T19:17:58.195Z",
+  "generatedAt": "2026-09-12T19:22:58.222Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T19:17:58.195Z",
+    "fetchedAt": "2026-09-12T19:22:58.222Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming - Ada can do no Wong!",
       "game_name": "Resident Evil 4",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 26,
       "language": "en",
       "started_at": "2026-09-12T16:59:21Z",
