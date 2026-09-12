@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T18:22:58.304Z",
+  "generatedAt": "2026-09-12T18:27:58.337Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T18:22:58.304Z",
+    "fetchedAt": "2026-09-12T18:27:58.337Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Finding My Name In the Game|  !hype !newvlog !gamevideo",
       "game_name": "Hotel Galactic",
-      "viewer_count": 37,
+      "viewer_count": 36,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-09-12T13:38:23Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Skyrim Crowd Control | The Legend of SWOLE-spy! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
-      "viewer_count": 16,
+      "viewer_count": 18,
       "follower_count": 1730,
       "language": "en",
       "started_at": "2026-09-12T15:55:56Z",
