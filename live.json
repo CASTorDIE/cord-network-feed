@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T16:07:57.874Z",
+  "generatedAt": "2026-09-12T16:12:57.878Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T16:07:57.874Z",
+    "fetchedAt": "2026-09-12T16:12:57.878Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "⭐Drops⭐ Muujimmothy Hunting Together |  !hype !newvlog !gamevideo",
       "game_name": "Palia",
       "viewer_count": 79,
-      "follower_count": 5131,
+      "follower_count": 5132,
       "language": "en",
       "started_at": "2026-09-12T13:38:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
