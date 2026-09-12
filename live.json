@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T02:12:57.536Z",
+  "generatedAt": "2026-09-12T02:17:57.510Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T02:12:57.536Z",
+    "fetchedAt": "2026-09-12T02:17:57.510Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "BARKING FOR HEALS🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 59,
+      "viewer_count": 57,
       "follower_count": 10635,
       "language": "en",
       "started_at": "2026-09-11T23:42:01Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Day 3 Blind Lies of P. Our nose be growing",
       "game_name": "Lies of P",
-      "viewer_count": 14,
+      "viewer_count": 15,
       "follower_count": 300,
       "language": "en",
       "started_at": "2026-09-12T00:56:48Z",
