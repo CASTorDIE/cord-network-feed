@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T07:52:58.003Z",
+  "generatedAt": "2026-09-12T07:57:57.990Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-12T07:52:58.003Z",
+    "fetchedAt": "2026-09-12T07:57:57.990Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] I Came. I Saw. I Panicked.  | RE9 | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 15,
+      "viewer_count": 11,
       "follower_count": 1263,
       "language": "en",
       "started_at": "2026-09-12T07:01:29Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Is Today the Day the Dragon Dies - DROPS ON",
       "game_name": "Minecraft",
-      "viewer_count": 7,
+      "viewer_count": 9,
       "follower_count": 272,
       "language": "en",
       "started_at": "2026-09-12T07:01:33Z",
