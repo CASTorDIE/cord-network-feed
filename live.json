@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T07:52:57.314Z",
+  "generatedAt": "2026-09-13T07:57:57.313Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T07:52:57.314Z",
+    "fetchedAt": "2026-09-13T07:57:57.313Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "[18+] I Came. I Saw. I Panicked.  | RE9 | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
       "viewer_count": 19,
-      "follower_count": 1265,
+      "follower_count": 1266,
       "language": "en",
       "started_at": "2026-09-13T07:00:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
