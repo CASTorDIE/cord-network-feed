@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T17:07:58.478Z",
+  "generatedAt": "2026-09-13T17:12:58.471Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T17:07:58.478Z",
+    "fetchedAt": "2026-09-13T17:12:58.471Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "It's been awhile | !hype !newvlog !gamevideo",
       "game_name": "Bloons TD 6",
-      "viewer_count": 30,
+      "viewer_count": 28,
       "follower_count": 5137,
       "language": "en",
       "started_at": "2026-09-13T13:00:38Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114795,
+      "follower_count": 114796,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
