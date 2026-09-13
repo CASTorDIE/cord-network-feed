@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-13T03:17:57.928Z",
+  "generatedAt": "2026-09-13T03:22:58.043Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T03:17:57.928Z",
+    "fetchedAt": "2026-09-13T03:22:58.043Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 COMMUNITY Welfare Raiders",
       "game_name": "ARC Raiders",
-      "viewer_count": 135,
+      "viewer_count": 138,
       "follower_count": 14537,
       "language": "en",
       "started_at": "2026-09-12T23:21:30Z",
@@ -30,27 +30,12 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
-      "game_name": "Games + Demos",
-      "viewer_count": 58,
-      "follower_count": 2480,
-      "language": "en",
-      "started_at": "2026-09-12T22:57:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| LOFI YOUTUBE RECORDING STREAM - NO REDEEMS JUST VIBES | !discord !telegram !vrc !micro |",
       "game_name": "Sludgineers",
-      "viewer_count": 26,
+      "viewer_count": 43,
       "follower_count": 10111,
       "language": "en",
       "started_at": "2026-09-13T03:10:22Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "100 Token Hunt! | Bonus Saturday Stream | Randomizer Shenanigans | 11/09/2026",
       "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 10,
+      "viewer_count": 8,
       "follower_count": 727,
       "language": "en",
       "started_at": "2026-09-12T22:27:58Z",
@@ -95,7 +80,7 @@
       "is_live": true,
       "title": "Whatever Happens, Happens (ง •̀_•́)ง🔪",
       "game_name": "Games + Demos",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "follower_count": 344,
       "language": "en",
       "started_at": "2026-09-13T00:15:03Z",
@@ -163,6 +148,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2480,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
