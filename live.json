@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T03:57:57.956Z",
+  "generatedAt": "2026-09-13T04:02:58.078Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T03:57:57.956Z",
+    "fetchedAt": "2026-09-13T04:02:58.078Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 COMMUNITY Welfare Raiders",
       "game_name": "ARC Raiders",
-      "viewer_count": 129,
+      "viewer_count": 121,
       "follower_count": 14538,
       "language": "en",
       "started_at": "2026-09-12T23:21:30Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 4 Blind Lies of P. Time to respec!",
       "game_name": "Lies of P",
-      "viewer_count": 18,
+      "viewer_count": 16,
       "follower_count": 301,
       "language": "en",
       "started_at": "2026-09-13T00:55:39Z",
