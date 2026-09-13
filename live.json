@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T13:12:57.886Z",
+  "generatedAt": "2026-09-13T13:17:57.797Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T13:12:57.886Z",
+    "fetchedAt": "2026-09-13T13:17:57.797Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Its my birthday!| Working on the forgotten lands! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 74,
-      "follower_count": 2768,
+      "viewer_count": 75,
+      "follower_count": 2769,
       "language": "en",
       "started_at": "2026-09-13T12:09:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "⭐DROPS⭐ I need GOLD!!! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 17,
+      "viewer_count": 18,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-09-13T13:00:38Z",
