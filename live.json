@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T19:12:57.644Z",
+  "generatedAt": "2026-09-13T19:17:57.731Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T19:12:57.644Z",
+    "fetchedAt": "2026-09-13T19:17:57.731Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming - Just give me the amber Luis!",
       "game_name": "Resident Evil 4",
-      "viewer_count": 1,
+      "viewer_count": 0,
       "follower_count": 26,
       "language": "en",
       "started_at": "2026-09-13T17:01:53Z",
