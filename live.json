@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T03:02:57.967Z",
+  "generatedAt": "2026-09-13T03:07:57.974Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T03:02:57.967Z",
+    "fetchedAt": "2026-09-13T03:07:57.974Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 54,
+      "viewer_count": 55,
       "follower_count": 2480,
       "language": "en",
       "started_at": "2026-09-12T22:57:24Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 4 Blind Lies of P. Time to respec!",
       "game_name": "Lies of P",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 301,
       "language": "en",
       "started_at": "2026-09-13T00:55:39Z",
