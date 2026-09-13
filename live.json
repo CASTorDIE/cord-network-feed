@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T15:22:58.042Z",
+  "generatedAt": "2026-09-13T15:27:58.036Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T15:22:58.042Z",
+    "fetchedAt": "2026-09-13T15:27:58.036Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Its my birthday!| Working on the forgotten lands! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 76,
+      "viewer_count": 75,
       "follower_count": 2771,
       "language": "en",
       "started_at": "2026-09-13T12:09:39Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "⭐DROPS⭐ I need GOLD!!! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 51,
-      "follower_count": 5134,
+      "viewer_count": 57,
+      "follower_count": 5133,
       "language": "en",
       "started_at": "2026-09-13T13:00:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
