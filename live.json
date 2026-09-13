@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-09-13T04:22:58.036Z",
+  "generatedAt": "2026-09-13T04:27:58.051Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T04:22:58.036Z",
+    "fetchedAt": "2026-09-13T04:27:58.051Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
-    {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "🔴 COMMUNITY Welfare Raiders",
-      "game_name": "ARC Raiders",
-      "viewer_count": 116,
-      "follower_count": 14540,
-      "language": "en",
-      "started_at": "2026-09-12T23:21:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
     {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| LOFI YOUTUBE RECORDING STREAM - NO REDEEMS JUST VIBES | !discord !telegram !vrc !micro |",
       "game_name": "Sludgineers",
-      "viewer_count": 86,
+      "viewer_count": 79,
       "follower_count": 10110,
       "language": "en",
       "started_at": "2026-09-13T03:10:22Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "Day 4 Blind Lies of P. Time to respec!",
       "game_name": "Lies of P",
-      "viewer_count": 15,
+      "viewer_count": 14,
       "follower_count": 301,
       "language": "en",
       "started_at": "2026-09-13T00:55:39Z",
@@ -60,27 +45,12 @@
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": true,
-      "title": "100 Token Hunt! | Bonus Saturday Stream | Randomizer Shenanigans | 11/09/2026",
-      "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 6,
-      "follower_count": 727,
-      "language": "en",
-      "started_at": "2026-09-12T22:27:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
-    },
-    {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "Whatever Happens, Happens (ง •̀_•́)ง🔪",
       "game_name": "Games + Demos",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 344,
       "language": "en",
       "started_at": "2026-09-13T00:15:03Z",
@@ -88,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": true,
+      "title": "100 Token Hunt! | Bonus Saturday Stream | Randomizer Shenanigans | 11/09/2026",
+      "game_name": "The Legend of Zelda: Ocarina of Time",
+      "viewer_count": 5,
+      "follower_count": 727,
+      "language": "en",
+      "started_at": "2026-09-12T22:27:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "alfieduu",
@@ -553,6 +538,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
+    },
+    {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 14540,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "slimchungusgaming",
