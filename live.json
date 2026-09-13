@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T14:47:57.975Z",
+  "generatedAt": "2026-09-13T14:52:57.983Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T14:47:57.975Z",
+    "fetchedAt": "2026-09-13T14:52:57.983Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Its my birthday!| Working on the forgotten lands! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 83,
+      "viewer_count": 74,
       "follower_count": 2772,
       "language": "en",
       "started_at": "2026-09-13T12:09:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "⭐DROPS⭐ I need GOLD!!! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 48,
+      "viewer_count": 49,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-09-13T13:00:38Z",
