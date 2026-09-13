@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T07:02:59.622Z",
+  "generatedAt": "2026-09-13T07:07:58.548Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T07:02:59.622Z",
+    "fetchedAt": "2026-09-13T07:07:58.548Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| LOFI YOUTUBE RECORDING STREAM - NO REDEEMS JUST VIBES | !discord !telegram !vrc !micro |",
       "game_name": "Crown Siege",
-      "viewer_count": 93,
+      "viewer_count": 96,
       "follower_count": 10109,
       "language": "en",
       "started_at": "2026-09-13T04:52:48Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "[18+] I Came. I Saw. I Panicked.  | RE9 | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 4,
+      "viewer_count": 8,
       "follower_count": 1262,
       "language": "en",
       "started_at": "2026-09-13T07:00:37Z",
