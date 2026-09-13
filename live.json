@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T05:13:00.416Z",
+  "generatedAt": "2026-09-13T05:17:58.051Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T05:13:00.416Z",
+    "fetchedAt": "2026-09-13T05:17:58.051Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| LOFI YOUTUBE RECORDING STREAM - NO REDEEMS JUST VIBES | !discord !telegram !vrc !micro |",
       "game_name": "Sludgineers",
-      "viewer_count": 50,
+      "viewer_count": 62,
       "follower_count": 10109,
       "language": "en",
       "started_at": "2026-09-13T04:52:48Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Whatever Happens, Happens (ง •̀_•́)ง🔪",
       "game_name": "Games + Demos",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 344,
       "language": "en",
       "started_at": "2026-09-13T00:15:03Z",
