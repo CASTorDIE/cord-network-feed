@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T17:03:00.421Z",
+  "generatedAt": "2026-09-13T17:07:58.478Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T17:03:00.421Z",
+    "fetchedAt": "2026-09-13T17:07:58.478Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "It's been awhile | !hype !newvlog !gamevideo",
       "game_name": "Bloons TD 6",
-      "viewer_count": 34,
-      "follower_count": 5136,
+      "viewer_count": 30,
+      "follower_count": 5137,
       "language": "en",
       "started_at": "2026-09-13T13:00:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming - Just give me the amber Luis!",
       "game_name": "Resident Evil 4",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "follower_count": 26,
       "language": "en",
       "started_at": "2026-09-13T17:01:53Z",
