@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T18:07:57.528Z",
+  "generatedAt": "2026-09-13T18:12:57.624Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T18:07:57.528Z",
+    "fetchedAt": "2026-09-13T18:12:57.624Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "WHALE WATCHING IN SAN JUAN ISLANDS 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 50,
+      "viewer_count": 48,
       "follower_count": 2480,
       "language": "en",
       "started_at": "2026-09-13T17:34:36Z",
@@ -36,7 +36,7 @@
       "title": "It's been awhile | !hype !newvlog !gamevideo",
       "game_name": "Bloons TD 6",
       "viewer_count": 16,
-      "follower_count": 5138,
+      "follower_count": 5137,
       "language": "en",
       "started_at": "2026-09-13T13:00:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
