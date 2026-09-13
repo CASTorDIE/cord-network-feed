@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T15:12:58.061Z",
+  "generatedAt": "2026-09-13T15:17:58.119Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T15:12:58.061Z",
+    "fetchedAt": "2026-09-13T15:17:58.119Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "⭐DROPS⭐ I need GOLD!!! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 57,
+      "viewer_count": 55,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-09-13T13:00:38Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114792,
+      "follower_count": 114793,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
