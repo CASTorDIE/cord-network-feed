@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T12:22:57.801Z",
+  "generatedAt": "2026-09-13T12:27:57.919Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-13T12:22:57.801Z",
+    "fetchedAt": "2026-09-13T12:27:57.919Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Its my birthday!| Working on the forgotten lands! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 30,
+      "viewer_count": 34,
       "follower_count": 2767,
       "language": "en",
       "started_at": "2026-09-13T12:09:39Z",
