@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T19:37:57.673Z",
+  "generatedAt": "2026-09-14T19:42:57.691Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-14T19:37:57.673Z",
+    "fetchedAt": "2026-09-14T19:42:57.691Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "war dawggin🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 59,
+      "viewer_count": 64,
       "follower_count": 10658,
       "language": "en",
       "started_at": "2026-09-14T17:26:33Z",
