@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T07:52:57.682Z",
+  "generatedAt": "2026-09-14T07:57:57.707Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-14T07:52:57.682Z",
+    "fetchedAt": "2026-09-14T07:57:57.707Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "IS BLUE REALLY THAT BAD?",
       "game_name": "WARDOGS",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 74,
       "language": "en",
       "started_at": "2026-09-14T06:25:29Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114815,
+      "follower_count": 114816,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
