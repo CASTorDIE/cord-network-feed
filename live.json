@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T03:17:57.350Z",
+  "generatedAt": "2026-09-14T03:22:57.295Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-14T03:17:57.350Z",
+    "fetchedAt": "2026-09-14T03:22:57.295Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 61,
+      "viewer_count": 58,
       "follower_count": 2482,
       "language": "en",
       "started_at": "2026-09-13T22:59:06Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Chatting until Voice Acting with Friends || !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 50,
+      "viewer_count": 52,
       "follower_count": 6354,
       "language": "en",
       "started_at": "2026-09-14T01:00:37Z",
