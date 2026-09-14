@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T03:37:57.290Z",
+  "generatedAt": "2026-09-14T03:42:57.347Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-14T03:37:57.290Z",
+    "fetchedAt": "2026-09-14T03:42:57.347Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Chatting until Voice Acting with Friends || !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 46,
+      "viewer_count": 50,
       "follower_count": 6354,
       "language": "en",
       "started_at": "2026-09-14T01:00:37Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114810,
+      "follower_count": 114809,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
