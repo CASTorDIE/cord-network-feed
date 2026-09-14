@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T01:27:58.162Z",
+  "generatedAt": "2026-09-14T01:32:58.077Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-14T01:27:58.162Z",
+    "fetchedAt": "2026-09-14T01:32:58.077Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,7 +19,7 @@
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
-      "game_name": "Just Chatting",
+      "game_name": "Games + Demos",
       "viewer_count": 75,
       "follower_count": 2481,
       "language": "en",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Chatting until Voice Acting with Friends || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 31,
+      "viewer_count": 46,
       "follower_count": 6349,
       "language": "en",
       "started_at": "2026-09-14T01:00:37Z",
