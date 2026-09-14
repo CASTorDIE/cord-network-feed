@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T19:17:57.873Z",
+  "generatedAt": "2026-09-14T19:22:57.644Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-14T19:17:57.873Z",
+    "fetchedAt": "2026-09-14T19:22:57.644Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "war dawggin🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 59,
-      "follower_count": 10659,
+      "viewer_count": 62,
+      "follower_count": 10658,
       "language": "en",
       "started_at": "2026-09-14T17:26:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
