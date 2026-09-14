@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T22:57:58.067Z",
+  "generatedAt": "2026-09-14T23:02:58.038Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-14T22:57:58.067Z",
+    "fetchedAt": "2026-09-14T23:02:58.038Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "war dawggin🎀",
-      "game_name": "WARDOGS",
-      "viewer_count": 65,
-      "follower_count": 10661,
-      "language": "en",
-      "started_at": "2026-09-14T17:26:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 64,
+      "viewer_count": 77,
       "follower_count": 2483,
       "language": "en",
       "started_at": "2026-09-14T22:43:20Z",
@@ -45,12 +30,27 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "war dawggin🎀",
+      "game_name": "WARDOGS",
+      "viewer_count": 64,
+      "follower_count": 10661,
+      "language": "en",
+      "started_at": "2026-09-14T17:26:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
       "user_login": "horror_heather",
       "user_name": "horror_heather",
       "is_live": true,
       "title": "I'm BACK from Iceland! ALAN WAKE TIME!!! | First Playthrough!| !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 20,
+      "viewer_count": 21,
       "follower_count": 638,
       "language": "en",
       "started_at": "2026-09-14T21:30:13Z",
