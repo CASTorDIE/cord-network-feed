@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T22:17:57.967Z",
+  "generatedAt": "2026-09-14T22:22:57.993Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-14T22:17:57.967Z",
+    "fetchedAt": "2026-09-14T22:22:57.993Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "war dawggin🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 73,
+      "viewer_count": 72,
       "follower_count": 10661,
       "language": "en",
       "started_at": "2026-09-14T17:26:33Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I'm BACK from Iceland! ALAN WAKE TIME!!! | First Playthrough!| !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 18,
+      "viewer_count": 17,
       "follower_count": 638,
       "language": "en",
       "started_at": "2026-09-14T21:30:13Z",
