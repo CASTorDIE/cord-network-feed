@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T02:02:58.188Z",
+  "generatedAt": "2026-09-14T02:07:58.165Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-14T02:02:58.188Z",
+    "fetchedAt": "2026-09-14T02:07:58.165Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 74,
+      "viewer_count": 67,
       "follower_count": 2481,
       "language": "en",
       "started_at": "2026-09-13T22:59:06Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Chatting until Voice Acting with Friends || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 51,
+      "viewer_count": 54,
       "follower_count": 6351,
       "language": "en",
       "started_at": "2026-09-14T01:00:37Z",
