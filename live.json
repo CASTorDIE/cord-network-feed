@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T02:12:58.187Z",
+  "generatedAt": "2026-09-14T02:17:58.224Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-14T02:12:58.187Z",
+    "fetchedAt": "2026-09-14T02:17:58.224Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 62,
+      "viewer_count": 65,
       "follower_count": 2481,
       "language": "en",
       "started_at": "2026-09-13T22:59:06Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Chatting until Voice Acting with Friends || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 61,
-      "follower_count": 6352,
+      "viewer_count": 47,
+      "follower_count": 6354,
       "language": "en",
       "started_at": "2026-09-14T01:00:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
