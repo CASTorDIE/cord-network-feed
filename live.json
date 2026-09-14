@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T02:37:58.305Z",
+  "generatedAt": "2026-09-14T02:42:58.271Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-14T02:37:58.305Z",
+    "fetchedAt": "2026-09-14T02:42:58.271Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 64,
+      "viewer_count": 63,
       "follower_count": 2481,
       "language": "en",
       "started_at": "2026-09-13T22:59:06Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Normal S*** Wasn’t Cutting It Today  /w picklegeek84  (ง •̀_•́)ง🔪",
       "game_name": "Games + Demos",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 345,
       "language": "en",
       "started_at": "2026-09-14T00:15:27Z",
