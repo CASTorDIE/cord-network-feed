@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T04:12:57.319Z",
+  "generatedAt": "2026-09-14T04:17:57.415Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-14T04:12:57.319Z",
+    "fetchedAt": "2026-09-14T04:17:57.415Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Chatting until Voice Acting with Friends || !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 43,
+      "viewer_count": 41,
       "follower_count": 6354,
       "language": "en",
       "started_at": "2026-09-14T01:00:37Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Normal S*** Wasn’t Cutting It Today  /w picklegeek84  (ง •̀_•́)ง🔪",
       "game_name": "Games + Demos",
-      "viewer_count": 7,
+      "viewer_count": 11,
       "follower_count": 346,
       "language": "en",
       "started_at": "2026-09-14T00:15:27Z",
