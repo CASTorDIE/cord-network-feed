@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T04:07:57.510Z",
+  "generatedAt": "2026-09-15T04:12:57.555Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T04:07:57.510Z",
+    "fetchedAt": "2026-09-15T04:12:57.555Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| VRCHAT HANGOUT | !discord !telegram !vrc !micro !pizza |",
       "game_name": "VRChat",
-      "viewer_count": 109,
-      "follower_count": 10110,
+      "viewer_count": 112,
+      "follower_count": 10109,
       "language": "en",
       "started_at": "2026-09-15T02:04:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
