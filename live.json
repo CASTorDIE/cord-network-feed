@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T23:47:57.992Z",
+  "generatedAt": "2026-09-15T23:52:58.093Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T23:47:57.992Z",
+    "fetchedAt": "2026-09-15T23:52:58.093Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 74,
+      "viewer_count": 75,
       "follower_count": 2488,
       "language": "en",
       "started_at": "2026-09-15T22:45:11Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "A day in the life of someone pretending to understand IT for a job | Co-Working | 15/09/2026",
       "game_name": "Just Chatting",
-      "viewer_count": 11,
+      "viewer_count": 10,
       "follower_count": 727,
       "language": "en",
       "started_at": "2026-09-15T17:20:21Z",
