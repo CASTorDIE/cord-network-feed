@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T23:57:58.214Z",
+  "generatedAt": "2026-09-15T00:02:58.161Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-14T23:57:58.214Z",
+    "fetchedAt": "2026-09-15T00:02:58.161Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 70,
+      "viewer_count": 64,
       "follower_count": 2483,
       "language": "en",
       "started_at": "2026-09-14T22:43:20Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I'm BACK from Iceland! ALAN WAKE TIME!!! | First Playthrough!| !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 21,
+      "viewer_count": 22,
       "follower_count": 640,
       "language": "en",
       "started_at": "2026-09-14T21:30:13Z",
