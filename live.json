@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T20:47:58.650Z",
+  "generatedAt": "2026-09-15T20:52:58.771Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T20:47:58.650Z",
+    "fetchedAt": "2026-09-15T20:52:58.771Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "LAST DAY of the SanDisk Sponsored Streams! 🔥 ARC Raiders Community Games | 50% OFF SUBS",
       "game_name": "ARC Raiders",
-      "viewer_count": 116,
-      "follower_count": 14567,
+      "viewer_count": 120,
+      "follower_count": 14568,
       "language": "en",
       "started_at": "2026-09-15T15:53:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
