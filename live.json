@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-15T01:42:58.303Z",
+  "generatedAt": "2026-09-15T01:47:58.482Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T01:42:58.303Z",
+    "fetchedAt": "2026-09-15T01:47:58.482Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 961🗿!discord🗿I ALMOST DIDN'T MAKE IT🗿HOW DID WE MAKE IT BACK🗿THIS IS INCREDIBLE🗿WE ARE ON THE WAY BACK TO THE BEC",
       "game_name": "Rocket League",
-      "viewer_count": 393,
-      "follower_count": 114851,
+      "viewer_count": 462,
+      "follower_count": 114856,
       "language": "en",
       "started_at": "2026-09-15T00:30:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 78,
+      "viewer_count": 74,
       "follower_count": 2483,
       "language": "en",
       "started_at": "2026-09-14T22:43:20Z",
@@ -45,27 +45,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "horror_heather",
-      "user_name": "horror_heather",
-      "is_live": true,
-      "title": "I'm BACK from Iceland! ALAN WAKE TIME!!! | First Playthrough!| !links",
-      "game_name": "Alan Wake II",
-      "viewer_count": 24,
-      "follower_count": 640,
-      "language": "en",
-      "started_at": "2026-09-14T21:30:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_horror_heather-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/horror_heather",
-      "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
-    },
-    {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "[Short Stream] I’m Tired, So We’re Just Vibin’ Tonight    (ง •̀_•́)ง🔪",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 346,
       "language": "en",
       "started_at": "2026-09-15T01:13:51Z",
@@ -373,6 +358,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e89b72d-44f9-4905-9ba3-27d3141210ff-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/guitardoll",
       "description": "Chaotic, high-energy, and probably one bad decision away from a jump scare. | Welcome to the Dollhouse | Tue & Thurs 7PM • Sat 5PM | Business Email: guitardoll.official@gmail.com"
+    },
+    {
+      "user_login": "horror_heather",
+      "user_name": "horror_heather",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 642,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/horror_heather",
+      "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
     },
     {
       "user_login": "jaxsberrypatch",
