@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T16:17:57.600Z",
+  "generatedAt": "2026-09-15T16:22:57.625Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T16:17:57.600Z",
+    "fetchedAt": "2026-09-15T16:22:57.625Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "LAST DAY of the SanDisk Sponsored Streams! 🔥 ARC Raiders Community Games | 50% OFF SUBS",
       "game_name": "Just Chatting",
-      "viewer_count": 95,
+      "viewer_count": 91,
       "follower_count": 14551,
       "language": "en",
       "started_at": "2026-09-15T15:53:04Z",
@@ -531,7 +531,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 276,
+      "follower_count": 277,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
