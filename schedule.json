@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-15T19:18:12.666Z",
+  "generatedAt": "2026-09-15T19:24:38.161Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-09-15T19:18:12.624Z",
+    "updatedAt": "2026-09-15T19:24:38.128Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 17,
+    "entryCount": 19,
     "firstDate": "2026-09-13",
     "lastDate": "2026-09-21",
     "windowStart": "2026-09-13",
@@ -85,6 +85,19 @@
       "url": "https://www.twitch.tv/horror_heather"
     },
     {
+      "id": "evt_1789500278122_v7dv6l",
+      "date": "2026-09-15",
+      "dateLabel": "Tuesday, September 15th",
+      "weekday": "Tuesday",
+      "streamer": "mustnrd_fenn",
+      "title": "Voice Acting CHALLENGE — GAME TIME: Resonance: Plagues Tale Legacy — max 2.5 hours",
+      "timeMinutes": 120,
+      "timeLabel": "2:00 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/mustnrd_fenn"
+    },
+    {
       "id": "evt_1789499200079_wk9u1d",
       "date": "2026-09-15",
       "dateLabel": "Tuesday, September 15th",
@@ -135,6 +148,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1789500278122_agr8ek",
+      "date": "2026-09-18",
+      "dateLabel": "Friday, September 18th",
+      "weekday": "Friday",
+      "streamer": "mustnrd_fenn",
+      "title": "GAME TIME — Soulframe co-op with friendos — No Mans Sky",
+      "timeMinutes": 120,
+      "timeLabel": "2:00 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/mustnrd_fenn"
     },
     {
       "id": "evt_1789499200080_8gvhuh",
