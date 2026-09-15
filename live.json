@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T13:37:57.408Z",
+  "generatedAt": "2026-09-15T13:42:57.440Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T13:37:57.408Z",
+    "fetchedAt": "2026-09-15T13:42:57.440Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "My Husband Controls My Ghost… and the CIA Trained Us 😭 | Beyond: Two Souls",
       "game_name": "Games + Demos",
-      "viewer_count": 19,
+      "viewer_count": 18,
       "follower_count": 971,
       "language": "en",
       "started_at": "2026-09-15T12:48:29Z",
