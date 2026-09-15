@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T10:02:58.003Z",
+  "generatedAt": "2026-09-15T10:07:58.055Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T10:02:58.003Z",
+    "fetchedAt": "2026-09-15T10:07:58.055Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Wolverine Didn't Download in Time :(",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 9,
+      "viewer_count": 11,
       "follower_count": 273,
       "language": "en",
       "started_at": "2026-09-15T09:00:37Z",
