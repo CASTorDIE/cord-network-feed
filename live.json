@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T21:02:58.718Z",
+  "generatedAt": "2026-09-15T21:07:58.751Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T21:02:58.718Z",
+    "fetchedAt": "2026-09-15T21:07:58.751Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "LAST DAY of the SanDisk Sponsored Streams! 🔥 ARC Raiders Community Games | 50% OFF SUBS",
       "game_name": "ARC Raiders",
-      "viewer_count": 122,
+      "viewer_count": 121,
       "follower_count": 14568,
       "language": "en",
       "started_at": "2026-09-15T15:53:04Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114956,
+      "follower_count": 114957,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
