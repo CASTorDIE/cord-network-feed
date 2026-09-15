@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T14:27:57.488Z",
+  "generatedAt": "2026-09-15T14:32:57.449Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T14:27:57.488Z",
+    "fetchedAt": "2026-09-15T14:32:57.449Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "My Husband Controls My Ghost… and the CIA Trained Us 😭 | Beyond: Two Souls",
       "game_name": "Games + Demos",
-      "viewer_count": 18,
+      "viewer_count": 17,
       "follower_count": 971,
       "language": "en",
       "started_at": "2026-09-15T12:48:29Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👁️your song requests - piano / ukulele [novice] 🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 8,
+      "viewer_count": 6,
       "follower_count": 425,
       "language": "en",
       "started_at": "2026-09-15T11:42:28Z",
