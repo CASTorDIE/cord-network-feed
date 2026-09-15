@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T22:22:58.838Z",
+  "generatedAt": "2026-09-15T22:27:58.849Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T22:22:58.838Z",
+    "fetchedAt": "2026-09-15T22:27:58.849Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "A day in the life of someone pretending to understand IT for a job | Co-Working | 15/09/2026",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 7,
       "follower_count": 727,
       "language": "en",
       "started_at": "2026-09-15T17:20:21Z",
@@ -36,7 +36,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 304,
+      "follower_count": 305,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
