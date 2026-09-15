@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T03:27:57.381Z",
+  "generatedAt": "2026-09-15T03:32:57.407Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T03:27:57.381Z",
+    "fetchedAt": "2026-09-15T03:32:57.407Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| VRCHAT HANGOUT | !discord !telegram !vrc !micro !pizza |",
       "game_name": "VRChat",
-      "viewer_count": 103,
+      "viewer_count": 105,
       "follower_count": 10110,
       "language": "en",
       "started_at": "2026-09-15T02:04:14Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "YAPPING → GAMING💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 62,
-      "follower_count": 2485,
+      "viewer_count": 71,
+      "follower_count": 2486,
       "language": "en",
       "started_at": "2026-09-14T22:43:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
