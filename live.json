@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T12:02:58.230Z",
+  "generatedAt": "2026-09-15T12:07:58.195Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T12:02:58.230Z",
+    "fetchedAt": "2026-09-15T12:07:58.195Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "👁️your song requests - piano / ukulele [novice] 🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
       "viewer_count": 3,
-      "follower_count": 421,
+      "follower_count": 422,
       "language": "en",
       "started_at": "2026-09-15T11:42:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
