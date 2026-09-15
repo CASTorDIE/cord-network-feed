@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-15T02:07:57.333Z",
+  "generatedAt": "2026-09-15T02:12:57.274Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T02:07:57.333Z",
+    "fetchedAt": "2026-09-15T02:12:57.274Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 961🗿!discord🗿I ALMOST DIDN'T MAKE IT🗿HOW DID WE MAKE IT BACK🗿THIS IS INCREDIBLE🗿WE ARE ON THE WAY BACK TO THE BEC",
       "game_name": "Rocket League",
-      "viewer_count": 496,
-      "follower_count": 114879,
+      "viewer_count": 485,
+      "follower_count": 114880,
       "language": "en",
       "started_at": "2026-09-15T00:30:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 78,
+      "viewer_count": 75,
       "follower_count": 2484,
       "language": "en",
       "started_at": "2026-09-14T22:43:20Z",
@@ -45,27 +45,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": true,
-      "title": "[Short Stream] I’m Tired, So We’re Just Vibin’ Tonight    (ง •̀_•́)ง🔪",
-      "game_name": "Just Chatting",
-      "viewer_count": 6,
-      "follower_count": 346,
-      "language": "en",
-      "started_at": "2026-09-15T01:13:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
-    },
-    {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| VRCHAT HANGOUT | !discord !telegram !vrc !micro !pizza |",
       "game_name": "VRChat",
-      "viewer_count": 3,
+      "viewer_count": 27,
       "follower_count": 10108,
       "language": "en",
       "started_at": "2026-09-15T02:04:14Z",
@@ -75,19 +60,19 @@
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
       "is_live": true,
-      "title": "I swear I'm having fun 🫩",
-      "game_name": "Fortnite",
-      "viewer_count": 1,
-      "follower_count": 396,
+      "title": "[Short Stream] I’m Tired, So We’re Just Vibin’ Tonight    (ง •̀_•́)ง🔪",
+      "game_name": "Just Chatting",
+      "viewer_count": 7,
+      "follower_count": 346,
       "language": "en",
-      "started_at": "2026-09-14T23:05:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+      "started_at": "2026-09-15T01:13:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -208,6 +193,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 396,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
