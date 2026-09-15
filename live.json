@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T09:17:57.952Z",
+  "generatedAt": "2026-09-15T09:22:58.015Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T09:17:57.952Z",
+    "fetchedAt": "2026-09-15T09:22:58.015Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Wolverine Didn't Download in Time :(",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 5,
-      "follower_count": 271,
+      "viewer_count": 8,
+      "follower_count": 272,
       "language": "en",
       "started_at": "2026-09-15T09:00:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114948,
+      "follower_count": 114949,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
