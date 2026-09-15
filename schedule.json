@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-15T19:03:13.103Z",
+  "generatedAt": "2026-09-15T19:06:54.135Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-09-15T19:03:13.064Z",
+    "updatedAt": "2026-09-15T19:06:54.095Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 13,
+    "entryCount": 17,
     "firstDate": "2026-09-13",
     "lastDate": "2026-09-21",
     "windowStart": "2026-09-13",
@@ -85,6 +85,32 @@
       "url": "https://www.twitch.tv/horror_heather"
     },
     {
+      "id": "evt_1789499200079_wk9u1d",
+      "date": "2026-09-15",
+      "dateLabel": "Tuesday, September 15th",
+      "weekday": "Tuesday",
+      "streamer": "gibsontales",
+      "title": "Beyond: Two Souls",
+      "timeMinutes": 465,
+      "timeLabel": "7:45 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
+      "id": "evt_1789499200079_jtsnqe",
+      "date": "2026-09-16",
+      "dateLabel": "Wednesday, September 16th",
+      "weekday": "Wednesday",
+      "streamer": "gibsontales",
+      "title": "Roll Together",
+      "timeMinutes": 465,
+      "timeLabel": "7:45 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
       "id": "evt_1789498993059_clquc6",
       "date": "2026-09-16",
       "dateLabel": "Wednesday, September 16th",
@@ -109,6 +135,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1789499200080_8gvhuh",
+      "date": "2026-09-18",
+      "dateLabel": "Friday, September 18th",
+      "weekday": "Friday",
+      "streamer": "gibsontales",
+      "title": "Some Horror Games",
+      "timeMinutes": 465,
+      "timeLabel": "7:45 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
     },
     {
       "id": "evt_1789498993059_jw2i0j",
@@ -161,6 +200,19 @@
       "highlight": "",
       "pillLabel": "",
       "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
+      "id": "evt_1789499200080_hm7ox9",
+      "date": "2026-09-20",
+      "dateLabel": "Sunday, September 20th",
+      "weekday": "Sunday",
+      "streamer": "gibsontales",
+      "title": "Community Movie Night",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/gibsontales"
     },
     {
       "id": "evt_1787782891747_d7d5l4",
