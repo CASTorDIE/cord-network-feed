@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T05:12:59.944Z",
+  "generatedAt": "2026-09-15T05:17:57.619Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T05:12:59.944Z",
+    "fetchedAt": "2026-09-15T05:17:57.619Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| VRCHAT HANGOUT | !discord !telegram !vrc !micro !pizza |",
       "game_name": "VRChat",
-      "viewer_count": 130,
+      "viewer_count": 120,
       "follower_count": 10107,
       "language": "en",
       "started_at": "2026-09-15T02:04:14Z",
