@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T16:27:57.663Z",
+  "generatedAt": "2026-09-15T16:32:57.649Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-15T16:27:57.663Z",
+    "fetchedAt": "2026-09-15T16:32:57.649Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "LAST DAY of the SanDisk Sponsored Streams! 🔥 ARC Raiders Community Games | 50% OFF SUBS",
       "game_name": "Just Chatting",
       "viewer_count": 100,
-      "follower_count": 14552,
+      "follower_count": 14555,
       "language": "en",
       "started_at": "2026-09-15T15:53:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 114951,
+      "follower_count": 114952,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
