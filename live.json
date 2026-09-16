@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T19:42:58.737Z",
+  "generatedAt": "2026-09-16T19:47:59.857Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T19:42:58.737Z",
+    "fetchedAt": "2026-09-16T19:47:59.857Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Weekly Reset!!! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 27,
-      "follower_count": 2775,
+      "viewer_count": 33,
+      "follower_count": 2776,
       "language": "en",
       "started_at": "2026-09-16T19:30:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
