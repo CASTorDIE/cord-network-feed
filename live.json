@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T03:52:57.677Z",
+  "generatedAt": "2026-09-16T03:57:57.677Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T03:52:57.677Z",
+    "fetchedAt": "2026-09-16T03:57:57.677Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "UNC grinds Ultimate Master again!",
       "game_name": "Street Fighter 6",
-      "viewer_count": 17,
+      "viewer_count": 18,
       "follower_count": 305,
       "language": "en",
       "started_at": "2026-09-16T00:55:12Z",
