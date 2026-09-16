@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-16T04:07:57.702Z",
+  "generatedAt": "2026-09-16T04:12:57.699Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T04:07:57.702Z",
+    "fetchedAt": "2026-09-16T04:12:57.699Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "UNC grinds Ultimate Master again!",
       "game_name": "Street Fighter 6",
-      "viewer_count": 22,
+      "viewer_count": 18,
       "follower_count": 305,
       "language": "en",
       "started_at": "2026-09-16T00:55:12Z",
@@ -32,14 +32,14 @@
     {
       "user_login": "alfieduu",
       "user_name": "alfieduu",
-      "is_live": true,
-      "title": "GREAT GOOGLY MOOGLY",
-      "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
       "follower_count": 170,
-      "language": "en",
-      "started_at": "2026-09-16T01:13:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/alfieduu",
       "description": "yo put your feet up homie"
