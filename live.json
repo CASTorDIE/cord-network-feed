@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T07:12:57.965Z",
+  "generatedAt": "2026-09-16T07:17:57.912Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T07:12:57.965Z",
+    "fetchedAt": "2026-09-16T07:17:57.912Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] Surely Nothing Can Go Wrong  | Hell Is Us | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 1271,
       "language": "en",
       "started_at": "2026-09-16T07:00:45Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "DROPS ON!!! Were the Early Access Game Players Lying??",
       "game_name": "Marvel's Wolverine",
-      "viewer_count": 5,
-      "follower_count": 277,
+      "viewer_count": 7,
+      "follower_count": 278,
       "language": "en",
       "started_at": "2026-09-16T07:05:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
