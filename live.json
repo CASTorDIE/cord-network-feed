@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T07:32:57.928Z",
+  "generatedAt": "2026-09-16T07:37:57.946Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T07:32:57.928Z",
+    "fetchedAt": "2026-09-16T07:37:57.946Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] Surely Nothing Can Go Wrong  | Hell Is Us | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 1272,
       "language": "en",
       "started_at": "2026-09-16T07:00:45Z",
