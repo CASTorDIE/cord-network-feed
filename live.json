@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T23:17:58.226Z",
+  "generatedAt": "2026-09-16T23:22:58.379Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T23:17:58.226Z",
+    "fetchedAt": "2026-09-16T23:22:58.379Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "First playthrough! We're in it for the story",
       "game_name": "",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 462,
       "language": "en",
       "started_at": "2026-09-16T22:48:45Z",
