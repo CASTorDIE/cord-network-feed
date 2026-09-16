@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T05:37:57.762Z",
+  "generatedAt": "2026-09-16T05:42:57.799Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T05:37:57.762Z",
+    "fetchedAt": "2026-09-16T05:42:57.799Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "The Start of Spooky Season??? | Fears To Fathom | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 895,
       "language": "en",
       "started_at": "2026-09-16T04:12:53Z",
