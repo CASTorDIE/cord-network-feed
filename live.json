@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T07:52:57.958Z",
+  "generatedAt": "2026-09-16T07:57:57.984Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T07:52:57.958Z",
+    "fetchedAt": "2026-09-16T07:57:57.984Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "DROPS ON!!! Were the Early Access Game Players Lying??",
       "game_name": "Marvel's Wolverine",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 278,
       "language": "en",
       "started_at": "2026-09-16T07:05:14Z",
@@ -126,7 +126,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2488,
+      "follower_count": 2487,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
