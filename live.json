@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T15:32:57.846Z",
+  "generatedAt": "2026-09-16T15:37:57.720Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T15:32:57.846Z",
+    "fetchedAt": "2026-09-16T15:37:57.720Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[Drops] Day 1 of exploring Aniimo [Next Stream Sept 21st @ 9am CST ]",
       "game_name": "Aniimo",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 164,
       "language": "en",
       "started_at": "2026-09-16T14:01:22Z",
