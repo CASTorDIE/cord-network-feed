@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T20:52:59.079Z",
+  "generatedAt": "2026-09-16T20:57:59.195Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T20:52:59.079Z",
+    "fetchedAt": "2026-09-16T20:57:59.195Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Weekly Reset!!! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 53,
+      "viewer_count": 51,
       "follower_count": 2775,
       "language": "en",
       "started_at": "2026-09-16T19:30:46Z",
@@ -141,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10666,
+      "follower_count": 10667,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
