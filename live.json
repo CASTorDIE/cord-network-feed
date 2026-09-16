@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T23:07:58.177Z",
+  "generatedAt": "2026-09-16T23:12:58.184Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T23:07:58.177Z",
+    "fetchedAt": "2026-09-16T23:12:58.184Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "First playthrough! We're in it for the story",
       "game_name": "",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 462,
       "language": "en",
       "started_at": "2026-09-16T22:48:45Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "<insert click bait title>",
       "game_name": "007 First Light",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "follower_count": 396,
       "language": "en",
       "started_at": "2026-09-16T23:04:00Z",
