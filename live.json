@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T21:17:58.041Z",
+  "generatedAt": "2026-09-16T21:22:58.045Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T21:17:58.041Z",
+    "fetchedAt": "2026-09-16T21:22:58.045Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Weekly Reset!!! |!donate !modpack !giveaway !discord !tip !linktree !merch |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 54,
+      "viewer_count": 55,
       "follower_count": 2775,
       "language": "en",
       "started_at": "2026-09-16T19:30:46Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "on wednesday we war dog🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 24,
+      "viewer_count": 30,
       "follower_count": 10666,
       "language": "en",
       "started_at": "2026-09-16T21:03:37Z",
