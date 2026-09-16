@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T04:22:57.990Z",
+  "generatedAt": "2026-09-16T04:27:57.671Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T04:22:57.990Z",
+    "fetchedAt": "2026-09-16T04:27:57.671Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "UNC grinds Ultimate Master again!",
       "game_name": "Street Fighter 6",
-      "viewer_count": 19,
+      "viewer_count": 21,
       "follower_count": 305,
       "language": "en",
       "started_at": "2026-09-16T00:55:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "The Start of Spooky Season??? | Fears To Fathom | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 7,
+      "viewer_count": 9,
       "follower_count": 896,
       "language": "en",
       "started_at": "2026-09-16T04:12:53Z",
