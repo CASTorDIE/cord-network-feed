@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-16T04:12:57.699Z",
+  "generatedAt": "2026-09-16T04:17:57.685Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-16T04:12:57.699Z",
+    "fetchedAt": "2026-09-16T04:17:57.685Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "UNC grinds Ultimate Master again!",
       "game_name": "Street Fighter 6",
-      "viewer_count": 18,
+      "viewer_count": 20,
       "follower_count": 305,
       "language": "en",
       "started_at": "2026-09-16T00:55:12Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
+      "user_login": "dingo_dynasty",
+      "user_name": "Dingo_Dynasty",
+      "is_live": true,
+      "title": "The Start of Spooky Season??? | Fears To Fathom | Therapy & Chaos",
+      "game_name": "Games + Demos",
+      "viewer_count": 4,
+      "follower_count": 896,
+      "language": "en",
+      "started_at": "2026-09-16T04:12:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
+      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
       "user_login": "alfieduu",
@@ -238,21 +253,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
-      "user_login": "dingo_dynasty",
-      "user_name": "Dingo_Dynasty",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 896,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
-      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
       "user_login": "fallentitanandy",
