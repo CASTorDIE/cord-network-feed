@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T04:27:58.692Z",
+  "generatedAt": "2026-09-17T04:32:58.599Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-17T04:27:58.692Z",
+    "fetchedAt": "2026-09-17T04:32:58.599Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Blind Lies of P!",
       "game_name": "Lies of P",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 306,
       "language": "en",
       "started_at": "2026-09-17T00:56:11Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Journey to the furthest Northern Reaches | First Play through [Episode 14 | 16/09/2026",
       "game_name": "Ghost of Tsushima",
-      "viewer_count": 7,
+      "viewer_count": 4,
       "follower_count": 727,
       "language": "en",
       "started_at": "2026-09-17T02:40:46Z",
