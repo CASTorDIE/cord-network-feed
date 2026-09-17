@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T03:27:58.698Z",
+  "generatedAt": "2026-09-17T03:32:58.572Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-17T03:27:58.698Z",
+    "fetchedAt": "2026-09-17T03:32:58.572Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Blind Lies of P!",
       "game_name": "Lies of P",
-      "viewer_count": 11,
+      "viewer_count": 10,
       "follower_count": 306,
       "language": "en",
       "started_at": "2026-09-17T00:56:11Z",
@@ -28,21 +28,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": true,
-      "title": "Journey to the furthest Northern Reaches | First Play through [Episode 14 | 16/09/2026",
-      "game_name": "Ghost of Tsushima",
-      "viewer_count": 9,
-      "follower_count": 727,
-      "language": "en",
-      "started_at": "2026-09-17T02:40:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "alfieduu",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/alfieduu",
       "description": "yo put your feet up homie"
+    },
+    {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": true,
+      "title": "Journey to the furthest Northern Reaches | First Play through [Episode 14 | 16/09/2026",
+      "game_name": "Ghost of Tsushima",
+      "viewer_count": 7,
+      "follower_count": 727,
+      "language": "en",
+      "started_at": "2026-09-17T02:40:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "allyreggie",
