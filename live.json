@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-17T23:27:57.795Z",
+  "generatedAt": "2026-09-17T23:32:57.782Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-17T23:27:57.795Z",
+    "fetchedAt": "2026-09-17T23:32:57.782Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 59,
+      "viewer_count": 65,
       "follower_count": 2488,
       "language": "en",
       "started_at": "2026-09-17T22:42:30Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ALAN WAKE 2!!! | First Playthrough!| !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 21,
+      "viewer_count": 17,
       "follower_count": 645,
       "language": "en",
       "started_at": "2026-09-17T21:30:10Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": true,
+      "title": "Crawling Out of Elo Hell 😭 | Road to Celestial",
+      "game_name": "Just Chatting",
+      "viewer_count": 1,
+      "follower_count": 14571,
+      "language": "en",
+      "started_at": "2026-09-17T23:30:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "thepuckgoa",
@@ -538,21 +553,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
-    },
-    {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 14571,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "slimchungusgaming",
