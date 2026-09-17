@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-17T23:52:57.800Z",
+  "generatedAt": "2026-09-17T23:57:57.853Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-17T23:52:57.800Z",
+    "fetchedAt": "2026-09-17T23:57:57.853Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Crawling Out of Elo Hell 😭 | Road to Celestial",
       "game_name": "Just Chatting",
-      "viewer_count": 81,
+      "viewer_count": 88,
       "follower_count": 14571,
       "language": "en",
       "started_at": "2026-09-17T23:30:15Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 79,
+      "viewer_count": 80,
       "follower_count": 2488,
       "language": "en",
       "started_at": "2026-09-17T22:42:30Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Tissues ready to cry :D || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 34,
+      "viewer_count": 26,
       "follower_count": 6357,
       "language": "en",
       "started_at": "2026-09-17T23:33:35Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "ALAN WAKE 2!!! | First Playthrough!| !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 20,
+      "viewer_count": 19,
       "follower_count": 644,
       "language": "en",
       "started_at": "2026-09-17T21:30:10Z",
@@ -88,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "wispy_witch",
+      "user_name": "wispy_witch",
+      "is_live": true,
+      "title": "Aniimo | SPEEDRUNNING CUTENESS | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
+      "game_name": "Just Chatting",
+      "viewer_count": 2,
+      "follower_count": 1735,
+      "language": "en",
+      "started_at": "2026-09-17T23:55:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wispy_witch",
+      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
       "user_login": "bribeecool10",
@@ -628,21 +643,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
-    },
-    {
-      "user_login": "wispy_witch",
-      "user_name": "wispy_witch",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1735,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
       "user_login": "zaldar87",
