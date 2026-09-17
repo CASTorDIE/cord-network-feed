@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T00:22:58.266Z",
+  "generatedAt": "2026-09-17T00:27:58.279Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-17T00:22:58.266Z",
+    "fetchedAt": "2026-09-17T00:27:58.279Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 963🤗!discord🤗#ad🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JL",
       "game_name": "Rocket League",
-      "viewer_count": 179,
+      "viewer_count": 190,
       "follower_count": 115283,
       "language": "en",
       "started_at": "2026-09-17T00:11:33Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Song Requests Here >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 46,
+      "viewer_count": 52,
       "follower_count": 6354,
       "language": "en",
       "started_at": "2026-09-16T23:29:56Z",
