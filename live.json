@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-17T03:07:58.589Z",
+  "generatedAt": "2026-09-17T03:12:58.728Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-17T03:07:58.589Z",
+    "fetchedAt": "2026-09-17T03:12:58.728Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 963🤗!discord🤗#ad🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JL",
       "game_name": "Rocket League",
-      "viewer_count": 887,
-      "follower_count": 115530,
+      "viewer_count": 905,
+      "follower_count": 115533,
       "language": "en",
       "started_at": "2026-09-17T00:11:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Song Requests Here >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 47,
+      "viewer_count": 52,
       "follower_count": 6358,
       "language": "en",
       "started_at": "2026-09-16T23:29:56Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "GREAT GOOGLY MOOGLY",
       "game_name": "Just Chatting",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 170,
       "language": "en",
       "started_at": "2026-09-17T01:23:49Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "Journey to the furthest Northern Reaches | First Play through [Episode 14 | 16/09/2026",
       "game_name": "Ghost of Tsushima",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 727,
       "language": "en",
       "started_at": "2026-09-17T02:40:46Z",
@@ -88,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "<insert click bait title>",
-      "game_name": "007 First Light",
-      "viewer_count": 1,
-      "follower_count": 396,
-      "language": "en",
-      "started_at": "2026-09-16T23:04:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "allyreggie",
@@ -193,6 +178,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 396,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
