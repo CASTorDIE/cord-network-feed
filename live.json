@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T00:57:58.226Z",
+  "generatedAt": "2026-09-17T01:02:58.331Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-17T00:57:58.226Z",
+    "fetchedAt": "2026-09-17T01:02:58.331Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 963🤗!discord🤗#ad🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JLAB🤗JL",
       "game_name": "Rocket League",
-      "viewer_count": 480,
-      "follower_count": 115302,
+      "viewer_count": 550,
+      "follower_count": 115311,
       "language": "en",
       "started_at": "2026-09-17T00:11:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Song Requests Here >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 50,
+      "viewer_count": 48,
       "follower_count": 6355,
       "language": "en",
       "started_at": "2026-09-16T23:29:56Z",
@@ -45,12 +45,27 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": true,
+      "title": "Blind Lies of P!",
+      "game_name": "Lies of P",
+      "viewer_count": 9,
+      "follower_count": 306,
+      "language": "en",
+      "started_at": "2026-09-17T00:56:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
       "user_login": "bribeecool10",
       "user_name": "bribeecool10",
       "is_live": true,
       "title": "<insert click bait title>",
       "game_name": "007 First Light",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 396,
       "language": "en",
       "started_at": "2026-09-16T23:04:00Z",
@@ -58,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "Blind Lies of P!",
-      "game_name": "Lies of P",
-      "viewer_count": 0,
-      "follower_count": 307,
-      "language": "en",
-      "started_at": "2026-09-17T00:56:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "alfieduu",
