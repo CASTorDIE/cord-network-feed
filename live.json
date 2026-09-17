@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T07:32:57.289Z",
+  "generatedAt": "2026-09-17T07:37:57.340Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-17T07:32:57.289Z",
+    "fetchedAt": "2026-09-17T07:37:57.340Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[18+] Surely Nothing Can Go Wrong  | Hell Is Us | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 12,
-      "follower_count": 1274,
+      "viewer_count": 10,
+      "follower_count": 1275,
       "language": "en",
       "started_at": "2026-09-17T07:00:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Can I make It To Gold",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 282,
       "language": "en",
       "started_at": "2026-09-17T07:02:14Z",
