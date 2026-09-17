@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T08:17:57.350Z",
+  "generatedAt": "2026-09-17T08:22:57.375Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-17T08:17:57.350Z",
+    "fetchedAt": "2026-09-17T08:22:57.375Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] Surely Nothing Can Go Wrong  | Hell Is Us | !advanced !discord !lurk !time !clip |",
       "game_name": "Hell is Us",
-      "viewer_count": 12,
+      "viewer_count": 14,
       "follower_count": 1275,
       "language": "en",
       "started_at": "2026-09-17T07:00:45Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Can I make It To Gold",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 9,
-      "follower_count": 283,
+      "viewer_count": 12,
+      "follower_count": 284,
       "language": "en",
       "started_at": "2026-09-17T07:02:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
