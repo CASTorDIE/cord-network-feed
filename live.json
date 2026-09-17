@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T11:07:57.658Z",
+  "generatedAt": "2026-09-17T11:12:57.708Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-17T11:07:57.658Z",
+    "fetchedAt": "2026-09-17T11:12:57.708Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Can I make It To Gold",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 17,
-      "follower_count": 288,
+      "viewer_count": 16,
+      "follower_count": 289,
       "language": "en",
       "started_at": "2026-09-17T07:02:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 115549,
+      "follower_count": 115551,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
