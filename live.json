@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T08:57:57.447Z",
+  "generatedAt": "2026-09-17T09:02:57.483Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-17T08:57:57.447Z",
+    "fetchedAt": "2026-09-17T09:02:57.483Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] Surely Nothing Can Go Wrong  | Hell Is Us | !advanced !discord !lurk !time !clip |",
       "game_name": "Hell is Us",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 1275,
       "language": "en",
       "started_at": "2026-09-17T07:00:45Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Can I make It To Gold",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 284,
       "language": "en",
       "started_at": "2026-09-17T07:02:14Z",
