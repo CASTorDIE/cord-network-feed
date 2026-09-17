@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T10:27:57.715Z",
+  "generatedAt": "2026-09-17T10:32:57.621Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-17T10:27:57.715Z",
+    "fetchedAt": "2026-09-17T10:32:57.621Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Can I make It To Gold",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 286,
       "language": "en",
       "started_at": "2026-09-17T07:02:14Z",
