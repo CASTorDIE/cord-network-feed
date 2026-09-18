@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T18:12:57.536Z",
+  "generatedAt": "2026-09-18T18:17:57.553Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T18:12:57.536Z",
+    "fetchedAt": "2026-09-18T18:17:57.553Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "♡ GET YOUR POKEMON! ♡ ⋆(๑•ᴗ•๑) | Art and Lofi | Mental Health Check In | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Art",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 1347,
       "language": "en",
       "started_at": "2026-09-18T15:52:30Z",
