@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T17:22:57.426Z",
+  "generatedAt": "2026-09-18T17:27:57.400Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T17:22:57.426Z",
+    "fetchedAt": "2026-09-18T17:27:57.400Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "👻Drops👻 Phasmophobia in VR Is TERRIFYING… Especially With a First-Timer | @magzdafox @jussrondo !hype ! !newvlog !gamevideo",
       "game_name": "Phasmophobia",
-      "viewer_count": 18,
+      "viewer_count": 17,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-09-18T13:32:01Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "♡ GET YOUR POKEMON! ♡ ⋆(๑•ᴗ•๑) | Art and Lofi | Mental Health Check In | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Art",
-      "viewer_count": 14,
+      "viewer_count": 11,
       "follower_count": 1347,
       "language": "en",
       "started_at": "2026-09-18T15:52:30Z",
