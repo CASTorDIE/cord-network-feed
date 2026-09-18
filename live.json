@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T22:57:57.964Z",
+  "generatedAt": "2026-09-18T23:02:57.946Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T22:57:57.964Z",
+    "fetchedAt": "2026-09-18T23:02:57.946Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 48,
+      "viewer_count": 58,
       "follower_count": 2492,
       "language": "en",
       "started_at": "2026-09-18T22:47:44Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I THINK I FIXED MY CAM???🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 28,
+      "viewer_count": 26,
       "follower_count": 10663,
       "language": "en",
       "started_at": "2026-09-18T22:31:32Z",
