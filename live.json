@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T17:27:57.400Z",
+  "generatedAt": "2026-09-18T17:32:57.476Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T17:27:57.400Z",
+    "fetchedAt": "2026-09-18T17:32:57.476Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,8 +18,8 @@
       "user_login": "beckybplays",
       "user_name": "BeckyBPlays",
       "is_live": true,
-      "title": "👻Drops👻 Phasmophobia in VR Is TERRIFYING… Especially With a First-Timer | @magzdafox @jussrondo !hype ! !newvlog !gamevideo",
-      "game_name": "Phasmophobia",
+      "title": "Just talking about Palia |  !hype ! !newvlog !gamevideo",
+      "game_name": "Palia",
       "viewer_count": 17,
       "follower_count": 5133,
       "language": "en",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "♡ GET YOUR POKEMON! ♡ ⋆(๑•ᴗ•๑) | Art and Lofi | Mental Health Check In | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Art",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 1347,
       "language": "en",
       "started_at": "2026-09-18T15:52:30Z",
