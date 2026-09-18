@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T09:37:57.714Z",
+  "generatedAt": "2026-09-18T09:42:58.723Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T09:37:57.714Z",
+    "fetchedAt": "2026-09-18T09:42:58.723Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Has This season gotten Good Yet??? I Subtember in full swing",
       "game_name": "Fortnite",
-      "viewer_count": 9,
+      "viewer_count": 12,
       "follower_count": 297,
       "language": "en",
       "started_at": "2026-09-18T06:59:04Z",
