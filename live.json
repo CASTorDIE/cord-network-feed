@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T06:47:57.534Z",
+  "generatedAt": "2026-09-18T06:52:57.500Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T06:47:57.534Z",
+    "fetchedAt": "2026-09-18T06:52:57.500Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I Hate Being Home Alone! | Fears To Fathom | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 18,
+      "viewer_count": 19,
       "follower_count": 901,
       "language": "en",
       "started_at": "2026-09-18T04:06:24Z",
