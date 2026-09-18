@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-18T03:27:58.184Z",
+  "generatedAt": "2026-09-18T03:32:58.219Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T03:27:58.184Z",
+    "fetchedAt": "2026-09-18T03:32:58.219Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Crawling Out of Elo Hell 😭 | Road to Celestial !drops",
       "game_name": "Marvel Rivals",
-      "viewer_count": 81,
+      "viewer_count": 80,
       "follower_count": 14573,
       "language": "en",
       "started_at": "2026-09-17T23:30:15Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Tissues ready to cry :D || !merch !throne !daki",
       "game_name": "My Little Puppy",
-      "viewer_count": 34,
+      "viewer_count": 38,
       "follower_count": 6355,
       "language": "en",
       "started_at": "2026-09-17T23:33:35Z",
@@ -45,27 +45,12 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
-      "user_login": "wispy_witch",
-      "user_name": "wispy_witch",
-      "is_live": true,
-      "title": "Aniimo | SPEEDRUNNING CUTENESS | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "Aniimo",
-      "viewer_count": 16,
-      "follower_count": 1734,
-      "language": "en",
-      "started_at": "2026-09-17T23:55:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Blind Lies of P! Swamp monster time",
       "game_name": "Lies of P",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 306,
       "language": "en",
       "started_at": "2026-09-18T00:56:24Z",
@@ -110,7 +95,7 @@
       "is_live": true,
       "title": "A Gathering Storm, end game on the horizon | First Play through [Episode 15] | 16/09/2026",
       "game_name": "Ghost of Tsushima",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 727,
       "language": "en",
       "started_at": "2026-09-18T03:12:23Z",
@@ -231,7 +216,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 115744,
+      "follower_count": 115745,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -643,6 +628,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
+      "user_login": "wispy_witch",
+      "user_name": "wispy_witch",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1734,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wispy_witch",
+      "description": "⋆˖⁺‧₊☽ Wisp turned Witch! Streaming all kinds of games in the Magic Parlor ☾₊‧⁺˖⋆      🔮Won't you join us?🔮━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     },
     {
       "user_login": "zaldar87",
