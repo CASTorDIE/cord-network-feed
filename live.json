@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T07:32:57.557Z",
+  "generatedAt": "2026-09-18T07:37:57.570Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T07:32:57.557Z",
+    "fetchedAt": "2026-09-18T07:37:57.570Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "What's your favourite planet I Subtember is still going",
       "game_name": "Just Chatting",
-      "viewer_count": 7,
+      "viewer_count": 10,
       "follower_count": 290,
       "language": "en",
       "started_at": "2026-09-18T06:59:04Z",
