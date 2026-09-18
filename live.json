@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T08:32:57.585Z",
+  "generatedAt": "2026-09-18T08:37:57.655Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T08:32:57.585Z",
+    "fetchedAt": "2026-09-18T08:37:57.655Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Has This season gotten Good Yet??? I Subtember in full swing",
       "game_name": "",
-      "viewer_count": 6,
-      "follower_count": 294,
+      "viewer_count": 9,
+      "follower_count": 295,
       "language": "en",
       "started_at": "2026-09-18T06:59:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
