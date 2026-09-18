@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T05:37:57.349Z",
+  "generatedAt": "2026-09-18T05:42:57.352Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T05:37:57.349Z",
+    "fetchedAt": "2026-09-18T05:42:57.352Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I Hate Being Home Alone! | Fears To Fathom | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 18,
+      "viewer_count": 13,
       "follower_count": 898,
       "language": "en",
       "started_at": "2026-09-18T04:06:24Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "A Gathering Storm, end game on the horizon | First Play through [Episode 15] | 16/09/2026",
       "game_name": "Ghost of Tsushima",
-      "viewer_count": 10,
+      "viewer_count": 8,
       "follower_count": 727,
       "language": "en",
       "started_at": "2026-09-18T03:12:23Z",
