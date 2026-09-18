@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T08:37:57.655Z",
+  "generatedAt": "2026-09-18T08:42:57.697Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T08:37:57.655Z",
+    "fetchedAt": "2026-09-18T08:42:57.697Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Has This season gotten Good Yet??? I Subtember in full swing",
       "game_name": "",
-      "viewer_count": 9,
+      "viewer_count": 7,
       "follower_count": 295,
       "language": "en",
       "started_at": "2026-09-18T06:59:04Z",
