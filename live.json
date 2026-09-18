@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T09:42:58.723Z",
+  "generatedAt": "2026-09-18T09:47:57.677Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T09:42:58.723Z",
+    "fetchedAt": "2026-09-18T09:47:57.677Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Has This season gotten Good Yet??? I Subtember in full swing",
       "game_name": "Fortnite",
-      "viewer_count": 12,
-      "follower_count": 297,
+      "viewer_count": 9,
+      "follower_count": 298,
       "language": "en",
       "started_at": "2026-09-18T06:59:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
@@ -621,7 +621,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8772,
+      "follower_count": 8773,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
