@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-18T03:17:58.218Z",
+  "generatedAt": "2026-09-18T03:22:58.203Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T03:17:58.218Z",
+    "fetchedAt": "2026-09-18T03:22:58.203Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 8,
-    "offlineCount": 36
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Crawling Out of Elo Hell 😭 | Road to Celestial !drops",
       "game_name": "Marvel Rivals",
-      "viewer_count": 86,
+      "viewer_count": 75,
       "follower_count": 14573,
       "language": "en",
       "started_at": "2026-09-17T23:30:15Z",
@@ -30,27 +30,12 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "ANOTHER SHIFT AT THE WATERPARK 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
-      "game_name": "Waterpark Simulator",
-      "viewer_count": 56,
-      "follower_count": 2490,
-      "language": "en",
-      "started_at": "2026-09-17T22:42:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "Tissues ready to cry :D || !merch !throne !daki",
       "game_name": "My Little Puppy",
-      "viewer_count": 38,
+      "viewer_count": 33,
       "follower_count": 6355,
       "language": "en",
       "started_at": "2026-09-17T23:33:35Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "Aniimo | SPEEDRUNNING CUTENESS | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Aniimo",
-      "viewer_count": 15,
+      "viewer_count": 18,
       "follower_count": 1734,
       "language": "en",
       "started_at": "2026-09-17T23:55:16Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "Blind Lies of P! Swamp monster time",
       "game_name": "Lies of P",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 306,
       "language": "en",
       "started_at": "2026-09-18T00:56:24Z",
@@ -95,7 +80,7 @@
       "is_live": true,
       "title": "Just Vibin’ out today    (ง •̀_•́)ง🔪",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 7,
       "follower_count": 347,
       "language": "en",
       "started_at": "2026-09-18T01:35:07Z",
@@ -125,7 +110,7 @@
       "is_live": true,
       "title": "A Gathering Storm, end game on the horizon | First Play through [Episode 15] | 16/09/2026",
       "game_name": "Ghost of Tsushima",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "follower_count": 727,
       "language": "en",
       "started_at": "2026-09-18T03:12:23Z",
@@ -163,6 +148,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2490,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
@@ -231,7 +231,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 115743,
+      "follower_count": 115744,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
