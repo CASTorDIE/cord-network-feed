@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T14:12:58.088Z",
+  "generatedAt": "2026-09-18T14:17:58.107Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T14:12:58.088Z",
+    "fetchedAt": "2026-09-18T14:17:58.107Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Horror Demos!! | Starting with GIANT SPIDERS",
       "game_name": "Games + Demos",
-      "viewer_count": 28,
+      "viewer_count": 26,
       "follower_count": 973,
       "language": "en",
       "started_at": "2026-09-18T12:48:32Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👻Drops👻 Phasmophobia in VR Is TERRIFYING… Especially With a First-Timer | !hype ! !newvlog !gamevideo",
       "game_name": "Phasmophobia",
-      "viewer_count": 21,
+      "viewer_count": 19,
       "follower_count": 5133,
       "language": "en",
       "started_at": "2026-09-18T13:32:01Z",
