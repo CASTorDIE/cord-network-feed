@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T17:47:57.490Z",
+  "generatedAt": "2026-09-18T17:52:57.514Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T17:47:57.490Z",
+    "fetchedAt": "2026-09-18T17:52:57.514Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Just talking about Palia |  !hype ! !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 17,
-      "follower_count": 5134,
+      "viewer_count": 19,
+      "follower_count": 5135,
       "language": "en",
       "started_at": "2026-09-18T13:32:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "♡ GET YOUR POKEMON! ♡ ⋆(๑•ᴗ•๑) | Art and Lofi | Mental Health Check In | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Art",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 1347,
       "language": "en",
       "started_at": "2026-09-18T15:52:30Z",
