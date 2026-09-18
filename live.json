@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T22:32:57.918Z",
+  "generatedAt": "2026-09-18T22:37:57.990Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T22:32:57.918Z",
+    "fetchedAt": "2026-09-18T22:37:57.990Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "I THINK I FIXED MY CAM???🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 1,
-      "follower_count": 10665,
+      "viewer_count": 25,
+      "follower_count": 10664,
       "language": "en",
       "started_at": "2026-09-18T22:31:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
