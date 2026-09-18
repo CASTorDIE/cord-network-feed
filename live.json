@@ -1,34 +1,19 @@
 {
-  "generatedAt": "2026-09-18T18:22:57.569Z",
+  "generatedAt": "2026-09-18T18:27:57.572Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-18T18:22:57.569Z",
+    "fetchedAt": "2026-09-18T18:27:57.572Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 0,
+    "offlineCount": 44
   },
   "streamers": [
-    {
-      "user_login": "padbae",
-      "user_name": "padbae",
-      "is_live": true,
-      "title": "♡ GET YOUR POKEMON! ♡ ⋆(๑•ᴗ•๑) | Art and Lofi | Mental Health Check In | !lurk !sus !discord !gfuel !patreon",
-      "game_name": "Art",
-      "viewer_count": 10,
-      "follower_count": 1347,
-      "language": "en",
-      "started_at": "2026-09-18T15:52:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/padbae",
-      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
-    },
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
@@ -508,6 +493,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": ""
+    },
+    {
+      "user_login": "padbae",
+      "user_name": "padbae",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1348,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/padbae",
+      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
       "user_login": "rickett_raffy",
