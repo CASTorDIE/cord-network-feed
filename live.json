@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T15:22:57.499Z",
+  "generatedAt": "2026-09-19T15:27:57.568Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-19T15:22:57.499Z",
+    "fetchedAt": "2026-09-19T15:27:57.568Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Last weekend for Plushie Hunting Prep | !hype ! !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 31,
+      "viewer_count": 29,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-09-19T13:08:31Z",
