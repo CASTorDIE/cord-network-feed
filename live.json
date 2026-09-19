@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T18:32:57.852Z",
+  "generatedAt": "2026-09-19T18:37:57.824Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-19T18:32:57.852Z",
+    "fetchedAt": "2026-09-19T18:37:57.824Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "☆DROPS☆ My FIRST Time Playing | !hype ! !newvlog !gamevideo",
       "game_name": "Once Human",
-      "viewer_count": 26,
+      "viewer_count": 23,
       "follower_count": 5136,
       "language": "en",
       "started_at": "2026-09-19T13:08:31Z",
