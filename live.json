@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T17:42:57.725Z",
+  "generatedAt": "2026-09-19T17:47:57.812Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-19T17:42:57.725Z",
+    "fetchedAt": "2026-09-19T17:47:57.812Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "☆DROPS☆ My FIRST Time Playing | !hype ! !newvlog !gamevideo",
       "game_name": "Once Human",
-      "viewer_count": 27,
+      "viewer_count": 24,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-09-19T13:08:31Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ENDACOPIA | Where Are We Again? | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Endacopia",
-      "viewer_count": 7,
+      "viewer_count": 10,
       "follower_count": 1735,
       "language": "en",
       "started_at": "2026-09-19T15:55:19Z",
