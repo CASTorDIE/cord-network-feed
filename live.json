@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-19T01:57:58.238Z",
+  "generatedAt": "2026-09-19T02:02:58.294Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-19T01:57:58.238Z",
+    "fetchedAt": "2026-09-19T02:02:58.294Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
     {
@@ -21,7 +21,7 @@
       "title": "✅24/7 DROP STREAM✅DAY 965🍆!discord🍆DO NOT WATCH THIS BROADCAST🍆IT IWLL GIVE YOU INDIGESTION AND YOU WILL BE TAKING A FAT DOOKIE ALL OVER",
       "game_name": "Rocket League",
       "viewer_count": 695,
-      "follower_count": 115852,
+      "follower_count": 115867,
       "language": "en",
       "started_at": "2026-09-19T00:19:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "teaching @winniedapoohhh how to war dog🎀",
-      "game_name": "WARDOGS",
-      "viewer_count": 70,
-      "follower_count": 10673,
-      "language": "en",
-      "started_at": "2026-09-18T22:31:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 67,
+      "viewer_count": 77,
       "follower_count": 2493,
       "language": "en",
       "started_at": "2026-09-18T22:47:44Z",
@@ -60,12 +45,27 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "teaching @winniedapoohhh how to war dog🎀",
+      "game_name": "WARDOGS",
+      "viewer_count": 64,
+      "follower_count": 10673,
+      "language": "en",
+      "started_at": "2026-09-18T22:31:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Blind Lies of P! Time to lock in",
       "game_name": "Lies of P",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 306,
       "language": "en",
       "started_at": "2026-09-19T00:58:23Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
+      "user_login": "alfieduu",
+      "user_name": "alfieduu",
+      "is_live": true,
+      "title": "SAVING ELWYNN FOREST | GREAT GOOGLY MOOGLY",
+      "game_name": "Just Chatting",
+      "viewer_count": 5,
+      "follower_count": 170,
+      "language": "en",
+      "started_at": "2026-09-19T01:59:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/alfieduu",
+      "description": "yo put your feet up homie"
     },
     {
       "user_login": "fallentitanandy",
@@ -103,21 +118,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "alfieduu",
-      "user_name": "alfieduu",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 170,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/alfieduu",
-      "description": "yo put your feet up homie"
     },
     {
       "user_login": "allyreggie",
