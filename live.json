@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T15:42:57.580Z",
+  "generatedAt": "2026-09-19T15:47:57.591Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-19T15:42:57.580Z",
+    "fetchedAt": "2026-09-19T15:47:57.591Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Building Fall Shops! |!donate !modpack !library !discord !tip !linktree !merch !storefront |",
       "game_name": "Minecraft",
-      "viewer_count": 50,
+      "viewer_count": 41,
       "follower_count": 2774,
       "language": "en",
       "started_at": "2026-09-19T11:59:16Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Last weekend for Plushie Hunting Prep | !hype ! !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 32,
+      "viewer_count": 34,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-09-19T13:08:31Z",
