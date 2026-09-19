@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T12:12:58.200Z",
+  "generatedAt": "2026-09-19T12:17:58.251Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-19T12:12:58.200Z",
+    "fetchedAt": "2026-09-19T12:17:58.251Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Building Fall Shops! |!donate !modpack !library !discord !tip !linktree !merch !storefront |",
       "game_name": "Minecraft",
-      "viewer_count": 14,
+      "viewer_count": 20,
       "follower_count": 2773,
       "language": "en",
       "started_at": "2026-09-19T11:59:16Z",
