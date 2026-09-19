@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-19T22:57:58.199Z",
+  "generatedAt": "2026-09-19T23:02:58.278Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-19T22:57:58.199Z",
+    "fetchedAt": "2026-09-19T23:02:58.278Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 64,
+      "viewer_count": 61,
       "follower_count": 2495,
       "language": "en",
       "started_at": "2026-09-19T22:36:23Z",
@@ -32,14 +32,14 @@
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
+      "is_live": true,
+      "title": "Extra long stream to Celebrate 300 followers! Blind Lies of P",
+      "game_name": "Lies of P",
+      "viewer_count": 11,
       "follower_count": 306,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
+      "language": "en",
+      "started_at": "2026-09-19T23:00:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 115902,
+      "follower_count": 115901,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
