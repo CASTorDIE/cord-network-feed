@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T03:52:57.392Z",
+  "generatedAt": "2026-09-19T03:57:57.445Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-19T03:52:57.392Z",
+    "fetchedAt": "2026-09-19T03:57:57.445Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Blind Lies of P! Time to lock in",
       "game_name": "Lies of P",
-      "viewer_count": 16,
+      "viewer_count": 19,
       "follower_count": 306,
       "language": "en",
       "started_at": "2026-09-19T00:58:23Z",
