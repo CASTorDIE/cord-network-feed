@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T00:42:58.149Z",
+  "generatedAt": "2026-09-19T00:47:58.096Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-19T00:42:58.149Z",
+    "fetchedAt": "2026-09-19T00:47:58.096Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 965🍆!discord🍆DO NOT WATCH THIS BROADCAST🍆IT IWLL GIVE YOU INDIGESTION AND YOU WILL BE TAKING A FAT DOOKIE ALL OVER",
       "game_name": "Rocket League",
-      "viewer_count": 288,
-      "follower_count": 115775,
+      "viewer_count": 311,
+      "follower_count": 115780,
       "language": "en",
       "started_at": "2026-09-19T00:19:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 67,
+      "viewer_count": 62,
       "follower_count": 2491,
       "language": "en",
       "started_at": "2026-09-18T22:47:44Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "dawgin this war w/ @winniedapoohhh🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 63,
+      "viewer_count": 62,
       "follower_count": 10669,
       "language": "en",
       "started_at": "2026-09-18T22:31:32Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "fallentitanandy",
+      "user_name": "FallenTitanAndy",
+      "is_live": true,
+      "title": "Delayed Charity Stream for One Day Only! R U Ok? Charity Stream with Giveaways and some fun along the way",
+      "game_name": "Marvel Rivals",
+      "viewer_count": 2,
+      "follower_count": 419,
+      "language": "en",
+      "started_at": "2026-09-18T23:15:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/fallentitanandy",
+      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "bribeecool10",
@@ -73,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "fallentitanandy",
-      "user_name": "FallenTitanAndy",
-      "is_live": true,
-      "title": "Delayed Charity Stream for One Day Only! R U Ok? Charity Stream with Giveaways and some fun along the way",
-      "game_name": "Marvel Rivals",
-      "viewer_count": 1,
-      "follower_count": 419,
-      "language": "en",
-      "started_at": "2026-09-18T23:15:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/fallentitanandy",
-      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "4kaizen_gaming",
