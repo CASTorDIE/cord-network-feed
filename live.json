@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T03:42:57.388Z",
+  "generatedAt": "2026-09-19T03:47:57.470Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-19T03:42:57.388Z",
+    "fetchedAt": "2026-09-19T03:47:57.470Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Blind Lies of P! Time to lock in",
       "game_name": "Lies of P",
-      "viewer_count": 12,
+      "viewer_count": 14,
       "follower_count": 306,
       "language": "en",
       "started_at": "2026-09-19T00:58:23Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "SAVING ELWYNN FOREST | GREAT GOOGLY MOOGLY",
       "game_name": "World of Warcraft",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 170,
       "language": "en",
       "started_at": "2026-09-19T01:59:01Z",
