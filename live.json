@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T14:52:57.657Z",
+  "generatedAt": "2026-09-19T14:57:57.474Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-19T14:52:57.657Z",
+    "fetchedAt": "2026-09-19T14:57:57.474Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Building Fall Shops! |!donate !modpack !library !discord !tip !linktree !merch !storefront |",
       "game_name": "Minecraft",
-      "viewer_count": 55,
+      "viewer_count": 57,
       "follower_count": 2774,
       "language": "en",
       "started_at": "2026-09-19T11:59:16Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Last weekend for Plushie Hunting Prep | !hype ! !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 29,
-      "follower_count": 5135,
+      "viewer_count": 33,
+      "follower_count": 5134,
       "language": "en",
       "started_at": "2026-09-19T13:08:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
