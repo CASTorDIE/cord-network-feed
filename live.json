@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T19:37:57.918Z",
+  "generatedAt": "2026-09-19T19:42:58.784Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-19T19:37:57.918Z",
+    "fetchedAt": "2026-09-19T19:42:58.784Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "☆DROPS☆ My FIRST Time Playing | !hype ! !newvlog !gamevideo",
       "game_name": "Once Human",
-      "viewer_count": 24,
+      "viewer_count": 22,
       "follower_count": 5139,
       "language": "en",
       "started_at": "2026-09-19T13:08:31Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming - Jillian to the Rescue!",
       "game_name": "Resident Evil: Revelations",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 25,
       "language": "en",
       "started_at": "2026-09-19T18:43:00Z",
