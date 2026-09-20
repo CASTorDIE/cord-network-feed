@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T02:32:57.550Z",
+  "generatedAt": "2026-09-20T02:37:57.568Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T02:32:57.550Z",
+    "fetchedAt": "2026-09-20T02:37:57.568Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 70,
+      "viewer_count": 67,
       "follower_count": 2495,
       "language": "en",
       "started_at": "2026-09-19T22:36:23Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Extra long stream to Celebrate 300 followers! Blind Lies of P DLC",
       "game_name": "Lies of P",
-      "viewer_count": 19,
+      "viewer_count": 18,
       "follower_count": 306,
       "language": "en",
       "started_at": "2026-09-19T23:00:06Z",
