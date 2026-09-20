@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T12:57:57.518Z",
+  "generatedAt": "2026-09-20T13:02:57.515Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T12:57:57.518Z",
+    "fetchedAt": "2026-09-20T13:02:57.515Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Princess Plaza!!! |!donate !modpack !library !discord !tip !linktree !merch !storefront |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 63,
-      "follower_count": 2772,
+      "viewer_count": 68,
+      "follower_count": 2771,
       "language": "en",
       "started_at": "2026-09-20T11:59:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
