@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T00:42:57.398Z",
+  "generatedAt": "2026-09-20T00:47:57.429Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T00:42:57.398Z",
+    "fetchedAt": "2026-09-20T00:47:57.429Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 68,
+      "viewer_count": 65,
       "follower_count": 2495,
       "language": "en",
       "started_at": "2026-09-19T22:36:23Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Extra long stream to Celebrate 300 followers! Blind Lies of P",
       "game_name": "Lies of P",
-      "viewer_count": 22,
+      "viewer_count": 20,
       "follower_count": 306,
       "language": "en",
       "started_at": "2026-09-19T23:00:06Z",
