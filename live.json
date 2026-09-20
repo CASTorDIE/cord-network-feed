@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T07:22:58.003Z",
+  "generatedAt": "2026-09-20T07:27:58.045Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T07:22:58.003Z",
+    "fetchedAt": "2026-09-20T07:27:58.045Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] No Thoughts. Just Echoes.  | WuWa| !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 12,
       "follower_count": 1275,
       "language": "en",
       "started_at": "2026-09-20T07:02:42Z",
