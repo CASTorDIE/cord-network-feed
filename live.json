@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T05:37:57.882Z",
+  "generatedAt": "2026-09-20T05:42:57.835Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T05:37:57.882Z",
+    "fetchedAt": "2026-09-20T05:42:57.835Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Extra long stream to Celebrate 300 followers! Blind Lies of P DLC",
       "game_name": "Lies of P",
-      "viewer_count": 22,
+      "viewer_count": 23,
       "follower_count": 306,
       "language": "en",
       "started_at": "2026-09-19T23:00:06Z",
