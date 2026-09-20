@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T07:37:58.059Z",
+  "generatedAt": "2026-09-20T07:42:58.054Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T07:37:58.059Z",
+    "fetchedAt": "2026-09-20T07:42:58.054Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[18+] No Thoughts. Just Echoes.  | WuWa| !advanced !discord !lurk !time !clip |",
       "game_name": "Wuthering Waves",
-      "viewer_count": 12,
-      "follower_count": 1275,
+      "viewer_count": 11,
+      "follower_count": 1276,
       "language": "en",
       "started_at": "2026-09-20T07:02:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
