@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T02:22:57.543Z",
+  "generatedAt": "2026-09-20T02:27:57.480Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T02:22:57.543Z",
+    "fetchedAt": "2026-09-20T02:27:57.480Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 71,
+      "viewer_count": 72,
       "follower_count": 2495,
       "language": "en",
       "started_at": "2026-09-19T22:36:23Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Extra long stream to Celebrate 300 followers! Blind Lies of P DLC",
       "game_name": "Lies of P",
-      "viewer_count": 18,
+      "viewer_count": 19,
       "follower_count": 306,
       "language": "en",
       "started_at": "2026-09-19T23:00:06Z",
@@ -132,7 +132,7 @@
       "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games and recently changed my focus to souls/souls-like and rpg/jrpg games! Check out out my About Page for more info♡"
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
       "user_login": "boww_wolf",
