@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T17:17:57.893Z",
+  "generatedAt": "2026-09-20T17:22:57.844Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T17:17:57.893Z",
+    "fetchedAt": "2026-09-20T17:22:57.844Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "It's been a while | !hype !newvlog !gamevideo",
       "game_name": "RollerCoaster Tycoon Classic",
-      "viewer_count": 25,
+      "viewer_count": 22,
       "follower_count": 5137,
       "language": "en",
       "started_at": "2026-09-20T13:05:42Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming - Jill and Parker shootin' sea zombies.",
       "game_name": "Resident Evil: Revelations",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 25,
       "language": "en",
       "started_at": "2026-09-20T17:01:57Z",
