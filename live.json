@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T21:57:57.318Z",
+  "generatedAt": "2026-09-20T22:02:57.335Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T21:57:57.318Z",
+    "fetchedAt": "2026-09-20T22:02:57.335Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "LIVE FROM RLCS✅24/7 DROP STREAM✅DAY 966 !discord",
       "game_name": "Rocket League",
-      "viewer_count": 254,
-      "follower_count": 115967,
+      "viewer_count": 273,
+      "follower_count": 115966,
       "language": "en",
       "started_at": "2026-09-20T19:50:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
