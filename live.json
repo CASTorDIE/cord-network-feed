@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-20T01:47:57.388Z",
+  "generatedAt": "2026-09-20T01:52:57.508Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T01:47:57.388Z",
+    "fetchedAt": "2026-09-20T01:52:57.508Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 64,
+      "viewer_count": 66,
       "follower_count": 2495,
       "language": "en",
       "started_at": "2026-09-19T22:36:23Z",
@@ -33,9 +33,9 @@
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
-      "title": "Extra long stream to Celebrate 300 followers! Blind Lies of P",
+      "title": "Extra long stream to Celebrate 300 followers! Blind Lies of P DLC",
       "game_name": "Lies of P",
-      "viewer_count": 23,
+      "viewer_count": 19,
       "follower_count": 306,
       "language": "en",
       "started_at": "2026-09-19T23:00:06Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "We Need to talk...",
       "game_name": "Just Chatting",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 390,
       "language": "en",
       "started_at": "2026-09-20T00:04:50Z",
@@ -58,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/slimchungusgaming",
       "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": true,
-      "title": "TG Saturday Shuffle - Don't Bring Back a Makout Partner",
-      "game_name": "Aliens: Fireteam Elite 2",
-      "viewer_count": 3,
-      "follower_count": 25,
-      "language": "en",
-      "started_at": "2026-09-19T23:19:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "alfieduu",
@@ -583,6 +568,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 25,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
