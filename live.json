@@ -1,34 +1,19 @@
 {
-  "generatedAt": "2026-09-20T22:07:57.314Z",
+  "generatedAt": "2026-09-20T22:12:57.302Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T22:07:57.314Z",
+    "fetchedAt": "2026-09-20T22:12:57.302Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 0,
+    "offlineCount": 44
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "LIVE FROM RLCS✅24/7 DROP STREAM✅DAY 966 !discord",
-      "game_name": "Rocket League",
-      "viewer_count": 243,
-      "follower_count": 115969,
-      "language": "en",
-      "started_at": "2026-09-20T19:50:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
@@ -178,6 +163,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 115970,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
