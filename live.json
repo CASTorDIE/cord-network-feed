@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T13:07:57.554Z",
+  "generatedAt": "2026-09-20T13:12:57.533Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T13:07:57.554Z",
+    "fetchedAt": "2026-09-20T13:12:57.533Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Princess Plaza!!! |!donate !modpack !library !discord !tip !linktree !merch !storefront |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 70,
-      "follower_count": 2771,
+      "viewer_count": 72,
+      "follower_count": 2772,
       "language": "en",
       "started_at": "2026-09-20T11:59:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Let's decorate this Plot! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 4,
+      "viewer_count": 15,
       "follower_count": 5138,
       "language": "en",
       "started_at": "2026-09-20T13:05:42Z",
