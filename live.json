@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T17:42:57.933Z",
+  "generatedAt": "2026-09-20T17:47:57.943Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T17:42:57.933Z",
+    "fetchedAt": "2026-09-20T17:47:57.943Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "It's been a while | !hype !newvlog !gamevideo",
       "game_name": "RollerCoaster Tycoon Classic",
-      "viewer_count": 22,
-      "follower_count": 5137,
+      "viewer_count": 23,
+      "follower_count": 5136,
       "language": "en",
       "started_at": "2026-09-20T13:05:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
