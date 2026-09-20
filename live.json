@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T21:32:58.238Z",
+  "generatedAt": "2026-09-20T21:37:58.293Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T21:32:58.238Z",
+    "fetchedAt": "2026-09-20T21:37:58.293Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "LIVE FROM RLCS✅24/7 DROP STREAM✅DAY 966 !discord",
       "game_name": "Rocket League",
-      "viewer_count": 256,
-      "follower_count": 115963,
+      "viewer_count": 266,
+      "follower_count": 115964,
       "language": "en",
       "started_at": "2026-09-20T19:50:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Trigger Warnings x1000 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 79,
+      "viewer_count": 70,
       "follower_count": 8775,
       "language": "en",
       "started_at": "2026-09-20T19:54:49Z",
