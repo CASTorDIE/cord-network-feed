@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T17:27:57.928Z",
+  "generatedAt": "2026-09-20T17:32:57.888Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T17:27:57.928Z",
+    "fetchedAt": "2026-09-20T17:32:57.888Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "It's been a while | !hype !newvlog !gamevideo",
       "game_name": "RollerCoaster Tycoon Classic",
-      "viewer_count": 19,
+      "viewer_count": 21,
       "follower_count": 5137,
       "language": "en",
       "started_at": "2026-09-20T13:05:42Z",
@@ -396,7 +396,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2780,
+      "follower_count": 2781,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
