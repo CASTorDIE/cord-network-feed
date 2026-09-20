@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T16:52:57.822Z",
+  "generatedAt": "2026-09-20T16:57:57.855Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-20T16:52:57.822Z",
+    "fetchedAt": "2026-09-20T16:57:57.855Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Big Loftia News~~ | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 28,
+      "viewer_count": 26,
       "follower_count": 5138,
       "language": "en",
       "started_at": "2026-09-20T13:05:42Z",
