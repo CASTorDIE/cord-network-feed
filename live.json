@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-21T20:27:57.556Z",
+  "generatedAt": "2026-09-21T20:32:57.516Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-21T20:27:57.556Z",
+    "fetchedAt": "2026-09-21T20:32:57.516Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Grind to Grandmaster 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 55,
-      "follower_count": 8776,
+      "viewer_count": 61,
+      "follower_count": 8775,
       "language": "en",
       "started_at": "2026-09-21T20:12:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
