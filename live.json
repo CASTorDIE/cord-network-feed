@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-21T20:42:57.489Z",
+  "generatedAt": "2026-09-21T20:47:57.529Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-21T20:42:57.489Z",
+    "fetchedAt": "2026-09-21T20:47:57.529Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Grind to Grandmaster 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 69,
+      "viewer_count": 72,
       "follower_count": 8776,
       "language": "en",
       "started_at": "2026-09-21T20:12:55Z",
