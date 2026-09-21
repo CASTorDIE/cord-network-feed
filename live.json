@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-21T02:47:57.747Z",
+  "generatedAt": "2026-09-21T02:52:57.836Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-21T02:47:57.747Z",
+    "fetchedAt": "2026-09-21T02:52:57.836Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 63,
-      "follower_count": 2492,
+      "viewer_count": 61,
+      "follower_count": 2493,
       "language": "en",
       "started_at": "2026-09-20T22:41:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "...    (ง •̀_•́)ง🔪Special Guest /w Picklegeek84",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 347,
       "language": "en",
       "started_at": "2026-09-21T01:30:40Z",
