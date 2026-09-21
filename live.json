@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-21T05:02:58.033Z",
+  "generatedAt": "2026-09-21T05:07:58.058Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-21T05:02:58.033Z",
+    "fetchedAt": "2026-09-21T05:07:58.058Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "...    (ง •̀_•́)ง🔪Special Guest /w Picklegeek84",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 348,
       "language": "en",
       "started_at": "2026-09-21T01:30:40Z",
