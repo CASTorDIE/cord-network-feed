@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-21T00:57:57.602Z",
+  "generatedAt": "2026-09-21T01:02:57.574Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-21T00:57:57.602Z",
+    "fetchedAt": "2026-09-21T01:02:57.574Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Games + Demos",
-      "viewer_count": 62,
+      "viewer_count": 61,
       "follower_count": 2492,
       "language": "en",
       "started_at": "2026-09-20T22:41:32Z",
