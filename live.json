@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T21:02:57.794Z",
+  "generatedAt": "2026-09-22T21:07:57.697Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-22T21:02:57.794Z",
+    "fetchedAt": "2026-09-22T21:07:57.697Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Arc Raiding until I crash Out 💀",
       "game_name": "Just Chatting",
-      "viewer_count": 93,
+      "viewer_count": 109,
       "follower_count": 14579,
       "language": "en",
       "started_at": "2026-09-22T20:41:26Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "my shirt matches the vibe🎀",
       "game_name": "Just Chatting",
-      "viewer_count": 40,
+      "viewer_count": 48,
       "follower_count": 10672,
       "language": "en",
       "started_at": "2026-09-22T20:45:26Z",
