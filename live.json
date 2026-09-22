@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T11:42:57.857Z",
+  "generatedAt": "2026-09-22T11:47:57.830Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-22T11:42:57.857Z",
+    "fetchedAt": "2026-09-22T11:47:57.830Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "DROPS ON II Remind me to never Gamble II !Discord",
       "game_name": "Fortnite",
-      "viewer_count": 17,
+      "viewer_count": 20,
       "follower_count": 313,
       "language": "en",
       "started_at": "2026-09-22T09:34:02Z",
