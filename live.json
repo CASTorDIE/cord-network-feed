@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T22:37:58.423Z",
+  "generatedAt": "2026-09-22T22:42:58.497Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-22T22:37:58.423Z",
+    "fetchedAt": "2026-09-22T22:42:58.497Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Arc Raiding until I crash Out 💀",
       "game_name": "ARC Raiders",
-      "viewer_count": 148,
+      "viewer_count": 146,
       "follower_count": 14580,
       "language": "en",
       "started_at": "2026-09-22T20:41:26Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "my shirt matches the vibe🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 50,
+      "viewer_count": 45,
       "follower_count": 10677,
       "language": "en",
       "started_at": "2026-09-22T20:45:26Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "First playthrough! We're in it for the story",
       "game_name": "People of Note",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 461,
       "language": "en",
       "started_at": "2026-09-22T21:45:47Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Hey... I'm alive?",
       "game_name": "Games + Demos",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 1049,
       "language": "en",
       "started_at": "2026-09-22T22:25:43Z",
@@ -642,7 +642,7 @@
       "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "          ⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~"
+      "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
     },
     {
       "user_login": "zaldar87",
