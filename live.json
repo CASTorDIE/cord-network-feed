@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T00:47:57.964Z",
+  "generatedAt": "2026-09-22T00:52:57.882Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-22T00:47:57.964Z",
+    "fetchedAt": "2026-09-22T00:52:57.882Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Dom w the Pookies! 💃🏻 !discord !ubi !rogue !smackin !logi !tip",
       "game_name": "For Honor",
-      "viewer_count": 130,
+      "viewer_count": 124,
       "follower_count": 8790,
       "language": "en",
       "started_at": "2026-09-21T20:12:55Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 94,
+      "viewer_count": 83,
       "follower_count": 2494,
       "language": "en",
       "started_at": "2026-09-21T22:53:49Z",
