@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T10:17:57.699Z",
+  "generatedAt": "2026-09-22T10:22:57.658Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-22T10:17:57.699Z",
+    "fetchedAt": "2026-09-22T10:22:57.658Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "DROPS ON II Remind me to never Gamble II !Discord",
       "game_name": "Fortnite",
-      "viewer_count": 8,
+      "viewer_count": 6,
       "follower_count": 305,
       "language": "en",
       "started_at": "2026-09-22T09:34:02Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "...  [Short Stream]  Vibin' before work.    ☯️ (๑•̀ㅂ•́)و✧ 📚",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 348,
       "language": "en",
       "started_at": "2026-09-22T09:55:59Z",
