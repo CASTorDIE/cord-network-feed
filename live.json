@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T03:17:58.061Z",
+  "generatedAt": "2026-09-22T03:22:58.059Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-22T03:17:58.061Z",
+    "fetchedAt": "2026-09-22T03:22:58.059Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "World of Warcraft.. FOREVER | GREAT GOOGLY MOOGLY",
       "game_name": "World of Warcraft",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 173,
       "language": "en",
       "started_at": "2026-09-22T02:39:24Z",
