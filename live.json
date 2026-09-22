@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T02:12:57.975Z",
+  "generatedAt": "2026-09-22T02:17:58.018Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-22T02:12:57.975Z",
+    "fetchedAt": "2026-09-22T02:17:58.018Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| I haven't played Runescape since 2001 - Whats this? w/ @1soldier1pro1 | !discord !telegram !vrc !micro !pizza | Dungeon Key Drop Later",
       "game_name": "RuneScape: Dragonwilds",
-      "viewer_count": 25,
+      "viewer_count": 41,
       "follower_count": 10105,
       "language": "en",
       "started_at": "2026-09-22T02:03:50Z",
