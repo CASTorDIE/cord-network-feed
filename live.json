@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T11:37:57.768Z",
+  "generatedAt": "2026-09-22T11:42:57.857Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-22T11:37:57.768Z",
+    "fetchedAt": "2026-09-22T11:42:57.857Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "DROPS ON II Remind me to never Gamble II !Discord",
       "game_name": "Fortnite",
-      "viewer_count": 16,
-      "follower_count": 312,
+      "viewer_count": 17,
+      "follower_count": 313,
       "language": "en",
       "started_at": "2026-09-22T09:34:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
@@ -111,7 +111,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2494,
+      "follower_count": 2495,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
