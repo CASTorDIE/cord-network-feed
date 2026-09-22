@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T12:22:57.861Z",
+  "generatedAt": "2026-09-22T12:27:57.880Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-22T12:22:57.861Z",
+    "fetchedAt": "2026-09-22T12:27:57.880Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "DROPS ON II Remind me to never Gamble II !Discord",
       "game_name": "Fortnite",
-      "viewer_count": 15,
-      "follower_count": 316,
+      "viewer_count": 17,
+      "follower_count": 317,
       "language": "en",
       "started_at": "2026-09-22T09:34:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👁️your song requests - piano / ukulele [novice] 🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 432,
       "language": "en",
       "started_at": "2026-09-22T11:57:50Z",
