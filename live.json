@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T02:32:57.964Z",
+  "generatedAt": "2026-09-22T02:37:57.999Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-22T02:32:57.964Z",
+    "fetchedAt": "2026-09-22T02:37:57.999Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 63,
+      "viewer_count": 64,
       "follower_count": 2494,
       "language": "en",
       "started_at": "2026-09-21T22:53:49Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| I haven't played Runescape since 2001 - Whats this? w/ @1soldier1pro1 | !discord !telegram !vrc !micro !pizza | Dungeon Key Drop Later",
       "game_name": "RuneScape: Dragonwilds",
-      "viewer_count": 33,
+      "viewer_count": 41,
       "follower_count": 10105,
       "language": "en",
       "started_at": "2026-09-22T02:26:32Z",
