@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-22T02:37:57.999Z",
+  "generatedAt": "2026-09-22T02:42:58.070Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-22T02:37:57.999Z",
+    "fetchedAt": "2026-09-22T02:42:58.070Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GRAB YOU SNACKS AND GET IN HERE 💎 !YOUTUBE !DISCORD !MERCH 💎",
       "game_name": "Just Chatting",
-      "viewer_count": 64,
+      "viewer_count": 55,
       "follower_count": 2494,
       "language": "en",
       "started_at": "2026-09-21T22:53:49Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| I haven't played Runescape since 2001 - Whats this? w/ @1soldier1pro1 | !discord !telegram !vrc !micro !pizza | Dungeon Key Drop Later",
       "game_name": "RuneScape: Dragonwilds",
-      "viewer_count": 41,
+      "viewer_count": 51,
       "follower_count": 10105,
       "language": "en",
       "started_at": "2026-09-22T02:26:32Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
+    },
+    {
+      "user_login": "alfieduu",
+      "user_name": "alfieduu",
+      "is_live": true,
+      "title": "World of Warcraft.. FOREVER | GREAT GOOGLY MOOGLY",
+      "game_name": "World of Warcraft",
+      "viewer_count": 5,
+      "follower_count": 172,
+      "language": "en",
+      "started_at": "2026-09-22T02:39:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/alfieduu",
+      "description": "yo put your feet up homie"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -58,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
-      "user_login": "alfieduu",
-      "user_name": "alfieduu",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 172,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/alfieduu",
-      "description": "yo put your feet up homie"
     },
     {
       "user_login": "allyreggie",
@@ -546,7 +546,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14582,
+      "follower_count": 14581,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
