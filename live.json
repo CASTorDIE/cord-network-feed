@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T21:52:57.729Z",
+  "generatedAt": "2026-09-22T21:57:57.773Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-22T21:52:57.729Z",
+    "fetchedAt": "2026-09-22T21:57:57.773Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Arc Raiding until I crash Out 💀",
       "game_name": "ARC Raiders",
-      "viewer_count": 147,
-      "follower_count": 14579,
+      "viewer_count": 161,
+      "follower_count": 14580,
       "language": "en",
       "started_at": "2026-09-22T20:41:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "my shirt matches the vibe🎀",
       "game_name": "Just Chatting",
-      "viewer_count": 65,
+      "viewer_count": 69,
       "follower_count": 10675,
       "language": "en",
       "started_at": "2026-09-22T20:45:26Z",
