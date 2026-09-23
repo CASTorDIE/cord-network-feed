@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-23T14:02:59.360Z",
+  "generatedAt": "2026-09-23T14:07:59.006Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-23T14:02:59.360Z",
+    "fetchedAt": "2026-09-23T14:07:59.006Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "48-HOUR EARLY ACCESS: Why Is This TV Warning Us?! 👀 | Silent Hill: Townfall",
       "game_name": "SILENT HILL: townfall",
-      "viewer_count": 33,
-      "follower_count": 981,
+      "viewer_count": 34,
+      "follower_count": 979,
       "language": "en",
       "started_at": "2026-09-23T12:44:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
