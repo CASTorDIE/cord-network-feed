@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-23T03:47:58.055Z",
+  "generatedAt": "2026-09-23T03:52:58.035Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-23T03:47:58.055Z",
+    "fetchedAt": "2026-09-23T03:52:58.035Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Noob Celeste Golden's",
       "game_name": "Celeste",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 307,
       "language": "en",
       "started_at": "2026-09-23T00:54:47Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "World of Warcraft Forever | SAVING WESTFALL | GREAT GOOGLY MOOGLY",
       "game_name": "World of Warcraft",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 173,
       "language": "en",
       "started_at": "2026-09-23T01:21:21Z",
