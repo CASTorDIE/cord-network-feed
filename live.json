@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-23T01:12:58.801Z",
+  "generatedAt": "2026-09-23T01:17:58.678Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-23T01:12:58.801Z",
+    "fetchedAt": "2026-09-23T01:17:58.678Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 8,
-    "offlineCount": 36
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 967👀!discord👀BACK FROM RLCS👀INSANE DRAMA CRAZY STORIES👀YOU WON'T BELIEVE WHAT HAPPENED👀I SPENT 4 NIGHTS IN A PRIS",
       "game_name": "Rocket League",
-      "viewer_count": 528,
-      "follower_count": 116055,
+      "viewer_count": 582,
+      "follower_count": 116062,
       "language": "en",
       "started_at": "2026-09-23T00:16:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Arc Raiding until I crash Out 💀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 122,
+      "viewer_count": 128,
       "follower_count": 14583,
       "language": "en",
       "started_at": "2026-09-22T20:41:26Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "my shirt matches the vibe🎀",
       "game_name": "WARDOGS",
-      "viewer_count": 75,
+      "viewer_count": 69,
       "follower_count": 10676,
       "language": "en",
       "started_at": "2026-09-22T20:45:26Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Noob Celeste Golden's",
       "game_name": "Celeste",
-      "viewer_count": 11,
+      "viewer_count": 10,
       "follower_count": 307,
       "language": "en",
       "started_at": "2026-09-23T00:54:47Z",
@@ -90,27 +90,12 @@
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
     },
     {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": true,
-      "title": "Hey... I'm alive?",
-      "game_name": "Games + Demos",
-      "viewer_count": 5,
-      "follower_count": 1048,
-      "language": "en",
-      "started_at": "2026-09-22T22:25:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
       "user_login": "bribeecool10",
       "user_name": "bribeecool10",
       "is_live": true,
       "title": "I cast clickbait stream title (key given)",
       "game_name": "Demeo x Dungeons & Dragons: Battlemarked",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 396,
       "language": "en",
       "started_at": "2026-09-22T23:25:15Z",
@@ -283,6 +268,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10fbac99-b892-40b3-88cb-3ba197ba88f8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/darkdemocracytv",
       "description": "Healthcare by day, streaming by night! I'm Adam a dad, who love all things games, anime, and entertainment, and I'm so glad you're here with us! "
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1049,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "dingo_dynasty",
@@ -486,7 +486,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 432,
+      "follower_count": 433,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
