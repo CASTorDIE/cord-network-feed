@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-23T13:42:58.866Z",
+  "generatedAt": "2026-09-23T13:47:58.928Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-23T13:42:58.866Z",
+    "fetchedAt": "2026-09-23T13:47:58.928Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "48-HOUR EARLY ACCESS: Why Is This TV Warning Us?! 👀 | Silent Hill: Townfall",
       "game_name": "SILENT HILL: townfall",
-      "viewer_count": 36,
+      "viewer_count": 35,
       "follower_count": 980,
       "language": "en",
       "started_at": "2026-09-23T12:44:21Z",
