@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-23T19:07:58.636Z",
+  "generatedAt": "2026-09-23T19:12:58.823Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-23T19:07:58.636Z",
+    "fetchedAt": "2026-09-23T19:12:58.823Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "I WILL HIT 200K TODAY | WARDOGS🎀 !throne !tip !move",
       "game_name": "WARDOGS",
-      "viewer_count": 51,
-      "follower_count": 10685,
+      "viewer_count": 56,
+      "follower_count": 10684,
       "language": "en",
       "started_at": "2026-09-23T17:53:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
