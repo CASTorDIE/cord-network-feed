@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-23T15:47:58.382Z",
+  "generatedAt": "2026-09-23T15:52:58.453Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-23T15:47:58.382Z",
+    "fetchedAt": "2026-09-23T15:52:58.453Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Logitech G Play 2026 Watch Party! New Nerd Tech 👀 !LogitechGPLAY",
       "game_name": "Special Events",
-      "viewer_count": 0,
+      "viewer_count": 22,
       "follower_count": 8792,
       "language": "en",
       "started_at": "2026-09-23T15:47:26Z",
@@ -546,7 +546,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14588,
+      "follower_count": 14589,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
