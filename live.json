@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-23T02:17:58.904Z",
+  "generatedAt": "2026-09-23T02:22:58.991Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-23T02:17:58.904Z",
+    "fetchedAt": "2026-09-23T02:22:58.991Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 967👀!discord👀BACK FROM RLCS👀INSANE DRAMA CRAZY STORIES👀YOU WON'T BELIEVE WHAT HAPPENED👀I SPENT 4 NIGHTS IN A PRIS",
       "game_name": "Rocket League",
-      "viewer_count": 570,
-      "follower_count": 116127,
+      "viewer_count": 599,
+      "follower_count": 116132,
       "language": "en",
       "started_at": "2026-09-23T00:16:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Arc Raiding until I crash Out 💀",
       "game_name": "Marvel Rivals",
-      "viewer_count": 97,
+      "viewer_count": 101,
       "follower_count": 14584,
       "language": "en",
       "started_at": "2026-09-22T20:41:26Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Noob Celeste Golden's",
       "game_name": "Celeste",
-      "viewer_count": 14,
+      "viewer_count": 16,
       "follower_count": 307,
       "language": "en",
       "started_at": "2026-09-23T00:54:47Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "World of Warcraft Forever | SAVING WESTFALL | GREAT GOOGLY MOOGLY",
       "game_name": "Just Chatting",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 173,
       "language": "en",
       "started_at": "2026-09-23T01:21:21Z",
@@ -73,36 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/alfieduu",
       "description": "yo put your feet up homie"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "I cast clickbait stream title (key given)",
-      "game_name": "Demeo x Dungeons & Dragons: Battlemarked",
-      "viewer_count": 1,
-      "follower_count": 396,
-      "language": "en",
-      "started_at": "2026-09-22T23:25:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": true,
-      "title": "TG Tuesday - Mass Murder for the Environment!",
-      "game_name": "Monster Hunter Rise",
-      "viewer_count": 1,
-      "follower_count": 25,
-      "language": "en",
-      "started_at": "2026-09-22T23:05:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "allyreggie",
@@ -208,6 +178,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 396,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
@@ -583,6 +568,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 25,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
