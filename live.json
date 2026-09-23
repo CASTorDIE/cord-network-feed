@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-23T05:22:59.520Z",
+  "generatedAt": "2026-09-23T05:27:58.105Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-23T05:22:59.520Z",
+    "fetchedAt": "2026-09-23T05:27:58.105Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "That Time I Had A Gas Station Job | [HERROR] Gas Station Case | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 16,
-      "follower_count": 902,
+      "viewer_count": 18,
+      "follower_count": 903,
       "language": "en",
       "started_at": "2026-09-23T04:09:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 116179,
+      "follower_count": 116180,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
