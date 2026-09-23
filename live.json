@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-23T04:47:58.006Z",
+  "generatedAt": "2026-09-23T04:52:58.086Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-23T04:47:58.006Z",
+    "fetchedAt": "2026-09-23T04:52:58.086Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "That Time I Had A Gas Station Job | [HERROR] Gas Station Case | Therapy & Chaos",
       "game_name": "Games + Demos",
-      "viewer_count": 14,
+      "viewer_count": 15,
       "follower_count": 902,
       "language": "en",
       "started_at": "2026-09-23T04:09:17Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 116180,
+      "follower_count": 116179,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
