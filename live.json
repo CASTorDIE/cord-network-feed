@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-23T18:57:58.549Z",
+  "generatedAt": "2026-09-23T19:02:58.628Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-23T18:57:58.549Z",
+    "fetchedAt": "2026-09-23T19:02:58.628Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I WILL HIT 200K TODAY | WARDOGS🎀 !throne !tip !move",
       "game_name": "WARDOGS",
-      "viewer_count": 43,
+      "viewer_count": 50,
       "follower_count": 10685,
       "language": "en",
       "started_at": "2026-09-23T17:53:32Z",
