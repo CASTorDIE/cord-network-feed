@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T23:12:58.063Z",
+  "generatedAt": "2026-09-24T23:17:58.090Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-24T23:12:58.063Z",
+    "fetchedAt": "2026-09-24T23:17:58.090Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "Arc Raiding until I crash Out 💀",
-      "game_name": "Just Chatting",
-      "viewer_count": 168,
+      "game_name": "ARC Raiders",
+      "viewer_count": 181,
       "follower_count": 14594,
       "language": "en",
       "started_at": "2026-09-24T22:26:36Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "First day as a witch, feeling evil :3 || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 28,
+      "viewer_count": 37,
       "follower_count": 6376,
       "language": "en",
       "started_at": "2026-09-24T22:30:35Z",
