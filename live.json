@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T00:47:57.621Z",
+  "generatedAt": "2026-09-24T00:52:57.655Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-24T00:47:57.621Z",
+    "fetchedAt": "2026-09-24T00:52:57.655Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Song Requests Here >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 41,
+      "viewer_count": 39,
       "follower_count": 6366,
       "language": "en",
       "started_at": "2026-09-23T23:31:01Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 116192,
+      "follower_count": 116193,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
