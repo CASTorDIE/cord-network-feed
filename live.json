@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T05:02:58.654Z",
+  "generatedAt": "2026-09-24T05:07:58.486Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-24T05:02:58.654Z",
+    "fetchedAt": "2026-09-24T05:07:58.486Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,9 +18,9 @@
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
-      "title": "🦊🦇| MARBLES & KARAOKE & MICROSCAPE -  | !discord !telegram !vrc !micro !pizza | Dungeon Key Drop Later",
-      "game_name": "Marbles on Stream",
-      "viewer_count": 102,
+      "title": "🦊🦇| DUNE AWAKENING | !discord !telegram !vrc !micro !pizza | Dungeon Key Drop Later",
+      "game_name": "Dune: Awakening",
+      "viewer_count": 99,
       "follower_count": 10112,
       "language": "en",
       "started_at": "2026-09-24T04:01:04Z",
