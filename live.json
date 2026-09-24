@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T00:37:57.537Z",
+  "generatedAt": "2026-09-24T00:42:57.534Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-24T00:37:57.537Z",
+    "fetchedAt": "2026-09-24T00:42:57.534Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I WILL HIT 200K TODAY | WARDOGS🎀 !throne !tip !move",
       "game_name": "WARDOGS",
-      "viewer_count": 82,
+      "viewer_count": 69,
       "follower_count": 10686,
       "language": "en",
       "started_at": "2026-09-23T17:53:32Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Song Requests Here >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 45,
+      "viewer_count": 51,
       "follower_count": 6366,
       "language": "en",
       "started_at": "2026-09-23T23:31:01Z",
