@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T23:27:58.099Z",
+  "generatedAt": "2026-09-24T23:32:58.100Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-24T23:27:58.099Z",
+    "fetchedAt": "2026-09-24T23:32:58.100Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Arc Raiding until I crash Out 💀",
       "game_name": "ARC Raiders",
-      "viewer_count": 207,
+      "viewer_count": 206,
       "follower_count": 14596,
       "language": "en",
       "started_at": "2026-09-24T22:26:36Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "First day as a witch, feeling evil :3 || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 34,
+      "viewer_count": 29,
       "follower_count": 6376,
       "language": "en",
       "started_at": "2026-09-24T22:30:35Z",
