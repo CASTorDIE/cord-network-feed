@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T22:32:58.077Z",
+  "generatedAt": "2026-09-24T22:37:58.095Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-24T22:32:58.077Z",
+    "fetchedAt": "2026-09-24T22:37:58.095Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Arc Raiding until I crash Out 💀",
       "game_name": "Just Chatting",
-      "viewer_count": 69,
+      "viewer_count": 120,
       "follower_count": 14592,
       "language": "en",
       "started_at": "2026-09-24T22:26:36Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "First day as a witch, feeling evil :3 || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 17,
+      "viewer_count": 24,
       "follower_count": 6376,
       "language": "en",
       "started_at": "2026-09-24T22:30:35Z",
