@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T05:42:58.499Z",
+  "generatedAt": "2026-09-24T05:47:58.541Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-24T05:42:58.499Z",
+    "fetchedAt": "2026-09-24T05:47:58.541Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| DUNE AWAKENING | !discord !telegram !vrc !micro !pizza | Dungeon Key Drop Later #sponsored",
       "game_name": "Dune: Awakening",
-      "viewer_count": 87,
+      "viewer_count": 86,
       "follower_count": 10114,
       "language": "en",
       "started_at": "2026-09-24T04:01:04Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 116197,
+      "follower_count": 116196,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
