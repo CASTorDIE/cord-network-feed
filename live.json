@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T20:12:58.349Z",
+  "generatedAt": "2026-09-25T20:17:58.349Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T20:12:58.349Z",
+    "fetchedAt": "2026-09-25T20:17:58.349Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,9 +18,9 @@
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
-      "title": "I WILL HIT 300K TODAY | WARDOGS🎀 !throne !tip !move",
+      "title": "I WILL HIT 300K TODAY | @WINNIEDAPOOHHH WARDOGS🎀 !throne !tip !move",
       "game_name": "WARDOGS",
-      "viewer_count": 36,
+      "viewer_count": 48,
       "follower_count": 10691,
       "language": "en",
       "started_at": "2026-09-25T17:18:14Z",
