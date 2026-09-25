@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T21:12:58.443Z",
+  "generatedAt": "2026-09-25T21:17:58.439Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T21:12:58.443Z",
+    "fetchedAt": "2026-09-25T21:17:58.439Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I WILL HIT 300K TODAY | @WINNIEDAPOOHHH WARDOGS🎀 !throne !tip !move",
       "game_name": "WARDOGS",
-      "viewer_count": 53,
+      "viewer_count": 47,
       "follower_count": 10694,
       "language": "en",
       "started_at": "2026-09-25T17:18:14Z",
