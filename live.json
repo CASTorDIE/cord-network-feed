@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T12:42:58.372Z",
+  "generatedAt": "2026-09-25T12:47:58.431Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T12:42:58.372Z",
+    "fetchedAt": "2026-09-25T12:47:58.431Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We Barely Survived ONE Monster… Now We Have to Reach the Clinic 😭 | Silent Hill: Townfall",
       "game_name": "SILENT HILL: townfall",
-      "viewer_count": 1,
+      "viewer_count": 15,
       "follower_count": 980,
       "language": "en",
       "started_at": "2026-09-25T12:40:26Z",
