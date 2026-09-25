@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T18:27:58.193Z",
+  "generatedAt": "2026-09-25T18:32:58.279Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T18:27:58.193Z",
+    "fetchedAt": "2026-09-25T18:32:58.279Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "I WILL HIT 300K TODAY | WARDOGS🎀 !throne !tip !move",
       "game_name": "Just Chatting",
-      "viewer_count": 48,
-      "follower_count": 10689,
+      "viewer_count": 52,
+      "follower_count": 10690,
       "language": "en",
       "started_at": "2026-09-25T17:18:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
