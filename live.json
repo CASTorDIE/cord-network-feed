@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-25T06:57:59.717Z",
+  "generatedAt": "2026-09-25T07:02:58.953Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T06:57:59.717Z",
+    "fetchedAt": "2026-09-25T07:02:58.953Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Samuel Stream TakeOver!!! | Collab w/ @beekindbeecause | Fears to Fathom: Scratch Creek",
       "game_name": "Games + Demos",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 902,
       "language": "en",
       "started_at": "2026-09-25T04:07:36Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
+    },
+    {
+      "user_login": "joreeezy",
+      "user_name": "JOREEEZY",
+      "is_live": true,
+      "title": "DREAM PSYOPS",
+      "game_name": "Just Chatting",
+      "viewer_count": 1,
+      "follower_count": 59,
+      "language": "en",
+      "started_at": "2026-09-25T06:57:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_joreeezy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/joreeezy",
+      "description": "🔔 Next livestream: To be announced on X/Threads 📲"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -388,21 +403,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1cf556-9d84-4acf-a233-65f10ac1d1fa-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
       "description": "🍓 Welcome to JaxsBerryPatch! ✨ Cozy games, creative builds & chaotic fun! I’m Jax, streaming Disney Dreamlight Valley & Minecraft. Come get comfy, hang out, and let’s create a little magic together! 🌸💕 Come hang out, 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
-    },
-    {
-      "user_login": "joreeezy",
-      "user_name": "JOREEEZY",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 59,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/joreeezy",
-      "description": "🔔 Next livestream: To be announced on X/Threads 📲"
     },
     {
       "user_login": "kindessurchin",
