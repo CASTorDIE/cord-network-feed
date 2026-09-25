@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T09:42:58.086Z",
+  "generatedAt": "2026-09-25T09:47:58.154Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T09:42:58.086Z",
+    "fetchedAt": "2026-09-25T09:47:58.154Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "DROPS ON II What Sprites are we getting today?? II !Discord !Socials !wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "follower_count": 320,
       "language": "en",
       "started_at": "2026-09-25T09:02:28Z",
