@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T18:12:58.281Z",
+  "generatedAt": "2026-09-25T18:17:58.121Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T18:12:58.281Z",
+    "fetchedAt": "2026-09-25T18:17:58.121Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I WILL HIT 300K TODAY | WARDOGS🎀 !throne !tip !move",
       "game_name": "Just Chatting",
-      "viewer_count": 62,
+      "viewer_count": 61,
       "follower_count": 10689,
       "language": "en",
       "started_at": "2026-09-25T17:18:14Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I Tried 3 Backrooms Games & Regretted Everything… | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 5129,
       "language": "en",
       "started_at": "2026-09-25T13:24:44Z",
