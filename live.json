@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T08:42:58.062Z",
+  "generatedAt": "2026-09-25T08:47:58.149Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T08:42:58.062Z",
+    "fetchedAt": "2026-09-25T08:47:58.149Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "R U Ok? Charity Stream Day 2. Looking at Tyr",
       "game_name": "Tyr",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 419,
       "language": "en",
       "started_at": "2026-09-25T08:21:22Z",
