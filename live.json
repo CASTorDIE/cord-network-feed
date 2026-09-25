@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T23:37:58.686Z",
+  "generatedAt": "2026-09-25T23:42:58.827Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T23:37:58.686Z",
+    "fetchedAt": "2026-09-25T23:42:58.827Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I WILL HIT 300K TODAY | @WINNIEDAPOOHHH WARDOGS🎀 !throne !tip !move",
       "game_name": "WARDOGS",
-      "viewer_count": 45,
+      "viewer_count": 44,
       "follower_count": 10695,
       "language": "en",
       "started_at": "2026-09-25T17:18:14Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ALAN WAKE 2 UNTIL WE ARE NO LONGER AWAKE | First Playthrough!| !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 13,
+      "viewer_count": 15,
       "follower_count": 650,
       "language": "en",
       "started_at": "2026-09-25T21:30:03Z",
