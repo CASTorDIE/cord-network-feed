@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T03:02:58.461Z",
+  "generatedAt": "2026-09-25T03:07:58.582Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T03:02:58.461Z",
+    "fetchedAt": "2026-09-25T03:07:58.582Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 968🐿️!discord🐿️LOOKING FOR DEVS WE NEED THAT BOOST🐿️TIME TO TRACK DOWN AND BEAT A DEV SO WE CAN GET OUR OWN DEV BOO",
       "game_name": "Rocket League",
-      "viewer_count": 676,
-      "follower_count": 116381,
+      "viewer_count": 687,
+      "follower_count": 116388,
       "language": "en",
       "started_at": "2026-09-25T00:10:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "World of Warcraft Forever | BIG LOOT?? | GREAT GOOGLY MOOGLY",
       "game_name": "Just Chatting",
-      "viewer_count": 6,
+      "viewer_count": 4,
       "follower_count": 173,
       "language": "en",
       "started_at": "2026-09-25T01:28:50Z",
