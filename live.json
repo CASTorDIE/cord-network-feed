@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T23:57:58.227Z",
+  "generatedAt": "2026-09-25T00:02:58.155Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-24T23:57:58.227Z",
+    "fetchedAt": "2026-09-25T00:02:58.155Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "First day as a witch, feeling evil :3 || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 32,
+      "viewer_count": 33,
       "follower_count": 6377,
       "language": "en",
       "started_at": "2026-09-24T22:30:35Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 116211,
+      "follower_count": 116212,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
