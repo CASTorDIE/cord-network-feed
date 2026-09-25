@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T11:12:58.169Z",
+  "generatedAt": "2026-09-25T11:17:58.304Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T11:12:58.169Z",
+    "fetchedAt": "2026-09-25T11:17:58.304Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "DROPS ON II What Sprites are we getting today?? II !Discord !Socials !wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 322,
       "language": "en",
       "started_at": "2026-09-25T09:02:28Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "...  [Short Stream]  Vibin' before work. [TGIF]    ☯️ (๑•̀ㅂ•́)و✧ 📚",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 349,
       "language": "en",
       "started_at": "2026-09-25T10:42:48Z",
