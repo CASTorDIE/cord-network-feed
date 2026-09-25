@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T17:03:02.075Z",
+  "generatedAt": "2026-09-25T17:07:59.092Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T17:03:02.075Z",
+    "fetchedAt": "2026-09-25T17:07:59.092Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I Tried 3 Backrooms Games & Regretted Everything… | !hype !newvlog !gamevideo",
       "game_name": "Games + Demos",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 5129,
       "language": "en",
       "started_at": "2026-09-25T13:24:44Z",
