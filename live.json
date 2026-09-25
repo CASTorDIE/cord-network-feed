@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T07:43:54.460Z",
+  "generatedAt": "2026-09-25T07:47:57.927Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T07:43:54.460Z",
+    "fetchedAt": "2026-09-25T07:47:57.927Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "DREAM PSYOPS",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "follower_count": 59,
       "language": "en",
       "started_at": "2026-09-25T06:57:52Z",
@@ -621,7 +621,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8798,
+      "follower_count": 8797,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
