@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T09:52:58.188Z",
+  "generatedAt": "2026-09-25T09:57:58.161Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T09:52:58.188Z",
+    "fetchedAt": "2026-09-25T09:57:58.161Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "DROPS ON II What Sprites are we getting today?? II !Discord !Socials !wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 8,
-      "follower_count": 320,
+      "viewer_count": 9,
+      "follower_count": 321,
       "language": "en",
       "started_at": "2026-09-25T09:02:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "R U Ok? Charity Stream Day 2. Looking at Aniimo",
       "game_name": "Aniimo",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 419,
       "language": "en",
       "started_at": "2026-09-25T08:21:22Z",
