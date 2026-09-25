@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-25T01:27:58.352Z",
+  "generatedAt": "2026-09-25T01:32:58.326Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T01:27:58.352Z",
+    "fetchedAt": "2026-09-25T01:32:58.326Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 968🐿️!discord🐿️LOOKING FOR DEVS WE NEED THAT BOOST🐿️TIME TO TRACK DOWN AND BEAT A DEV SO WE CAN GET OUR OWN DEV BOO",
       "game_name": "Rocket League",
-      "viewer_count": 596,
-      "follower_count": 116258,
+      "viewer_count": 569,
+      "follower_count": 116259,
       "language": "en",
       "started_at": "2026-09-25T00:10:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Arc Raiding until I crash Out 💀",
       "game_name": "ARC Raiders",
-      "viewer_count": 150,
-      "follower_count": 14600,
+      "viewer_count": 148,
+      "follower_count": 14601,
       "language": "en",
       "started_at": "2026-09-24T22:26:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "First day as a witch, feeling evil :3 || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 42,
+      "viewer_count": 51,
       "follower_count": 6376,
       "language": "en",
       "started_at": "2026-09-24T22:30:35Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Blind Lies of P DLC",
       "game_name": "Lies of P",
-      "viewer_count": 10,
+      "viewer_count": 12,
       "follower_count": 307,
       "language": "en",
       "started_at": "2026-09-25T00:55:55Z",
@@ -90,6 +90,21 @@
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
+      "user_login": "alfieduu",
+      "user_name": "alfieduu",
+      "is_live": true,
+      "title": "World of Warcraft Forever | BIG LOOT?? | GREAT GOOGLY MOOGLY",
+      "game_name": "Just Chatting",
+      "viewer_count": 1,
+      "follower_count": 173,
+      "language": "en",
+      "started_at": "2026-09-25T01:28:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/alfieduu",
+      "description": "yo put your feet up homie"
+    },
+    {
       "user_login": "bribeecool10",
       "user_name": "bribeecool10",
       "is_live": true,
@@ -103,21 +118,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "alfieduu",
-      "user_name": "alfieduu",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 173,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/alfieduu",
-      "description": "yo put your feet up homie"
     },
     {
       "user_login": "allyreggie",
