@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T14:27:58.541Z",
+  "generatedAt": "2026-09-25T14:32:59.306Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T14:27:58.541Z",
+    "fetchedAt": "2026-09-25T14:32:59.306Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "I Tried 3 Backrooms Games & Regretted Everything… | !hype !newvlog !gamevideo",
       "game_name": "FailRooms",
-      "viewer_count": 21,
-      "follower_count": 5130,
+      "viewer_count": 15,
+      "follower_count": 5129,
       "language": "en",
       "started_at": "2026-09-25T13:24:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
