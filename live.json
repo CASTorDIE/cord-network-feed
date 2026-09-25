@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T05:27:58.807Z",
+  "generatedAt": "2026-09-25T05:32:58.788Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T05:27:58.807Z",
+    "fetchedAt": "2026-09-25T05:32:58.788Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "First day as a witch, feeling evil :3 || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 50,
+      "viewer_count": 56,
       "follower_count": 6382,
       "language": "en",
       "started_at": "2026-09-24T22:30:35Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Samuel Stream TakeOver!!! | Collab w/ @beekindbeecause | Fears to Fathom: Scratch Creek",
       "game_name": "Games + Demos",
-      "viewer_count": 17,
+      "viewer_count": 14,
       "follower_count": 902,
       "language": "en",
       "started_at": "2026-09-25T04:07:36Z",
