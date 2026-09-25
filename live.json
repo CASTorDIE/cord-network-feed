@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T04:57:58.780Z",
+  "generatedAt": "2026-09-25T05:02:58.600Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T04:57:58.780Z",
+    "fetchedAt": "2026-09-25T05:02:58.600Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "First day as a witch, feeling evil :3 || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 52,
-      "follower_count": 6380,
+      "viewer_count": 68,
+      "follower_count": 6381,
       "language": "en",
       "started_at": "2026-09-24T22:30:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
