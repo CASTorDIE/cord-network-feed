@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-25T04:32:58.658Z",
+  "generatedAt": "2026-09-25T04:37:58.689Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-25T04:32:58.658Z",
+    "fetchedAt": "2026-09-25T04:37:58.689Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "First day as a witch, feeling evil :3 || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 50,
+      "viewer_count": 46,
       "follower_count": 6379,
       "language": "en",
       "started_at": "2026-09-24T22:30:35Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Samuel Stream TakeOver!!! | Collab w/ @beekindbeecause | Fears to Fathom: Scratch Creek",
       "game_name": "Games + Demos",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 901,
       "language": "en",
       "started_at": "2026-09-25T04:07:36Z",
@@ -62,14 +62,14 @@
     {
       "user_login": "alfieduu",
       "user_name": "alfieduu",
-      "is_live": true,
-      "title": "World of Warcraft Forever | BIG LOOT?? | GREAT GOOGLY MOOGLY",
-      "game_name": "Just Chatting",
-      "viewer_count": 4,
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
       "follower_count": 173,
-      "language": "en",
-      "started_at": "2026-09-25T01:28:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/alfieduu",
       "description": "yo put your feet up homie"
