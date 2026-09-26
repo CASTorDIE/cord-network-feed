@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T02:12:58.988Z",
+  "generatedAt": "2026-09-26T02:17:58.846Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-26T02:12:58.988Z",
+    "fetchedAt": "2026-09-26T02:17:58.846Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 969🗣️!discord🗣️PLUH🗣️WHEN YOU FOLLOW IT BE SAYIN🗣️PLUH🗣️HIT THE FOLLOW BUTTON IT DO ALL THAT PLAUH🗣️PLUH🗣️PLUH",
       "game_name": "Rocket League",
-      "viewer_count": 723,
-      "follower_count": 116556,
+      "viewer_count": 755,
+      "follower_count": 116564,
       "language": "en",
       "started_at": "2026-09-26T00:18:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| HELP I'M NEW - HARD MODE - 66 giveaways in 5 hours! !join | !discord !telegram !vrc !micro !pizza | #sponsored",
       "game_name": "Dune: Awakening",
-      "viewer_count": 34,
+      "viewer_count": 43,
       "follower_count": 10122,
       "language": "en",
       "started_at": "2026-09-26T02:00:37Z",
@@ -45,27 +45,12 @@
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
-      "user_login": "horror_heather",
-      "user_name": "horror_heather",
-      "is_live": true,
-      "title": "ALAN WAKE 2 UNTIL WE ARE NO LONGER AWAKE | First Playthrough!| !links",
-      "game_name": "Alan Wake II",
-      "viewer_count": 18,
-      "follower_count": 650,
-      "language": "en",
-      "started_at": "2026-09-25T21:30:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_horror_heather-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/horror_heather",
-      "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Blind Lies of P! Can we finish the DLC today?",
       "game_name": "Lies of P",
-      "viewer_count": 14,
+      "viewer_count": 16,
       "follower_count": 308,
       "language": "en",
       "started_at": "2026-09-26T00:55:54Z",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
+      "user_login": "horror_heather",
+      "user_name": "horror_heather",
+      "is_live": true,
+      "title": "ALAN WAKE 2 UNTIL WE ARE NO LONGER AWAKE | First Playthrough!| !links",
+      "game_name": "Alan Wake II",
+      "viewer_count": 16,
+      "follower_count": 650,
+      "language": "en",
+      "started_at": "2026-09-25T21:30:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_horror_heather-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/horror_heather",
+      "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
     },
     {
       "user_login": "wispy_witch",
