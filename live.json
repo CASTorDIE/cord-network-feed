@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T17:17:57.903Z",
+  "generatedAt": "2026-09-26T17:22:57.929Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-26T17:17:57.903Z",
+    "fetchedAt": "2026-09-26T17:22:57.929Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Grain Rot | We 100% WOOD Do That! @l0rd0frand0m | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "GRAIN ROT",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 1734,
       "language": "en",
       "started_at": "2026-09-26T15:54:41Z",
