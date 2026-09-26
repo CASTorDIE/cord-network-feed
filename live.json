@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T19:22:57.865Z",
+  "generatedAt": "2026-09-26T19:27:57.857Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-26T19:22:57.865Z",
+    "fetchedAt": "2026-09-26T19:27:57.857Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Rare early stream! NG+",
       "game_name": "Lies of P",
-      "viewer_count": 9,
+      "viewer_count": 11,
       "follower_count": 311,
       "language": "en",
       "started_at": "2026-09-26T17:55:58Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Grain Rot | We 100% WOOD Do That! @l0rd0frand0m | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "GRAIN ROT",
-      "viewer_count": 8,
+      "viewer_count": 5,
       "follower_count": 1734,
       "language": "en",
       "started_at": "2026-09-26T15:54:41Z",
