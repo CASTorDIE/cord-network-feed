@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T16:37:57.656Z",
+  "generatedAt": "2026-09-26T16:42:57.607Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-26T16:37:57.656Z",
+    "fetchedAt": "2026-09-26T16:42:57.607Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "12 HOURS TO CATCH EVERY PLUSHIE! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 46,
+      "viewer_count": 45,
       "follower_count": 5129,
       "language": "en",
       "started_at": "2026-09-26T13:01:00Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Grain Rot | We 100% WOOD Do That! @l0rd0frand0m | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "GRAIN ROT",
-      "viewer_count": 8,
+      "viewer_count": 10,
       "follower_count": 1734,
       "language": "en",
       "started_at": "2026-09-26T15:54:41Z",
