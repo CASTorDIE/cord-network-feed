@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T00:32:58.746Z",
+  "generatedAt": "2026-09-26T00:37:58.871Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-26T00:32:58.746Z",
+    "fetchedAt": "2026-09-26T00:37:58.871Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 969🗣️!discord🗣️PLUH🗣️WHEN YOU FOLLOW IT BE SAYIN🗣️PLUH🗣️HIT THE FOLLOW BUTTON IT DO ALL THAT PLAUH🗣️PLUH🗣️PLUH",
       "game_name": "Rocket League",
-      "viewer_count": 239,
-      "follower_count": 116460,
+      "viewer_count": 279,
+      "follower_count": 116461,
       "language": "en",
       "started_at": "2026-09-26T00:18:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ALAN WAKE 2 UNTIL WE ARE NO LONGER AWAKE | First Playthrough!| !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 651,
       "language": "en",
       "started_at": "2026-09-25T21:30:03Z",
