@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-26T08:32:57.707Z",
+  "generatedAt": "2026-09-26T08:37:57.791Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-26T08:32:57.707Z",
+    "fetchedAt": "2026-09-26T08:37:57.791Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] Just A Normal Day At The Office  | Control  | !advanced !discord !lurk !time !clip |",
       "game_name": "Control",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 1276,
       "language": "en",
       "started_at": "2026-09-26T07:45:28Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/viridisbytes",
       "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
+    },
+    {
+      "user_login": "fallentitanandy",
+      "user_name": "FallenTitanAndy",
+      "is_live": true,
+      "title": "R U Ok? Charity Stream Day 3. Trying Tyr again to see if we can get more than one game",
+      "game_name": "Tyr",
+      "viewer_count": 0,
+      "follower_count": 419,
+      "language": "en",
+      "started_at": "2026-09-26T08:36:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/fallentitanandy",
+      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "4kaizen_gaming",
@@ -268,21 +283,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
-    },
-    {
-      "user_login": "fallentitanandy",
-      "user_name": "FallenTitanAndy",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 419,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/fallentitanandy",
-      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "faytefireix",
