@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T23:02:57.366Z",
+  "generatedAt": "2026-09-26T23:07:57.379Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-26T23:02:57.366Z",
+    "fetchedAt": "2026-09-26T23:07:57.379Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "12 HOURS TO CATCH EVERY PLUSHIE! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 38,
+      "viewer_count": 39,
       "follower_count": 5131,
       "language": "en",
       "started_at": "2026-09-26T13:01:00Z",
@@ -30,27 +30,12 @@
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": true,
-      "title": "Back to Being Me",
-      "game_name": "Just Chatting",
-      "viewer_count": 5,
-      "follower_count": 349,
-      "language": "en",
-      "started_at": "2026-09-26T19:40:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
-    },
-    {
       "user_login": "tehchno",
       "user_name": "tehchno",
       "is_live": true,
       "title": "Actually awful at survival games.",
       "game_name": "ASKA",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "follower_count": 460,
       "language": "en",
       "started_at": "2026-09-26T22:23:45Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": true,
+      "title": "Back to Being Me",
+      "game_name": "Just Chatting",
+      "viewer_count": 4,
+      "follower_count": 349,
+      "language": "en",
+      "started_at": "2026-09-26T19:40:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
