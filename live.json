@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-26T23:37:57.372Z",
+  "generatedAt": "2026-09-26T23:42:57.374Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-26T23:37:57.372Z",
+    "fetchedAt": "2026-09-26T23:42:57.374Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "12 HOURS TO CATCH EVERY PLUSHIE! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 29,
+      "viewer_count": 32,
       "follower_count": 5131,
       "language": "en",
       "started_at": "2026-09-26T13:01:00Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Back to Being Me",
       "game_name": "Just Chatting",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 349,
       "language": "en",
       "started_at": "2026-09-26T19:40:55Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Actually awful at survival games.",
       "game_name": "The Last of Us Part I",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 460,
       "language": "en",
       "started_at": "2026-09-26T22:23:45Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "wexra",
+      "user_name": "Wexra",
+      "is_live": true,
+      "title": "1V1ING VIEWERS ALL NIGHT 💃🏼 !join !discord !ubi",
+      "game_name": "For Honor",
+      "viewer_count": 0,
+      "follower_count": 8798,
+      "language": "en",
+      "started_at": "2026-09-26T23:42:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -613,21 +628,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/viridisbytes",
       "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
-    },
-    {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 8798,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "wispy_witch",
