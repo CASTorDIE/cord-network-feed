@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T17:32:59.447Z",
+  "generatedAt": "2026-09-26T17:37:57.709Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-26T17:32:59.447Z",
+    "fetchedAt": "2026-09-26T17:37:57.709Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "12 HOURS TO CATCH EVERY PLUSHIE! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 42,
+      "viewer_count": 40,
       "follower_count": 5129,
       "language": "en",
       "started_at": "2026-09-26T13:01:00Z",
