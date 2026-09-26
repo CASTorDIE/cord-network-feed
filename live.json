@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T06:47:57.552Z",
+  "generatedAt": "2026-09-26T06:52:57.690Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-26T06:47:57.552Z",
+    "fetchedAt": "2026-09-26T06:52:57.690Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| HELP I'M NEW - HARD MODE - 66 giveaways in 5 hours! !join | !discord !telegram !vrc !micro !pizza | #sponsored",
       "game_name": "Dune: Awakening",
-      "viewer_count": 100,
+      "viewer_count": 96,
       "follower_count": 10120,
       "language": "en",
       "started_at": "2026-09-26T04:59:11Z",
