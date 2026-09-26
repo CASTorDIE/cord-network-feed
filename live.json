@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T06:37:57.512Z",
+  "generatedAt": "2026-09-26T06:42:57.510Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-26T06:37:57.512Z",
+    "fetchedAt": "2026-09-26T06:42:57.510Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| HELP I'M NEW - HARD MODE - 66 giveaways in 5 hours! !join | !discord !telegram !vrc !micro !pizza | #sponsored",
       "game_name": "Dune: Awakening",
-      "viewer_count": 92,
-      "follower_count": 10121,
+      "viewer_count": 96,
+      "follower_count": 10120,
       "language": "en",
       "started_at": "2026-09-26T04:59:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
