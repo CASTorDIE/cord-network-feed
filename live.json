@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T09:42:57.781Z",
+  "generatedAt": "2026-09-26T09:47:57.835Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-26T09:42:57.781Z",
+    "fetchedAt": "2026-09-26T09:47:57.835Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] Just A Normal Day At The Office  | Control  | !advanced !discord !lurk !time !clip |",
       "game_name": "Control",
-      "viewer_count": 16,
+      "viewer_count": 13,
       "follower_count": 1276,
       "language": "en",
       "started_at": "2026-09-26T07:45:28Z",
