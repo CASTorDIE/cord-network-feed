@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T07:42:58.251Z",
+  "generatedAt": "2026-09-27T07:47:58.322Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-27T07:42:58.251Z",
+    "fetchedAt": "2026-09-27T07:47:58.322Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[18+] Just A Normal Day At The Office  | Control  | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 16,
-      "follower_count": 1279,
+      "viewer_count": 14,
+      "follower_count": 1280,
       "language": "en",
       "started_at": "2026-09-27T07:01:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
