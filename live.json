@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T14:27:57.900Z",
+  "generatedAt": "2026-09-27T14:32:57.903Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-27T14:27:57.900Z",
+    "fetchedAt": "2026-09-27T14:32:57.903Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Stream doesnt end till Starpath is done! Drops on! |!donate !modpack !library !discord !tip !linktree !merch !storefront |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 106,
-      "follower_count": 2797,
+      "viewer_count": 109,
+      "follower_count": 2798,
       "language": "en",
       "started_at": "2026-09-27T11:00:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
