@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T15:02:57.918Z",
+  "generatedAt": "2026-09-27T15:07:57.996Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-27T15:02:57.918Z",
+    "fetchedAt": "2026-09-27T15:07:57.996Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Stream doesnt end till Starpath is done! Drops on! |!donate !modpack !library !discord !tip !linktree !merch !storefront |",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 107,
+      "viewer_count": 105,
       "follower_count": 2802,
       "language": "en",
       "started_at": "2026-09-27T11:00:35Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 116949,
+      "follower_count": 116950,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
