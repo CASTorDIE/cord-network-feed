@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T22:57:57.783Z",
+  "generatedAt": "2026-09-27T23:02:57.991Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-27T22:57:57.783Z",
+    "fetchedAt": "2026-09-27T23:02:57.991Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "♡ 52 bombaclat ₍^. .^₎⟆ wagon chicken nuggets ♡ ⋆(๑•ᴗ•๑) | Cobblemon Modded Minecraft | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 17,
+      "viewer_count": 15,
       "follower_count": 1349,
       "language": "en",
       "started_at": "2026-09-27T21:19:36Z",
