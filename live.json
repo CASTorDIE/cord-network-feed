@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-27T01:37:57.667Z",
+  "generatedAt": "2026-09-27T01:42:57.585Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-27T01:37:57.667Z",
+    "fetchedAt": "2026-09-27T01:42:57.585Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 970🎚️!discord🎚️AAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
       "game_name": "Rocket League",
-      "viewer_count": 748,
-      "follower_count": 116716,
+      "viewer_count": 840,
+      "follower_count": 116742,
       "language": "en",
       "started_at": "2026-09-27T00:16:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "#1 Welfare Raider on a SKAturday",
       "game_name": "ARC Raiders",
-      "viewer_count": 118,
+      "viewer_count": 120,
       "follower_count": 14608,
       "language": "en",
       "started_at": "2026-09-27T00:20:13Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "1V1ING VIEWERS ALL NIGHT 💃🏼 !join !discord !ubi",
       "game_name": "For Honor",
-      "viewer_count": 70,
+      "viewer_count": 57,
       "follower_count": 8801,
       "language": "en",
       "started_at": "2026-09-26T23:42:42Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "12 HOURS TO CATCH EVERY PLUSHIE! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 51,
+      "viewer_count": 52,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-09-26T13:01:00Z",
@@ -88,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "alfieduu",
+      "user_name": "alfieduu",
+      "is_live": true,
+      "title": "WOW FOREVER REACHING LVL20 & BIG LOOT",
+      "game_name": "Just Chatting",
+      "viewer_count": 2,
+      "follower_count": 173,
+      "language": "en",
+      "started_at": "2026-09-27T01:38:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/alfieduu",
+      "description": "yo put your feet up homie"
     },
     {
       "user_login": "thepuckgoa",
@@ -118,21 +133,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
-      "user_login": "alfieduu",
-      "user_name": "alfieduu",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 173,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/alfieduu",
-      "description": "yo put your feet up homie"
     },
     {
       "user_login": "allyreggie",
