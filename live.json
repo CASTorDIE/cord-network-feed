@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T23:12:57.935Z",
+  "generatedAt": "2026-09-27T23:17:58.104Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-27T23:12:57.935Z",
+    "fetchedAt": "2026-09-27T23:17:58.104Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "♡ 52 bombaclat ₍^. .^₎⟆ wagon chicken nuggets ♡ ⋆(๑•ᴗ•๑) | Cobblemon Modded Minecraft | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 17,
+      "viewer_count": 14,
       "follower_count": 1349,
       "language": "en",
       "started_at": "2026-09-27T21:19:36Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Warzone collab with @ryansarmy !!!! Come join us for some COD fun!",
       "game_name": "Call of Duty: Warzone",
-      "viewer_count": 1,
+      "viewer_count": 9,
       "follower_count": 2111,
       "language": "en",
       "started_at": "2026-09-27T23:06:33Z",
