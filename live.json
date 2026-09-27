@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T17:03:01.874Z",
+  "generatedAt": "2026-09-27T17:07:58.388Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-27T17:03:01.874Z",
+    "fetchedAt": "2026-09-27T17:07:58.388Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming - This is why Chris doesn't like you Jessica!",
       "game_name": "Resident Evil: Revelations",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 26,
       "language": "en",
       "started_at": "2026-09-27T16:58:23Z",
