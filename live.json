@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T06:22:57.995Z",
+  "generatedAt": "2026-09-27T06:27:58.114Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-27T06:22:57.995Z",
+    "fetchedAt": "2026-09-27T06:27:58.114Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "#1 Welfare Raider on a SKAturday",
       "game_name": "ARC Raiders",
-      "viewer_count": 106,
+      "viewer_count": 95,
       "follower_count": 14624,
       "language": "en",
       "started_at": "2026-09-27T00:20:13Z",
