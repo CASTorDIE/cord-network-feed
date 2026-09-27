@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T06:52:58.080Z",
+  "generatedAt": "2026-09-27T06:57:58.227Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-27T06:52:58.080Z",
+    "fetchedAt": "2026-09-27T06:57:58.227Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "#1 Welfare Raider on a SKAturday",
       "game_name": "ARC Raiders",
-      "viewer_count": 116,
+      "viewer_count": 113,
       "follower_count": 14623,
       "language": "en",
       "started_at": "2026-09-27T00:20:13Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "COOKING IN THE FOREST",
       "game_name": "Just Chatting",
-      "viewer_count": 29,
+      "viewer_count": 28,
       "follower_count": 2498,
       "language": "en",
       "started_at": "2026-09-27T02:33:51Z",
