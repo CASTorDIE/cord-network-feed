@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T06:42:58.128Z",
+  "generatedAt": "2026-09-27T06:47:58.180Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-27T06:42:58.128Z",
+    "fetchedAt": "2026-09-27T06:47:58.180Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "COOKING IN THE FOREST",
       "game_name": "Just Chatting",
-      "viewer_count": 29,
+      "viewer_count": 32,
       "follower_count": 2498,
       "language": "en",
       "started_at": "2026-09-27T02:33:51Z",
