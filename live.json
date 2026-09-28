@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T18:37:58.112Z",
+  "generatedAt": "2026-09-28T18:42:58.107Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-28T18:37:58.112Z",
+    "fetchedAt": "2026-09-28T18:42:58.107Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "BIRTHDAY STREAM! Not Ending Till Midnight 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 78,
-      "follower_count": 8832,
+      "viewer_count": 77,
+      "follower_count": 8834,
       "language": "en",
       "started_at": "2026-09-28T17:28:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -111,7 +111,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2509,
+      "follower_count": 2510,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
