@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T00:22:58.173Z",
+  "generatedAt": "2026-09-28T00:27:58.218Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-28T00:22:58.173Z",
+    "fetchedAt": "2026-09-28T00:27:58.218Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,12 +15,27 @@
   },
   "streamers": [
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 971😵‍💫!discord😵‍💫USE CODE BRYCEXD😵‍💫USE CODE BRYCEXD😵‍💫USE CODE BRYCEXD😵‍💫USE CODE BRYCEXD😵‍💫USE CODE BRYC",
+      "game_name": "Rocket League",
+      "viewer_count": 146,
+      "follower_count": 116952,
+      "language": "en",
+      "started_at": "2026-09-28T00:23:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "PLAYING THE GAME I VOICE ACTED 💎 MY FRIEND THE WICKHORN💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Games + Demos",
-      "viewer_count": 107,
+      "viewer_count": 102,
       "follower_count": 2502,
       "language": "en",
       "started_at": "2026-09-27T23:22:22Z",
@@ -35,7 +50,7 @@
       "is_live": true,
       "title": "Voice Acting with Friends || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 51,
+      "viewer_count": 52,
       "follower_count": 6383,
       "language": "en",
       "started_at": "2026-09-27T23:31:20Z",
@@ -45,27 +60,12 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
-      "user_login": "padbae",
-      "user_name": "padbae",
-      "is_live": true,
-      "title": "♡ 1.8 Cobblemon Explore!  ♡ ⋆(๑•ᴗ•๑) | Cobblemon Modded Minecraft | !lurk !sus !discord !gfuel !patreon",
-      "game_name": "Minecraft",
-      "viewer_count": 18,
-      "follower_count": 1349,
-      "language": "en",
-      "started_at": "2026-09-27T21:19:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/padbae",
-      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
-    },
-    {
       "user_login": "floodwater_",
       "user_name": "FloodWater_",
       "is_live": true,
       "title": "Warzone collab with @ryansarmy !!!! Come join us for some COD fun!",
       "game_name": "Call of Duty: Warzone",
-      "viewer_count": 8,
+      "viewer_count": 9,
       "follower_count": 2110,
       "language": "en",
       "started_at": "2026-09-27T23:06:33Z",
@@ -193,21 +193,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 116953,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
@@ -508,6 +493,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": ""
+    },
+    {
+      "user_login": "padbae",
+      "user_name": "padbae",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1349,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/padbae",
+      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
       "user_login": "rickett_raffy",
