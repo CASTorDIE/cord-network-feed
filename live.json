@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T04:02:58.365Z",
+  "generatedAt": "2026-09-28T04:07:58.482Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-28T04:02:58.365Z",
+    "fetchedAt": "2026-09-28T04:07:58.482Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Voice Acting with Friends || !merch !throne !daki",
       "game_name": "Phoenix Wright: Ace Attorney Trilogy",
-      "viewer_count": 38,
+      "viewer_count": 35,
       "follower_count": 6384,
       "language": "en",
       "started_at": "2026-09-27T23:31:20Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I’m Just Here Today",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 349,
       "language": "en",
       "started_at": "2026-09-28T01:27:40Z",
