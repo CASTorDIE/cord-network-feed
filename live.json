@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T07:02:57.650Z",
+  "generatedAt": "2026-09-28T07:07:57.658Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-28T07:02:57.650Z",
+    "fetchedAt": "2026-09-28T07:07:57.658Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] Just A Normal Day At The Office  | Control  | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 6,
+      "viewer_count": 10,
       "follower_count": 1283,
       "language": "en",
       "started_at": "2026-09-28T07:00:40Z",
