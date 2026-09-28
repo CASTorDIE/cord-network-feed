@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T20:02:58.255Z",
+  "generatedAt": "2026-09-28T20:07:58.264Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-28T20:02:58.255Z",
+    "fetchedAt": "2026-09-28T20:07:58.264Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "BIRTHDAY STREAM! Not Ending Till Midnight 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 96,
+      "viewer_count": 107,
       "follower_count": 8842,
       "language": "en",
       "started_at": "2026-09-28T17:28:36Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "HOT VAMPIRES?? 🎀 5+SUBS GET BONUS SUBS FOR FREE !throne !tip !move #BandaiNamcoCreator",
       "game_name": "The Blood of Dawnwalker",
-      "viewer_count": 63,
+      "viewer_count": 60,
       "follower_count": 10705,
       "language": "en",
       "started_at": "2026-09-28T18:47:34Z",
