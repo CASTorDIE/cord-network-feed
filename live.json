@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-28T22:57:58.388Z",
+  "generatedAt": "2026-09-28T23:02:58.358Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-28T22:57:58.388Z",
+    "fetchedAt": "2026-09-28T23:02:58.358Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "BIRTHDAY STREAM! Not Ending Till Midnight 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 78,
+      "viewer_count": 71,
       "follower_count": 8851,
       "language": "en",
       "started_at": "2026-09-28T17:28:36Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 77,
+      "viewer_count": 64,
       "follower_count": 2512,
       "language": "en",
       "started_at": "2026-09-28T22:42:45Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "HOT VAMPIRES?? 🎀 5+SUBS GET BONUS SUBS FOR FREE !throne !tip !move #BandaiNamcoCreator",
       "game_name": "The Blood of Dawnwalker",
-      "viewer_count": 68,
+      "viewer_count": 60,
       "follower_count": 10708,
       "language": "en",
       "started_at": "2026-09-28T18:47:34Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Alan Wake! FINISHING HIS CHAPTERS TONIGHT! | Alan Wake 2 | First Playthrough | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 12,
+      "viewer_count": 14,
       "follower_count": 652,
       "language": "en",
       "started_at": "2026-09-28T21:27:57Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/horror_heather",
       "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": true,
+      "title": "Mastering Sprites for Chairty !extralife",
+      "game_name": "Fortnite",
+      "viewer_count": 0,
+      "follower_count": 396,
+      "language": "en",
+      "started_at": "2026-09-28T23:01:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -178,21 +193,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 396,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "brycexd",
