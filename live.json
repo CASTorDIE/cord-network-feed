@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-28T01:07:57.968Z",
+  "generatedAt": "2026-09-28T01:12:58.013Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-28T01:07:57.968Z",
+    "fetchedAt": "2026-09-28T01:12:58.013Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 971😵‍💫!discord😵‍💫USE CODE BRYCEXD😵‍💫USE CODE BRYCEXD😵‍💫USE CODE BRYCEXD😵‍💫USE CODE BRYCEXD😵‍💫USE CODE BRYC",
       "game_name": "Rocket League",
-      "viewer_count": 408,
-      "follower_count": 116966,
+      "viewer_count": 413,
+      "follower_count": 116968,
       "language": "en",
       "started_at": "2026-09-28T00:23:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "NEW HORROR GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Games + Demos",
-      "viewer_count": 88,
-      "follower_count": 2503,
+      "viewer_count": 89,
+      "follower_count": 2504,
       "language": "en",
       "started_at": "2026-09-27T23:22:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Voice Acting with Friends || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 70,
+      "viewer_count": 65,
       "follower_count": 6384,
       "language": "en",
       "started_at": "2026-09-27T23:31:20Z",
@@ -58,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
       "twitch_url": "https://www.twitch.tv/ao_zora_",
       "description": "I sing and play games. Sometimes I bake"
-    },
-    {
-      "user_login": "floodwater_",
-      "user_name": "FloodWater_",
-      "is_live": true,
-      "title": "Warzone collab with @ryansarmy !!!! Come join us for some COD fun!",
-      "game_name": "Call of Duty: Warzone",
-      "viewer_count": 9,
-      "follower_count": 2110,
-      "language": "en",
-      "started_at": "2026-09-27T23:06:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_floodwater_-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/floodwater_",
-      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -298,6 +283,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/faytefireix",
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
+    },
+    {
+      "user_login": "floodwater_",
+      "user_name": "FloodWater_",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2111,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/floodwater_",
+      "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
     },
     {
       "user_login": "gatito_maldito",
