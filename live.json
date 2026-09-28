@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T15:27:57.534Z",
+  "generatedAt": "2026-09-28T15:32:57.592Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-28T15:27:57.534Z",
+    "fetchedAt": "2026-09-28T15:32:57.592Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "What is this forever Star Path [Next Stream Sept 29th @ 9am CST ]",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 168,
       "language": "en",
       "started_at": "2026-09-28T14:00:21Z",
