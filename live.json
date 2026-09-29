@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T22:42:57.988Z",
+  "generatedAt": "2026-09-29T22:47:57.979Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-29T22:42:57.988Z",
+    "fetchedAt": "2026-09-29T22:47:57.979Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "#1 Welfare Raider on the rust belt",
       "game_name": "ARC Raiders",
-      "viewer_count": 126,
-      "follower_count": 14630,
+      "viewer_count": 119,
+      "follower_count": 14629,
       "language": "en",
       "started_at": "2026-09-29T21:30:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
