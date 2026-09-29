@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T15:37:58.293Z",
+  "generatedAt": "2026-09-29T15:42:58.272Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-29T15:37:58.293Z",
+    "fetchedAt": "2026-09-29T15:42:58.272Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Rags to Riches [Next Stream Sept 30th @ 9am CST ]",
       "game_name": "Paralives",
-      "viewer_count": 14,
+      "viewer_count": 11,
       "follower_count": 170,
       "language": "en",
       "started_at": "2026-09-29T14:03:25Z",
@@ -141,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10708,
+      "follower_count": 10709,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
