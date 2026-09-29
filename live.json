@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T01:02:57.621Z",
+  "generatedAt": "2026-09-29T01:07:57.653Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-29T01:02:57.621Z",
+    "fetchedAt": "2026-09-29T01:07:57.653Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,12 +15,27 @@
   },
   "streamers": [
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 972😊!discord😊WE ARE GOING TO HAVE A GOOD DAY😊EVERYONE IS GOING TO BE NICE TO ONE ANOTHER😊AND WE WILL ALL HAVE A GR",
+      "game_name": "Rocket League",
+      "viewer_count": 256,
+      "follower_count": 117240,
+      "language": "en",
+      "started_at": "2026-09-29T00:59:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": true,
       "title": "BIRTHDAY STREAM! Not Ending Till Midnight 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 96,
+      "viewer_count": 108,
       "follower_count": 8857,
       "language": "en",
       "started_at": "2026-09-28T17:28:36Z",
@@ -34,8 +49,8 @@
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
-      "game_name": "Just Chatting",
-      "viewer_count": 85,
+      "game_name": "Games + Demos",
+      "viewer_count": 81,
       "follower_count": 2514,
       "language": "en",
       "started_at": "2026-09-28T22:42:45Z",
@@ -43,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 972😊!discord😊WE ARE GOING TO HAVE A GOOD DAY😊EVERYONE IS GOING TO BE NICE TO ONE ANOTHER😊AND WE WILL ALL HAVE A GR",
-      "game_name": "Rocket League",
-      "viewer_count": 76,
-      "follower_count": 117240,
-      "language": "en",
-      "started_at": "2026-09-29T00:59:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "bribeecool10",
