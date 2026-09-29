@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T13:17:57.918Z",
+  "generatedAt": "2026-09-29T13:22:57.935Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-29T13:17:57.918Z",
+    "fetchedAt": "2026-09-29T13:22:57.935Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We Finally Know Where to Go… The Monsters Won't Let Us Get There 😭 | Silent Hill: Townfall",
       "game_name": "SILENT HILL: townfall",
-      "viewer_count": 30,
+      "viewer_count": 29,
       "follower_count": 988,
       "language": "en",
       "started_at": "2026-09-29T12:43:02Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👁️your song requests - piano / ukulele [novice] 🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 433,
       "language": "en",
       "started_at": "2026-09-29T12:00:26Z",
