@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T04:17:58.004Z",
+  "generatedAt": "2026-09-29T04:22:57.992Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-29T04:17:58.004Z",
+    "fetchedAt": "2026-09-29T04:22:57.992Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Crowd Control Valheim - Fresh Game - Fresh Pain | !discord !telegram !vrc !micro !pizza |",
       "game_name": "Valheim",
-      "viewer_count": 178,
+      "viewer_count": 171,
       "follower_count": 10160,
       "language": "en",
       "started_at": "2026-09-29T03:23:16Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "WOW FOREVER REACHING LVL20 & BIG LOOT",
       "game_name": "World of Warcraft",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 173,
       "language": "en",
       "started_at": "2026-09-29T01:46:02Z",
