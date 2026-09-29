@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T14:53:01.217Z",
+  "generatedAt": "2026-09-29T14:57:58.525Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-29T14:53:01.217Z",
+    "fetchedAt": "2026-09-29T14:57:58.525Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Rags to Riches [Next Stream Sept 30th @ 9am CST ]",
       "game_name": "Paralives",
-      "viewer_count": 14,
-      "follower_count": 169,
+      "viewer_count": 12,
+      "follower_count": 170,
       "language": "en",
       "started_at": "2026-09-29T14:03:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_laconsgamingnook-960x540.jpg",
