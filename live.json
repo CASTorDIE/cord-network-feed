@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T05:37:58.240Z",
+  "generatedAt": "2026-09-29T05:42:58.091Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-29T05:37:58.240Z",
+    "fetchedAt": "2026-09-29T05:42:58.091Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "🦊🦇| Crowd Control Valheim - Fresh Game - Fresh Pain | !discord !telegram !vrc !micro !pizza |",
       "game_name": "Valheim",
       "viewer_count": 171,
-      "follower_count": 10189,
+      "follower_count": 10194,
       "language": "en",
       "started_at": "2026-09-29T03:23:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
