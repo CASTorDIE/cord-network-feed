@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T22:32:57.970Z",
+  "generatedAt": "2026-09-29T22:37:58.038Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-29T22:32:57.970Z",
+    "fetchedAt": "2026-09-29T22:37:58.038Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "#1 Welfare Raider on the rust belt",
       "game_name": "ARC Raiders",
-      "viewer_count": 116,
+      "viewer_count": 128,
       "follower_count": 14630,
       "language": "en",
       "started_at": "2026-09-29T21:30:45Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 117378,
+      "follower_count": 117379,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -501,13 +501,13 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": null,
+      "follower_count": 123,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
-      "profile_image_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1132c17-c3f8-4b58-beee-f0c43232628e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
-      "description": ""
+      "description": "twitch: Infinitehavoconline"
     },
     {
       "user_login": "padbae",
