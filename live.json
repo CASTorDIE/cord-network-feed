@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T21:52:57.866Z",
+  "generatedAt": "2026-09-29T21:57:57.978Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-29T21:52:57.866Z",
+    "fetchedAt": "2026-09-29T21:57:57.978Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "#1 Welfare Raider on the rust belt",
       "game_name": "ARC Raiders",
-      "viewer_count": 98,
+      "viewer_count": 96,
       "follower_count": 14630,
       "language": "en",
       "started_at": "2026-09-29T21:30:45Z",
@@ -396,7 +396,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2802,
+      "follower_count": 2801,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
