@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T23:17:58.139Z",
+  "generatedAt": "2026-09-29T23:22:58.095Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-29T23:17:58.139Z",
+    "fetchedAt": "2026-09-29T23:22:58.095Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "#1 Welfare Raider on the rust belt",
       "game_name": "ARC Raiders",
-      "viewer_count": 119,
+      "viewer_count": 130,
       "follower_count": 14631,
       "language": "en",
       "started_at": "2026-09-29T21:30:45Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 72,
+      "viewer_count": 71,
       "follower_count": 2521,
       "language": "en",
       "started_at": "2026-09-29T22:49:37Z",
