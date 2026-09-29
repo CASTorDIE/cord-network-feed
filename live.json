@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T07:57:57.337Z",
+  "generatedAt": "2026-09-29T08:02:57.432Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-29T07:57:57.337Z",
+    "fetchedAt": "2026-09-29T08:02:57.432Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Crowd Control Valheim - Fresh Game - Fresh Pain | !discord !telegram !vrc !micro !pizza |",
       "game_name": "Valheim",
-      "viewer_count": 161,
+      "viewer_count": 170,
       "follower_count": 10213,
       "language": "en",
       "started_at": "2026-09-29T03:23:16Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "[18+] Just A Normal Day At The Office  | Control  | !advanced !discord !lurk !time !clip |",
       "game_name": "Control",
-      "viewer_count": 23,
+      "viewer_count": 22,
       "follower_count": 1287,
       "language": "en",
       "started_at": "2026-09-29T07:03:04Z",
