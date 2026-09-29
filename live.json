@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T22:52:58.200Z",
+  "generatedAt": "2026-09-29T22:57:58.007Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-29T22:52:58.200Z",
+    "fetchedAt": "2026-09-29T22:57:58.007Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "#1 Welfare Raider on the rust belt",
       "game_name": "ARC Raiders",
-      "viewer_count": 121,
+      "viewer_count": 118,
       "follower_count": 14629,
       "language": "en",
       "started_at": "2026-09-29T21:30:45Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 30,
-      "follower_count": 2520,
+      "viewer_count": 60,
+      "follower_count": 2521,
       "language": "en",
       "started_at": "2026-09-29T22:49:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
