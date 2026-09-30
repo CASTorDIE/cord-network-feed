@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T01:17:58.325Z",
+  "generatedAt": "2026-09-30T01:22:58.413Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-30T01:17:58.325Z",
+    "fetchedAt": "2026-09-30T01:22:58.413Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 973🍭!discord🍭WE ARE GAMERS GAMING IN THE GAMING LAND🍭TUBBA TUESDAY BTW I HOPE ALL GAMERS ARE GAMING ITHE GAMING REG",
       "game_name": "Rocket League",
-      "viewer_count": 258,
-      "follower_count": 117381,
+      "viewer_count": 309,
+      "follower_count": 117386,
       "language": "en",
       "started_at": "2026-09-30T01:06:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Games + Demos",
-      "viewer_count": 111,
+      "viewer_count": 93,
       "follower_count": 2520,
       "language": "en",
       "started_at": "2026-09-29T22:49:37Z",
@@ -45,27 +45,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "Celeste Goldens. Maybe I won't suck today?",
-      "game_name": "Celeste",
-      "viewer_count": 17,
-      "follower_count": 310,
-      "language": "en",
-      "started_at": "2026-09-30T00:57:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
       "user_login": "wispy_witch",
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "ENDACOPIA | Last Day For Clip Contest!!! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Endacopia",
-      "viewer_count": 13,
+      "viewer_count": 15,
       "follower_count": 1738,
       "language": "en",
       "started_at": "2026-09-30T00:18:33Z",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
+    },
+    {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": true,
+      "title": "Celeste Goldens. Maybe I won't suck today?",
+      "game_name": "Celeste",
+      "viewer_count": 14,
+      "follower_count": 310,
+      "language": "en",
+      "started_at": "2026-09-30T00:57:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "bribeecool10",
