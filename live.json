@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T17:57:58.125Z",
+  "generatedAt": "2026-09-30T18:02:58.041Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-30T17:57:58.125Z",
+    "fetchedAt": "2026-09-30T18:02:58.041Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "SUCK DAT BLOOD 🎀 LFGSD!! | 5+SUBS GET BONUS SUBS FOR FREE !throne !tip !move #BandaiNamcoCreator",
       "game_name": "The Blood of Dawnwalker",
-      "viewer_count": 27,
+      "viewer_count": 28,
       "follower_count": 10707,
       "language": "en",
       "started_at": "2026-09-30T17:37:02Z",
