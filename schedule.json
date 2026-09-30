@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-30T17:27:14.761Z",
+  "generatedAt": "2026-09-30T17:35:42.240Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-09-30T17:27:14.725Z",
+    "updatedAt": "2026-09-30T17:35:42.203Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 7,
+    "entryCount": 11,
     "firstDate": "2026-09-27",
     "lastDate": "2026-10-04",
     "windowStart": "2026-09-27",
@@ -59,6 +59,19 @@
       "url": "https://www.twitch.tv/timmo_303"
     },
     {
+      "id": "evt_1790789742199_t8nd3m",
+      "date": "2026-09-30",
+      "dateLabel": "Wednesday, September 30th",
+      "weekday": "Wednesday",
+      "streamer": "JaxsBerryPatch",
+      "title": "DDLV",
+      "timeMinutes": 870,
+      "timeLabel": "2:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
       "id": "evt_1790789087218_sy635h",
       "date": "2026-10-02",
       "dateLabel": "Friday, October 2nd",
@@ -70,6 +83,19 @@
       "highlight": "yellow",
       "pillLabel": "CHARITY",
       "url": "https://www.twitch.tv/timmo_303"
+    },
+    {
+      "id": "evt_1790789742199_h41mms",
+      "date": "2026-10-02",
+      "dateLabel": "Friday, October 2nd",
+      "weekday": "Friday",
+      "streamer": "JaxsBerryPatch",
+      "title": "Minecraft",
+      "timeMinutes": 870,
+      "timeLabel": "2:30 PM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
       "id": "evt_1790789234721_ugcvhh",
@@ -85,6 +111,19 @@
       "url": "https://www.twitch.tv/horror_heather"
     },
     {
+      "id": "evt_1790789742199_p8blgh",
+      "date": "2026-10-03",
+      "dateLabel": "Saturday, October 3rd",
+      "weekday": "Saturday",
+      "streamer": "JaxsBerryPatch",
+      "title": "DDLV",
+      "timeMinutes": 420,
+      "timeLabel": "7:00 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
       "id": "evt_1790789234721_o1q0s2",
       "date": "2026-10-03",
       "dateLabel": "Saturday, October 3rd",
@@ -96,6 +135,19 @@
       "highlight": "green",
       "pillLabel": "SPECIAL",
       "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_1790789742199_y27cmf",
+      "date": "2026-10-04",
+      "dateLabel": "Sunday, October 4th",
+      "weekday": "Sunday",
+      "streamer": "JaxsBerryPatch",
+      "title": "DDLV",
+      "timeMinutes": 420,
+      "timeLabel": "7:00 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
     },
     {
       "id": "evt_1790789234721_hmb0r2",
