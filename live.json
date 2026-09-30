@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T13:52:57.602Z",
+  "generatedAt": "2026-09-30T13:57:57.686Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-30T13:52:57.602Z",
+    "fetchedAt": "2026-09-30T13:57:57.686Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[Short Stream] I’m Just Here Today",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 347,
       "language": "en",
       "started_at": "2026-09-30T13:22:59Z",
