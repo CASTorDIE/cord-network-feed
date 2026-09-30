@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-30T00:52:58.158Z",
+  "generatedAt": "2026-09-30T00:57:58.226Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-30T00:52:58.158Z",
+    "fetchedAt": "2026-09-30T00:57:58.226Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "#1 Welfare Raider on the rust belt",
       "game_name": "ARC Raiders",
-      "viewer_count": 95,
-      "follower_count": 14633,
+      "viewer_count": 105,
+      "follower_count": 14635,
       "language": "en",
       "started_at": "2026-09-30T00:29:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 92,
+      "viewer_count": 87,
       "follower_count": 2521,
       "language": "en",
       "started_at": "2026-09-29T22:49:37Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "ENDACOPIA | Last Day For Clip Contest!!! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Just Chatting",
-      "viewer_count": 15,
+      "viewer_count": 17,
       "follower_count": 1738,
       "language": "en",
       "started_at": "2026-09-30T00:18:33Z",
@@ -92,14 +92,14 @@
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
+      "is_live": true,
+      "title": "Celeste Goldens. Maybe I won't suck today?",
+      "game_name": "Celeste",
+      "viewer_count": 0,
       "follower_count": 310,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
+      "language": "en",
+      "started_at": "2026-09-30T00:57:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
