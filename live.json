@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T21:32:58.258Z",
+  "generatedAt": "2026-09-30T21:37:58.259Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-30T21:32:58.258Z",
+    "fetchedAt": "2026-09-30T21:37:58.259Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "LFGSD!! 🎀 | 5+SUBS GET BONUS SUBS FOR FREE !throne !tip !move #BandaiNamcoCreator",
       "game_name": "WARDOGS",
-      "viewer_count": 39,
+      "viewer_count": 36,
       "follower_count": 10707,
       "language": "en",
       "started_at": "2026-09-30T17:37:02Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Finishing KH1 today.... maybe?",
       "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-      "viewer_count": 0,
+      "viewer_count": 3,
       "follower_count": 1048,
       "language": "en",
       "started_at": "2026-09-30T21:31:43Z",
