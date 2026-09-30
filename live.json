@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T00:27:58.205Z",
+  "generatedAt": "2026-09-30T00:32:58.243Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-30T00:27:58.205Z",
+    "fetchedAt": "2026-09-30T00:32:58.243Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "#1 Welfare Raider on the rust belt",
-      "game_name": "ARC Raiders",
-      "viewer_count": 117,
-      "follower_count": 14632,
-      "language": "en",
-      "started_at": "2026-09-29T21:30:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 82,
+      "viewer_count": 87,
       "follower_count": 2521,
       "language": "en",
       "started_at": "2026-09-29T22:49:37Z",
@@ -45,12 +30,27 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": true,
+      "title": "#1 Welfare Raider on the rust belt",
+      "game_name": "ARC Raiders",
+      "viewer_count": 48,
+      "follower_count": 14632,
+      "language": "en",
+      "started_at": "2026-09-30T00:29:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
       "user_login": "wispy_witch",
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "ENDACOPIA | Last Day For Clip Contest!!! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "viewer_count": 10,
       "follower_count": 1736,
       "language": "en",
       "started_at": "2026-09-30T00:18:33Z",
