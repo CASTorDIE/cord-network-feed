@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T04:12:57.540Z",
+  "generatedAt": "2026-09-30T04:17:57.535Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-30T04:12:57.540Z",
+    "fetchedAt": "2026-09-30T04:17:57.535Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 973🍭!discord🍭WE ARE GAMERS GAMING IN THE GAMING LAND🍭TUBBA TUESDAY BTW I HOPE ALL GAMERS ARE GAMING ITHE GAMING REG",
       "game_name": "Rocket League",
-      "viewer_count": 322,
+      "viewer_count": 301,
       "follower_count": 117473,
       "language": "en",
       "started_at": "2026-09-30T01:06:55Z",
