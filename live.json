@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T21:02:58.228Z",
+  "generatedAt": "2026-09-30T21:07:58.180Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-30T21:02:58.228Z",
+    "fetchedAt": "2026-09-30T21:07:58.180Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Jax 4 Partner! Drops on! Weekly Reset!  |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 83,
-      "follower_count": 2805,
+      "viewer_count": 84,
+      "follower_count": 2806,
       "language": "en",
       "started_at": "2026-09-30T19:27:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "LFGSD!! 🎀 | 5+SUBS GET BONUS SUBS FOR FREE !throne !tip !move #BandaiNamcoCreator",
       "game_name": "WARDOGS",
-      "viewer_count": 49,
+      "viewer_count": 44,
       "follower_count": 10707,
       "language": "en",
       "started_at": "2026-09-30T17:37:02Z",
