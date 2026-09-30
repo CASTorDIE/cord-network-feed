@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T01:07:58.188Z",
+  "generatedAt": "2026-09-30T01:12:58.261Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-30T01:07:58.188Z",
+    "fetchedAt": "2026-09-30T01:12:58.261Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,12 +15,27 @@
   },
   "streamers": [
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 973🍭!discord🍭WE ARE GAMERS GAMING IN THE GAMING LAND🍭TUBBA TUESDAY BTW I HOPE ALL GAMERS ARE GAMING ITHE GAMING REG",
+      "game_name": "Rocket League",
+      "viewer_count": 205,
+      "follower_count": 117378,
+      "language": "en",
+      "started_at": "2026-09-30T01:06:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 96,
+      "viewer_count": 108,
       "follower_count": 2521,
       "language": "en",
       "started_at": "2026-09-29T22:49:37Z",
@@ -35,7 +50,7 @@
       "is_live": true,
       "title": "Celeste Goldens. Maybe I won't suck today?",
       "game_name": "Celeste",
-      "viewer_count": 13,
+      "viewer_count": 18,
       "follower_count": 310,
       "language": "en",
       "started_at": "2026-09-30T00:57:12Z",
@@ -50,7 +65,7 @@
       "is_live": true,
       "title": "ENDACOPIA | Last Day For Clip Contest!!! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Endacopia",
-      "viewer_count": 12,
+      "viewer_count": 14,
       "follower_count": 1738,
       "language": "en",
       "started_at": "2026-09-30T00:18:33Z",
@@ -88,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 973🍭!discord🍭WE ARE GAMERS GAMING IN THE GAMING LAND🍭TUBBA TUESDAY BTW I HOPE ALL GAMERS ARE GAMING ITHE GAMING REG",
-      "game_name": "Rocket League",
-      "viewer_count": 0,
-      "follower_count": 117379,
-      "language": "en",
-      "started_at": "2026-09-30T01:06:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "alfieduu",
