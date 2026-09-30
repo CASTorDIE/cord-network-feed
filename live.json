@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T18:02:58.041Z",
+  "generatedAt": "2026-09-30T18:07:58.202Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-09-30T18:02:58.041Z",
+    "fetchedAt": "2026-09-30T18:07:58.202Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "SUCK DAT BLOOD 🎀 LFGSD!! | 5+SUBS GET BONUS SUBS FOR FREE !throne !tip !move #BandaiNamcoCreator",
       "game_name": "The Blood of Dawnwalker",
-      "viewer_count": 28,
-      "follower_count": 10707,
+      "viewer_count": 26,
+      "follower_count": 10706,
       "language": "en",
       "started_at": "2026-09-30T17:37:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
