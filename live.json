@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T23:17:57.934Z",
+  "generatedAt": "2026-10-01T23:22:58.016Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-01T23:17:57.934Z",
+    "fetchedAt": "2026-10-01T23:22:58.016Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Last Raids Before The Update! | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 135,
-      "follower_count": 14648,
+      "viewer_count": 151,
+      "follower_count": 14649,
       "language": "en",
       "started_at": "2026-10-01T20:06:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Lies of P NG+",
       "game_name": "Lies of P",
-      "viewer_count": 11,
+      "viewer_count": 13,
       "follower_count": 312,
       "language": "en",
       "started_at": "2026-10-01T22:57:26Z",
