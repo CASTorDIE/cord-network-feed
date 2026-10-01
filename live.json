@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T20:07:57.721Z",
+  "generatedAt": "2026-10-01T20:12:58.069Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-01T20:07:57.721Z",
+    "fetchedAt": "2026-10-01T20:12:58.069Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Last Raids Before The Update! | Drops Enabled !discord",
       "game_name": "Just Chatting",
-      "viewer_count": 22,
+      "viewer_count": 73,
       "follower_count": 14637,
       "language": "en",
       "started_at": "2026-10-01T20:06:04Z",
