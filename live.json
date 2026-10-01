@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T20:27:57.757Z",
+  "generatedAt": "2026-10-01T20:32:57.676Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-01T20:27:57.757Z",
+    "fetchedAt": "2026-10-01T20:32:57.676Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Last Raids Before The Update! | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 96,
-      "follower_count": 14639,
+      "viewer_count": 104,
+      "follower_count": 14640,
       "language": "en",
       "started_at": "2026-10-01T20:06:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
