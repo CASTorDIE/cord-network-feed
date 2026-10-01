@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T03:17:58.387Z",
+  "generatedAt": "2026-10-01T03:22:58.436Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-01T03:17:58.387Z",
+    "fetchedAt": "2026-10-01T03:22:58.436Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 974🐳!discord🐳SUNLESSKHAN ROASTED ME🐳I WILL MAKE HIM PAY FOR THIS🐳HE WILL GO DOWN🐳WE ARE DECLARING WAR AGAINST SUN",
       "game_name": "Rocket League",
-      "viewer_count": 665,
-      "follower_count": 117658,
+      "viewer_count": 633,
+      "follower_count": 117659,
       "language": "en",
       "started_at": "2026-10-01T00:12:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "soft vocals until I'm warmed up! || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 72,
+      "viewer_count": 69,
       "follower_count": 6384,
       "language": "en",
       "started_at": "2026-09-30T23:31:27Z",
