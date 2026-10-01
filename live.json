@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-01T04:02:58.468Z",
+  "generatedAt": "2026-10-01T04:07:58.504Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-01T04:02:58.468Z",
+    "fetchedAt": "2026-10-01T04:07:58.504Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 974🐳!discord🐳SUNLESSKHAN ROASTED ME🐳I WILL MAKE HIM PAY FOR THIS🐳HE WILL GO DOWN🐳WE ARE DECLARING WAR AGAINST SUN",
       "game_name": "Just Chatting",
-      "viewer_count": 406,
+      "viewer_count": 355,
       "follower_count": 117676,
       "language": "en",
       "started_at": "2026-10-01T00:12:51Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "soft vocals until I'm warmed up! || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 59,
+      "viewer_count": 71,
       "follower_count": 6384,
       "language": "en",
       "started_at": "2026-09-30T23:31:27Z",
@@ -43,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
       "twitch_url": "https://www.twitch.tv/ao_zora_",
       "description": "I sing and play games. Sometimes I bake"
-    },
-    {
-      "user_login": "alfieduu",
-      "user_name": "alfieduu",
-      "is_live": true,
-      "title": "WOW FOREVER DEADMINES TONIGHT + BIG LOOT",
-      "game_name": "World of Warcraft",
-      "viewer_count": 7,
-      "follower_count": 174,
-      "language": "en",
-      "started_at": "2026-10-01T01:25:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/alfieduu",
-      "description": "yo put your feet up homie"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
+      "user_login": "alfieduu",
+      "user_name": "alfieduu",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 174,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/alfieduu",
+      "description": "yo put your feet up homie"
     },
     {
       "user_login": "allyreggie",
