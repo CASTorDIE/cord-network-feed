@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T22:22:57.934Z",
+  "generatedAt": "2026-10-01T22:27:58.189Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-01T22:22:57.934Z",
+    "fetchedAt": "2026-10-01T22:27:58.189Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Last Raids Before The Update! | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 123,
+      "viewer_count": 120,
       "follower_count": 14645,
       "language": "en",
       "started_at": "2026-10-01T20:06:04Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Finishing KH1 today.... maybe?",
       "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 1046,
       "language": "en",
       "started_at": "2026-10-01T22:05:10Z",
