@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T03:52:58.580Z",
+  "generatedAt": "2026-10-01T03:57:58.398Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-01T03:52:58.580Z",
+    "fetchedAt": "2026-10-01T03:57:58.398Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 974🐳!discord🐳SUNLESSKHAN ROASTED ME🐳I WILL MAKE HIM PAY FOR THIS🐳HE WILL GO DOWN🐳WE ARE DECLARING WAR AGAINST SUN",
       "game_name": "Just Chatting",
-      "viewer_count": 443,
-      "follower_count": 117674,
+      "viewer_count": 391,
+      "follower_count": 117675,
       "language": "en",
       "started_at": "2026-10-01T00:12:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
