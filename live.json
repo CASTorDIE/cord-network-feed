@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T19:37:57.579Z",
+  "generatedAt": "2026-10-01T19:42:57.665Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-01T19:37:57.579Z",
+    "fetchedAt": "2026-10-01T19:42:57.665Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "STRANDED IN WASHINGTON 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 48,
+      "viewer_count": 44,
       "follower_count": 2522,
       "language": "en",
       "started_at": "2026-10-01T19:00:06Z",
