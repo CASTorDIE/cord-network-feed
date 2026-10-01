@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T23:32:57.996Z",
+  "generatedAt": "2026-10-01T23:37:57.964Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-01T23:32:57.996Z",
+    "fetchedAt": "2026-10-01T23:37:57.964Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Last Raids Before The Update! | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 147,
+      "viewer_count": 164,
       "follower_count": 14650,
       "language": "en",
       "started_at": "2026-10-01T20:06:04Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/skavstheworld",
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
+      "user_login": "ao_zora_",
+      "user_name": "Ao_Zora_",
+      "is_live": true,
+      "title": "New Witch in Town :3 || !merch !throne !daki",
+      "game_name": "Just Chatting",
+      "viewer_count": 15,
+      "follower_count": 6387,
+      "language": "en",
+      "started_at": "2026-10-01T23:30:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
+      "twitch_url": "https://www.twitch.tv/ao_zora_",
+      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -45,27 +60,12 @@
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
-      "user_login": "ao_zora_",
-      "user_name": "Ao_Zora_",
-      "is_live": true,
-      "title": "New Witch in Town :3 || !merch !throne !daki",
-      "game_name": "Just Chatting",
-      "viewer_count": 7,
-      "follower_count": 6385,
-      "language": "en",
-      "started_at": "2026-10-01T23:30:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
-      "twitch_url": "https://www.twitch.tv/ao_zora_",
-      "description": "I sing and play games. Sometimes I bake"
-    },
-    {
       "user_login": "desertrose",
       "user_name": "Desertrose",
       "is_live": true,
       "title": "Finishing KH1 today.... maybe?",
       "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 1047,
       "language": "en",
       "started_at": "2026-10-01T22:05:10Z",
