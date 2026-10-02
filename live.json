@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T06:47:57.790Z",
+  "generatedAt": "2026-10-02T06:52:57.895Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T06:47:57.790Z",
+    "fetchedAt": "2026-10-02T06:52:57.895Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Someone SAVE ME From This Game!!! | Visage",
       "game_name": "Games + Demos",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 902,
       "language": "en",
       "started_at": "2026-10-02T04:04:55Z",
