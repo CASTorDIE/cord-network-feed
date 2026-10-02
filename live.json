@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T12:52:57.404Z",
+  "generatedAt": "2026-10-02T12:57:57.390Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T12:52:57.404Z",
+    "fetchedAt": "2026-10-02T12:57:57.390Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We Found Zoe… and She Told Us to LEAVE 😭 | Silent Hill: Townfall",
       "game_name": "SILENT HILL: townfall",
-      "viewer_count": 14,
+      "viewer_count": 28,
       "follower_count": 993,
       "language": "en",
       "started_at": "2026-10-02T12:44:10Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 117815,
+      "follower_count": 117814,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
