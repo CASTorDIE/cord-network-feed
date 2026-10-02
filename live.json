@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T21:47:57.340Z",
+  "generatedAt": "2026-10-02T21:52:57.329Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T21:47:57.340Z",
+    "fetchedAt": "2026-10-02T21:52:57.329Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "horror_heather",
-      "user_name": "horror_heather",
-      "is_live": true,
-      "title": "THE ENDING!!! Alan Wake until we are NO LONGER AWAKE! | Alan Wake 2 | First Playthrough | !links",
-      "game_name": "Alan Wake II",
-      "viewer_count": 13,
-      "follower_count": 655,
-      "language": "en",
-      "started_at": "2026-10-02T21:31:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_horror_heather-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/horror_heather",
-      "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
-    },
-    {
       "user_login": "zombaesempai",
       "user_name": "ZombaeSempai",
       "is_live": true,
       "title": "Another beautiful day in Spooky Season | Spooky jobs time! | Follow Goal: 547/600 | Mothman's Fav <3",
       "game_name": "The Plant Shop",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 548,
       "language": "en",
       "started_at": "2026-10-02T20:10:23Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7129ede2-61eb-42b7-a23a-6268e69d3390-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zombaesempai",
       "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
+    },
+    {
+      "user_login": "horror_heather",
+      "user_name": "horror_heather",
+      "is_live": true,
+      "title": "THE ENDING!!! Alan Wake until we are NO LONGER AWAKE! | Alan Wake 2 | First Playthrough | !links",
+      "game_name": "Alan Wake II",
+      "viewer_count": 9,
+      "follower_count": 655,
+      "language": "en",
+      "started_at": "2026-10-02T21:31:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_horror_heather-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/horror_heather",
+      "description": "I'm too scared to play horror games alone! I love talking about horror movies and space (I work at a space museum!) I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 117815,
+      "follower_count": 117816,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
