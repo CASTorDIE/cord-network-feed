@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T05:12:57.584Z",
+  "generatedAt": "2026-10-02T05:17:57.650Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T05:12:57.584Z",
+    "fetchedAt": "2026-10-02T05:17:57.650Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "This is HALLOWEEN!! | Spooky Season Kick off | Spooky jobs time! | Follow Goal: 546/600 | Mothman's Fav <3",
       "game_name": "[HERROR] Gas Station Case",
-      "viewer_count": 16,
+      "viewer_count": 15,
       "follower_count": 547,
       "language": "en",
       "started_at": "2026-10-02T01:39:07Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Someone SAVE ME From This Game!!! | Visage",
       "game_name": "Games + Demos",
-      "viewer_count": 15,
+      "viewer_count": 14,
       "follower_count": 903,
       "language": "en",
       "started_at": "2026-10-02T04:04:55Z",
