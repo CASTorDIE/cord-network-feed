@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-02T01:27:58.199Z",
+  "generatedAt": "2026-10-02T01:32:58.276Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T01:27:58.199Z",
+    "fetchedAt": "2026-10-02T01:32:58.276Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 8,
-    "offlineCount": 36
+    "liveCount": 9,
+    "offlineCount": 35
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 975🌈!discord🌈WE LOVE GAMING BRO SERIOUSLY WE ARE GAMING SO MUCH WITH THE GAMING FOR GAMERS ON GAMING LAND WITH THE G",
       "game_name": "Rocket League",
-      "viewer_count": 410,
-      "follower_count": 117711,
+      "viewer_count": 435,
+      "follower_count": 117715,
       "language": "en",
       "started_at": "2026-10-02T00:11:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Last Raids Before The Update! | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 129,
-      "follower_count": 14659,
+      "viewer_count": 132,
+      "follower_count": 14660,
       "language": "en",
       "started_at": "2026-10-01T20:06:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "New Witch in Town :3 || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 45,
+      "viewer_count": 41,
       "follower_count": 6387,
       "language": "en",
       "started_at": "2026-10-01T23:30:35Z",
@@ -60,27 +60,12 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
-      "user_login": "wispy_witch",
-      "user_name": "wispy_witch",
-      "is_live": true,
-      "title": "Grain Rot | Clip Contest Winner : @cranberryfo クランベリーちゃん | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "GRAIN ROT",
-      "viewer_count": 13,
-      "follower_count": 1739,
-      "language": "en",
-      "started_at": "2026-10-01T23:54:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Lies of P NG+",
       "game_name": "Lies of P",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 312,
       "language": "en",
       "started_at": "2026-10-01T22:57:26Z",
@@ -90,12 +75,27 @@
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
+      "user_login": "wispy_witch",
+      "user_name": "wispy_witch",
+      "is_live": true,
+      "title": "Grain Rot | Clip Contest Winner : @cranberryfo クランベリーちゃん | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
+      "game_name": "GRAIN ROT",
+      "viewer_count": 11,
+      "follower_count": 1739,
+      "language": "en",
+      "started_at": "2026-10-01T23:54:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wispy_witch",
+      "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
+    },
+    {
       "user_login": "desertrose",
       "user_name": "Desertrose",
       "is_live": true,
       "title": "Finishing KH1 today.... maybe?",
       "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 1048,
       "language": "en",
       "started_at": "2026-10-01T22:05:10Z",
@@ -105,12 +105,27 @@
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
+      "user_login": "alfieduu",
+      "user_name": "alfieduu",
+      "is_live": true,
+      "title": "WOW FOREVER DEADMINES TONIGHT + BIG LOOT",
+      "game_name": "Just Chatting",
+      "viewer_count": 3,
+      "follower_count": 174,
+      "language": "en",
+      "started_at": "2026-10-02T01:28:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfieduu-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/alfieduu",
+      "description": "yo put your feet up homie"
+    },
+    {
       "user_login": "bribeecool10",
       "user_name": "bribeecool10",
       "is_live": true,
       "title": "fortnite with Friends !extralife",
       "game_name": "Fortnite",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 396,
       "language": "en",
       "started_at": "2026-10-01T23:29:33Z",
@@ -133,21 +148,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "alfieduu",
-      "user_name": "alfieduu",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 174,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/alfieduu",
-      "description": "yo put your feet up homie"
     },
     {
       "user_login": "allyreggie",
