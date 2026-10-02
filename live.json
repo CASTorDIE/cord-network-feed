@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T22:12:57.357Z",
+  "generatedAt": "2026-10-02T22:17:57.405Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T22:12:57.357Z",
+    "fetchedAt": "2026-10-02T22:17:57.405Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "THE ENDING!!! Alan Wake until we are NO LONGER AWAKE! | Alan Wake 2 | First Playthrough | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 655,
       "language": "en",
       "started_at": "2026-10-02T21:31:22Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Another beautiful day in Spooky Season | Spooky jobs time! | Follow Goal: 547/600 | Mothman's Fav <3",
       "game_name": "The Plant Shop",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 548,
       "language": "en",
       "started_at": "2026-10-02T20:10:23Z",
