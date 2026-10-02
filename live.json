@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T05:23:00.141Z",
+  "generatedAt": "2026-10-02T05:27:57.937Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T05:23:00.141Z",
+    "fetchedAt": "2026-10-02T05:27:57.937Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -14,21 +14,6 @@
     "offlineCount": 42
   },
   "streamers": [
-    {
-      "user_login": "zombaesempai",
-      "user_name": "ZombaeSempai",
-      "is_live": true,
-      "title": "This is HALLOWEEN!! | Spooky Season Kick off | Spooky jobs time! | Follow Goal: 546/600 | Mothman's Fav <3",
-      "game_name": "[HERROR] Gas Station Case",
-      "viewer_count": 17,
-      "follower_count": 547,
-      "language": "en",
-      "started_at": "2026-10-02T01:39:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7129ede2-61eb-42b7-a23a-6268e69d3390-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zombaesempai",
-      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
-    },
     {
       "user_login": "dingo_dynasty",
       "user_name": "Dingo_Dynasty",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
+    },
+    {
+      "user_login": "zombaesempai",
+      "user_name": "ZombaeSempai",
+      "is_live": true,
+      "title": "This is HALLOWEEN!! | Spooky Season Kick off | Spooky jobs time! | Follow Goal: 546/600 | Mothman's Fav <3",
+      "game_name": "[HERROR] Gas Station Case",
+      "viewer_count": 14,
+      "follower_count": 547,
+      "language": "en",
+      "started_at": "2026-10-02T01:39:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7129ede2-61eb-42b7-a23a-6268e69d3390-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zombaesempai",
+      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     },
     {
       "user_login": "4kaizen_gaming",
