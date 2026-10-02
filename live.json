@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T22:07:57.424Z",
+  "generatedAt": "2026-10-02T22:12:57.357Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T22:07:57.424Z",
+    "fetchedAt": "2026-10-02T22:12:57.357Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "THE ENDING!!! Alan Wake until we are NO LONGER AWAKE! | Alan Wake 2 | First Playthrough | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 655,
       "language": "en",
       "started_at": "2026-10-02T21:31:22Z",
