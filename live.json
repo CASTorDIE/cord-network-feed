@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T05:47:57.741Z",
+  "generatedAt": "2026-10-02T05:52:57.693Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T05:47:57.741Z",
+    "fetchedAt": "2026-10-02T05:52:57.693Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Someone SAVE ME From This Game!!! | Visage",
       "game_name": "Games + Demos",
-      "viewer_count": 16,
-      "follower_count": 903,
+      "viewer_count": 18,
+      "follower_count": 902,
       "language": "en",
       "started_at": "2026-10-02T04:04:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
