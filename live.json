@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T00:12:58.021Z",
+  "generatedAt": "2026-10-02T00:17:58.045Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T00:12:58.021Z",
+    "fetchedAt": "2026-10-02T00:17:58.045Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,12 +15,27 @@
   },
   "streamers": [
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 975🌈!discord🌈WE LOVE GAMING BRO SERIOUSLY WE ARE GAMING SO MUCH WITH THE GAMING FOR GAMERS ON GAMING LAND WITH THE G",
+      "game_name": "Rocket League",
+      "viewer_count": 180,
+      "follower_count": 117685,
+      "language": "en",
+      "started_at": "2026-10-02T00:11:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "Last Raids Before The Update! | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 154,
+      "viewer_count": 147,
       "follower_count": 14655,
       "language": "en",
       "started_at": "2026-10-01T20:06:04Z",
@@ -35,7 +50,7 @@
       "is_live": true,
       "title": "New Witch in Town :3 || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 41,
+      "viewer_count": 37,
       "follower_count": 6387,
       "language": "en",
       "started_at": "2026-10-01T23:30:35Z",
@@ -50,7 +65,7 @@
       "is_live": true,
       "title": "Grain Rot | Clip Contest Winner TBA | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Just Chatting",
-      "viewer_count": 9,
+      "viewer_count": 12,
       "follower_count": 1739,
       "language": "en",
       "started_at": "2026-10-01T23:54:48Z",
@@ -60,27 +75,12 @@
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
     },
     {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "Lies of P NG+",
-      "game_name": "Lies of P",
-      "viewer_count": 8,
-      "follower_count": 312,
-      "language": "en",
-      "started_at": "2026-10-01T22:57:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
       "user_login": "desertrose",
       "user_name": "Desertrose",
       "is_live": true,
       "title": "Finishing KH1 today.... maybe?",
       "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 1048,
       "language": "en",
       "started_at": "2026-10-01T22:05:10Z",
@@ -88,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
+    },
+    {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": true,
+      "title": "Lies of P NG+",
+      "game_name": "Lies of P",
+      "viewer_count": 7,
+      "follower_count": 312,
+      "language": "en",
+      "started_at": "2026-10-01T22:57:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "bribeecool10",
@@ -118,21 +133,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 975🌈!discord🌈WE LOVE GAMING BRO SERIOUSLY WE ARE GAMING SO MUCH WITH THE GAMING FOR GAMERS ON GAMING LAND WITH THE G",
-      "game_name": "Rocket League",
-      "viewer_count": 0,
-      "follower_count": 117683,
-      "language": "en",
-      "started_at": "2026-10-02T00:11:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "alfieduu",
