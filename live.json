@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T04:53:01.513Z",
+  "generatedAt": "2026-10-02T04:57:57.528Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T04:53:01.513Z",
+    "fetchedAt": "2026-10-02T04:57:57.528Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "New Witch in Town :3 || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 56,
+      "viewer_count": 52,
       "follower_count": 6388,
       "language": "en",
       "started_at": "2026-10-01T23:30:35Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Someone SAVE ME From This Game!!! | Visage",
       "game_name": "Games + Demos",
-      "viewer_count": 14,
+      "viewer_count": 17,
       "follower_count": 903,
       "language": "en",
       "started_at": "2026-10-02T04:04:55Z",
