@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-10-02T04:27:57.540Z",
+  "generatedAt": "2026-10-02T04:32:57.545Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T04:27:57.540Z",
+    "fetchedAt": "2026-10-02T04:32:57.545Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
-    {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "Last Raids Before The Update! | Drops Enabled !discord",
-      "game_name": "ARC Raiders",
-      "viewer_count": 110,
-      "follower_count": 14666,
-      "language": "en",
-      "started_at": "2026-10-01T20:06:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
     {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "New Witch in Town :3 || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 63,
+      "viewer_count": 60,
       "follower_count": 6388,
       "language": "en",
       "started_at": "2026-10-01T23:30:35Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "This is HALLOWEEN!! | Spooky Season Kick off | Spooky jobs time! | Follow Goal: 546/600 | Mothman's Fav <3",
       "game_name": "[HERROR] Gas Station Case",
-      "viewer_count": 24,
+      "viewer_count": 21,
       "follower_count": 547,
       "language": "en",
       "started_at": "2026-10-02T01:39:07Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "Someone SAVE ME From This Game!!! | Visage",
       "game_name": "Games + Demos",
-      "viewer_count": 14,
+      "viewer_count": 12,
       "follower_count": 903,
       "language": "en",
       "started_at": "2026-10-02T04:04:55Z",
@@ -553,6 +538,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
+    },
+    {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 14666,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "slimchungusgaming",
