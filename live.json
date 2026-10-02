@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T20:47:58.167Z",
+  "generatedAt": "2026-10-02T20:52:58.224Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T20:47:58.167Z",
+    "fetchedAt": "2026-10-02T20:52:58.224Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Jax 4 Partner! Drops on! Cozy farm build vibes |!library !discord !tip !linktree !merch|",
       "game_name": "Minecraft",
-      "viewer_count": 43,
-      "follower_count": 2806,
+      "viewer_count": 41,
+      "follower_count": 2805,
       "language": "en",
       "started_at": "2026-10-02T19:20:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
