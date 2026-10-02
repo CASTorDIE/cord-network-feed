@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T10:17:58.106Z",
+  "generatedAt": "2026-10-02T10:22:58.142Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T10:17:58.106Z",
+    "fetchedAt": "2026-10-02T10:22:58.142Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "R U Ok? Charity Stream Day 4. Heading for South Dekota.",
       "game_name": "American Truck Simulator",
-      "viewer_count": 3,
-      "follower_count": 421,
+      "viewer_count": 1,
+      "follower_count": 420,
       "language": "en",
       "started_at": "2026-10-02T09:12:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
