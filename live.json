@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T20:12:58.188Z",
+  "generatedAt": "2026-10-02T20:17:58.184Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T20:12:58.188Z",
+    "fetchedAt": "2026-10-02T20:17:58.184Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Jax 4 Partner! Drops on! Cozy farm build vibes |!library !discord !tip !linktree !merch|",
       "game_name": "Minecraft",
-      "viewer_count": 57,
+      "viewer_count": 55,
       "follower_count": 2806,
       "language": "en",
       "started_at": "2026-10-02T19:20:24Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Another beautiful day in Spooky Season | Spooky jobs time! | Follow Goal: 547/600 | Mothman's Fav <3",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "follower_count": 547,
       "language": "en",
       "started_at": "2026-10-02T20:10:23Z",
