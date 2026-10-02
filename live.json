@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T14:07:57.511Z",
+  "generatedAt": "2026-10-02T14:12:57.521Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T14:07:57.511Z",
+    "fetchedAt": "2026-10-02T14:12:57.521Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We Found Zoe… and She Told Us to LEAVE 😭 | Silent Hill: Townfall",
       "game_name": "SILENT HILL: townfall",
-      "viewer_count": 34,
+      "viewer_count": 30,
       "follower_count": 996,
       "language": "en",
       "started_at": "2026-10-02T12:44:10Z",
@@ -34,8 +34,8 @@
       "user_name": "BeckyBPlays",
       "is_live": true,
       "title": "FREE Horror Games That Looked WAY Too Scary | !hype !newvlog !gamevideo",
-      "game_name": "Just Chatting",
-      "viewer_count": 15,
+      "game_name": "Games + Demos",
+      "viewer_count": 18,
       "follower_count": 5126,
       "language": "en",
       "started_at": "2026-10-02T13:07:33Z",
