@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T16:42:57.860Z",
+  "generatedAt": "2026-10-02T16:47:57.851Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T16:42:57.860Z",
+    "fetchedAt": "2026-10-02T16:47:57.851Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "FREE Horror Games That Looked WAY Too Scary | !hype !newvlog !gamevideo",
       "game_name": "Games + Demos",
-      "viewer_count": 13,
+      "viewer_count": 12,
       "follower_count": 5125,
       "language": "en",
       "started_at": "2026-10-02T13:07:33Z",
@@ -651,7 +651,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10209,
+      "follower_count": 10208,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
