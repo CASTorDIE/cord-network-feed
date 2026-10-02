@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T23:37:57.567Z",
+  "generatedAt": "2026-10-02T23:42:57.495Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-02T23:37:57.567Z",
+    "fetchedAt": "2026-10-02T23:42:57.495Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → RANDOM GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 62,
+      "viewer_count": 57,
       "follower_count": 2522,
       "language": "en",
       "started_at": "2026-10-02T22:44:56Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "THE ENDING!!! Alan Wake until we are NO LONGER AWAKE! | Alan Wake 2 | First Playthrough | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 654,
       "language": "en",
       "started_at": "2026-10-02T21:31:22Z",
