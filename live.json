@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T15:37:58.148Z",
+  "generatedAt": "2026-10-03T15:42:58.186Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-03T15:37:58.148Z",
+    "fetchedAt": "2026-10-03T15:42:58.186Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃DROPS🎃 HALLOWEEN Update Is Here! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 136,
-      "follower_count": 5128,
+      "viewer_count": 134,
+      "follower_count": 5131,
       "language": "en",
       "started_at": "2026-10-03T13:14:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
