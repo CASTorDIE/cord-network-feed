@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T13:02:57.928Z",
+  "generatedAt": "2026-10-03T13:07:57.915Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-03T13:02:57.928Z",
+    "fetchedAt": "2026-10-03T13:07:57.915Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Jax 4 Partner! Drops on! FInishing this star path, then decorating |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 82,
-      "follower_count": 2807,
+      "viewer_count": 84,
+      "follower_count": 2809,
       "language": "en",
       "started_at": "2026-10-03T11:34:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
