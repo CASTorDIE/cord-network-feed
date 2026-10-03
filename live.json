@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-03T16:37:58.301Z",
+  "generatedAt": "2026-10-03T16:42:58.241Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-03T16:37:58.301Z",
+    "fetchedAt": "2026-10-03T16:42:58.241Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DROPS🎃 HALLOWEEN Update Is Here! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 126,
+      "viewer_count": 132,
       "follower_count": 5132,
       "language": "en",
       "started_at": "2026-10-03T13:14:26Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
+      "user_login": "padbae",
+      "user_name": "padbae",
+      "is_live": true,
+      "title": "♡ 1.8 Cobblemon Explore!  ♡ ⋆(๑•ᴗ•๑) | POV: Zoro gave up and became a streamer | !lurk !sus !discord !gfuel !patreon",
+      "game_name": "Minecraft",
+      "viewer_count": 2,
+      "follower_count": 1349,
+      "language": "en",
+      "started_at": "2026-10-03T16:40:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/padbae",
+      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -493,21 +508,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1132c17-c3f8-4b58-beee-f0c43232628e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": "twitch: Infinitehavoconline"
-    },
-    {
-      "user_login": "padbae",
-      "user_name": "padbae",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1349,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/padbae",
-      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
       "user_login": "rickett_raffy",
