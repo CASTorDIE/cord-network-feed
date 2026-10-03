@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T13:52:57.995Z",
+  "generatedAt": "2026-10-03T13:57:58.019Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-03T13:52:57.995Z",
+    "fetchedAt": "2026-10-03T13:57:58.019Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃DROPS🎃 HALLOWEEN Update Is Here! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 140,
-      "follower_count": 5123,
+      "viewer_count": 134,
+      "follower_count": 5124,
       "language": "en",
       "started_at": "2026-10-03T13:14:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Jax 4 Partner! Drops on! FInishing this star path, then decorating |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 85,
+      "viewer_count": 87,
       "follower_count": 2811,
       "language": "en",
       "started_at": "2026-10-03T11:34:54Z",
