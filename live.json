@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T13:42:57.976Z",
+  "generatedAt": "2026-10-03T13:47:58.024Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-03T13:42:57.976Z",
+    "fetchedAt": "2026-10-03T13:47:58.024Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "jaxsberrypatch",
-      "user_name": "jaxsberrypatch",
-      "is_live": true,
-      "title": "Jax 4 Partner! Drops on! FInishing this star path, then decorating |!library !discord !tip !linktree !merch|",
-      "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 84,
-      "follower_count": 2811,
-      "language": "en",
-      "started_at": "2026-10-03T11:34:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1cf556-9d84-4acf-a233-65f10ac1d1fa-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
-      "description": "🍓 Welcome to JaxsBerryPatch! ✨ Cozy games, creative builds & chaotic fun! I’m Jax, streaming Disney Dreamlight Valley & Minecraft. Come get comfy, hang out, and let’s create a little magic together! 🌸💕 Come hang out, 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
-    },
-    {
       "user_login": "beckybplays",
       "user_name": "BeckyBPlays",
       "is_live": true,
       "title": "🎃DROPS🎃 HALLOWEEN Update Is Here! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 29,
+      "viewer_count": 135,
       "follower_count": 5124,
       "language": "en",
       "started_at": "2026-10-03T13:14:26Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
+      "user_login": "jaxsberrypatch",
+      "user_name": "jaxsberrypatch",
+      "is_live": true,
+      "title": "Jax 4 Partner! Drops on! FInishing this star path, then decorating |!library !discord !tip !linktree !merch|",
+      "game_name": "Disney Dreamlight Valley",
+      "viewer_count": 90,
+      "follower_count": 2811,
+      "language": "en",
+      "started_at": "2026-10-03T11:34:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1cf556-9d84-4acf-a233-65f10ac1d1fa-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
+      "description": "🍓 Welcome to JaxsBerryPatch! ✨ Cozy games, creative builds & chaotic fun! I’m Jax, streaming Disney Dreamlight Valley & Minecraft. Come get comfy, hang out, and let’s create a little magic together! 🌸💕 Come hang out, 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
     {
       "user_login": "4kaizen_gaming",
