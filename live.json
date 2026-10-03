@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T08:22:57.396Z",
+  "generatedAt": "2026-10-03T08:27:57.403Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-03T08:22:57.396Z",
+    "fetchedAt": "2026-10-03T08:27:57.403Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "R U Ok? Charity Stream Day 5. Trying to get my own boat in Sea of Theives",
       "game_name": "Sea of Thieves",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 420,
       "language": "en",
       "started_at": "2026-10-03T08:12:54Z",
