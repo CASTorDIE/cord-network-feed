@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-03T01:57:57.737Z",
+  "generatedAt": "2026-10-03T02:02:57.744Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-03T01:57:57.737Z",
+    "fetchedAt": "2026-10-03T02:02:57.744Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 976🦉!discord🦉HURRY UP🦉THIS STREAM IS SHORT🦉YOU DO NOT WANT OT MISS IT🦉IT IWLL BE THE MOST ACTION PACKED EVENT YOU",
       "game_name": "Rocket League",
-      "viewer_count": 333,
-      "follower_count": 117832,
+      "viewer_count": 362,
+      "follower_count": 117834,
       "language": "en",
       "started_at": "2026-10-03T00:58:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,12 +30,27 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "OCT IS HERE 🎃 Dark Witch Cosplay | !oct !throne !tip !move",
+      "game_name": "REVEIL",
+      "viewer_count": 59,
+      "follower_count": 10711,
+      "language": "en",
+      "started_at": "2026-10-03T00:01:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
+    },
+    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → RANDOM GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Games + Demos",
-      "viewer_count": 61,
+      "viewer_count": 52,
       "follower_count": 2523,
       "language": "en",
       "started_at": "2026-10-02T22:44:56Z",
@@ -45,19 +60,19 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
       "is_live": true,
-      "title": "OCT IS HERE 🎃 Dark Witch Cosplay | !oct !throne !tip !move",
-      "game_name": "REVEIL",
-      "viewer_count": 60,
-      "follower_count": 10711,
+      "title": "Lies of P NG+ Late game Antics",
+      "game_name": "Lies of P",
+      "viewer_count": 1,
+      "follower_count": 312,
       "language": "en",
-      "started_at": "2026-10-03T00:01:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
+      "started_at": "2026-10-03T01:58:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "bribeecool10",
@@ -73,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 312,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "alfieduu",
@@ -111,7 +111,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 525,
+      "follower_count": 524,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
