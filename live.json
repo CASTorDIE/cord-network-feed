@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T17:12:57.678Z",
+  "generatedAt": "2026-10-03T17:17:57.498Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-03T17:12:57.678Z",
+    "fetchedAt": "2026-10-03T17:17:57.498Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DROPS🎃 HALLOWEEN Update Is Here! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 60,
+      "viewer_count": 64,
       "follower_count": 5132,
       "language": "en",
       "started_at": "2026-10-03T13:14:26Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "♡ 1.8 Cobblemon Explore!  ♡ ⋆(๑•ᴗ•๑) | POV: Zoro gave up and became a streamer | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 12,
+      "viewer_count": 10,
       "follower_count": 1349,
       "language": "en",
       "started_at": "2026-10-03T16:40:14Z",
