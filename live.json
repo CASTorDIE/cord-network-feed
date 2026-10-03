@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T04:52:58.120Z",
+  "generatedAt": "2026-10-03T04:57:58.071Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-03T04:52:58.120Z",
+    "fetchedAt": "2026-10-03T04:57:58.071Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Lies of P NG+ Late game Antics",
       "game_name": "Lies of P",
-      "viewer_count": 15,
+      "viewer_count": 16,
       "follower_count": 312,
       "language": "en",
       "started_at": "2026-10-03T01:58:55Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Someone SAVE ME From This Game!!! | Visage",
       "game_name": "Games + Demos",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 902,
       "language": "en",
       "started_at": "2026-10-03T04:18:35Z",
