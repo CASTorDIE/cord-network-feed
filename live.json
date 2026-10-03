@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T15:32:58.183Z",
+  "generatedAt": "2026-10-03T15:37:58.148Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-03T15:32:58.183Z",
+    "fetchedAt": "2026-10-03T15:37:58.148Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DROPS🎃 HALLOWEEN Update Is Here! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 138,
+      "viewer_count": 136,
       "follower_count": 5128,
       "language": "en",
       "started_at": "2026-10-03T13:14:26Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 117875,
+      "follower_count": 117876,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
