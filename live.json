@@ -1,34 +1,19 @@
 {
-  "generatedAt": "2026-10-03T19:37:57.815Z",
+  "generatedAt": "2026-10-03T19:42:57.867Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-03T19:37:57.815Z",
+    "fetchedAt": "2026-10-03T19:42:57.867Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
-    {
-      "user_login": "padbae",
-      "user_name": "padbae",
-      "is_live": true,
-      "title": "♡ 1.8 Cobblemon Explore!  ♡ ⋆(๑•ᴗ•๑) | POV: Zoro gave up and became a streamer | !lurk !sus !discord !gfuel !patreon",
-      "game_name": "Minecraft",
-      "viewer_count": 19,
-      "follower_count": 1351,
-      "language": "en",
-      "started_at": "2026-10-03T16:40:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/padbae",
-      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
-    },
     {
       "user_login": "thepuckgoa",
       "user_name": "ThePuckGOA",
@@ -201,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 117881,
+      "follower_count": 117880,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -525,6 +510,21 @@
       "description": "twitch: Infinitehavoconline"
     },
     {
+      "user_login": "padbae",
+      "user_name": "padbae",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1351,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/padbae",
+      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
+    },
+    {
       "user_login": "rickett_raffy",
       "user_name": "rickett_raffy",
       "is_live": false,
@@ -621,7 +621,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 8927,
+      "follower_count": 8928,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
