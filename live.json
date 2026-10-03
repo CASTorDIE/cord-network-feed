@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T03:32:57.956Z",
+  "generatedAt": "2026-10-03T03:37:57.890Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-03T03:32:57.956Z",
+    "fetchedAt": "2026-10-03T03:37:57.890Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "OCT IS HERE 🎃 Dark Witch Cosplay | !oct !throne !tip !move",
-      "game_name": "REVEIL",
-      "viewer_count": 58,
-      "follower_count": 10712,
-      "language": "en",
-      "started_at": "2026-10-03T00:01:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → RANDOM GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 48,
+      "viewer_count": 54,
       "follower_count": 2524,
       "language": "en",
       "started_at": "2026-10-02T22:44:56Z",
@@ -45,12 +30,27 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "OCT IS HERE 🎃 Dark Witch Cosplay | !oct !throne !tip !move",
+      "game_name": "REVEIL",
+      "viewer_count": 53,
+      "follower_count": 10712,
+      "language": "en",
+      "started_at": "2026-10-03T00:01:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
+    },
+    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Lies of P NG+ Late game Antics",
       "game_name": "Lies of P",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 312,
       "language": "en",
       "started_at": "2026-10-03T01:58:55Z",
