@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T18:57:57.997Z",
+  "generatedAt": "2026-10-04T19:02:59.301Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-04T18:57:57.997Z",
+    "fetchedAt": "2026-10-04T19:02:59.301Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming - Weird Island Shenanigans!",
       "game_name": "Resident Evil: Revelations 2",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 26,
       "language": "en",
       "started_at": "2026-10-04T17:05:09Z",
