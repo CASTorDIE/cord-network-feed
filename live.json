@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T13:22:58.178Z",
+  "generatedAt": "2026-10-04T13:27:58.181Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-04T13:22:58.178Z",
+    "fetchedAt": "2026-10-04T13:27:58.181Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Jax 4 Partner! |Drops on!| Storybook Vale builds! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 74,
+      "viewer_count": 84,
       "follower_count": 2816,
       "language": "en",
       "started_at": "2026-10-04T11:59:52Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃DROPS🎃 Spooky Palia Plushie Hunting… Then We're Trying WOODO?! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 23,
+      "viewer_count": 24,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-10-04T13:04:15Z",
