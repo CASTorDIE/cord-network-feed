@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T06:12:57.467Z",
+  "generatedAt": "2026-10-04T06:17:57.475Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-04T06:12:57.467Z",
+    "fetchedAt": "2026-10-04T06:17:57.475Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "SKAturday Trolling PVP 🤣 | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 127,
+      "viewer_count": 130,
       "follower_count": 14692,
       "language": "en",
       "started_at": "2026-10-03T23:40:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃 Demon Slayer Nezuko Cosplay | !oct !throne !tip !move",
       "game_name": "Super Battle Golf",
-      "viewer_count": 56,
+      "viewer_count": 53,
       "follower_count": 10713,
       "language": "en",
       "started_at": "2026-10-04T00:02:36Z",
