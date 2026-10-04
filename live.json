@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-04T03:22:58.198Z",
+  "generatedAt": "2026-10-04T03:27:58.274Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-04T03:22:58.198Z",
+    "fetchedAt": "2026-10-04T03:27:58.274Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "SKAturday Trolling PVP 🤣 | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 141,
+      "viewer_count": 137,
       "follower_count": 14687,
       "language": "en",
       "started_at": "2026-10-03T23:40:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| L and Z take get shrunk! | !discord !telegram !vrc !micro !pizza |",
       "game_name": "It Takes Two",
-      "viewer_count": 102,
+      "viewer_count": 101,
       "follower_count": 10207,
       "language": "en",
       "started_at": "2026-10-04T02:10:35Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🎃 Demon Slayer Nezuko Cosplay | !oct !throne !tip !move",
       "game_name": "Deadlock",
-      "viewer_count": 52,
+      "viewer_count": 55,
       "follower_count": 10714,
       "language": "en",
       "started_at": "2026-10-04T00:02:36Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Lies of P NG+Finishing base game for sure!",
       "game_name": "Lies of P",
-      "viewer_count": 14,
+      "viewer_count": 11,
       "follower_count": 311,
       "language": "en",
       "started_at": "2026-10-04T00:55:47Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": true,
-      "title": "Its just a pizza place... right? with @deddwolf and @gamegarou @bittergrim",
-      "game_name": "I Know a Guy",
-      "viewer_count": 3,
-      "follower_count": 1050,
-      "language": "en",
-      "started_at": "2026-10-04T00:33:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "alfieduu",
@@ -268,6 +253,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10fbac99-b892-40b3-88cb-3ba197ba88f8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/darkdemocracytv",
       "description": "Healthcare by day, streaming by night! I'm Adam a dad, who love all things games, anime, and entertainment, and I'm so glad you're here with us! "
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1050,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "dingo_dynasty",
