@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T21:07:58.244Z",
+  "generatedAt": "2026-10-04T21:12:58.206Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-04T21:07:58.244Z",
+    "fetchedAt": "2026-10-04T21:12:58.206Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,7 +18,7 @@
       "user_login": "desertrose",
       "user_name": "Desertrose",
       "is_live": true,
-      "title": "Final boss, hopefully in one sitting :3",
+      "title": "Final boss, hopefully in one sitting :3  !kofi",
       "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
       "viewer_count": 1,
       "follower_count": 1049,
@@ -126,7 +126,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 5135,
+      "follower_count": 5136,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
