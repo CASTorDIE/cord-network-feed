@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T07:57:57.608Z",
+  "generatedAt": "2026-10-04T08:02:57.709Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-04T07:57:57.608Z",
+    "fetchedAt": "2026-10-04T08:02:57.709Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -23,7 +23,7 @@
       "viewer_count": 3,
       "follower_count": 59,
       "language": "en",
-      "started_at": "2026-10-04T07:52:54Z",
+      "started_at": "2026-10-04T07:58:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_joreeezy-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31bfe9da-ffc9-4e1f-aff9-accb9a681510-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/joreeezy",
