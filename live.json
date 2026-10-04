@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T17:22:57.850Z",
+  "generatedAt": "2026-10-04T17:27:57.805Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-04T17:22:57.850Z",
+    "fetchedAt": "2026-10-04T17:27:57.805Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Trying out WOODO?! | !hype !newvlog !gamevideo",
       "game_name": "Woodo",
-      "viewer_count": 25,
+      "viewer_count": 23,
       "follower_count": 5136,
       "language": "en",
       "started_at": "2026-10-04T13:04:15Z",
@@ -381,7 +381,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 660,
+      "follower_count": 661,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
