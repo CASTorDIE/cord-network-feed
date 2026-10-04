@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T02:27:58.125Z",
+  "generatedAt": "2026-10-04T02:32:58.181Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-04T02:27:58.125Z",
+    "fetchedAt": "2026-10-04T02:32:58.181Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "SKAturday Trolling PVP 🤣 | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 137,
-      "follower_count": 14684,
+      "viewer_count": 133,
+      "follower_count": 14685,
       "language": "en",
       "started_at": "2026-10-03T23:40:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃 Demon Slayer Nezuko Cosplay | !oct !throne !tip !move",
       "game_name": "Deadlock",
-      "viewer_count": 51,
+      "viewer_count": 53,
       "follower_count": 10715,
       "language": "en",
       "started_at": "2026-10-04T00:02:36Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "zaldar87",
+      "user_name": "Zaldar87",
+      "is_live": true,
+      "title": "🦊🦇| L and Z take get shrunk! | !discord !telegram !vrc !micro !pizza |",
+      "game_name": "It Takes Two",
+      "viewer_count": 53,
+      "follower_count": 10205,
+      "language": "en",
+      "started_at": "2026-10-04T02:10:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zaldar87",
+      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "ayejohnson",
@@ -60,27 +75,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "zaldar87",
-      "user_name": "Zaldar87",
-      "is_live": true,
-      "title": "🦊🦇| L and Z take get shrunk! | !discord !telegram !vrc !micro !pizza |",
-      "game_name": "It Takes Two",
-      "viewer_count": 43,
-      "follower_count": 10205,
-      "language": "en",
-      "started_at": "2026-10-04T02:10:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zaldar87",
-      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Lies of P NG+Finishing base game for sure!",
       "game_name": "Lies of P",
-      "viewer_count": 12,
+      "viewer_count": 13,
       "follower_count": 311,
       "language": "en",
       "started_at": "2026-10-04T00:55:47Z",
