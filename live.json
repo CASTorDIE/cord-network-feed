@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T16:42:57.507Z",
+  "generatedAt": "2026-10-04T16:47:57.563Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-04T16:42:57.507Z",
+    "fetchedAt": "2026-10-04T16:47:57.563Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Trying out WOODO?! | !hype !newvlog !gamevideo",
       "game_name": "Woodo",
-      "viewer_count": 40,
-      "follower_count": 5138,
+      "viewer_count": 39,
+      "follower_count": 5137,
       "language": "en",
       "started_at": "2026-10-04T13:04:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 117889,
+      "follower_count": 117890,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
