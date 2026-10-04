@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T16:32:57.552Z",
+  "generatedAt": "2026-10-04T16:37:57.607Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-04T16:32:57.552Z",
+    "fetchedAt": "2026-10-04T16:37:57.607Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -18,9 +18,9 @@
       "user_login": "beckybplays",
       "user_name": "BeckyBPlays",
       "is_live": true,
-      "title": "🎃DROPS🎃 Spooky Palia Plushie Hunting… Then We're Trying WOODO?! | !hype !newvlog !gamevideo",
-      "game_name": "Palia",
-      "viewer_count": 44,
+      "title": "Trying out WOODO?! | !hype !newvlog !gamevideo",
+      "game_name": "Woodo",
+      "viewer_count": 39,
       "follower_count": 5138,
       "language": "en",
       "started_at": "2026-10-04T13:04:15Z",
