@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T06:37:57.509Z",
+  "generatedAt": "2026-10-04T06:42:57.499Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-04T06:37:57.509Z",
+    "fetchedAt": "2026-10-04T06:42:57.499Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 Demon Slayer Nezuko Cosplay | !oct !throne !tip !move",
       "game_name": "Super Battle Golf",
-      "viewer_count": 59,
+      "viewer_count": 50,
       "follower_count": 10713,
       "language": "en",
       "started_at": "2026-10-04T00:02:36Z",
@@ -531,7 +531,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14693,
+      "follower_count": 14695,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
