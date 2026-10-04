@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T08:07:57.695Z",
+  "generatedAt": "2026-10-04T08:12:57.654Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-04T08:07:57.695Z",
+    "fetchedAt": "2026-10-04T08:12:57.654Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "LATE NIIGHT",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 59,
       "language": "en",
       "started_at": "2026-10-04T07:58:20Z",
@@ -516,7 +516,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 323,
+      "follower_count": 324,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
