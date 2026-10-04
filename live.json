@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T16:17:57.578Z",
+  "generatedAt": "2026-10-04T16:22:57.506Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-04T16:17:57.578Z",
+    "fetchedAt": "2026-10-04T16:22:57.506Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DROPS🎃 Spooky Palia Plushie Hunting… Then We're Trying WOODO?! | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 51,
+      "viewer_count": 45,
       "follower_count": 5138,
       "language": "en",
       "started_at": "2026-10-04T13:04:15Z",
