@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T21:37:57.626Z",
+  "generatedAt": "2026-10-05T21:42:57.660Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-05T21:37:57.626Z",
+    "fetchedAt": "2026-10-05T21:42:57.660Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "THE LAKE HOUSE DLC! This is TERRIFYING! | Alan Wake 2 | First Playthrough | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 2,
+      "viewer_count": 7,
       "follower_count": 663,
       "language": "en",
       "started_at": "2026-10-05T21:34:15Z",
