@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T03:42:57.720Z",
+  "generatedAt": "2026-10-05T03:47:57.774Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-05T03:42:57.720Z",
+    "fetchedAt": "2026-10-05T03:47:57.774Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 977😋!discord😋WE ARE IN UUEST'S NEW VIDEO😋WE REACT TO IT NOW😋TIME TO REACT TO THE NEW UUEST VIDEO ABOIUT HOW ARE WE",
       "game_name": "Just Chatting",
-      "viewer_count": 325,
+      "viewer_count": 305,
       "follower_count": 118039,
       "language": "en",
       "started_at": "2026-10-05T00:12:18Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I slept so good I thought I missed stream woah || !merch !throne !daki",
       "game_name": "AION 2",
-      "viewer_count": 75,
+      "viewer_count": 66,
       "follower_count": 6389,
       "language": "en",
       "started_at": "2026-10-04T23:31:18Z",
