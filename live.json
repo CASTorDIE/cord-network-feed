@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T05:07:57.909Z",
+  "generatedAt": "2026-10-05T05:12:57.871Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-05T05:07:57.909Z",
+    "fetchedAt": "2026-10-05T05:12:57.871Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I slept so good I thought I missed stream woah || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 90,
+      "viewer_count": 82,
       "follower_count": 6388,
       "language": "en",
       "started_at": "2026-10-04T23:31:18Z",
