@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T15:32:57.975Z",
+  "generatedAt": "2026-10-05T15:37:57.967Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-05T15:32:57.975Z",
+    "fetchedAt": "2026-10-05T15:37:57.967Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[Drops] Palia Bingo Party [Next Stream Oct 6th @ 9am CST ]",
       "game_name": "Palia",
-      "viewer_count": 8,
+      "viewer_count": 5,
       "follower_count": 172,
       "language": "en",
       "started_at": "2026-10-05T13:58:30Z",
