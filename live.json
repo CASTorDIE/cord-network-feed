@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T03:22:59.346Z",
+  "generatedAt": "2026-10-05T03:27:57.707Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-05T03:22:59.346Z",
+    "fetchedAt": "2026-10-05T03:27:57.707Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 977😋!discord😋WE ARE IN UUEST'S NEW VIDEO😋WE REACT TO IT NOW😋TIME TO REACT TO THE NEW UUEST VIDEO ABOIUT HOW ARE WE",
       "game_name": "Rocket League",
-      "viewer_count": 386,
-      "follower_count": 118037,
+      "viewer_count": 366,
+      "follower_count": 118038,
       "language": "en",
       "started_at": "2026-10-05T00:12:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I slept so good I thought I missed stream woah || !merch !throne !daki",
       "game_name": "AION 2",
-      "viewer_count": 81,
+      "viewer_count": 88,
       "follower_count": 6389,
       "language": "en",
       "started_at": "2026-10-04T23:31:18Z",
