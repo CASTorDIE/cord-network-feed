@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T19:02:58.806Z",
+  "generatedAt": "2026-10-05T19:07:57.374Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-05T19:02:58.806Z",
+    "fetchedAt": "2026-10-05T19:07:57.374Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "First Playthrough and I'm scared....",
       "game_name": "The Last of Us Part I",
-      "viewer_count": 6,
+      "viewer_count": 3,
       "follower_count": 460,
       "language": "en",
       "started_at": "2026-10-05T18:21:05Z",
@@ -141,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10712,
+      "follower_count": 10711,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
