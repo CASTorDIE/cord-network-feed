@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T12:27:57.905Z",
+  "generatedAt": "2026-10-05T12:32:57.710Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-05T12:27:57.905Z",
+    "fetchedAt": "2026-10-05T12:32:57.710Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -385,7 +385,7 @@
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f1cf556-9d84-4acf-a233-65f10ac1d1fa-profile_image-300x300.png",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cedc16fd-4cb1-4e16-a27e-fb0df8158665-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
       "description": "🍓 Welcome to JaxsBerryPatch! ✨ Cozy games, creative builds & chaotic fun! I’m Jax, streaming Disney Dreamlight Valley & Minecraft. Come get comfy, hang out, and let’s create a little magic together! 🌸💕 Come hang out, 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
