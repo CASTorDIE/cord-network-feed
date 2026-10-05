@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T23:37:57.833Z",
+  "generatedAt": "2026-10-05T23:42:57.846Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-05T23:37:57.833Z",
+    "fetchedAt": "2026-10-05T23:42:57.846Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING → RANDOM GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 74,
+      "viewer_count": 72,
       "follower_count": 2532,
       "language": "en",
       "started_at": "2026-10-05T22:41:11Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "THE LAKE HOUSE DLC! This is TERRIFYING! | Alan Wake 2 | First Playthrough | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 14,
+      "viewer_count": 15,
       "follower_count": 665,
       "language": "en",
       "started_at": "2026-10-05T21:34:15Z",
