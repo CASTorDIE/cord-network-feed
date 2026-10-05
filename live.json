@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T08:02:58.147Z",
+  "generatedAt": "2026-10-05T08:07:58.328Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-05T08:02:58.147Z",
+    "fetchedAt": "2026-10-05T08:07:58.328Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "DROPS ON II Boo!! Did You Miss Me? II !Discord !wishlist",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "follower_count": 323,
       "language": "en",
       "started_at": "2026-10-05T07:59:29Z",
