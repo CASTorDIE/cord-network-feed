@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-10-06T04:12:57.341Z",
+  "generatedAt": "2026-10-06T04:17:57.259Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-06T04:12:57.341Z",
+    "fetchedAt": "2026-10-06T04:17:57.259Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 978🦤!discord🦤MAIN CHANNEL MONDAY🦤MAIN CHANNEL YOUTUBE VIDEO POSTED TODAY🦤GO WATCH THE NEW MAIN CHANNEL VIDEO RIGHT",
-      "game_name": "Rocket League",
-      "viewer_count": 295,
-      "follower_count": 118178,
-      "language": "en",
-      "started_at": "2026-10-06T00:13:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| ZALDAR vs. THE CROWD in Valheim | !discord !telegram !vrc !micro !pizza |",
       "game_name": "Valheim",
-      "viewer_count": 85,
+      "viewer_count": 88,
       "follower_count": 10207,
       "language": "en",
       "started_at": "2026-10-06T02:01:34Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "We step onto the property for the first time... Hunting for the 46th room | No Back seating | First Play through [Episode 1] | 05/10/2026",
       "game_name": "Blue Prince",
-      "viewer_count": 8,
+      "viewer_count": 10,
       "follower_count": 727,
       "language": "en",
       "started_at": "2026-10-06T01:54:28Z",
@@ -208,6 +193,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 118178,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
