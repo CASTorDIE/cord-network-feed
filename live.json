@@ -1,26 +1,41 @@
 {
-  "generatedAt": "2026-10-06T12:37:58.196Z",
+  "generatedAt": "2026-10-06T12:42:58.260Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-06T12:37:58.196Z",
+    "fetchedAt": "2026-10-06T12:42:58.260Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
+    {
+      "user_login": "memella",
+      "user_name": "memella",
+      "is_live": true,
+      "title": "singing + piano = live music requests🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
+      "game_name": "Music",
+      "viewer_count": 10,
+      "follower_count": 431,
+      "language": "en",
+      "started_at": "2026-10-06T11:00:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/memella",
+      "description": "I'm not very good at it - but I do it anyway"
+    },
     {
       "user_login": "beckybplays",
       "user_name": "BeckyBPlays",
       "is_live": true,
       "title": "My Boo @explauraa Invited Me to Community Game Night!  | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 13,
+      "viewer_count": 9,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-10-06T12:24:29Z",
@@ -30,19 +45,19 @@
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
-      "user_login": "memella",
-      "user_name": "memella",
+      "user_login": "gibsontales",
+      "user_name": "GibsonTales",
       "is_live": true,
-      "title": "singing + piano = live music requests🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
-      "game_name": "Music",
-      "viewer_count": 11,
-      "follower_count": 431,
+      "title": "We Have Almost NO Ammo and a Building Full of Monsters 😭 | Silent Hill: Townfall",
+      "game_name": "SILENT HILL: townfall",
+      "viewer_count": 2,
+      "follower_count": 997,
       "language": "en",
-      "started_at": "2026-10-06T11:00:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/memella",
-      "description": "I'm not very good at it - but I do it anyway"
+      "started_at": "2026-10-06T12:41:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gibsontales",
+      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
     },
     {
       "user_login": "4kaizen_gaming",
@@ -328,21 +343,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
-    },
-    {
-      "user_login": "gibsontales",
-      "user_name": "GibsonTales",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 997,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gibsontales",
-      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
     },
     {
       "user_login": "gmclay_",
