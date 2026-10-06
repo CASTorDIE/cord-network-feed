@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T15:52:57.943Z",
+  "generatedAt": "2026-10-06T15:57:57.879Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-06T15:52:57.943Z",
+    "fetchedAt": "2026-10-06T15:57:57.879Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Designing our Rags to Riches Home [Next Stream Oct 10th @ 9am CST ]",
       "game_name": "Paralives",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 172,
       "language": "en",
       "started_at": "2026-10-06T14:05:24Z",
