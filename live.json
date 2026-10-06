@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T05:37:57.605Z",
+  "generatedAt": "2026-10-06T05:42:57.504Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-06T05:37:57.605Z",
+    "fetchedAt": "2026-10-06T05:42:57.504Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| ZALDAR vs. THE CROWD in Valheim | !discord !telegram !vrc !micro !pizza |",
       "game_name": "Valheim",
-      "viewer_count": 111,
-      "follower_count": 10211,
+      "viewer_count": 96,
+      "follower_count": 10212,
       "language": "en",
       "started_at": "2026-10-06T02:01:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "We step onto the property for the first time... Hunting for the 46th room | No Back seating | First Play through [Episode 1] | 05/10/2026",
       "game_name": "Blue Prince",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 728,
       "language": "en",
       "started_at": "2026-10-06T01:54:28Z",
