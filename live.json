@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-06T13:57:57.479Z",
+  "generatedAt": "2026-10-06T14:02:57.471Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-06T13:57:57.479Z",
+    "fetchedAt": "2026-10-06T14:02:57.471Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We Have Almost NO Ammo and a Building Full of Monsters 😭 | Silent Hill: Townfall",
       "game_name": "SILENT HILL: townfall",
-      "viewer_count": 36,
+      "viewer_count": 35,
       "follower_count": 1002,
       "language": "en",
       "started_at": "2026-10-06T12:41:04Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "My Boo @explauraa Invited Me to Community Game Night!  | !hype !newvlog !gamevideo",
       "game_name": "MECCHA CHAMELEON",
-      "viewer_count": 20,
+      "viewer_count": 22,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-10-06T12:24:29Z",
@@ -43,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
-    },
-    {
-      "user_login": "memella",
-      "user_name": "memella",
-      "is_live": true,
-      "title": "singing + piano = live music requests🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
-      "game_name": "Music",
-      "viewer_count": 10,
-      "follower_count": 431,
-      "language": "en",
-      "started_at": "2026-10-06T11:00:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/memella",
-      "description": "I'm not very good at it - but I do it anyway"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -448,6 +433,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/laconsgamingnook",
       "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
+    },
+    {
+      "user_login": "memella",
+      "user_name": "memella",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 431,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/memella",
+      "description": "I'm not very good at it - but I do it anyway"
     },
     {
       "user_login": "mrcarameldrizzle",
