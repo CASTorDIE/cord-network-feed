@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T21:32:58.207Z",
+  "generatedAt": "2026-10-06T21:37:58.439Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-06T21:32:58.207Z",
+    "fetchedAt": "2026-10-06T21:37:58.439Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴LAST STREAM before the update | Drops Enabled !discord",
       "game_name": "Just Chatting",
-      "viewer_count": 52,
+      "viewer_count": 93,
       "follower_count": 14692,
       "language": "en",
       "started_at": "2026-10-06T21:23:05Z",
