@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T21:42:58.212Z",
+  "generatedAt": "2026-10-06T21:47:58.230Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-06T21:42:58.212Z",
+    "fetchedAt": "2026-10-06T21:47:58.230Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴LAST STREAM before the update | Drops Enabled !discord",
       "game_name": "Just Chatting",
-      "viewer_count": 104,
-      "follower_count": 14692,
+      "viewer_count": 106,
+      "follower_count": 14691,
       "language": "en",
       "started_at": "2026-10-06T21:23:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
