@@ -1,26 +1,41 @@
 {
-  "generatedAt": "2026-10-06T00:12:57.900Z",
+  "generatedAt": "2026-10-06T00:17:57.952Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-06T00:12:57.900Z",
+    "fetchedAt": "2026-10-06T00:17:57.952Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 978🦤!discord🦤MAIN CHANNEL MONDAY🦤MAIN CHANNEL YOUTUBE VIDEO POSTED TODAY🦤GO WATCH THE NEW MAIN CHANNEL VIDEO RIGHT",
+      "game_name": "Rocket League",
+      "viewer_count": 93,
+      "follower_count": 118052,
+      "language": "en",
+      "started_at": "2026-10-06T00:13:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
     {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → RANDOM GAMES 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 78,
+      "viewer_count": 80,
       "follower_count": 2532,
       "language": "en",
       "started_at": "2026-10-05T22:41:11Z",
@@ -35,7 +50,7 @@
       "is_live": true,
       "title": "THE LAKE HOUSE DLC! This is TERRIFYING! | Alan Wake 2 | First Playthrough | !links",
       "game_name": "Alan Wake II",
-      "viewer_count": 15,
+      "viewer_count": 12,
       "follower_count": 665,
       "language": "en",
       "started_at": "2026-10-05T21:34:15Z",
@@ -178,21 +193,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 118052,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
