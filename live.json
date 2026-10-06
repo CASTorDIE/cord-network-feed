@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T22:52:58.253Z",
+  "generatedAt": "2026-10-06T22:57:58.250Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-06T22:52:58.253Z",
+    "fetchedAt": "2026-10-06T22:57:58.250Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴LAST STREAM before the update | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 148,
+      "viewer_count": 130,
       "follower_count": 14695,
       "language": "en",
       "started_at": "2026-10-06T21:23:05Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → WOMAN SIMULATOR 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 58,
+      "viewer_count": 61,
       "follower_count": 2542,
       "language": "en",
       "started_at": "2026-10-06T22:40:22Z",
