@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T11:07:58.121Z",
+  "generatedAt": "2026-10-06T11:12:58.109Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-06T11:07:58.121Z",
+    "fetchedAt": "2026-10-06T11:12:58.109Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "singing + piano = live music requests🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "follower_count": 431,
       "language": "en",
       "started_at": "2026-10-06T11:00:14Z",
@@ -400,7 +400,7 @@
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cedc16fd-4cb1-4e16-a27e-fb0df8158665-profile_image-300x300.png",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/44a17c6f-0ef1-486c-91ce-786146ba5369-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
       "description": "🍓 Welcome to JaxsBerryPatch! ✨ Cozy games, creative builds & chaotic fun! I’m Jax, streaming Disney Dreamlight Valley & Minecraft. Come get comfy, hang out, and let’s create a little magic together! 🌸💕 Come hang out, 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
