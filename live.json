@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T23:12:58.227Z",
+  "generatedAt": "2026-10-06T23:17:58.248Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-06T23:12:58.227Z",
+    "fetchedAt": "2026-10-06T23:17:58.248Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴LAST STREAM before the update | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 133,
-      "follower_count": 14696,
+      "viewer_count": 126,
+      "follower_count": 14697,
       "language": "en",
       "started_at": "2026-10-06T21:23:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → WOMAN SIMULATOR 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 75,
+      "viewer_count": 63,
       "follower_count": 2542,
       "language": "en",
       "started_at": "2026-10-06T22:40:22Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": true,
+      "title": "Short strum  !kofi",
+      "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+      "viewer_count": 3,
+      "follower_count": 1050,
+      "language": "en",
+      "started_at": "2026-10-06T23:09:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "thepuckgoa",
@@ -73,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": true,
-      "title": "Short strum  !kofi",
-      "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-      "viewer_count": 1,
-      "follower_count": 1050,
-      "language": "en",
-      "started_at": "2026-10-06T23:09:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "4kaizen_gaming",
