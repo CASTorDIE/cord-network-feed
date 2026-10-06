@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T07:27:57.770Z",
+  "generatedAt": "2026-10-06T07:32:57.723Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-06T07:27:57.770Z",
+    "fetchedAt": "2026-10-06T07:32:57.723Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| ZALDAR vs. THE CROWD in Valheim | !discord !telegram !vrc !micro !pizza |",
       "game_name": "Valheim",
-      "viewer_count": 31,
+      "viewer_count": 51,
       "follower_count": 10213,
       "language": "en",
       "started_at": "2026-10-06T07:25:43Z",
