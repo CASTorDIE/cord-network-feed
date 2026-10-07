@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T05:47:57.962Z",
+  "generatedAt": "2026-10-07T05:52:57.950Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-07T05:47:57.962Z",
+    "fetchedAt": "2026-10-07T05:52:57.950Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Murder House",
       "game_name": "Games + Demos",
-      "viewer_count": 18,
+      "viewer_count": 17,
       "follower_count": 901,
       "language": "en",
       "started_at": "2026-10-07T04:14:51Z",
