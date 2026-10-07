@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T05:12:58.132Z",
+  "generatedAt": "2026-10-07T05:17:57.932Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-07T05:12:58.132Z",
+    "fetchedAt": "2026-10-07T05:17:57.932Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴LAST STREAM before the update | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 213,
-      "follower_count": 14708,
+      "viewer_count": 175,
+      "follower_count": 14709,
       "language": "en",
       "started_at": "2026-10-06T21:23:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Murder House",
       "game_name": "Games + Demos",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "follower_count": 901,
       "language": "en",
       "started_at": "2026-10-07T04:14:51Z",
