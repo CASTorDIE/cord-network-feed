@@ -1,42 +1,27 @@
 {
-  "generatedAt": "2026-10-07T03:02:57.655Z",
+  "generatedAt": "2026-10-07T03:07:57.730Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-07T03:02:57.655Z",
+    "fetchedAt": "2026-10-07T03:07:57.730Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 979🧔!discord🧔‍♀️OH WOWEE WE AR EFOR THE INSIDE ON THE EVENING🧔‍♀️WE ARE LOVING IN HOW ARE WE MOVNIG WITH FORWARD MO",
-      "game_name": "Just Chatting",
-      "viewer_count": 262,
-      "follower_count": 118242,
-      "language": "en",
-      "started_at": "2026-10-07T00:08:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🔴LAST STREAM before the update | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 110,
-      "follower_count": 14702,
+      "viewer_count": 120,
+      "follower_count": 14703,
       "language": "en",
       "started_at": "2026-10-06T21:23:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → WOMAN SIMULATOR 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Games + Demos",
-      "viewer_count": 88,
+      "viewer_count": 84,
       "follower_count": 2562,
       "language": "en",
       "started_at": "2026-10-06T22:40:22Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "ENDACOPIA | I'M LEAVING!!! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Endacopia",
-      "viewer_count": 13,
+      "viewer_count": 24,
       "follower_count": 1737,
       "language": "en",
       "started_at": "2026-10-06T23:53:24Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "Lies of P NG+ DLC",
       "game_name": "Lies of P",
-      "viewer_count": 9,
+      "viewer_count": 11,
       "follower_count": 311,
       "language": "en",
       "started_at": "2026-10-07T00:55:36Z",
@@ -208,6 +193,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 118243,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
