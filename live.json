@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T20:42:57.586Z",
+  "generatedAt": "2026-10-07T20:47:57.564Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-07T20:42:57.586Z",
+    "fetchedAt": "2026-10-07T20:47:57.564Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 PADRES PRE GAME LOBBY | !oct !throne !tip !move",
       "game_name": "Just Chatting",
-      "viewer_count": 50,
+      "viewer_count": 54,
       "follower_count": 10710,
       "language": "en",
       "started_at": "2026-10-07T20:02:53Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 118246,
+      "follower_count": 118247,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
