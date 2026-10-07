@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-07T23:27:57.886Z",
+  "generatedAt": "2026-10-07T23:32:57.885Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-07T23:27:57.886Z",
+    "fetchedAt": "2026-10-07T23:32:57.885Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "NOT ENDING TILL MASTERS 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 49,
+      "viewer_count": 52,
       "follower_count": 8985,
       "language": "en",
       "started_at": "2026-10-07T22:41:10Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "this game looks amazing 🤩",
       "game_name": "Gears of War: E-Day",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 398,
       "language": "en",
       "started_at": "2026-10-07T23:16:07Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "ao_zora_",
+      "user_name": "Ao_Zora_",
+      "is_live": true,
+      "title": "Songs and Chat! || !merch !throne !daki",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 6390,
+      "language": "en",
+      "started_at": "2026-10-07T23:32:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
+      "twitch_url": "https://www.twitch.tv/ao_zora_",
+      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -88,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/allyreggie",
       "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
-    },
-    {
-      "user_login": "ao_zora_",
-      "user_name": "Ao_Zora_",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 6390,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
-      "twitch_url": "https://www.twitch.tv/ao_zora_",
-      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "astral_celestial",
