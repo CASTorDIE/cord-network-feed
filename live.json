@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T21:57:57.801Z",
+  "generatedAt": "2026-10-07T22:02:57.803Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-07T21:57:57.801Z",
+    "fetchedAt": "2026-10-07T22:02:57.803Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 PADRES PRE GAME LOBBY | !oct !throne !tip !move",
       "game_name": "WARDOGS",
-      "viewer_count": 55,
+      "viewer_count": 52,
       "follower_count": 10710,
       "language": "en",
       "started_at": "2026-10-07T20:02:53Z",
