@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T22:07:57.737Z",
+  "generatedAt": "2026-10-07T22:12:57.748Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-07T22:07:57.737Z",
+    "fetchedAt": "2026-10-07T22:12:57.748Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃 PADRES PRE GAME LOBBY | !oct !throne !tip !move",
       "game_name": "WARDOGS",
-      "viewer_count": 50,
-      "follower_count": 10710,
+      "viewer_count": 51,
+      "follower_count": 10709,
       "language": "en",
       "started_at": "2026-10-07T20:02:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
