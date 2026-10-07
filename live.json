@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T03:37:57.833Z",
+  "generatedAt": "2026-10-07T03:42:57.778Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-07T03:37:57.833Z",
+    "fetchedAt": "2026-10-07T03:42:57.778Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴LAST STREAM before the update | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 110,
+      "viewer_count": 106,
       "follower_count": 14706,
       "language": "en",
       "started_at": "2026-10-06T21:23:05Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "YAPPING → WOMAN SIMULATOR 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Games + Demos",
-      "viewer_count": 80,
-      "follower_count": 2562,
+      "viewer_count": 76,
+      "follower_count": 2561,
       "language": "en",
       "started_at": "2026-10-06T22:40:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
