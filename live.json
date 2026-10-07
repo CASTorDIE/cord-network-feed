@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-07T01:57:57.582Z",
+  "generatedAt": "2026-10-07T02:02:57.659Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-07T01:57:57.582Z",
+    "fetchedAt": "2026-10-07T02:02:57.659Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 8,
-    "offlineCount": 36
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 979🧔!discord🧔‍♀️OH WOWEE WE AR EFOR THE INSIDE ON THE EVENING🧔‍♀️WE ARE LOVING IN HOW ARE WE MOVNIG WITH FORWARD MO",
       "game_name": "Rocket League",
-      "viewer_count": 468,
-      "follower_count": 118225,
+      "viewer_count": 498,
+      "follower_count": 118227,
       "language": "en",
       "started_at": "2026-10-07T00:08:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🔴LAST STREAM before the update | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 128,
+      "viewer_count": 131,
       "follower_count": 14701,
       "language": "en",
       "started_at": "2026-10-06T21:23:05Z",
@@ -50,8 +50,8 @@
       "is_live": true,
       "title": "YAPPING → WOMAN SIMULATOR 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Games + Demos",
-      "viewer_count": 94,
-      "follower_count": 2559,
+      "viewer_count": 101,
+      "follower_count": 2560,
       "language": "en",
       "started_at": "2026-10-06T22:40:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Hitting Diamond Soon? 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 43,
+      "viewer_count": 48,
       "follower_count": 8975,
       "language": "en",
       "started_at": "2026-10-06T23:36:13Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "Celeste Golden's and Lies of P NG+",
       "game_name": "Celeste",
-      "viewer_count": 17,
+      "viewer_count": 19,
       "follower_count": 312,
       "language": "en",
       "started_at": "2026-10-07T00:55:36Z",
@@ -95,7 +95,7 @@
       "is_live": true,
       "title": "ENDACOPIA | I'M LEAVING!!! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Endacopia",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "follower_count": 1737,
       "language": "en",
       "started_at": "2026-10-06T23:53:24Z",
@@ -103,36 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Going back to when it all began",
-      "game_name": "Gears of War: E-Day",
-      "viewer_count": 2,
-      "follower_count": 398,
-      "language": "en",
-      "started_at": "2026-10-06T23:01:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": true,
-      "title": "TG Tuesday - Radiation Laser to the Face!",
-      "game_name": "Remnant: From the Ashes",
-      "viewer_count": 2,
-      "follower_count": 26,
-      "language": "en",
-      "started_at": "2026-10-06T23:05:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "alfieduu",
@@ -238,6 +208,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 398,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
@@ -613,6 +598,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 26,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
