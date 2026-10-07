@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-07T01:42:57.602Z",
+  "generatedAt": "2026-10-07T01:47:57.595Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-07T01:42:57.602Z",
+    "fetchedAt": "2026-10-07T01:47:57.595Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 9,
-    "offlineCount": 35
+    "liveCount": 8,
+    "offlineCount": 36
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 979🧔!discord🧔‍♀️OH WOWEE WE AR EFOR THE INSIDE ON THE EVENING🧔‍♀️WE ARE LOVING IN HOW ARE WE MOVNIG WITH FORWARD MO",
       "game_name": "Rocket League",
-      "viewer_count": 454,
-      "follower_count": 118218,
+      "viewer_count": 435,
+      "follower_count": 118219,
       "language": "en",
       "started_at": "2026-10-07T00:08:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🔴LAST STREAM before the update | Drops Enabled !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 133,
+      "viewer_count": 127,
       "follower_count": 14701,
       "language": "en",
       "started_at": "2026-10-06T21:23:05Z",
@@ -50,8 +50,8 @@
       "is_live": true,
       "title": "YAPPING → WOMAN SIMULATOR 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Games + Demos",
-      "viewer_count": 84,
-      "follower_count": 2554,
+      "viewer_count": 82,
+      "follower_count": 2555,
       "language": "en",
       "started_at": "2026-10-06T22:40:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Hitting Diamond Soon? 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 44,
+      "viewer_count": 53,
       "follower_count": 8975,
       "language": "en",
       "started_at": "2026-10-06T23:36:13Z",
@@ -95,7 +95,7 @@
       "is_live": true,
       "title": "ENDACOPIA | I'M LEAVING!!! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Endacopia",
-      "viewer_count": 12,
+      "viewer_count": 15,
       "follower_count": 1737,
       "language": "en",
       "started_at": "2026-10-06T23:53:24Z",
@@ -103,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
-    },
-    {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": true,
-      "title": "Short strum  !kofi",
-      "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-      "viewer_count": 4,
-      "follower_count": 1050,
-      "language": "en",
-      "started_at": "2026-10-06T23:09:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "thepuckgoa",
@@ -298,6 +283,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10fbac99-b892-40b3-88cb-3ba197ba88f8-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/darkdemocracytv",
       "description": "Healthcare by day, streaming by night! I'm Adam a dad, who love all things games, anime, and entertainment, and I'm so glad you're here with us! "
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1051,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "dingo_dynasty",
