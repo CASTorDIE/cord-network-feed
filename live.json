@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T14:02:57.928Z",
+  "generatedAt": "2026-10-07T14:07:57.915Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-07T14:02:57.928Z",
+    "fetchedAt": "2026-10-07T14:07:57.915Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We Have Almost NO Ammo and a Building Full of Monsters 😭 | Silent Hill: Townfall",
       "game_name": "SILENT HILL: townfall",
-      "viewer_count": 37,
+      "viewer_count": 27,
       "follower_count": 1003,
       "language": "en",
       "started_at": "2026-10-07T12:41:32Z",
