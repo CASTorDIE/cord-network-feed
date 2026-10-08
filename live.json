@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T00:47:58.013Z",
+  "generatedAt": "2026-10-08T00:52:57.968Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-08T00:47:58.013Z",
+    "fetchedAt": "2026-10-08T00:52:57.968Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "NOT ENDING TILL MASTERS 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 78,
+      "viewer_count": 79,
       "follower_count": 8984,
       "language": "en",
       "started_at": "2026-10-07T22:41:10Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Songs and Chat! || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 51,
+      "viewer_count": 38,
       "follower_count": 6392,
       "language": "en",
       "started_at": "2026-10-07T23:32:26Z",
