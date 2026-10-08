@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-08T05:02:57.436Z",
+  "generatedAt": "2026-10-08T05:07:57.447Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-08T05:02:57.436Z",
+    "fetchedAt": "2026-10-08T05:07:57.447Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "NOT ENDING TILL MASTERS 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 70,
+      "viewer_count": 71,
       "follower_count": 8994,
       "language": "en",
       "started_at": "2026-10-07T22:41:10Z",
@@ -32,14 +32,14 @@
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "Is lying what it means to be human? Lies of P NG+ DLC",
-      "game_name": "Lies of P",
-      "viewer_count": 19,
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
       "follower_count": 315,
-      "language": "en",
-      "started_at": "2026-10-08T00:55:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
