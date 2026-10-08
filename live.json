@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T00:02:57.910Z",
+  "generatedAt": "2026-10-08T00:07:58.006Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-08T00:02:57.910Z",
+    "fetchedAt": "2026-10-08T00:07:58.006Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "NOT ENDING TILL MASTERS 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 63,
+      "viewer_count": 64,
       "follower_count": 8985,
       "language": "en",
       "started_at": "2026-10-07T22:41:10Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Songs and Chat! || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 34,
-      "follower_count": 6390,
+      "viewer_count": 38,
+      "follower_count": 6391,
       "language": "en",
       "started_at": "2026-10-07T23:32:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
