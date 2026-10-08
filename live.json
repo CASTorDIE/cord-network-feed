@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T04:22:57.354Z",
+  "generatedAt": "2026-10-08T04:27:57.359Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-08T04:22:57.354Z",
+    "fetchedAt": "2026-10-08T04:27:57.359Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "NOT ENDING TILL MASTERS 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 69,
-      "follower_count": 8990,
+      "viewer_count": 88,
+      "follower_count": 8992,
       "language": "en",
       "started_at": "2026-10-07T22:41:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Is lying what it means to be human? Lies of P NG+ DLC",
       "game_name": "Lies of P",
-      "viewer_count": 14,
+      "viewer_count": 12,
       "follower_count": 312,
       "language": "en",
       "started_at": "2026-10-08T00:55:04Z",
