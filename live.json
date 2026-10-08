@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-08T23:07:58.465Z",
+  "generatedAt": "2026-10-08T23:12:58.453Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-08T23:07:58.465Z",
+    "fetchedAt": "2026-10-08T23:12:58.453Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴ARC RAIDERS 2.0 IS HERE! 🔥 Biggest Update Yet… Does It Save the Game?! | New Map, ARC & Chaos",
       "game_name": "ARC Raiders",
-      "viewer_count": 103,
+      "viewer_count": 107,
       "follower_count": 14722,
       "language": "en",
       "started_at": "2026-10-08T18:40:21Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "EXPLORING REDWOODS 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 53,
+      "viewer_count": 51,
       "follower_count": 2569,
       "language": "en",
       "started_at": "2026-10-08T22:39:33Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Slackjaw and The Night Cleaner! | It's SPOOKY TIME! | !links",
       "game_name": "The Night Cleaner",
-      "viewer_count": 16,
+      "viewer_count": 18,
       "follower_count": 676,
       "language": "en",
       "started_at": "2026-10-08T21:28:56Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Turkey leg  !kofi",
       "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 1051,
       "language": "en",
       "started_at": "2026-10-08T22:07:34Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": true,
+      "title": "We back in the mines",
+      "game_name": "Minecraft Dungeons II",
+      "viewer_count": 2,
+      "follower_count": 399,
+      "language": "en",
+      "started_at": "2026-10-08T23:09:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "thepuckgoa",
@@ -208,21 +223,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 399,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "brycexd",
