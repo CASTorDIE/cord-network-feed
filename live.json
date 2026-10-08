@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T22:12:58.059Z",
+  "generatedAt": "2026-10-08T22:17:58.091Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-08T22:12:58.059Z",
+    "fetchedAt": "2026-10-08T22:17:58.091Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴ARC RAIDERS 2.0 IS HERE! 🔥 Biggest Update Yet… Does It Save the Game?! | New Map, ARC & Chaos",
       "game_name": "ARC Raiders",
-      "viewer_count": 137,
+      "viewer_count": 88,
       "follower_count": 14718,
       "language": "en",
       "started_at": "2026-10-08T18:40:21Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Turkey leg  !kofi",
       "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "follower_count": 1051,
       "language": "en",
       "started_at": "2026-10-08T22:07:34Z",
