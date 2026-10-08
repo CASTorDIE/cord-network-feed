@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T06:17:57.539Z",
+  "generatedAt": "2026-10-08T06:22:57.563Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-08T06:17:57.539Z",
+    "fetchedAt": "2026-10-08T06:22:57.563Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "NOT ENDING TILL MASTERS 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 76,
-      "follower_count": 8993,
+      "viewer_count": 77,
+      "follower_count": 8994,
       "language": "en",
       "started_at": "2026-10-07T22:41:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
