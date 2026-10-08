@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T12:32:58.162Z",
+  "generatedAt": "2026-10-08T12:37:58.137Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-08T12:32:58.162Z",
+    "fetchedAt": "2026-10-08T12:37:58.137Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "singing + piano = live music requests🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 17,
+      "viewer_count": 13,
       "follower_count": 433,
       "language": "en",
       "started_at": "2026-10-08T11:11:21Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 118247,
+      "follower_count": 118248,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
