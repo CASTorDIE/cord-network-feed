@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T21:37:57.997Z",
+  "generatedAt": "2026-10-08T21:42:58.099Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-08T21:37:57.997Z",
+    "fetchedAt": "2026-10-08T21:42:58.099Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴ARC RAIDERS 2.0 IS HERE! 🔥 Biggest Update Yet… Does It Save the Game?! | New Map, ARC & Chaos",
       "game_name": "ARC Raiders",
-      "viewer_count": 114,
+      "viewer_count": 120,
       "follower_count": 14719,
       "language": "en",
       "started_at": "2026-10-08T18:40:21Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Slackjaw and The Night Cleaner! | It's SPOOKY TIME! | !links",
       "game_name": "SLACKJAW",
-      "viewer_count": 11,
+      "viewer_count": 10,
       "follower_count": 673,
       "language": "en",
       "started_at": "2026-10-08T21:28:56Z",
