@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T05:32:57.407Z",
+  "generatedAt": "2026-10-08T05:37:57.461Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-08T05:32:57.407Z",
+    "fetchedAt": "2026-10-08T05:37:57.461Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "NOT ENDING TILL MASTERS 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 63,
+      "viewer_count": 81,
       "follower_count": 8994,
       "language": "en",
       "started_at": "2026-10-07T22:41:10Z",
