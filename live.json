@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T13:47:57.700Z",
+  "generatedAt": "2026-10-09T13:52:57.701Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-09T13:47:57.700Z",
+    "fetchedAt": "2026-10-09T13:52:57.701Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We Need the Blood Bags… and This Monster CAN'T Be Killed 😭 | Silent Hill: Townfall",
       "game_name": "SILENT HILL: townfall",
-      "viewer_count": 34,
+      "viewer_count": 32,
       "follower_count": 1006,
       "language": "en",
       "started_at": "2026-10-09T12:50:26Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 118322,
+      "follower_count": 118323,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
