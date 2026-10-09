@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-09T04:57:57.730Z",
+  "generatedAt": "2026-10-09T05:02:57.781Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-09T04:57:57.730Z",
+    "fetchedAt": "2026-10-09T05:02:57.781Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 SCARECROW | ACE COMBAT STEAM CODE GIVEAWAY TODAY | !oct !move !merch #BandaiNamcoCreator #gifted #giveaway",
       "game_name": "ACE COMBAT 8: WINGS OF THEVE",
-      "viewer_count": 61,
+      "viewer_count": 59,
       "follower_count": 10716,
       "language": "en",
       "started_at": "2026-10-09T01:07:18Z",
@@ -30,27 +30,12 @@
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
-      "user_login": "ao_zora_",
-      "user_name": "Ao_Zora_",
-      "is_live": true,
-      "title": "New Witch in Town || !merch !throne !daki",
-      "game_name": "Little Witch in the Woods",
-      "viewer_count": 51,
-      "follower_count": 6401,
-      "language": "en",
-      "started_at": "2026-10-08T23:31:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
-      "twitch_url": "https://www.twitch.tv/ao_zora_",
-      "description": "I sing and play games. Sometimes I bake"
-    },
-    {
       "user_login": "dingo_dynasty",
       "user_name": "Dingo_Dynasty",
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Murder House",
       "game_name": "Games + Demos",
-      "viewer_count": 15,
+      "viewer_count": 18,
       "follower_count": 903,
       "language": "en",
       "started_at": "2026-10-09T04:16:44Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "Day 1 Blind! Is DS2 actually bad?",
       "game_name": "Dark Souls II",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 316,
       "language": "en",
       "started_at": "2026-10-09T01:00:17Z",
@@ -103,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d5686d-15fe-4528-848e-2baa88d92b2e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/allyreggie",
       "description": "AllyReggie is your late-night horror-game hostess, bringing the spooky shlock and cheesy thrills to a bunch of boo-loving buddies. Are you constantly threatening to wax poetic about anything and everything? Do puns put you in perpetual pleasure? Then you have found your streamer home, my new buddy."
+    },
+    {
+      "user_login": "ao_zora_",
+      "user_name": "Ao_Zora_",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 6401,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
+      "twitch_url": "https://www.twitch.tv/ao_zora_",
+      "description": "I sing and play games. Sometimes I bake"
     },
     {
       "user_login": "astral_celestial",
