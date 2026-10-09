@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T08:27:58.392Z",
+  "generatedAt": "2026-10-09T08:32:58.323Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-09T08:27:58.392Z",
+    "fetchedAt": "2026-10-09T08:32:58.323Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "R U Ok? Charity Stream Day 6. Finally a Good Racing Game",
       "game_name": "STAR WARS: Galactic Racer",
-      "viewer_count": 0,
+      "viewer_count": 5,
       "follower_count": 419,
       "language": "en",
       "started_at": "2026-10-09T08:27:10Z",
@@ -141,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10716,
+      "follower_count": 10717,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
