@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-10-09T05:12:57.746Z",
+  "generatedAt": "2026-10-09T05:17:57.756Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-09T05:12:57.746Z",
+    "fetchedAt": "2026-10-09T05:17:57.756Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
-    {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "🎃 SCARECROW | ACE COMBAT STEAM CODE GIVEAWAY TODAY | !oct !move !merch #BandaiNamcoCreator #gifted #giveaway",
-      "game_name": "ACE COMBAT 8: WINGS OF THEVE",
-      "viewer_count": 52,
-      "follower_count": 10716,
-      "language": "en",
-      "started_at": "2026-10-09T01:07:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
-    },
     {
       "user_login": "dingo_dynasty",
       "user_name": "Dingo_Dynasty",
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Murder House",
       "game_name": "Games + Demos",
-      "viewer_count": 14,
+      "viewer_count": 18,
       "follower_count": 903,
       "language": "en",
       "started_at": "2026-10-09T04:16:44Z",
@@ -148,6 +133,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 10716,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
       "user_login": "boww_wolf",
