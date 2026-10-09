@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T23:12:57.785Z",
+  "generatedAt": "2026-10-09T23:17:57.724Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-09T23:12:57.785Z",
+    "fetchedAt": "2026-10-09T23:17:57.724Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Jax 4 Partner! |Badge Drops on!| Dreamsnaps and yaps! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 67,
-      "follower_count": 2833,
+      "viewer_count": 71,
+      "follower_count": 2832,
       "language": "en",
       "started_at": "2026-10-09T21:22:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 52,
+      "viewer_count": 59,
       "follower_count": 2571,
       "language": "en",
       "started_at": "2026-10-09T22:40:19Z",
