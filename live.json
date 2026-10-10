@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T19:02:59.185Z",
+  "generatedAt": "2026-10-10T19:07:58.104Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T19:02:59.185Z",
+    "fetchedAt": "2026-10-10T19:07:58.104Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,34 +15,34 @@
   },
   "streamers": [
     {
-      "user_login": "laconsgamingnook",
-      "user_name": "LaconsGamingNook",
-      "is_live": true,
-      "title": "Drawing ACNH Villagers for Charity !Donate !AFSP [Next Stream Oct 11th @ 9am CST ]",
-      "game_name": "Art",
-      "viewer_count": 5,
-      "follower_count": 174,
-      "language": "en",
-      "started_at": "2026-10-10T13:56:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_laconsgamingnook-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/laconsgamingnook",
-      "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
-    },
-    {
       "user_login": "tehchno",
       "user_name": "tehchno",
       "is_live": true,
       "title": "Brand New D&D style game!",
       "game_name": "Wyldheart",
-      "viewer_count": 4,
-      "follower_count": 460,
+      "viewer_count": 10,
+      "follower_count": 461,
       "language": "en",
       "started_at": "2026-10-10T18:17:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tehchno-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "padbae",
+      "user_name": "padbae",
+      "is_live": true,
+      "title": "♡ 1.8 Cobblemon Explore!  ♡ ⋆(๑•ᴗ•๑) | POV: Booette builds a ghost team!! | !lurk !sus !discord !gfuel !patreon",
+      "game_name": "Minecraft",
+      "viewer_count": 4,
+      "follower_count": 1348,
+      "language": "en",
+      "started_at": "2026-10-10T19:05:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/padbae",
+      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -450,6 +450,21 @@
       "description": "🎮 Variety gamer with zero self-controlCozy farming one stream, horror-game panic the next.Expect chaos, laughs, and terrible decisions ✨"
     },
     {
+      "user_login": "laconsgamingnook",
+      "user_name": "LaconsGamingNook",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 174,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/laconsgamingnook",
+      "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
+    },
+    {
       "user_login": "memella",
       "user_name": "memella",
       "is_live": false,
@@ -508,21 +523,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1132c17-c3f8-4b58-beee-f0c43232628e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": "twitch: Infinitehavoconline"
-    },
-    {
-      "user_login": "padbae",
-      "user_name": "padbae",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1348,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/padbae",
-      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
       "user_login": "rickett_raffy",
