@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-10T18:37:57.920Z",
+  "generatedAt": "2026-10-10T18:42:59.310Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T18:37:57.920Z",
+    "fetchedAt": "2026-10-10T18:42:59.310Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Project Zomboid for Beginners! 🧟 Learning to Survive Together | !hype !newvlog !gamevideo",
       "game_name": "Project Zomboid",
-      "viewer_count": 17,
+      "viewer_count": 18,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-10-10T13:03:21Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Drawing ACNH Villagers for Charity !Donate !AFSP [Next Stream Oct 11th @ 9am CST ]",
       "game_name": "Art",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 174,
       "language": "en",
       "started_at": "2026-10-10T13:56:26Z",
@@ -58,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": true,
-      "title": "Steel Reaper Gaming - Has Anyone Seen my Wife?",
-      "game_name": "RESIDENT EVIL 7 biohazard",
-      "viewer_count": 1,
-      "follower_count": 25,
-      "language": "en",
-      "started_at": "2026-10-10T18:30:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -216,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 118386,
+      "follower_count": 118385,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -583,6 +568,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/slimchungusgaming",
       "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 25,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
