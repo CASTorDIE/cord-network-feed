@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T20:52:57.930Z",
+  "generatedAt": "2026-10-10T20:57:58.070Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T20:52:57.930Z",
+    "fetchedAt": "2026-10-10T20:57:58.070Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃 SUKUNA | 10 YEARS MARRIED TODAY AHHHH | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 61,
-      "follower_count": 10718,
+      "viewer_count": 65,
+      "follower_count": 10719,
       "language": "en",
       "started_at": "2026-10-10T19:54:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "♡ 1.8 Cobblemon Explore!  ♡ ⋆(๑•ᴗ•๑) | POV: Booette builds a ghost team!! | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 15,
+      "viewer_count": 9,
       "follower_count": 1349,
       "language": "en",
       "started_at": "2026-10-10T19:05:39Z",
