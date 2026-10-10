@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T02:57:58.133Z",
+  "generatedAt": "2026-10-10T03:02:58.166Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T02:57:58.133Z",
+    "fetchedAt": "2026-10-10T03:02:58.166Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 981🦊!discord🦊WHAT DOES THE FOX SAY FRIDAY🦊GET IT LIKE THE FOX TALKING JOKE WITH THE SONG🦊HAHAHA THAT SONG CRACKS M",
       "game_name": "Just Chatting",
-      "viewer_count": 208,
+      "viewer_count": 198,
       "follower_count": 118383,
       "language": "en",
       "started_at": "2026-10-10T00:12:39Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🦊🦇| Chatting and Checking out Early Access Games! | !discord !telegram !vrc !micro !pizza | Microscape Drops!",
       "game_name": "Thank You Bus Driver",
-      "viewer_count": 154,
-      "follower_count": 10226,
+      "viewer_count": 158,
+      "follower_count": 10228,
       "language": "en",
       "started_at": "2026-10-10T02:03:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
