@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T19:57:58.144Z",
+  "generatedAt": "2026-10-10T20:02:58.096Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T19:57:58.144Z",
+    "fetchedAt": "2026-10-10T20:02:58.096Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 SUKUNA | 10 YEARS MARRIED TODAY AHHHH | !oct !move !merch",
       "game_name": "Just Chatting",
-      "viewer_count": 21,
+      "viewer_count": 40,
       "follower_count": 10718,
       "language": "en",
       "started_at": "2026-10-10T19:54:16Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "♡ 1.8 Cobblemon Explore!  ♡ ⋆(๑•ᴗ•๑) | POV: Booette builds a ghost team!! | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 1348,
       "language": "en",
       "started_at": "2026-10-10T19:05:39Z",
