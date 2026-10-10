@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T00:22:57.784Z",
+  "generatedAt": "2026-10-10T00:27:57.804Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T00:22:57.784Z",
+    "fetchedAt": "2026-10-10T00:27:57.804Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 981🦊!discord🦊WHAT DOES THE FOX SAY FRIDAY🦊GET IT LIKE THE FOX TALKING JOKE WITH THE SONG🦊HAHAHA THAT SONG CRACKS M",
       "game_name": "Rocket League",
-      "viewer_count": 112,
+      "viewer_count": 155,
       "follower_count": 118331,
       "language": "en",
       "started_at": "2026-10-10T00:12:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 53,
+      "viewer_count": 57,
       "follower_count": 2571,
       "language": "en",
       "started_at": "2026-10-09T22:40:19Z",
