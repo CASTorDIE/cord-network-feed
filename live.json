@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T18:22:57.965Z",
+  "generatedAt": "2026-10-10T18:27:58.059Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T18:22:57.965Z",
+    "fetchedAt": "2026-10-10T18:27:58.059Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Project Zomboid for Beginners! 🧟 Learning to Survive Together | !hype !newvlog !gamevideo",
       "game_name": "Project Zomboid",
-      "viewer_count": 18,
+      "viewer_count": 17,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-10-10T13:03:21Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Drawing ACNH Villagers for Charity !Donate !AFSP [Next Stream Oct 11th @ 9am CST ]",
       "game_name": "Art",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 174,
       "language": "en",
       "started_at": "2026-10-10T13:56:26Z",
