@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T04:12:58.219Z",
+  "generatedAt": "2026-10-10T04:17:58.184Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T04:12:58.219Z",
+    "fetchedAt": "2026-10-10T04:17:58.184Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Chatting and Checking out Early Access Games! | !discord !telegram !vrc !micro !pizza | Microscape Drops!",
       "game_name": "Waltz and Jam",
-      "viewer_count": 156,
+      "viewer_count": 150,
       "follower_count": 10267,
       "language": "en",
       "started_at": "2026-10-10T02:03:29Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Day 2 Blind! I may or may not have gone the wrong way",
       "game_name": "DARK SOULS II: Scholar of the First Sin",
-      "viewer_count": 16,
+      "viewer_count": 17,
       "follower_count": 316,
       "language": "en",
       "started_at": "2026-10-10T00:55:41Z",
