@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T22:57:58.438Z",
+  "generatedAt": "2026-10-10T23:02:58.367Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T22:57:58.438Z",
+    "fetchedAt": "2026-10-10T23:02:58.367Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 SUKUNA | 10 YEARS MARRIED TODAY AHHHH | !oct !move !merch",
       "game_name": "Deadlock",
-      "viewer_count": 69,
+      "viewer_count": 65,
       "follower_count": 10719,
       "language": "en",
       "started_at": "2026-10-10T19:54:16Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 44,
+      "viewer_count": 45,
       "follower_count": 2571,
       "language": "en",
       "started_at": "2026-10-10T22:38:08Z",
@@ -385,7 +385,7 @@
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7e1fac5-c31b-4127-82ac-9edd7395b74f-profile_image-300x300.png",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dda8d42-ec86-4f5d-902d-2f82894b4b4a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
       "description": "🍓 Welcome to JaxsBerryPatch! ✨ Cozy games, creative builds & chaotic fun! I’m Jax, streaming Disney Dreamlight Valley & Minecraft. Come get comfy, hang out, and let’s create a little magic together! 🌸💕 Come hang out, 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
