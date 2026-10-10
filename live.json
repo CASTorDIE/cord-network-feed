@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T18:32:57.910Z",
+  "generatedAt": "2026-10-10T18:37:57.920Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T18:32:57.910Z",
+    "fetchedAt": "2026-10-10T18:37:57.920Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Drawing ACNH Villagers for Charity !Donate !AFSP [Next Stream Oct 11th @ 9am CST ]",
       "game_name": "Art",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 174,
       "language": "en",
       "started_at": "2026-10-10T13:56:26Z",
@@ -216,7 +216,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 118387,
+      "follower_count": 118386,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
