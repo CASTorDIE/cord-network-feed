@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T06:52:57.480Z",
+  "generatedAt": "2026-10-10T06:57:57.413Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T06:52:57.480Z",
+    "fetchedAt": "2026-10-10T06:57:57.413Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🦊🦇| Chatting and Checking out Early Access Games! | !discord !telegram !vrc !micro !pizza | Microscape Drops!",
       "game_name": "Waltz and Jam",
-      "viewer_count": 131,
-      "follower_count": 10289,
+      "viewer_count": 127,
+      "follower_count": 10290,
       "language": "en",
       "started_at": "2026-10-10T02:03:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
