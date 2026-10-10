@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T12:12:57.930Z",
+  "generatedAt": "2026-10-10T12:17:57.973Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T12:12:57.930Z",
+    "fetchedAt": "2026-10-10T12:17:57.973Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Jax 4 Partner! |Badge Drops on!| Lets makeover the princess! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 62,
+      "viewer_count": 70,
       "follower_count": 2834,
       "language": "en",
       "started_at": "2026-10-10T11:00:14Z",
