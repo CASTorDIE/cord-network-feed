@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-10T02:52:58.149Z",
+  "generatedAt": "2026-10-10T02:57:58.133Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T02:52:58.149Z",
+    "fetchedAt": "2026-10-10T02:57:58.133Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 981🦊!discord🦊WHAT DOES THE FOX SAY FRIDAY🦊GET IT LIKE THE FOX TALKING JOKE WITH THE SONG🦊HAHAHA THAT SONG CRACKS M",
       "game_name": "Just Chatting",
-      "viewer_count": 234,
-      "follower_count": 118382,
+      "viewer_count": 208,
+      "follower_count": 118383,
       "language": "en",
       "started_at": "2026-10-10T00:12:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🦊🦇| Chatting and Checking out Early Access Games! | !discord !telegram !vrc !micro !pizza | Microscape Drops!",
       "game_name": "Thank You Bus Driver",
-      "viewer_count": 147,
-      "follower_count": 10224,
+      "viewer_count": 154,
+      "follower_count": 10226,
       "language": "en",
       "started_at": "2026-10-10T02:03:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
@@ -45,27 +45,12 @@
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
-      "game_name": "Games + Demos",
-      "viewer_count": 39,
-      "follower_count": 2571,
-      "language": "en",
-      "started_at": "2026-10-09T22:40:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Day 2 Blind! I may or may not have gone the wrong way",
       "game_name": "DARK SOULS II: Scholar of the First Sin",
-      "viewer_count": 15,
+      "viewer_count": 14,
       "follower_count": 316,
       "language": "en",
       "started_at": "2026-10-10T00:55:41Z",
@@ -133,6 +118,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2571,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
