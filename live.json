@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T09:47:57.719Z",
+  "generatedAt": "2026-10-10T09:52:57.721Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T09:47:57.719Z",
+    "fetchedAt": "2026-10-10T09:52:57.721Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming - Inpromptu Insomnia Stream",
       "game_name": "Resident Evil: Revelations 2",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 25,
       "language": "en",
       "started_at": "2026-10-10T08:49:12Z",
