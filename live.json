@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T18:52:57.984Z",
+  "generatedAt": "2026-10-10T18:57:58.094Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T18:52:57.984Z",
+    "fetchedAt": "2026-10-10T18:57:58.094Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Project Zomboid for Beginners! 🧟 Learning to Survive Together | !hype !newvlog !gamevideo",
       "game_name": "Project Zomboid",
-      "viewer_count": 19,
+      "viewer_count": 17,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-10-10T13:03:21Z",
