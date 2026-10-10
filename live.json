@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T13:32:58.147Z",
+  "generatedAt": "2026-10-10T13:37:58.132Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T13:32:58.147Z",
+    "fetchedAt": "2026-10-10T13:37:58.132Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Jax 4 Partner! |Badge Drops on!| Lets makeover the princess! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 84,
+      "viewer_count": 89,
       "follower_count": 2834,
       "language": "en",
       "started_at": "2026-10-10T11:00:14Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Project Zomboid for Beginners! 🧟 Learning to Survive Together | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 24,
+      "viewer_count": 23,
       "follower_count": 5134,
       "language": "en",
       "started_at": "2026-10-10T13:03:21Z",
