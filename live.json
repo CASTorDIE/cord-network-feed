@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T22:17:58.391Z",
+  "generatedAt": "2026-10-10T22:22:58.416Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T22:17:58.391Z",
+    "fetchedAt": "2026-10-10T22:22:58.416Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 SUKUNA | 10 YEARS MARRIED TODAY AHHHH | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 67,
+      "viewer_count": 62,
       "follower_count": 10721,
       "language": "en",
       "started_at": "2026-10-10T19:54:16Z",
@@ -96,7 +96,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 201,
+      "follower_count": 200,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
