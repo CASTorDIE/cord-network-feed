@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T16:02:57.426Z",
+  "generatedAt": "2026-10-10T16:07:57.440Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T16:02:57.426Z",
+    "fetchedAt": "2026-10-10T16:07:57.440Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Project Zomboid for Beginners! 🧟 Learning to Survive Together | !hype !newvlog !gamevideo",
       "game_name": "Project Zomboid",
-      "viewer_count": 26,
+      "viewer_count": 24,
       "follower_count": 5135,
       "language": "en",
       "started_at": "2026-10-10T13:03:21Z",
@@ -30,27 +30,12 @@
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
-      "user_login": "laconsgamingnook",
-      "user_name": "LaconsGamingNook",
-      "is_live": true,
-      "title": "Drawing ACNH Villagers for Charity !Donate !AFSP [Next Stream Oct 11th @ 9am CST ]",
-      "game_name": "Art",
-      "viewer_count": 6,
-      "follower_count": 174,
-      "language": "en",
-      "started_at": "2026-10-10T13:56:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_laconsgamingnook-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/laconsgamingnook",
-      "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Day 3 Blind! Lost in the sauce",
       "game_name": "DARK SOULS II: Scholar of the First Sin",
-      "viewer_count": 5,
+      "viewer_count": 7,
       "follower_count": 315,
       "language": "en",
       "started_at": "2026-10-10T14:56:05Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
+      "user_login": "laconsgamingnook",
+      "user_name": "LaconsGamingNook",
+      "is_live": true,
+      "title": "Drawing ACNH Villagers for Charity !Donate !AFSP [Next Stream Oct 11th @ 9am CST ]",
+      "game_name": "Art",
+      "viewer_count": 4,
+      "follower_count": 174,
+      "language": "en",
+      "started_at": "2026-10-10T13:56:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_laconsgamingnook-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/laconsgamingnook",
+      "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
     },
     {
       "user_login": "alfieduu",
