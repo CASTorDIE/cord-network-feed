@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T06:32:57.541Z",
+  "generatedAt": "2026-10-10T06:37:57.476Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T06:32:57.541Z",
+    "fetchedAt": "2026-10-10T06:37:57.476Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Chatting and Checking out Early Access Games! | !discord !telegram !vrc !micro !pizza | Microscape Drops!",
       "game_name": "Waltz and Jam",
-      "viewer_count": 135,
+      "viewer_count": 133,
       "follower_count": 10289,
       "language": "en",
       "started_at": "2026-10-10T02:03:29Z",
