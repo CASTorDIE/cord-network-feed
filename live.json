@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T01:47:57.933Z",
+  "generatedAt": "2026-10-10T01:52:58.050Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T01:47:57.933Z",
+    "fetchedAt": "2026-10-10T01:52:58.050Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 981🦊!discord🦊WHAT DOES THE FOX SAY FRIDAY🦊GET IT LIKE THE FOX TALKING JOKE WITH THE SONG🦊HAHAHA THAT SONG CRACKS M",
       "game_name": "Rocket League",
-      "viewer_count": 464,
-      "follower_count": 118357,
+      "viewer_count": 445,
+      "follower_count": 118359,
       "language": "en",
       "started_at": "2026-10-10T00:12:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 2 Blind! I may or may not have gone the wrong way",
       "game_name": "DARK SOULS II: Scholar of the First Sin",
-      "viewer_count": 13,
+      "viewer_count": 15,
       "follower_count": 316,
       "language": "en",
       "started_at": "2026-10-10T00:55:41Z",
