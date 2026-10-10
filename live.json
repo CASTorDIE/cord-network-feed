@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T19:37:58.049Z",
+  "generatedAt": "2026-10-10T19:42:58.056Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T19:37:58.049Z",
+    "fetchedAt": "2026-10-10T19:42:58.056Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "♡ 1.8 Cobblemon Explore!  ♡ ⋆(๑•ᴗ•๑) | POV: Booette builds a ghost team!! | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 12,
+      "viewer_count": 10,
       "follower_count": 1348,
       "language": "en",
       "started_at": "2026-10-10T19:05:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Aion 2 first playthough",
       "game_name": "AION 2",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 461,
       "language": "en",
       "started_at": "2026-10-10T18:17:45Z",
