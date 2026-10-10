@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T19:17:57.939Z",
+  "generatedAt": "2026-10-10T19:22:58.057Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T19:17:57.939Z",
+    "fetchedAt": "2026-10-10T19:22:58.057Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "♡ 1.8 Cobblemon Explore!  ♡ ⋆(๑•ᴗ•๑) | POV: Booette builds a ghost team!! | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 7,
+      "viewer_count": 10,
       "follower_count": 1348,
       "language": "en",
       "started_at": "2026-10-10T19:05:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Brand New D&D style game!",
       "game_name": "Wyldheart",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 461,
       "language": "en",
       "started_at": "2026-10-10T18:17:45Z",
