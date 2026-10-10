@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T05:02:58.384Z",
+  "generatedAt": "2026-10-10T05:07:58.309Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T05:02:58.384Z",
+    "fetchedAt": "2026-10-10T05:07:58.309Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Chatting and Checking out Early Access Games! | !discord !telegram !vrc !micro !pizza | Microscape Drops!",
       "game_name": "Waltz and Jam",
-      "viewer_count": 155,
+      "viewer_count": 160,
       "follower_count": 10271,
       "language": "en",
       "started_at": "2026-10-10T02:03:29Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Murder House Prologue & Good Babysitters Go To Heaven",
       "game_name": "Games + Demos",
-      "viewer_count": 12,
+      "viewer_count": 17,
       "follower_count": 906,
       "language": "en",
       "started_at": "2026-10-10T04:19:01Z",
