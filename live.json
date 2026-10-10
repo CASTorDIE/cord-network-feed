@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-10T02:02:58.114Z",
+  "generatedAt": "2026-10-10T02:07:57.966Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-10T02:02:58.114Z",
+    "fetchedAt": "2026-10-10T02:07:57.966Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 981🦊!discord🦊WHAT DOES THE FOX SAY FRIDAY🦊GET IT LIKE THE FOX TALKING JOKE WITH THE SONG🦊HAHAHA THAT SONG CRACKS M",
       "game_name": "Rocket League",
-      "viewer_count": 479,
-      "follower_count": 118361,
+      "viewer_count": 447,
+      "follower_count": 118365,
       "language": "en",
       "started_at": "2026-10-10T00:12:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Games + Demos",
-      "viewer_count": 44,
+      "viewer_count": 41,
       "follower_count": 2571,
       "language": "en",
       "started_at": "2026-10-09T22:40:19Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 2 Blind! I may or may not have gone the wrong way",
       "game_name": "DARK SOULS II: Scholar of the First Sin",
-      "viewer_count": 13,
+      "viewer_count": 17,
       "follower_count": 316,
       "language": "en",
       "started_at": "2026-10-10T00:55:41Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
+      "user_login": "zaldar87",
+      "user_name": "Zaldar87",
+      "is_live": true,
+      "title": "🦊🦇| Chatting and Checking out Early Access Games! | !discord !telegram !vrc !micro !pizza |",
+      "game_name": "Thank You Bus Driver",
+      "viewer_count": 1,
+      "follower_count": 10208,
+      "language": "en",
+      "started_at": "2026-10-10T02:03:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zaldar87",
+      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "alfieduu",
@@ -643,21 +658,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
-    },
-    {
-      "user_login": "zaldar87",
-      "user_name": "Zaldar87",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 10208,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zaldar87",
-      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "zombaesempai",
