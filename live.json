@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T21:27:57.736Z",
+  "generatedAt": "2026-10-11T21:32:57.725Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-11T21:27:57.736Z",
+    "fetchedAt": "2026-10-11T21:32:57.725Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "GM WITH ONLY PK RIGHT NOW 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 73,
-      "follower_count": 9024,
+      "viewer_count": 72,
+      "follower_count": 9025,
       "language": "en",
       "started_at": "2026-10-11T20:57:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "EXPLORING SAN FRANCISCO…AIRSHOWS, PARADES, FOOD 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 36,
+      "viewer_count": 35,
       "follower_count": 2577,
       "language": "en",
       "started_at": "2026-10-11T19:42:37Z",
