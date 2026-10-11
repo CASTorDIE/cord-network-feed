@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T15:02:57.821Z",
+  "generatedAt": "2026-10-11T15:07:57.841Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-11T15:02:57.821Z",
+    "fetchedAt": "2026-10-11T15:07:57.841Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Time for a forest makeover!!| Jax 4 Partenr! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 105,
+      "viewer_count": 98,
       "follower_count": 2840,
       "language": "en",
       "started_at": "2026-10-11T12:03:06Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃DROPS🎃 I WILL GET THESE TATTERED CLOTHS!  | !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 39,
+      "viewer_count": 38,
       "follower_count": 5136,
       "language": "en",
       "started_at": "2026-10-11T13:03:50Z",
