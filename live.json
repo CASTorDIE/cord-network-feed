@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-10-11T04:02:57.734Z",
+  "generatedAt": "2026-10-11T04:07:57.851Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-11T04:02:57.734Z",
+    "fetchedAt": "2026-10-11T04:07:57.851Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 982🦄!discord🦄AAAAAAAAAAAAAHHHHHHHHHH🦄AAAAAAAAAAAAAHHHHHHHHH🦄HOW WAS YOUR DAY🦄AAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHH",
-      "game_name": "Just Chatting",
-      "viewer_count": 267,
-      "follower_count": 118521,
-      "language": "en",
-      "started_at": "2026-10-11T00:14:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| The Shrunken Duo Continues | !discord !telegram !vrc !micro !pizza | Microscape",
       "game_name": "It Takes Two",
-      "viewer_count": 87,
+      "viewer_count": 84,
       "follower_count": 10288,
       "language": "en",
       "started_at": "2026-10-11T02:12:49Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "🎃 SUKUNA | 10 YEARS MARRIED TODAY AHHHH | !oct !move !merch",
       "game_name": "Deadlock",
-      "viewer_count": 76,
+      "viewer_count": 70,
       "follower_count": 10722,
       "language": "en",
       "started_at": "2026-10-10T19:54:16Z",
@@ -208,6 +193,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 118523,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
