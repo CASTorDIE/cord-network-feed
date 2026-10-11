@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T12:17:57.523Z",
+  "generatedAt": "2026-10-11T12:22:59.496Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-11T12:17:57.523Z",
+    "fetchedAt": "2026-10-11T12:22:59.496Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Time for a forest makeover!!| Jax 4 Partenr! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 33,
+      "viewer_count": 41,
       "follower_count": 2838,
       "language": "en",
       "started_at": "2026-10-11T12:03:06Z",
