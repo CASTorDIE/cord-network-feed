@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T00:22:58.353Z",
+  "generatedAt": "2026-10-11T00:27:58.532Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-11T00:22:58.353Z",
+    "fetchedAt": "2026-10-11T00:27:58.532Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 982🦄!discord🦄AAAAAAAAAAAAAHHHHHHHHHH🦄AAAAAAAAAAAAAHHHHHHHHH🦄HOW WAS YOUR DAY🦄AAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHH",
       "game_name": "Rocket League",
-      "viewer_count": 134,
-      "follower_count": 118389,
+      "viewer_count": 210,
+      "follower_count": 118392,
       "language": "en",
       "started_at": "2026-10-11T00:14:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃 SUKUNA | 10 YEARS MARRIED TODAY AHHHH | !oct !move !merch",
       "game_name": "Deadlock",
-      "viewer_count": 65,
+      "viewer_count": 60,
       "follower_count": 10718,
       "language": "en",
       "started_at": "2026-10-10T19:54:16Z",
