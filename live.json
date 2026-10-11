@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T00:07:58.306Z",
+  "generatedAt": "2026-10-11T00:12:58.376Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-11T00:07:58.306Z",
+    "fetchedAt": "2026-10-11T00:12:58.376Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
-      "game_name": "Just Chatting",
-      "viewer_count": 65,
+      "game_name": "Games + Demos",
+      "viewer_count": 69,
       "follower_count": 2571,
       "language": "en",
       "started_at": "2026-10-10T22:38:08Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃 SUKUNA | 10 YEARS MARRIED TODAY AHHHH | !oct !move !merch",
       "game_name": "Deadlock",
-      "viewer_count": 63,
+      "viewer_count": 60,
       "follower_count": 10718,
       "language": "en",
       "started_at": "2026-10-10T19:54:16Z",
