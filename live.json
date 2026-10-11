@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T19:52:58.555Z",
+  "generatedAt": "2026-10-11T19:57:57.534Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-11T19:52:58.555Z",
+    "fetchedAt": "2026-10-11T19:57:57.534Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "EXPLORING SAN FRANCISCO…AIRSHOWS, PARADES, FOOD 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 43,
+      "viewer_count": 40,
       "follower_count": 2577,
       "language": "en",
       "started_at": "2026-10-11T19:42:37Z",
