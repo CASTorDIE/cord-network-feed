@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-11T02:07:58.178Z",
+  "generatedAt": "2026-10-11T02:12:57.913Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-11T02:07:58.178Z",
+    "fetchedAt": "2026-10-11T02:12:57.913Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 982🦄!discord🦄AAAAAAAAAAAAAHHHHHHHHHH🦄AAAAAAAAAAAAAHHHHHHHHH🦄HOW WAS YOUR DAY🦄AAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHH",
       "game_name": "Rocket League",
-      "viewer_count": 536,
-      "follower_count": 118452,
+      "viewer_count": 481,
+      "follower_count": 118453,
       "language": "en",
       "started_at": "2026-10-11T00:14:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING → GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Games + Demos",
-      "viewer_count": 79,
+      "viewer_count": 75,
       "follower_count": 2577,
       "language": "en",
       "started_at": "2026-10-10T22:38:08Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🎃 SUKUNA | 10 YEARS MARRIED TODAY AHHHH | !oct !move !merch",
       "game_name": "Deadlock",
-      "viewer_count": 72,
+      "viewer_count": 73,
       "follower_count": 10720,
       "language": "en",
       "started_at": "2026-10-10T19:54:16Z",
@@ -58,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
-    },
-    {
-      "user_login": "zaldar87",
-      "user_name": "Zaldar87",
-      "is_live": true,
-      "title": "🦊🦇| The Shrunken Duo Continues | !discord !telegram !vrc !micro !pizza | Microscape",
-      "game_name": "It Takes Two",
-      "viewer_count": 2,
-      "follower_count": 10288,
-      "language": "en",
-      "started_at": "2026-10-11T02:06:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zaldar87",
-      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "4kaizen_gaming",
@@ -658,6 +643,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
+    },
+    {
+      "user_login": "zaldar87",
+      "user_name": "Zaldar87",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 10288,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zaldar87",
+      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "zombaesempai",
