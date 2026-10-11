@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T04:32:57.742Z",
+  "generatedAt": "2026-10-11T04:37:57.785Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-11T04:32:57.742Z",
+    "fetchedAt": "2026-10-11T04:37:57.785Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| The Shrunken Duo Continues | !discord !telegram !vrc !micro !pizza | Microscape",
       "game_name": "It Takes Two",
-      "viewer_count": 77,
+      "viewer_count": 76,
       "follower_count": 10288,
       "language": "en",
       "started_at": "2026-10-11T04:07:57Z",
