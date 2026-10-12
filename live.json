@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T05:52:57.440Z",
+  "generatedAt": "2026-10-12T05:57:57.498Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-12T05:52:57.440Z",
+    "fetchedAt": "2026-10-12T05:57:57.498Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GM WITH ONLY PK RIGHT NOW 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 86,
+      "viewer_count": 94,
       "follower_count": 9041,
       "language": "en",
       "started_at": "2026-10-11T20:57:59Z",
