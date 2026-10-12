@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T23:02:58.259Z",
+  "generatedAt": "2026-10-12T23:07:58.214Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-12T23:02:58.259Z",
+    "fetchedAt": "2026-10-12T23:07:58.214Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "YAPPING & GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 60,
+      "viewer_count": 71,
       "follower_count": 2577,
       "language": "en",
       "started_at": "2026-10-12T22:45:26Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "My first Chilla's Art Game! | Parasocial | !links !discord",
       "game_name": "Parasocial",
-      "viewer_count": 33,
+      "viewer_count": 39,
       "follower_count": 677,
       "language": "en",
       "started_at": "2026-10-12T21:32:14Z",
