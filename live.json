@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T21:37:58.038Z",
+  "generatedAt": "2026-10-12T21:43:01.749Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-12T21:37:58.038Z",
+    "fetchedAt": "2026-10-12T21:43:01.749Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "My first Chilla's Art Game! | Parasocial | !links !discord",
       "game_name": "Parasocial",
-      "viewer_count": 6,
-      "follower_count": 676,
+      "viewer_count": 14,
+      "follower_count": 677,
       "language": "en",
       "started_at": "2026-10-12T21:32:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_horror_heather-960x540.jpg",
