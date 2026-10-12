@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T03:37:58.234Z",
+  "generatedAt": "2026-10-12T03:42:58.185Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-12T03:37:58.234Z",
+    "fetchedAt": "2026-10-12T03:42:58.185Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 983🫏!discord🫏AWOOOOOOOOOOOOOOOOOO🫏AWOOOOOOOOOOOOOOOOOO🫏AWOOOOOOOOOOOOOOO🫏AWOOOOOOOOOOOOOO🫏AWOOOOOOOOOOOOOO🫏AWOO",
       "game_name": "Just Chatting",
-      "viewer_count": 350,
-      "follower_count": 118701,
+      "viewer_count": 324,
+      "follower_count": 118702,
       "language": "en",
       "started_at": "2026-10-12T00:10:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "GM WITH ONLY PK RIGHT NOW 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 80,
+      "viewer_count": 79,
       "follower_count": 9038,
       "language": "en",
       "started_at": "2026-10-11T20:57:59Z",
