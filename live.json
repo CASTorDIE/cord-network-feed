@@ -1,26 +1,41 @@
 {
-  "generatedAt": "2026-10-12T00:07:58.088Z",
+  "generatedAt": "2026-10-12T00:12:58.103Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-12T00:07:58.088Z",
+    "fetchedAt": "2026-10-12T00:12:58.103Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 983🫏!discord🫏AWOOOOOOOOOOOOOOOOOO🫏AWOOOOOOOOOOOOOOOOOO🫏AWOOOOOOOOOOOOOOO🫏AWOOOOOOOOOOOOOO🫏AWOOOOOOOOOOOOOO🫏AWOO",
+      "game_name": "Rocket League",
+      "viewer_count": 109,
+      "follower_count": 118524,
+      "language": "en",
+      "started_at": "2026-10-12T00:10:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
     {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": true,
       "title": "GM WITH ONLY PK RIGHT NOW 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 92,
+      "viewer_count": 80,
       "follower_count": 9031,
       "language": "en",
       "started_at": "2026-10-11T20:57:59Z",
@@ -35,7 +50,7 @@
       "is_live": true,
       "title": "EXPLORING SAN FRANCISCO…AIRSHOWS, PARADES, FOOD 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 42,
+      "viewer_count": 40,
       "follower_count": 2577,
       "language": "en",
       "started_at": "2026-10-11T19:42:37Z",
@@ -50,7 +65,7 @@
       "is_live": true,
       "title": "/\\       /\\       /  \\_____/  \\      /             \\     |   ◕     ◕   |     |      ω      |      \\   \\___/   /       \\_________/",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 347,
       "language": "en",
       "started_at": "2026-10-11T23:18:18Z",
@@ -65,7 +80,7 @@
       "is_live": true,
       "title": "IM GOING APPLE PICKING TOMORROWWW !kofi",
       "game_name": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-      "viewer_count": 2,
+      "viewer_count": 5,
       "follower_count": 1054,
       "language": "en",
       "started_at": "2026-10-11T22:05:28Z",
@@ -208,21 +223,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 118525,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
