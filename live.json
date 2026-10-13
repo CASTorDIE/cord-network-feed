@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T17:42:58.240Z",
+  "generatedAt": "2026-10-13T17:47:58.283Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-13T17:42:58.240Z",
+    "fetchedAt": "2026-10-13T17:47:58.283Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🔴ARC RAIDERS 2.0 IS HERE! 🔥 Biggest Update Yet… Does It Save the Game?! | New Map, ARC & Chaos",
       "game_name": "ARC Raiders",
-      "viewer_count": 101,
-      "follower_count": 14716,
+      "viewer_count": 110,
+      "follower_count": 14717,
       "language": "en",
       "started_at": "2026-10-13T17:15:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -651,7 +651,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10288,
+      "follower_count": 10289,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
