@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T09:02:59.943Z",
+  "generatedAt": "2026-10-13T09:07:58.167Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-13T09:02:59.943Z",
+    "fetchedAt": "2026-10-13T09:07:58.167Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I'm Tired of This Grandpa II !Discord !Wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 325,
       "language": "en",
       "started_at": "2026-10-13T07:58:00Z",
