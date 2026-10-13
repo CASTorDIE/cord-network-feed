@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T04:37:57.800Z",
+  "generatedAt": "2026-10-13T04:42:57.777Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-13T04:37:57.800Z",
+    "fetchedAt": "2026-10-13T04:42:57.777Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Talking and Stuff -> Dungeon Key Drop | !discord !telegram !vrc !micro !pizza | Microscape",
       "game_name": "Just Chatting",
-      "viewer_count": 109,
+      "viewer_count": 104,
       "follower_count": 10288,
       "language": "en",
       "started_at": "2026-10-13T02:06:39Z",
