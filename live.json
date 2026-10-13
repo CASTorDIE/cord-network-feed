@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T02:07:57.476Z",
+  "generatedAt": "2026-10-13T02:12:57.548Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-13T02:07:57.476Z",
+    "fetchedAt": "2026-10-13T02:12:57.548Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "✅24/7 DROP STREAM✅DAY 984🦲!discord🦲WHERE HE HAIR GO🦲HAIRLINE DISSAPEARIN FR WHERE HE BE AT THE WITH🦲BARBER BE LOOK BOY WAHT YOU WANT ME",
       "game_name": "Rocket League",
       "viewer_count": 518,
-      "follower_count": 118747,
+      "follower_count": 118750,
       "language": "en",
       "started_at": "2026-10-13T00:11:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING & GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Clive Barker's Hellraiser: Revival",
-      "viewer_count": 74,
+      "viewer_count": 83,
       "follower_count": 2577,
       "language": "en",
       "started_at": "2026-10-12T22:45:26Z",
@@ -45,27 +45,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "mastery monday",
-      "game_name": "Fortnite",
-      "viewer_count": 1,
-      "follower_count": 398,
-      "language": "en",
-      "started_at": "2026-10-12T23:08:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| Talking and Stuff -> Dungeon Key Drop | !discord !telegram !vrc !micro !pizza | Microscape",
       "game_name": "Just Chatting",
-      "viewer_count": 0,
+      "viewer_count": 3,
       "follower_count": 10288,
       "language": "en",
       "started_at": "2026-10-13T02:06:39Z",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": true,
+      "title": "mastery monday",
+      "game_name": "Fortnite",
+      "viewer_count": 2,
+      "follower_count": 398,
+      "language": "en",
+      "started_at": "2026-10-12T23:08:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "4kaizen_gaming",
