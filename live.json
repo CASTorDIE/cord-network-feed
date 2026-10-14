@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T06:17:58.217Z",
+  "generatedAt": "2026-10-14T06:22:58.179Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-14T06:17:58.217Z",
+    "fetchedAt": "2026-10-14T06:22:58.179Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,10 +20,10 @@
       "is_live": true,
       "title": "DROPS ON II Solo Queue II !Discord !Wishlist",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 3,
-      "follower_count": 326,
+      "viewer_count": 0,
+      "follower_count": 327,
       "language": "en",
-      "started_at": "2026-10-14T05:58:01Z",
+      "started_at": "2026-10-14T06:21:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
