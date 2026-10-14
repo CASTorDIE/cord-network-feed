@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T02:17:57.773Z",
+  "generatedAt": "2026-10-14T02:22:58.194Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-14T02:17:57.773Z",
+    "fetchedAt": "2026-10-14T02:22:58.194Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 985🍪!discord🍪DO NOT TTS TUESDAY🍪ITS TUBBA TUESDAY🍪WE REFUSE TO LISTEN TO A SINGLE TTS TODAY BECAUSE I HATE EVERY S",
       "game_name": "Rocket League",
-      "viewer_count": 403,
-      "follower_count": 118975,
+      "viewer_count": 467,
+      "follower_count": 118977,
       "language": "en",
       "started_at": "2026-10-14T00:14:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "HELLRAISER: REVIVAL 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Clive Barker's Hellraiser: Revival",
-      "viewer_count": 85,
+      "viewer_count": 80,
       "follower_count": 2578,
       "language": "en",
       "started_at": "2026-10-13T22:59:52Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 4 Blind Dark Souls and then New character in SF6!",
       "game_name": "DARK SOULS II: Scholar of the First Sin",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "follower_count": 317,
       "language": "en",
       "started_at": "2026-10-14T00:56:01Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "KRILLION HIGH SCORE? LEAGUE DIAMOND? GREAT GOOGLY MOOGLY",
       "game_name": "Just Chatting",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 176,
       "language": "en",
       "started_at": "2026-10-14T02:02:56Z",
@@ -372,7 +372,7 @@
       "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/horror_heather",
-      "description": "I'm too scared to play horror games alone! I love talking about everything horror! I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
+      "description": "I'm too scared to play horror games alone! Steaming every Monday and Thursday at 5:30 PM EST! I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
     },
     {
       "user_login": "jaxsberrypatch",
