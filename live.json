@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-14T02:37:57.856Z",
+  "generatedAt": "2026-10-14T02:42:57.806Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-14T02:37:57.856Z",
+    "fetchedAt": "2026-10-14T02:42:57.806Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 985🍪!discord🍪DO NOT TTS TUESDAY🍪ITS TUBBA TUESDAY🍪WE REFUSE TO LISTEN TO A SINGLE TTS TODAY BECAUSE I HATE EVERY S",
       "game_name": "Rocket League",
-      "viewer_count": 519,
-      "follower_count": 118982,
+      "viewer_count": 492,
+      "follower_count": 118986,
       "language": "en",
       "started_at": "2026-10-14T00:14:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "HELLRAISER: REVIVAL 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Clive Barker's Hellraiser: Revival",
-      "viewer_count": 81,
+      "viewer_count": 79,
       "follower_count": 2579,
       "language": "en",
       "started_at": "2026-10-13T22:59:52Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/22dea4bc-e653-47da-81b0-40ee29be0969-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/alfieduu",
       "description": "yo put your feet up homie"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "get your game on",
-      "game_name": "Yu-Gi-Oh! GX Tag Force",
-      "viewer_count": 1,
-      "follower_count": 399,
-      "language": "en",
-      "started_at": "2026-10-14T00:27:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "allyreggie",
@@ -178,6 +163,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 399,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
