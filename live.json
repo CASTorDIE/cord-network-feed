@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T06:22:58.179Z",
+  "generatedAt": "2026-10-14T06:27:58.238Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-14T06:22:58.179Z",
+    "fetchedAt": "2026-10-14T06:27:58.238Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "DROPS ON II Solo Queue II !Discord !Wishlist",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "follower_count": 327,
       "language": "en",
       "started_at": "2026-10-14T06:21:29Z",
