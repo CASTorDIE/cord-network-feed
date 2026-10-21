@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-21T23:26:23.119Z",
+  "generatedAt": "2026-10-21T23:28:08.510Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-21T23:26:23.119Z",
+    "fetchedAt": "2026-10-21T23:28:08.510Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Replaying my Fav Childhood Game pt 2! 💃🏼 !join !discord !ubi !code",
       "game_name": "Venetica",
-      "viewer_count": 20,
+      "viewer_count": 18,
       "follower_count": 9113,
       "language": "en",
       "started_at": "2026-10-21T22:03:40Z",
