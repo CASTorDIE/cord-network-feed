@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-21T22:57:58.673Z",
+  "generatedAt": "2026-10-21T23:03:19.703Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-21T22:57:58.673Z",
+    "fetchedAt": "2026-10-21T23:03:19.703Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "NOT ENDING UNTIL WE BEAT GTA5 💎 DAY NUMBER 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 58,
+      "viewer_count": 57,
       "follower_count": 2577,
       "language": "en",
       "started_at": "2026-10-21T17:57:19Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Replaying my Fav Childhood Game pt 2! 💃🏼 !join !discord !ubi !code",
       "game_name": "Venetica",
-      "viewer_count": 16,
+      "viewer_count": 23,
       "follower_count": 9113,
       "language": "en",
       "started_at": "2026-10-21T22:03:40Z",
