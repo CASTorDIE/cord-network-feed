@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T10:07:59.496Z",
+  "generatedAt": "2026-10-22T10:12:59.538Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-22T10:07:59.496Z",
+    "fetchedAt": "2026-10-22T10:12:59.538Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "NOT ENDING UNTIL WE BEAT GTA5 💎 DAY NUMBER 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 22,
+      "viewer_count": 23,
       "follower_count": 2580,
       "language": "en",
       "started_at": "2026-10-21T17:57:19Z",
