@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T23:37:59.842Z",
+  "generatedAt": "2026-10-22T23:42:59.797Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-22T23:37:59.842Z",
+    "fetchedAt": "2026-10-22T23:42:59.797Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "NOT ENDING UNTIL WE BEAT GTA5 💎 DAY NUMBER 4 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 71,
+      "viewer_count": 72,
       "follower_count": 2579,
       "language": "en",
       "started_at": "2026-10-22T21:49:51Z",
@@ -30,27 +30,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Shiny hunting for Chairty",
-      "game_name": "Pokémon Legends: Z-A",
-      "viewer_count": 10,
-      "follower_count": 407,
-      "language": "en",
-      "started_at": "2026-10-22T22:52:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "Guide to Seducing Cats || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 30,
       "follower_count": 6416,
       "language": "en",
       "started_at": "2026-10-22T23:36:14Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
       "twitch_url": "https://www.twitch.tv/ao_zora_",
       "description": "I sing and play games. Sometimes I bake"
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": true,
+      "title": "Shiny hunting for Chairty",
+      "game_name": "Pokémon Legends: Z-A",
+      "viewer_count": 8,
+      "follower_count": 407,
+      "language": "en",
+      "started_at": "2026-10-22T22:52:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "thepuckgoa",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 119750,
+      "follower_count": 119752,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
