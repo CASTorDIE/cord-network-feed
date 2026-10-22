@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-10-22T00:18:14.975Z",
+  "generatedAt": "2026-10-22T00:23:02.935Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-22T00:18:14.975Z",
+    "fetchedAt": "2026-10-22T00:23:02.935Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
-    {
-      "user_login": "ao_zora_",
-      "user_name": "Ao_Zora_",
-      "is_live": true,
-      "title": "Song Requests Back! >> !SL || !merch !throne !daki",
-      "game_name": "Music",
-      "viewer_count": 68,
-      "follower_count": 6418,
-      "language": "en",
-      "started_at": "2026-10-21T23:30:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
-      "twitch_url": "https://www.twitch.tv/ao_zora_",
-      "description": "I sing and play games. Sometimes I bake"
-    },
     {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "NOT ENDING UNTIL WE BEAT GTA5 💎 DAY NUMBER 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Just Chatting",
-      "viewer_count": 68,
+      "viewer_count": 66,
       "follower_count": 2578,
       "language": "en",
       "started_at": "2026-10-21T17:57:19Z",
@@ -45,12 +30,27 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "ao_zora_",
+      "user_name": "Ao_Zora_",
+      "is_live": true,
+      "title": "Song Requests Back! >> !SL || !merch !throne !daki",
+      "game_name": "Music",
+      "viewer_count": 63,
+      "follower_count": 6418,
+      "language": "en",
+      "started_at": "2026-10-21T23:30:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
+      "twitch_url": "https://www.twitch.tv/ao_zora_",
+      "description": "I sing and play games. Sometimes I bake"
+    },
+    {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": true,
       "title": "Replaying my Fav Childhood Game pt 2! 💃🏼 !join !discord !ubi !code",
       "game_name": "Venetica",
-      "viewer_count": 22,
+      "viewer_count": 25,
       "follower_count": 9113,
       "language": "en",
       "started_at": "2026-10-21T22:03:40Z",
@@ -60,12 +60,27 @@
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "🎃 SHEGO | NEW 5-10-15-20-25-30 SUB ALERTS | !oct !move !merch",
+      "game_name": "Just Chatting",
+      "viewer_count": 18,
+      "follower_count": 10742,
+      "language": "en",
+      "started_at": "2026-10-22T00:18:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
+    },
+    {
       "user_login": "bribeecool10",
       "user_name": "bribeecool10",
       "is_live": true,
       "title": "This is what 1000 hours of D&D looks like",
       "game_name": "Demeo x Dungeons & Dragons: Battlemarked",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 401,
       "language": "en",
       "started_at": "2026-10-21T23:21:10Z",
@@ -148,21 +163,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
-    },
-    {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 10741,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
       "user_login": "boww_wolf",
@@ -531,7 +531,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 329,
+      "follower_count": 328,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
