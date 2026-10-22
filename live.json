@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T15:37:59.140Z",
+  "generatedAt": "2026-10-22T15:42:59.077Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-22T15:37:59.140Z",
+    "fetchedAt": "2026-10-22T15:42:59.077Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "NOT ENDING UNTIL WE BEAT GTA5 💎 DAY NUMBER 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 24,
+      "viewer_count": 25,
       "follower_count": 2580,
       "language": "en",
       "started_at": "2026-10-21T17:57:19Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 119744,
+      "follower_count": 119745,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
