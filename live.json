@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-22T00:53:02.675Z",
+  "generatedAt": "2026-10-22T00:58:02.449Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-22T00:53:02.675Z",
+    "fetchedAt": "2026-10-22T00:58:02.449Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 991🐨!discord🐨HI🐨IM GAMING TODAY🐨DOES ANYONE WANT TO WATCH ME PLAY GAMES🐨I LOVE GAMING🐨WE WILL BE GAMIGN ALL DAY",
       "game_name": "Rocket League",
-      "viewer_count": 197,
+      "viewer_count": 263,
       "follower_count": 119526,
       "language": "en",
       "started_at": "2026-10-22T00:31:14Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Song Requests Back! >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 67,
+      "viewer_count": 70,
       "follower_count": 6419,
       "language": "en",
       "started_at": "2026-10-21T23:30:59Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "NOT ENDING UNTIL WE BEAT GTA5 💎 DAY NUMBER 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 64,
+      "viewer_count": 65,
       "follower_count": 2577,
       "language": "en",
       "started_at": "2026-10-21T17:57:19Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "🎃 SHEGO | NEW 5-10-15-20-25-30 SUB ALERTS | !oct !move !merch",
       "game_name": "Just Chatting",
-      "viewer_count": 47,
+      "viewer_count": 50,
       "follower_count": 10743,
       "language": "en",
       "started_at": "2026-10-22T00:18:06Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "Replaying my Fav Childhood Game pt 2! 💃🏼 !join !discord !ubi !code",
       "game_name": "Venetica",
-      "viewer_count": 18,
+      "viewer_count": 27,
       "follower_count": 9113,
       "language": "en",
       "started_at": "2026-10-21T22:03:40Z",
@@ -107,14 +107,14 @@
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
+      "is_live": true,
+      "title": "Time to Conquer The Iron King DLC!!!",
+      "game_name": "DARK SOULS II: Scholar of the First Sin",
+      "viewer_count": 0,
       "follower_count": 320,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
+      "language": "en",
+      "started_at": "2026-10-22T00:56:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
