@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T08:12:59.402Z",
+  "generatedAt": "2026-10-22T08:17:59.492Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-22T08:12:59.402Z",
+    "fetchedAt": "2026-10-22T08:17:59.492Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "NOT ENDING UNTIL WE BEAT GTA5 💎 DAY NUMBER 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 27,
+      "viewer_count": 28,
       "follower_count": 2579,
       "language": "en",
       "started_at": "2026-10-21T17:57:19Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "GTA V First Ever Play Through II No BACKSEAT GAMING II !Discord !Wishlist",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 331,
       "language": "en",
       "started_at": "2026-10-22T06:08:59Z",
