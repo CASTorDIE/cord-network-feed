@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T23:27:59.880Z",
+  "generatedAt": "2026-10-22T23:33:00.051Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-22T23:27:59.880Z",
+    "fetchedAt": "2026-10-22T23:33:00.051Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "NOT ENDING UNTIL WE BEAT GTA5 💎 DAY NUMBER 4 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 68,
+      "viewer_count": 72,
       "follower_count": 2579,
       "language": "en",
       "started_at": "2026-10-22T21:49:51Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Shiny hunting for Chairty",
       "game_name": "Pokémon Legends: Z-A",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 407,
       "language": "en",
       "started_at": "2026-10-22T22:52:47Z",
