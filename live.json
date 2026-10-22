@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T22:02:59.687Z",
+  "generatedAt": "2026-10-22T22:07:59.658Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-22T22:02:59.687Z",
+    "fetchedAt": "2026-10-22T22:07:59.658Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "MW4 GIVEAWAY!!!! DISCOUNTED SUBS!! DMZ GAMEPLAY!!!",
       "game_name": "Call of Duty: Modern Warfare 4",
-      "viewer_count": 116,
+      "viewer_count": 109,
       "follower_count": 14820,
       "language": "en",
       "started_at": "2026-10-22T18:23:50Z",
