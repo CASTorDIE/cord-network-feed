@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-22T02:33:03.406Z",
+  "generatedAt": "2026-10-22T02:38:02.423Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-22T02:33:03.406Z",
+    "fetchedAt": "2026-10-22T02:38:02.423Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 991🐨!discord🐨HI🐨IM GAMING TODAY🐨DOES ANYONE WANT TO WATCH ME PLAY GAMES🐨I LOVE GAMING🐨WE WILL BE GAMIGN ALL DAY",
       "game_name": "Rocket League",
-      "viewer_count": 554,
-      "follower_count": 119579,
+      "viewer_count": 535,
+      "follower_count": 119583,
       "language": "en",
       "started_at": "2026-10-22T00:31:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "NOT ENDING UNTIL WE BEAT GTA5 💎 DAY NUMBER 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 65,
+      "viewer_count": 66,
       "follower_count": 2579,
       "language": "en",
       "started_at": "2026-10-21T17:57:19Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🎃 SHEGO | NEW 5-10-15-20-25-30 SUB ALERTS | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 50,
+      "viewer_count": 43,
       "follower_count": 10743,
       "language": "en",
       "started_at": "2026-10-22T00:18:06Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Replaying my Fav Childhood Game pt 2! 💃🏼 !join !discord !ubi !code",
       "game_name": "Venetica",
-      "viewer_count": 19,
+      "viewer_count": 16,
       "follower_count": 9113,
       "language": "en",
       "started_at": "2026-10-21T22:03:40Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "Time to Conquer The Iron King DLC!!!",
       "game_name": "DARK SOULS II: Scholar of the First Sin",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 320,
       "language": "en",
       "started_at": "2026-10-22T00:56:35Z",
@@ -88,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "This is what 1000 hours of D&D looks like",
-      "game_name": "Demeo x Dungeons & Dragons: Battlemarked",
-      "viewer_count": 1,
-      "follower_count": 401,
-      "language": "en",
-      "started_at": "2026-10-21T23:21:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "alfieduu",
@@ -193,6 +178,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 401,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
