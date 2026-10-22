@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T21:12:59.627Z",
+  "generatedAt": "2026-10-22T21:17:59.627Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-22T21:12:59.627Z",
+    "fetchedAt": "2026-10-22T21:17:59.627Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "MW4 GIVEAWAY!!!! DISCOUNTED SUBS!! DMZ GAMEPLAY!!!",
       "game_name": "Call of Duty: Modern Warfare 4",
-      "viewer_count": 150,
-      "follower_count": 14813,
+      "viewer_count": 162,
+      "follower_count": 14817,
       "language": "en",
       "started_at": "2026-10-22T18:23:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "NOT ENDING UNTIL WE BEAT GTA5 💎 DAY NUMBER 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !YOUTUBE !MERCH !DISCORD",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 45,
+      "viewer_count": 44,
       "follower_count": 2580,
       "language": "en",
       "started_at": "2026-10-21T17:57:19Z",
