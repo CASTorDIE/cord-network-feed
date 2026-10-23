@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-23T23:22:57.345Z",
+  "generatedAt": "2026-10-23T23:27:57.392Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T23:22:57.345Z",
+    "fetchedAt": "2026-10-23T23:27:57.392Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Pixel art and live action cut scenes! | Tenebris Somnia | !links !discord",
       "game_name": "Tenebris Somnia",
-      "viewer_count": 17,
+      "viewer_count": 21,
       "follower_count": 688,
       "language": "en",
       "started_at": "2026-10-23T21:31:01Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/horror_heather",
       "description": "I'm too scared to play horror games alone! Steaming every Monday and Thursday at 5:30 PM EST! I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": true,
+      "title": "Some more Dungeons and Dragons fun",
+      "game_name": "Demeo x Dungeons & Dragons: Battlemarked",
+      "viewer_count": 0,
+      "follower_count": 407,
+      "language": "en",
+      "started_at": "2026-10-23T23:22:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -165,28 +180,13 @@
       "description": ""
     },
     {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 407,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
       "user_login": "brycexd",
       "user_name": "BrycexD",
       "is_live": false,
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 119819,
+      "follower_count": 119820,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
