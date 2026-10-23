@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-23T09:02:58.490Z",
+  "generatedAt": "2026-10-23T09:07:58.074Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T09:02:58.490Z",
+    "fetchedAt": "2026-10-23T09:07:58.074Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] No Thoughts, Just Run  | Outlast | !advanced !discord !lurk !time !clip |",
       "game_name": "Outlast",
-      "viewer_count": 18,
+      "viewer_count": 22,
       "follower_count": 1298,
       "language": "en",
       "started_at": "2026-10-23T07:00:31Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Still Waiting on the Nurse Skin II !Discord !Wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 332,
       "language": "en",
       "started_at": "2026-10-23T05:57:33Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
+    },
+    {
+      "user_login": "fallentitanandy",
+      "user_name": "FallenTitanAndy",
+      "is_live": true,
+      "title": "Who's Ready to Race? Do you want to race with me? !charity",
+      "game_name": "STAR WARS: Galactic Racer",
+      "viewer_count": 2,
+      "follower_count": 418,
+      "language": "en",
+      "started_at": "2026-10-23T09:06:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/fallentitanandy",
+      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "4kaizen_gaming",
@@ -283,21 +298,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
-    },
-    {
-      "user_login": "fallentitanandy",
-      "user_name": "FallenTitanAndy",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 418,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/fallentitanandy",
-      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "faytefireix",
