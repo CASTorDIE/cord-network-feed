@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T08:57:58.054Z",
+  "generatedAt": "2026-10-23T09:02:58.490Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T08:57:58.054Z",
+    "fetchedAt": "2026-10-23T09:02:58.490Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] No Thoughts, Just Run  | Outlast | !advanced !discord !lurk !time !clip |",
       "game_name": "Outlast",
-      "viewer_count": 19,
+      "viewer_count": 18,
       "follower_count": 1298,
       "language": "en",
       "started_at": "2026-10-23T07:00:31Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Still Waiting on the Nurse Skin II !Discord !Wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 332,
       "language": "en",
       "started_at": "2026-10-23T05:57:33Z",
