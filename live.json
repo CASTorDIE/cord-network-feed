@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T13:42:57.529Z",
+  "generatedAt": "2026-10-23T13:47:57.435Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T13:42:57.529Z",
+    "fetchedAt": "2026-10-23T13:47:57.435Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Will we finally find out what is happening?!😭 | Silent Hill: Townfall",
       "game_name": "SILENT HILL: townfall",
-      "viewer_count": 25,
+      "viewer_count": 28,
       "follower_count": 1035,
       "language": "en",
       "started_at": "2026-10-23T12:34:39Z",
