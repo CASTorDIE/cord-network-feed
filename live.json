@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T19:32:58.066Z",
+  "generatedAt": "2026-10-23T19:37:57.977Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T19:32:58.066Z",
+    "fetchedAt": "2026-10-23T19:37:57.977Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Catch up and Valley Tours!| Jax 4 Partener! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 3,
+      "viewer_count": 20,
       "follower_count": 2894,
       "language": "en",
       "started_at": "2026-10-23T19:27:45Z",
