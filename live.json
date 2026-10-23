@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T02:37:59.245Z",
+  "generatedAt": "2026-10-23T02:42:59.126Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T02:37:59.245Z",
+    "fetchedAt": "2026-10-23T02:42:59.126Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Guide to Seducing Cats || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 43,
+      "viewer_count": 36,
       "follower_count": 6417,
       "language": "en",
       "started_at": "2026-10-22T23:36:14Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Dressmaker (2026) | I wanna play the cozy dress game, DAMNIT! | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Dressmaker (2026)",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 1739,
       "language": "en",
       "started_at": "2026-10-22T23:56:38Z",
