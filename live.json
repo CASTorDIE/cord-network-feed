@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T10:07:58.151Z",
+  "generatedAt": "2026-10-23T10:12:58.180Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T10:07:58.151Z",
+    "fetchedAt": "2026-10-23T10:12:58.180Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] No Thoughts, Just Run  | Outlast | !advanced !discord !lurk !time !clip |",
       "game_name": "Outlast",
-      "viewer_count": 18,
+      "viewer_count": 17,
       "follower_count": 1300,
       "language": "en",
       "started_at": "2026-10-23T07:00:31Z",
@@ -291,7 +291,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 726,
+      "follower_count": 727,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
