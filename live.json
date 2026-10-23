@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T11:47:57.296Z",
+  "generatedAt": "2026-10-23T11:52:57.278Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T11:47:57.296Z",
+    "fetchedAt": "2026-10-23T11:52:57.278Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[18+] No Thoughts, Just Run  | Outlast | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 31,
-      "follower_count": 1300,
+      "viewer_count": 29,
+      "follower_count": 1299,
       "language": "en",
       "started_at": "2026-10-23T11:07:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
