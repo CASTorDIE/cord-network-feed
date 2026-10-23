@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T07:42:58.062Z",
+  "generatedAt": "2026-10-23T07:47:59.513Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T07:42:58.062Z",
+    "fetchedAt": "2026-10-23T07:47:59.513Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] No Thoughts, Just Run  | Outlast | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 21,
+      "viewer_count": 22,
       "follower_count": 1299,
       "language": "en",
       "started_at": "2026-10-23T07:00:31Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "GTA V First Ever Play Through EP 2 II No BACKSEAT GAMING II !Discord !Wishlist",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "follower_count": 332,
       "language": "en",
       "started_at": "2026-10-23T05:57:33Z",
