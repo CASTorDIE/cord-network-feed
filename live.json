@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-10-23T21:32:58.238Z",
+  "generatedAt": "2026-10-23T21:37:58.340Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T21:32:58.238Z",
+    "fetchedAt": "2026-10-23T21:37:58.340Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
-    {
-      "user_login": "jaxsberrypatch",
-      "user_name": "jaxsberrypatch",
-      "is_live": true,
-      "title": "Catch up and Valley Tours!| Jax 4 Partener! |!library !discord !tip !linktree !merch|",
-      "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 78,
-      "follower_count": 2904,
-      "language": "en",
-      "started_at": "2026-10-23T19:27:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dda8d42-ec86-4f5d-902d-2f82894b4b4a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
-      "description": "🍓 Welcome to JaxsBerryPatch! ✨ Cozy games, creative builds & chaotic fun! I’m Jax, streaming Disney Dreamlight Valley & Minecraft. Come get comfy, hang out, and let’s create a little magic together! 🌸💕 Come hang out, 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
-    },
     {
       "user_login": "horror_heather",
       "user_name": "horror_heather",
       "is_live": true,
       "title": "Pixel art and live action cut scenes! | Tenebris Somnia | !links !discord",
       "game_name": "Tenebris Somnia",
-      "viewer_count": 3,
+      "viewer_count": 10,
       "follower_count": 687,
       "language": "en",
       "started_at": "2026-10-23T21:31:01Z",
@@ -388,6 +373,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e89b72d-44f9-4905-9ba3-27d3141210ff-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/guitardoll",
       "description": "Chaotic, high-energy, and probably one bad decision away from a jump scare. | Welcome to the Dollhouse | Tue & Thurs 7PM • Sat 5PM | Business Email: guitardoll.official@gmail.com"
+    },
+    {
+      "user_login": "jaxsberrypatch",
+      "user_name": "jaxsberrypatch",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2904,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dda8d42-ec86-4f5d-902d-2f82894b4b4a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
+      "description": "🍓 Welcome to JaxsBerryPatch! ✨ Cozy games, creative builds & chaotic fun! I’m Jax, streaming Disney Dreamlight Valley & Minecraft. Come get comfy, hang out, and let’s create a little magic together! 🌸💕 Come hang out, 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
     {
       "user_login": "joreeezy",
