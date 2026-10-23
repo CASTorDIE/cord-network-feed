@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-23T06:57:58.046Z",
+  "generatedAt": "2026-10-23T07:02:58.761Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T06:57:58.046Z",
+    "fetchedAt": "2026-10-23T07:02:58.761Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Chilla's Art!",
       "game_name": "Games + Demos",
-      "viewer_count": 10,
+      "viewer_count": 7,
       "follower_count": 905,
       "language": "en",
       "started_at": "2026-10-23T04:22:15Z",
@@ -30,12 +30,27 @@
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
+      "user_login": "viridisbytes",
+      "user_name": "ViridisBytes",
+      "is_live": true,
+      "title": "[18+] No Thoughts, Just Run  | Outlast | !advanced !discord !lurk !time !clip |",
+      "game_name": "Outlast",
+      "viewer_count": 7,
+      "follower_count": 1295,
+      "language": "en",
+      "started_at": "2026-10-23T07:00:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/viridisbytes",
+      "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
+    },
+    {
       "user_login": "rickett_raffy",
       "user_name": "rickett_raffy",
       "is_live": true,
       "title": "GTA V First Ever Play Through EP 2 II No BACKSEAT GAMING II !Discord !Wishlist",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 332,
       "language": "en",
       "started_at": "2026-10-23T05:57:33Z",
@@ -598,21 +613,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/300584e8-db38-4b02-8678-93f5777ab1ba-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/vaporwavejoe",
       "description": "yoyo my name is Joe and on this channel we chill, play games and listen to a genre i love which is Vaporwave. "
-    },
-    {
-      "user_login": "viridisbytes",
-      "user_name": "ViridisBytes",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1295,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/viridisbytes",
-      "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
     },
     {
       "user_login": "wexra",
