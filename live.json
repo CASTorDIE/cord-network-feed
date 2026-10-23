@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T05:22:57.688Z",
+  "generatedAt": "2026-10-23T05:27:57.735Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T05:22:57.688Z",
+    "fetchedAt": "2026-10-23T05:27:57.735Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Chilla's Art!",
       "game_name": "Games + Demos",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 905,
       "language": "en",
       "started_at": "2026-10-23T04:22:15Z",
@@ -141,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10753,
+      "follower_count": 10752,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
