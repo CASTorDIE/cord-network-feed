@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T13:17:57.511Z",
+  "generatedAt": "2026-10-23T13:22:57.443Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T13:17:57.511Z",
+    "fetchedAt": "2026-10-23T13:22:57.443Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Will we finally find out what is happening?!😭 | Silent Hill: Townfall",
       "game_name": "SILENT HILL: townfall",
-      "viewer_count": 21,
-      "follower_count": 1033,
+      "viewer_count": 24,
+      "follower_count": 1035,
       "language": "en",
       "started_at": "2026-10-23T12:34:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
@@ -141,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10753,
+      "follower_count": 10752,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
