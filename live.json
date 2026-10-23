@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T01:07:58.993Z",
+  "generatedAt": "2026-10-23T01:12:58.994Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T01:07:58.993Z",
+    "fetchedAt": "2026-10-23T01:12:58.994Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 992🛷!discord🛷OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
       "game_name": "Rocket League",
-      "viewer_count": 312,
-      "follower_count": 119759,
+      "viewer_count": 303,
+      "follower_count": 119764,
       "language": "en",
       "started_at": "2026-10-23T00:11:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Guide to Seducing Cats || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 31,
+      "viewer_count": 37,
       "follower_count": 6417,
       "language": "en",
       "started_at": "2026-10-22T23:36:14Z",
