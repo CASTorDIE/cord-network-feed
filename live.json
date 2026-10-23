@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T03:17:59.147Z",
+  "generatedAt": "2026-10-23T03:22:59.301Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T03:17:59.147Z",
+    "fetchedAt": "2026-10-23T03:22:59.301Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Guide to Seducing Cats || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 42,
+      "viewer_count": 47,
       "follower_count": 6417,
       "language": "en",
       "started_at": "2026-10-22T23:36:14Z",
