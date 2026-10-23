@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T23:32:57.368Z",
+  "generatedAt": "2026-10-23T23:37:57.394Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T23:32:57.368Z",
+    "fetchedAt": "2026-10-23T23:37:57.394Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Pixel art and live action cut scenes! | Tenebris Somnia | !links !discord",
       "game_name": "Tenebris Somnia",
-      "viewer_count": 22,
+      "viewer_count": 17,
       "follower_count": 688,
       "language": "en",
       "started_at": "2026-10-23T21:31:01Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Some more Dungeons and Dragons fun",
       "game_name": "Demeo x Dungeons & Dragons: Battlemarked",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 407,
       "language": "en",
       "started_at": "2026-10-23T23:22:54Z",
