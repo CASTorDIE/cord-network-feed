@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T23:47:57.351Z",
+  "generatedAt": "2026-10-23T23:52:57.423Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-23T23:47:57.351Z",
+    "fetchedAt": "2026-10-23T23:52:57.423Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Pixel art and live action cut scenes! | Tenebris Somnia | !links !discord",
       "game_name": "Tenebris Somnia",
-      "viewer_count": 15,
+      "viewer_count": 14,
       "follower_count": 688,
       "language": "en",
       "started_at": "2026-10-23T21:31:01Z",
@@ -501,7 +501,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 1354,
+      "follower_count": 1353,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
