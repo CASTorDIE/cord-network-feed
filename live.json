@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-24T04:07:57.805Z",
+  "generatedAt": "2026-10-24T04:12:57.787Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T04:07:57.805Z",
+    "fetchedAt": "2026-10-24T04:12:57.787Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 994🏍️!discord🏍️WAHOOOOO🏍️ANOTHER STREAM WE LOVE ROCKET LEAGUE WAHOOOO🏍️LETS GAME SOME ROCKET LEAGUE GAMERS AND LET",
       "game_name": "Just Chatting",
-      "viewer_count": 226,
-      "follower_count": 120070,
+      "viewer_count": 214,
+      "follower_count": 120071,
       "language": "en",
       "started_at": "2026-10-24T00:07:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃 NICO ROBIN | 9 DAYS TILL UNCAPPED | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 130,
+      "viewer_count": 127,
       "follower_count": 10777,
       "language": "en",
       "started_at": "2026-10-24T00:27:03Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🦊🦇| Lofi Moon Cleaning w/ viewers | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Moon Sweepers",
-      "viewer_count": 109,
+      "viewer_count": 98,
       "follower_count": 10318,
       "language": "en",
       "started_at": "2026-10-24T02:59:54Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Replaying my Fav Childhood Game pt 2! 💃🏼 !join !discord !ubi !code",
       "game_name": "Venetica",
-      "viewer_count": 10,
+      "viewer_count": 12,
       "follower_count": 9112,
       "language": "en",
       "started_at": "2026-10-24T00:52:15Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
+      "user_login": "dingo_dynasty",
+      "user_name": "Dingo_Dynasty",
+      "is_live": true,
+      "title": "👻 HAPPY DINGOWEEN 👻 | Chilla's Art!",
+      "game_name": "Games + Demos",
+      "viewer_count": 2,
+      "follower_count": 905,
+      "language": "en",
+      "started_at": "2026-10-24T04:09:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
+      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
       "user_login": "4kaizen_gaming",
@@ -268,21 +283,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
-      "user_login": "dingo_dynasty",
-      "user_name": "Dingo_Dynasty",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 905,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
-      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
       "user_login": "fallentitanandy",
