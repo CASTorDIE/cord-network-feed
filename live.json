@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T19:57:58.149Z",
+  "generatedAt": "2026-10-24T20:02:58.240Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T19:57:58.149Z",
+    "fetchedAt": "2026-10-24T20:02:58.240Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "The Mortuary Assistant | Would you try a strawberry yogurt dipped chicken nugget? | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "Just Chatting",
-      "viewer_count": 15,
+      "game_name": "The Mortuary Assistant",
+      "viewer_count": 18,
       "follower_count": 1743,
       "language": "en",
       "started_at": "2026-10-24T18:56:30Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "This game is calling to me... time to revist Gaia | DeRust - Any% NMS | Disc 1+ | 24/10/2026",
       "game_name": "FINAL FANTASY IX",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 727,
       "language": "en",
       "started_at": "2026-10-24T18:19:38Z",
