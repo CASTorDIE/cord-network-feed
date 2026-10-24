@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T04:27:57.763Z",
+  "generatedAt": "2026-10-24T04:32:57.815Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T04:27:57.763Z",
+    "fetchedAt": "2026-10-24T04:32:57.815Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃 NICO ROBIN | 9 DAYS TILL UNCAPPED | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 129,
-      "follower_count": 10777,
+      "viewer_count": 126,
+      "follower_count": 10778,
       "language": "en",
       "started_at": "2026-10-24T00:27:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| Lofi Moon Cleaning w/ viewers | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Moon Sweepers",
-      "viewer_count": 96,
+      "viewer_count": 92,
       "follower_count": 10318,
       "language": "en",
       "started_at": "2026-10-24T02:59:54Z",
@@ -45,27 +45,12 @@
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": true,
-      "title": "Replaying my Fav Childhood Game pt 2! 💃🏼 !join !discord !ubi !code",
-      "game_name": "Venetica",
-      "viewer_count": 8,
-      "follower_count": 9112,
-      "language": "en",
-      "started_at": "2026-10-24T00:52:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
-    },
-    {
       "user_login": "dingo_dynasty",
       "user_name": "Dingo_Dynasty",
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Chilla's Art!",
       "game_name": "Games + Demos",
-      "viewer_count": 7,
+      "viewer_count": 11,
       "follower_count": 906,
       "language": "en",
       "started_at": "2026-10-24T04:09:43Z",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
+    },
+    {
+      "user_login": "wexra",
+      "user_name": "Wexra",
+      "is_live": true,
+      "title": "Replaying my Fav Childhood Game pt 2! 💃🏼 !join !discord !ubi !code",
+      "game_name": "Venetica",
+      "viewer_count": 9,
+      "follower_count": 9112,
+      "language": "en",
+      "started_at": "2026-10-24T00:52:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "4kaizen_gaming",
