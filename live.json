@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T14:42:57.725Z",
+  "generatedAt": "2026-10-24T14:47:57.783Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T14:42:57.725Z",
+    "fetchedAt": "2026-10-24T14:47:57.783Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "WE'RE BACK IN LOFTIA! 🌿✨ Playing the Demo With Viewers! | !hype !newvlog !gamevideo",
       "game_name": "Loftia",
-      "viewer_count": 26,
+      "viewer_count": 25,
       "follower_count": 5136,
       "language": "en",
       "started_at": "2026-10-24T13:12:44Z",
