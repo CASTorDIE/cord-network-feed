@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T22:17:57.416Z",
+  "generatedAt": "2026-10-24T22:22:57.401Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T22:17:57.416Z",
+    "fetchedAt": "2026-10-24T22:22:57.401Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "TOP DUELIST BY THE END OF THE NIGHT 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 26,
+      "viewer_count": 33,
       "follower_count": 9113,
       "language": "en",
       "started_at": "2026-10-24T22:07:04Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "♡ Cobblemon CHALLENGE! Building a DARK-TYPE Team in 3 HOURS! ♡ ⋆(๑•ᴗ•๑) | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 11,
+      "viewer_count": 9,
       "follower_count": 1354,
       "language": "en",
       "started_at": "2026-10-24T20:38:10Z",
