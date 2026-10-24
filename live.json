@@ -1,56 +1,26 @@
 {
-  "generatedAt": "2026-10-24T22:07:57.376Z",
+  "generatedAt": "2026-10-24T22:12:57.389Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T22:07:57.376Z",
+    "fetchedAt": "2026-10-24T22:12:57.389Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
-    {
-      "user_login": "padbae",
-      "user_name": "padbae",
-      "is_live": true,
-      "title": "♡ Cobblemon CHALLENGE! Building a DARK-TYPE Team in 3 HOURS! ♡ ⋆(๑•ᴗ•๑) | !lurk !sus !discord !gfuel !patreon",
-      "game_name": "Minecraft",
-      "viewer_count": 11,
-      "follower_count": 1354,
-      "language": "en",
-      "started_at": "2026-10-24T20:38:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/padbae",
-      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
-    },
-    {
-      "user_login": "wispy_witch",
-      "user_name": "wispy_witch",
-      "is_live": true,
-      "title": "The Mortuary Assistant | Would you try a strawberry yogurt dipped chicken nugget? | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "The Mortuary Assistant",
-      "viewer_count": 11,
-      "follower_count": 1743,
-      "language": "en",
-      "started_at": "2026-10-24T18:56:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
-    },
     {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": true,
       "title": "TOP DUELIST BY THE END OF THE NIGHT 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 0,
+      "viewer_count": 18,
       "follower_count": 9113,
       "language": "en",
       "started_at": "2026-10-24T22:07:04Z",
@@ -58,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
+      "user_login": "padbae",
+      "user_name": "padbae",
+      "is_live": true,
+      "title": "♡ Cobblemon CHALLENGE! Building a DARK-TYPE Team in 3 HOURS! ♡ ⋆(๑•ᴗ•๑) | !lurk !sus !discord !gfuel !patreon",
+      "game_name": "Minecraft",
+      "viewer_count": 10,
+      "follower_count": 1354,
+      "language": "en",
+      "started_at": "2026-10-24T20:38:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/padbae",
+      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -643,6 +628,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/viridisbytes",
       "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
+    },
+    {
+      "user_login": "wispy_witch",
+      "user_name": "wispy_witch",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1744,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wispy_witch",
+      "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
     },
     {
       "user_login": "zaldar87",
