@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T23:52:57.556Z",
+  "generatedAt": "2026-10-24T23:57:57.634Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T23:52:57.556Z",
+    "fetchedAt": "2026-10-24T23:57:57.634Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": true,
-      "title": "TOP DUELIST BY THE END OF THE NIGHT 💃🏼 !join !discord !ubi !code",
-      "game_name": "For Honor",
-      "viewer_count": 54,
-      "follower_count": 9114,
-      "language": "en",
-      "started_at": "2026-10-24T22:07:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
-    },
-    {
       "user_login": "zombaesempai",
       "user_name": "ZombaeSempai",
       "is_live": true,
       "title": "Spooky Season In Full Effect!| The Crypt's Annual Halloween Raid Train | 4PM PST - 6PM PST",
       "game_name": "The Midnight Walk",
-      "viewer_count": 49,
+      "viewer_count": 61,
       "follower_count": 552,
       "language": "en",
       "started_at": "2026-10-24T22:32:09Z",
@@ -45,13 +30,28 @@
       "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     },
     {
+      "user_login": "wexra",
+      "user_name": "Wexra",
+      "is_live": true,
+      "title": "TOP DUELIST BY THE END OF THE NIGHT 💃🏼 !join !discord !ubi !code",
+      "game_name": "For Honor",
+      "viewer_count": 57,
+      "follower_count": 9114,
+      "language": "en",
+      "started_at": "2026-10-24T22:07:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
       "user_login": "padbae",
       "user_name": "padbae",
       "is_live": true,
       "title": "♡ Cobblemon CHALLENGE! Building a DARK-TYPE Team in 3 HOURS! ♡ ⋆(๑•ᴗ•๑) | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 21,
-      "follower_count": 1354,
+      "viewer_count": 18,
+      "follower_count": 1355,
       "language": "en",
       "started_at": "2026-10-24T20:38:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
