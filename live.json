@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T19:47:58.132Z",
+  "generatedAt": "2026-10-24T19:52:58.156Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T19:47:58.132Z",
+    "fetchedAt": "2026-10-24T19:52:58.156Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "This game is calling to me... time to revist Gaia | DeRust - Any% NMS | Disc 1+ | 24/10/2026",
       "game_name": "FINAL FANTASY IX",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 727,
       "language": "en",
       "started_at": "2026-10-24T18:19:38Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming - You, Me, and DLC!",
       "game_name": "RESIDENT EVIL 7 biohazard",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 25,
       "language": "en",
       "started_at": "2026-10-24T17:02:47Z",
