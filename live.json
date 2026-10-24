@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T21:52:57.318Z",
+  "generatedAt": "2026-10-24T21:57:57.349Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T21:52:57.318Z",
+    "fetchedAt": "2026-10-24T21:57:57.349Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "The Mortuary Assistant | Would you try a strawberry yogurt dipped chicken nugget? | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "The Mortuary Assistant",
-      "viewer_count": 13,
+      "viewer_count": 18,
       "follower_count": 1743,
       "language": "en",
       "started_at": "2026-10-24T18:56:30Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "♡ Cobblemon CHALLENGE! Building a DARK-TYPE Team in 3 HOURS! ♡ ⋆(๑•ᴗ•๑) | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 12,
+      "viewer_count": 9,
       "follower_count": 1354,
       "language": "en",
       "started_at": "2026-10-24T20:38:10Z",
