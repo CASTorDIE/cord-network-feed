@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T07:22:58.011Z",
+  "generatedAt": "2026-10-24T07:27:58.138Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T07:22:58.011Z",
+    "fetchedAt": "2026-10-24T07:27:58.138Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Lofi Moon Cleaning w/ viewers | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Moon Sweepers",
-      "viewer_count": 93,
+      "viewer_count": 92,
       "follower_count": 10319,
       "language": "en",
       "started_at": "2026-10-24T02:59:54Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "[18+] Bad Vibes. Worse Decisions.| Silent Hill 2 | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 12,
+      "viewer_count": 15,
       "follower_count": 1301,
       "language": "en",
       "started_at": "2026-10-24T07:04:06Z",
