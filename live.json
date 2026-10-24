@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T02:32:57.638Z",
+  "generatedAt": "2026-10-24T02:37:57.626Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T02:32:57.638Z",
+    "fetchedAt": "2026-10-24T02:37:57.626Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 994🏍️!discord🏍️WAHOOOOO🏍️ANOTHER STREAM WE LOVE ROCKET LEAGUE WAHOOOO🏍️LETS GAME SOME ROCKET LEAGUE GAMERS AND LET",
       "game_name": "Rocket League",
-      "viewer_count": 466,
-      "follower_count": 119877,
+      "viewer_count": 489,
+      "follower_count": 119932,
       "language": "en",
       "started_at": "2026-10-24T00:07:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🎃 NICO ROBIN | NEW ONE PIECE GAME | !oct !move !merch",
       "game_name": "One Piece: Grand Gourmet",
-      "viewer_count": 92,
-      "follower_count": 10774,
+      "viewer_count": 62,
+      "follower_count": 10773,
       "language": "en",
       "started_at": "2026-10-24T00:27:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Replaying my Fav Childhood Game pt 2! 💃🏼 !join !discord !ubi !code",
       "game_name": "Venetica",
-      "viewer_count": 13,
+      "viewer_count": 12,
       "follower_count": 9112,
       "language": "en",
       "started_at": "2026-10-24T00:52:15Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
+      "user_login": "fallentitanandy",
+      "user_name": "FallenTitanAndy",
+      "is_live": true,
+      "title": "Can I Create Marvel Dress? !charity",
+      "game_name": "Dressmaker (2026)",
+      "viewer_count": 3,
+      "follower_count": 417,
+      "language": "en",
+      "started_at": "2026-10-24T01:27:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/fallentitanandy",
+      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "bribeecool10",
@@ -88,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "fallentitanandy",
-      "user_name": "FallenTitanAndy",
-      "is_live": true,
-      "title": "Can I Create Marvel Dress? !charity",
-      "game_name": "Dressmaker (2026)",
-      "viewer_count": 1,
-      "follower_count": 417,
-      "language": "en",
-      "started_at": "2026-10-24T01:27:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/fallentitanandy",
-      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "4kaizen_gaming",
