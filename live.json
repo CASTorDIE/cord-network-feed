@@ -1,42 +1,27 @@
 {
-  "generatedAt": "2026-10-24T07:32:58.070Z",
+  "generatedAt": "2026-10-24T07:37:58.045Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T07:32:58.070Z",
+    "fetchedAt": "2026-10-24T07:37:58.045Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
-    {
-      "user_login": "zaldar87",
-      "user_name": "Zaldar87",
-      "is_live": true,
-      "title": "🦊🦇| Lofi Moon Cleaning w/ viewers | !discord !telegram !vrc !micro  | Microscape Addict",
-      "game_name": "Moon Sweepers",
-      "viewer_count": 97,
-      "follower_count": 10319,
-      "language": "en",
-      "started_at": "2026-10-24T02:59:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zaldar87",
-      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
     {
       "user_login": "viridisbytes",
       "user_name": "ViridisBytes",
       "is_live": true,
       "title": "[18+] Bad Vibes. Worse Decisions.| Silent Hill 2 | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 21,
-      "follower_count": 1301,
+      "viewer_count": 24,
+      "follower_count": 1302,
       "language": "en",
       "started_at": "2026-10-24T07:04:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
@@ -201,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 120073,
+      "follower_count": 120074,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -658,6 +643,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
+    },
+    {
+      "user_login": "zaldar87",
+      "user_name": "Zaldar87",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 10320,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zaldar87",
+      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "zombaesempai",
