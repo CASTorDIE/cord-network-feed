@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T15:27:57.715Z",
+  "generatedAt": "2026-10-24T15:32:57.741Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T15:27:57.715Z",
+    "fetchedAt": "2026-10-24T15:32:57.741Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Starpathing and haording Jax 4 Partner! |!library !discord !tip !linktree !merch|",
       "game_name": "Loftia",
-      "viewer_count": 64,
+      "viewer_count": 62,
       "follower_count": 2918,
       "language": "en",
       "started_at": "2026-10-24T12:01:06Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 120078,
+      "follower_count": 120079,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
