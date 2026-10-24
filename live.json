@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-24T03:42:57.796Z",
+  "generatedAt": "2026-10-24T03:47:57.658Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T03:42:57.796Z",
+    "fetchedAt": "2026-10-24T03:47:57.658Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 994🏍️!discord🏍️WAHOOOOO🏍️ANOTHER STREAM WE LOVE ROCKET LEAGUE WAHOOOO🏍️LETS GAME SOME ROCKET LEAGUE GAMERS AND LET",
       "game_name": "Just Chatting",
-      "viewer_count": 335,
+      "viewer_count": 301,
       "follower_count": 120071,
       "language": "en",
       "started_at": "2026-10-24T00:07:06Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃 NICO ROBIN | 9 DAYS TILL UNCAPPED | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 137,
+      "viewer_count": 134,
       "follower_count": 10777,
       "language": "en",
       "started_at": "2026-10-24T00:27:03Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🦊🦇| Lofi Moon Cleaning w/ viewers | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Moon Sweepers",
-      "viewer_count": 72,
+      "viewer_count": 82,
       "follower_count": 10319,
       "language": "en",
       "started_at": "2026-10-24T02:59:54Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Replaying my Fav Childhood Game pt 2! 💃🏼 !join !discord !ubi !code",
       "game_name": "Venetica",
-      "viewer_count": 11,
+      "viewer_count": 14,
       "follower_count": 9112,
       "language": "en",
       "started_at": "2026-10-24T00:52:15Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
-    },
-    {
-      "user_login": "fallentitanandy",
-      "user_name": "FallenTitanAndy",
-      "is_live": true,
-      "title": "Can I Create Marvel Dress? !charity",
-      "game_name": "Dressmaker (2026)",
-      "viewer_count": 1,
-      "follower_count": 418,
-      "language": "en",
-      "started_at": "2026-10-24T01:27:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/fallentitanandy",
-      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "4kaizen_gaming",
@@ -298,6 +283,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/dingo_dynasty",
       "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
+    },
+    {
+      "user_login": "fallentitanandy",
+      "user_name": "FallenTitanAndy",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 418,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/fallentitanandy",
+      "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
     },
     {
       "user_login": "faytefireix",
