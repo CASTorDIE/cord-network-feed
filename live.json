@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T10:42:57.377Z",
+  "generatedAt": "2026-10-24T10:47:57.384Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T10:42:57.377Z",
+    "fetchedAt": "2026-10-24T10:47:57.384Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] Bad Vibes. Worse Decisions.| Silent Hill 2 | !advanced !discord !lurk !time !clip |",
       "game_name": "SILENT HILL 2",
-      "viewer_count": 28,
+      "viewer_count": 31,
       "follower_count": 1307,
       "language": "en",
       "started_at": "2026-10-24T07:04:06Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Can I Create Marvel Dress? !charity",
       "game_name": "Dressmaker (2026)",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 418,
       "language": "en",
       "started_at": "2026-10-24T08:36:19Z",
