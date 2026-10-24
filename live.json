@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T18:57:58.100Z",
+  "generatedAt": "2026-10-24T19:02:58.355Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T18:57:58.100Z",
+    "fetchedAt": "2026-10-24T19:02:58.355Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -14,6 +14,21 @@
     "offlineCount": 41
   },
   "streamers": [
+    {
+      "user_login": "wispy_witch",
+      "user_name": "wispy_witch",
+      "is_live": true,
+      "title": "The Mortuary Assistant | Would you try a strawberry yogurt dipped chicken nugget? | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
+      "game_name": "Just Chatting",
+      "viewer_count": 7,
+      "follower_count": 1743,
+      "language": "en",
+      "started_at": "2026-10-24T18:56:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wispy_witch",
+      "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
+    },
     {
       "user_login": "faytefireix",
       "user_name": "FayteFireix",
@@ -43,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "wispy_witch",
-      "user_name": "wispy_witch",
-      "is_live": true,
-      "title": "The Mortuary Assistant | Would you try a strawberry yogurt dipped chicken nugget? | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "Just Chatting",
-      "viewer_count": 0,
-      "follower_count": 1743,
-      "language": "en",
-      "started_at": "2026-10-24T18:56:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
     },
     {
       "user_login": "4kaizen_gaming",
