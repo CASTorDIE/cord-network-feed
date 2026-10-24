@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T14:27:57.643Z",
+  "generatedAt": "2026-10-24T14:32:57.688Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T14:27:57.643Z",
+    "fetchedAt": "2026-10-24T14:32:57.688Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "jaxsberrypatch",
       "is_live": true,
       "title": "Starpathing and haording Jax 4 Partner! |!library !discord !tip !linktree !merch|",
-      "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 84,
+      "game_name": "Loftia",
+      "viewer_count": 83,
       "follower_count": 2918,
       "language": "en",
       "started_at": "2026-10-24T12:01:06Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "WE'RE BACK IN LOFTIA! 🌿✨ Playing the Demo With Viewers! | !hype !newvlog !gamevideo",
       "game_name": "Loftia",
-      "viewer_count": 25,
+      "viewer_count": 24,
       "follower_count": 5136,
       "language": "en",
       "started_at": "2026-10-24T13:12:44Z",
