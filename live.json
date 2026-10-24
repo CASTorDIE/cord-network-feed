@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T18:42:58.118Z",
+  "generatedAt": "2026-10-24T18:47:58.085Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T18:42:58.118Z",
+    "fetchedAt": "2026-10-24T18:47:58.085Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "This game is calling to me... time to revist Gaia | DeRust - Any% NMS | Disc 1+ | 24/10/2026",
       "game_name": "FINAL FANTASY IX",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 727,
       "language": "en",
       "started_at": "2026-10-24T18:19:38Z",
