@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T12:57:57.491Z",
+  "generatedAt": "2026-10-24T13:02:57.534Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T12:57:57.491Z",
+    "fetchedAt": "2026-10-24T13:02:57.534Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Starpathing and haording Jax 4 Partner! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 87,
-      "follower_count": 2912,
+      "viewer_count": 84,
+      "follower_count": 2914,
       "language": "en",
       "started_at": "2026-10-24T12:01:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
