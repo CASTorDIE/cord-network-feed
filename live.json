@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T06:02:57.913Z",
+  "generatedAt": "2026-10-24T06:07:57.888Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T06:02:57.913Z",
+    "fetchedAt": "2026-10-24T06:07:57.888Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 NICO ROBIN | 9 DAYS TILL UNCAPPED | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 125,
+      "viewer_count": 122,
       "follower_count": 10784,
       "language": "en",
       "started_at": "2026-10-24T00:27:03Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Chilla's Art!",
       "game_name": "Games + Demos",
-      "viewer_count": 16,
+      "viewer_count": 13,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-10-24T04:09:43Z",
