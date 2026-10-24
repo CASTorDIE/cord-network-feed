@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-24T03:07:57.618Z",
+  "generatedAt": "2026-10-24T03:12:57.690Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-24T03:07:57.618Z",
+    "fetchedAt": "2026-10-24T03:12:57.690Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 994🏍️!discord🏍️WAHOOOOO🏍️ANOTHER STREAM WE LOVE ROCKET LEAGUE WAHOOOO🏍️LETS GAME SOME ROCKET LEAGUE GAMERS AND LET",
       "game_name": "Rocket League",
-      "viewer_count": 489,
-      "follower_count": 120045,
+      "viewer_count": 498,
+      "follower_count": 120046,
       "language": "en",
       "started_at": "2026-10-24T00:07:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -34,8 +34,8 @@
       "user_name": "billygoat",
       "is_live": true,
       "title": "🎃 NICO ROBIN | NEW ONE PIECE GAME | !oct !move !merch",
-      "game_name": "One Piece: Grand Gourmet",
-      "viewer_count": 146,
+      "game_name": "Counter-Strike",
+      "viewer_count": 152,
       "follower_count": 10776,
       "language": "en",
       "started_at": "2026-10-24T00:27:03Z",
@@ -45,27 +45,12 @@
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
-      "user_login": "horror_heather",
-      "user_name": "horror_heather",
-      "is_live": true,
-      "title": "Pixel art and live action cut scenes! | Tenebris Somnia | !links !discord",
-      "game_name": "Tenebris Somnia",
-      "viewer_count": 24,
-      "follower_count": 691,
-      "language": "en",
-      "started_at": "2026-10-23T21:31:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_horror_heather-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/horror_heather",
-      "description": "I'm too scared to play horror games alone! Steaming every Monday and Thursday at 5:30 PM EST! I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
-    },
-    {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| Lofi Moon Cleaning w/ viewers | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Moon Sweepers",
-      "viewer_count": 24,
+      "viewer_count": 31,
       "follower_count": 10319,
       "language": "en",
       "started_at": "2026-10-24T02:59:54Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "Replaying my Fav Childhood Game pt 2! 💃🏼 !join !discord !ubi !code",
       "game_name": "Venetica",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "follower_count": 9112,
       "language": "en",
       "started_at": "2026-10-24T00:52:15Z",
@@ -95,8 +80,8 @@
       "is_live": true,
       "title": "Can I Create Marvel Dress? !charity",
       "game_name": "Dressmaker (2026)",
-      "viewer_count": 1,
-      "follower_count": 417,
+      "viewer_count": 2,
+      "follower_count": 418,
       "language": "en",
       "started_at": "2026-10-24T01:27:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
@@ -403,6 +388,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e89b72d-44f9-4905-9ba3-27d3141210ff-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/guitardoll",
       "description": "Chaotic, high-energy, and probably one bad decision away from a jump scare. | Welcome to the Dollhouse | Tue & Thurs 7PM • Sat 5PM | Business Email: guitardoll.official@gmail.com"
+    },
+    {
+      "user_login": "horror_heather",
+      "user_name": "horror_heather",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 691,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77a08a6a-2bfc-45c8-b54e-b849c1b248b6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/horror_heather",
+      "description": "I'm too scared to play horror games alone! Steaming every Monday and Thursday at 5:30 PM EST! I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
     },
     {
       "user_login": "jaxsberrypatch",
