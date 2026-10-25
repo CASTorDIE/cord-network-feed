@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T14:37:57.879Z",
+  "generatedAt": "2026-10-25T14:42:57.908Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T14:37:57.879Z",
+    "fetchedAt": "2026-10-25T14:42:57.908Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Refresh our frosted heights |Jax 4 Partner! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 131,
+      "viewer_count": 122,
       "follower_count": 2932,
       "language": "en",
       "started_at": "2026-10-25T12:00:15Z",
