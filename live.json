@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T05:22:58.063Z",
+  "generatedAt": "2026-10-25T05:27:58.043Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T05:22:58.063Z",
+    "fetchedAt": "2026-10-25T05:27:58.043Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "billygoat",
       "is_live": true,
       "title": "🎃 TONY TONY CHOPPER | $25 CHOPPER ALERT | !oct !move !merch",
-      "game_name": "Liar's Bar",
-      "viewer_count": 90,
+      "game_name": "Machine Party",
+      "viewer_count": 98,
       "follower_count": 10803,
       "language": "en",
       "started_at": "2026-10-25T00:44:03Z",
