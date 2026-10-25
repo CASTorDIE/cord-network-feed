@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T02:37:57.893Z",
+  "generatedAt": "2026-10-25T02:42:57.779Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T02:37:57.893Z",
+    "fetchedAt": "2026-10-25T02:42:57.779Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -33,9 +33,9 @@
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
-      "title": "Time to Finish Horsef**ck Valley!",
-      "game_name": "DARK SOULS II: Scholar of the First Sin",
-      "viewer_count": 14,
+      "title": "Finished DSII time to die to gravity",
+      "game_name": "Celeste",
+      "viewer_count": 12,
       "follower_count": 320,
       "language": "en",
       "started_at": "2026-10-25T00:55:42Z",
