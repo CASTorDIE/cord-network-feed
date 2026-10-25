@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T22:27:57.596Z",
+  "generatedAt": "2026-10-25T22:32:57.598Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T22:27:57.596Z",
+    "fetchedAt": "2026-10-25T22:32:57.598Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Training to be a Duelist! 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 21,
+      "viewer_count": 25,
       "follower_count": 9115,
       "language": "en",
       "started_at": "2026-10-25T22:13:55Z",
