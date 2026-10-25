@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T01:52:57.811Z",
+  "generatedAt": "2026-10-25T01:57:57.780Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T01:52:57.811Z",
+    "fetchedAt": "2026-10-25T01:57:57.780Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Dom w Viewers! 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 63,
+      "viewer_count": 62,
       "follower_count": 9116,
       "language": "en",
       "started_at": "2026-10-24T22:07:04Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃 TONY TONY CHOPPER | $25 CHOPPER ALERT | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 52,
+      "viewer_count": 54,
       "follower_count": 10792,
       "language": "en",
       "started_at": "2026-10-25T00:44:03Z",
