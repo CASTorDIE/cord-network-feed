@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T05:12:58.005Z",
+  "generatedAt": "2026-10-25T05:17:58.043Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T05:12:58.005Z",
+    "fetchedAt": "2026-10-25T05:17:58.043Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 TONY TONY CHOPPER | $25 CHOPPER ALERT | !oct !move !merch",
       "game_name": "Liar's Bar",
-      "viewer_count": 101,
+      "viewer_count": 105,
       "follower_count": 10802,
       "language": "en",
       "started_at": "2026-10-25T00:44:03Z",
@@ -126,7 +126,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 5137,
+      "follower_count": 5136,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
