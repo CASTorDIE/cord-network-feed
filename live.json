@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T02:17:57.769Z",
+  "generatedAt": "2026-10-25T02:22:57.828Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T02:17:57.769Z",
+    "fetchedAt": "2026-10-25T02:22:57.828Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 TONY TONY CHOPPER | $25 CHOPPER ALERT | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 81,
+      "viewer_count": 82,
       "follower_count": 10793,
       "language": "en",
       "started_at": "2026-10-25T00:44:03Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Time to Finish Horsef**ck Valley!",
       "game_name": "DARK SOULS II: Scholar of the First Sin",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 320,
       "language": "en",
       "started_at": "2026-10-25T00:55:42Z",
