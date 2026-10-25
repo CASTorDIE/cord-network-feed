@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T06:27:58.199Z",
+  "generatedAt": "2026-10-25T06:32:58.161Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T06:27:58.199Z",
+    "fetchedAt": "2026-10-25T06:32:58.161Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃 TONY TONY CHOPPER | $25 CHOPPER ALERT | !oct !move !merch",
       "game_name": "Machine Party",
-      "viewer_count": 87,
-      "follower_count": 10805,
+      "viewer_count": 82,
+      "follower_count": 10806,
       "language": "en",
       "started_at": "2026-10-25T00:44:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
