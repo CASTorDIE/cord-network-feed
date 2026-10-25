@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T03:42:57.828Z",
+  "generatedAt": "2026-10-25T03:47:57.849Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T03:42:57.828Z",
+    "fetchedAt": "2026-10-25T03:47:57.849Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 TONY TONY CHOPPER | $25 CHOPPER ALERT | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 64,
+      "viewer_count": 59,
       "follower_count": 10795,
       "language": "en",
       "started_at": "2026-10-25T00:44:03Z",
