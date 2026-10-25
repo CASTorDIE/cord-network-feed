@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T05:57:58.115Z",
+  "generatedAt": "2026-10-25T06:02:58.126Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T05:57:58.115Z",
+    "fetchedAt": "2026-10-25T06:02:58.126Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 TONY TONY CHOPPER | $25 CHOPPER ALERT | !oct !move !merch",
       "game_name": "Machine Party",
-      "viewer_count": 91,
+      "viewer_count": 86,
       "follower_count": 10803,
       "language": "en",
       "started_at": "2026-10-25T00:44:03Z",
