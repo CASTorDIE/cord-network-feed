@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-25T00:32:57.574Z",
+  "generatedAt": "2026-10-25T00:37:57.545Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T00:32:57.574Z",
+    "fetchedAt": "2026-10-25T00:37:57.545Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "TOP DUELIST BY THE END OF THE NIGHT 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 120,
+      "viewer_count": 97,
       "follower_count": 9114,
       "language": "en",
       "started_at": "2026-10-24T22:07:04Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Spooky Season In Full Effect!| The Crypt's Annual Halloween Raid Train | 4PM PST - 6PM PST",
       "game_name": "The Midnight Walk",
-      "viewer_count": 65,
+      "viewer_count": 67,
       "follower_count": 553,
       "language": "en",
       "started_at": "2026-10-24T22:32:09Z",
@@ -43,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7129ede2-61eb-42b7-a23a-6268e69d3390-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zombaesempai",
       "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
-    },
-    {
-      "user_login": "padbae",
-      "user_name": "padbae",
-      "is_live": true,
-      "title": "♡ Cobblemon CHALLENGE! Building a DARK-TYPE Team in 3 HOURS! ♡ ⋆(๑•ᴗ•๑) | !lurk !sus !discord !gfuel !patreon",
-      "game_name": "Minecraft",
-      "viewer_count": 23,
-      "follower_count": 1356,
-      "language": "en",
-      "started_at": "2026-10-24T20:38:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/padbae",
-      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
       "user_login": "thepuckgoa",
@@ -553,6 +538,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1132c17-c3f8-4b58-beee-f0c43232628e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": "twitch: Infinitehavoconline"
+    },
+    {
+      "user_login": "padbae",
+      "user_name": "padbae",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1358,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/padbae",
+      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
       "user_login": "rickett_raffy",
