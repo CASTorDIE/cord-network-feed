@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-25T00:52:57.737Z",
+  "generatedAt": "2026-10-25T00:57:57.815Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T00:52:57.737Z",
+    "fetchedAt": "2026-10-25T00:57:57.815Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "TOP DUELIST BY THE END OF THE NIGHT 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 93,
+      "viewer_count": 96,
       "follower_count": 9114,
       "language": "en",
       "started_at": "2026-10-24T22:07:04Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Spooky Season In Full Effect!| The Crypt's Annual Halloween Raid Train | 4PM PST - 6PM PST",
       "game_name": "The Midnight Walk",
-      "viewer_count": 62,
+      "viewer_count": 64,
       "follower_count": 554,
       "language": "en",
       "started_at": "2026-10-24T22:32:09Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🎃 TONY TONY CHOPPER | $25 CHOPPER ALERT | !oct !move !merch",
       "game_name": "Just Chatting",
-      "viewer_count": 32,
+      "viewer_count": 30,
       "follower_count": 10783,
       "language": "en",
       "started_at": "2026-10-25T00:44:03Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": true,
+      "title": "Time to Finish Horsef**ck Valley!",
+      "game_name": "DARK SOULS II: Scholar of the First Sin",
+      "viewer_count": 1,
+      "follower_count": 320,
+      "language": "en",
+      "started_at": "2026-10-25T00:55:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "thepuckgoa",
@@ -73,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 320,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "alfieduu",
@@ -606,7 +606,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 461,
+      "follower_count": 460,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
