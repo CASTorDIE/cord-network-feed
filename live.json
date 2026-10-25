@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-25T03:27:57.918Z",
+  "generatedAt": "2026-10-25T03:32:57.927Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T03:27:57.918Z",
+    "fetchedAt": "2026-10-25T03:32:57.927Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 TONY TONY CHOPPER | $25 CHOPPER ALERT | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 58,
+      "viewer_count": 49,
       "follower_count": 10794,
       "language": "en",
       "started_at": "2026-10-25T00:44:03Z",
@@ -28,21 +28,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
-    },
-    {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "Finished DSII time to die to gravity",
-      "game_name": "Celeste",
-      "viewer_count": 19,
-      "follower_count": 321,
-      "language": "en",
-      "started_at": "2026-10-25T00:55:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "bribeecool10",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 321,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "alfieduu",
