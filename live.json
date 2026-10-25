@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T00:17:57.526Z",
+  "generatedAt": "2026-10-25T00:22:57.582Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T00:17:57.526Z",
+    "fetchedAt": "2026-10-25T00:22:57.582Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Spooky Season In Full Effect!| The Crypt's Annual Halloween Raid Train | 4PM PST - 6PM PST",
       "game_name": "The Midnight Walk",
-      "viewer_count": 57,
+      "viewer_count": 73,
       "follower_count": 553,
       "language": "en",
       "started_at": "2026-10-24T22:32:09Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "TOP DUELIST BY THE END OF THE NIGHT 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 51,
+      "viewer_count": 54,
       "follower_count": 9114,
       "language": "en",
       "started_at": "2026-10-24T22:07:04Z",
