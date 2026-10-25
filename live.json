@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T14:42:57.908Z",
+  "generatedAt": "2026-10-25T14:47:58.731Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T14:42:57.908Z",
+    "fetchedAt": "2026-10-25T14:47:58.731Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Refresh our frosted heights |Jax 4 Partner! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 122,
-      "follower_count": 2932,
+      "viewer_count": 120,
+      "follower_count": 2933,
       "language": "en",
       "started_at": "2026-10-25T12:00:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
