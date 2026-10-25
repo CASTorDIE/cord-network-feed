@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T03:07:57.812Z",
+  "generatedAt": "2026-10-25T03:12:57.779Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T03:07:57.812Z",
+    "fetchedAt": "2026-10-25T03:12:57.779Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 TONY TONY CHOPPER | $25 CHOPPER ALERT | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 67,
+      "viewer_count": 63,
       "follower_count": 10794,
       "language": "en",
       "started_at": "2026-10-25T00:44:03Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Finished DSII time to die to gravity",
       "game_name": "Celeste",
-      "viewer_count": 14,
+      "viewer_count": 18,
       "follower_count": 321,
       "language": "en",
       "started_at": "2026-10-25T00:55:42Z",
