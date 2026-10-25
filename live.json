@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T22:32:57.598Z",
+  "generatedAt": "2026-10-25T22:37:57.605Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T22:32:57.598Z",
+    "fetchedAt": "2026-10-25T22:37:57.605Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Training to be a Duelist! 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 25,
-      "follower_count": 9115,
+      "viewer_count": 28,
+      "follower_count": 9116,
       "language": "en",
       "started_at": "2026-10-25T22:13:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 120091,
+      "follower_count": 120090,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
