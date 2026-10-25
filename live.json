@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T03:52:57.832Z",
+  "generatedAt": "2026-10-25T03:57:57.867Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-25T03:52:57.832Z",
+    "fetchedAt": "2026-10-25T03:57:57.867Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃 TONY TONY CHOPPER | $25 CHOPPER ALERT | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 64,
-      "follower_count": 10795,
+      "viewer_count": 59,
+      "follower_count": 10796,
       "language": "en",
       "started_at": "2026-10-25T00:44:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
