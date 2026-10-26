@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T04:32:58.189Z",
+  "generatedAt": "2026-10-26T04:37:58.157Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-26T04:32:58.189Z",
+    "fetchedAt": "2026-10-26T04:37:58.157Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "A small hand project :3 || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 68,
+      "viewer_count": 65,
       "follower_count": 6421,
       "language": "en",
       "started_at": "2026-10-25T23:50:40Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 120232,
+      "follower_count": 120231,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
