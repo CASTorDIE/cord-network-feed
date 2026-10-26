@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T03:12:58.093Z",
+  "generatedAt": "2026-10-26T03:17:58.002Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-26T03:12:58.093Z",
+    "fetchedAt": "2026-10-26T03:17:58.002Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 995🥚!discord🥚WE ARE EGG🥚WE ARE EGG🥚WE ARE EGG🥚WE ARE EGG🥚WE ARE EGG🥚WE ARE EGG🥚WE ARE EGG🥚WE ARE EGG🥚WE ARE",
       "game_name": "Rocket League",
-      "viewer_count": 568,
-      "follower_count": 120195,
+      "viewer_count": 544,
+      "follower_count": 120198,
       "language": "en",
       "started_at": "2026-10-26T00:12:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "A small hand project :3 || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 46,
+      "viewer_count": 52,
       "follower_count": 6420,
       "language": "en",
       "started_at": "2026-10-25T23:50:40Z",
