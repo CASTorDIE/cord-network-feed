@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T12:47:59.074Z",
+  "generatedAt": "2026-10-26T12:52:57.946Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-26T12:47:59.074Z",
+    "fetchedAt": "2026-10-26T12:52:57.946Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "MYLF Raid Train! Treat Valley Villagers [Next Stream Oct 27th @ 9am CST]",
       "game_name": "Disney Dreamlight Valley",
       "viewer_count": 14,
-      "follower_count": 187,
+      "follower_count": 188,
       "language": "en",
       "started_at": "2026-10-26T11:52:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_laconsgamingnook-960x540.jpg",
@@ -141,7 +141,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10805,
+      "follower_count": 10804,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
