@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T23:47:57.977Z",
+  "generatedAt": "2026-10-26T23:52:58.052Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-26T23:47:57.977Z",
+    "fetchedAt": "2026-10-26T23:52:58.052Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "DROPS! | Alien: Isolation on HARD | !links !discord",
       "game_name": "Alien: Isolation",
-      "viewer_count": 31,
+      "viewer_count": 30,
       "follower_count": 697,
       "language": "en",
       "started_at": "2026-10-26T21:32:35Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 120242,
+      "follower_count": 120243,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
