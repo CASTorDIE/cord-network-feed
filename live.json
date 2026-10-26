@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T04:47:58.140Z",
+  "generatedAt": "2026-10-26T04:52:58.225Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-26T04:47:58.140Z",
+    "fetchedAt": "2026-10-26T04:52:58.225Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "A small hand project :3 || !merch !throne !daki",
       "game_name": "Just Chatting",
-      "viewer_count": 67,
-      "follower_count": 6421,
+      "viewer_count": 68,
+      "follower_count": 6422,
       "language": "en",
       "started_at": "2026-10-25T23:50:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
