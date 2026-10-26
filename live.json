@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T23:22:58.004Z",
+  "generatedAt": "2026-10-26T23:27:57.990Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-26T23:22:58.004Z",
+    "fetchedAt": "2026-10-26T23:27:57.990Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "DROPS! | Alien: Isolation on HARD | !links !discord",
       "game_name": "Alien: Isolation",
-      "viewer_count": 41,
-      "follower_count": 695,
+      "viewer_count": 30,
+      "follower_count": 696,
       "language": "en",
       "started_at": "2026-10-26T21:32:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_horror_heather-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 120240,
+      "follower_count": 120241,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
