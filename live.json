@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T05:57:57.329Z",
+  "generatedAt": "2026-10-26T06:02:57.363Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-26T05:57:57.329Z",
+    "fetchedAt": "2026-10-26T06:02:57.363Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "A small hand project :3 || !merch !throne !daki",
       "game_name": "Tomodachi Life: Living the Dream",
-      "viewer_count": 64,
+      "viewer_count": 68,
       "follower_count": 6423,
       "language": "en",
       "started_at": "2026-10-25T23:50:40Z",
