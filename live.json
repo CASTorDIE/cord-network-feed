@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T12:37:58.183Z",
+  "generatedAt": "2026-10-27T12:43:00.688Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T12:37:58.183Z",
+    "fetchedAt": "2026-10-27T12:43:00.688Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "singing + piano = live music requests🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 19,
-      "follower_count": 440,
+      "viewer_count": 17,
+      "follower_count": null,
       "language": "en",
       "started_at": "2026-10-27T10:58:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
