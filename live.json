@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T11:42:58.148Z",
+  "generatedAt": "2026-10-27T11:47:58.061Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T11:42:58.148Z",
+    "fetchedAt": "2026-10-27T11:47:58.061Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Co-Working and Idle Moon Sweeping with Viewers! | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Moon Sweepers",
-      "viewer_count": 107,
+      "viewer_count": 104,
       "follower_count": 10314,
       "language": "en",
       "started_at": "2026-10-27T02:20:13Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "singing + piano = live music requests🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 7,
+      "viewer_count": 10,
       "follower_count": 438,
       "language": "en",
       "started_at": "2026-10-27T10:58:31Z",
