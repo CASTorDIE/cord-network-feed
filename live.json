@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T18:47:57.777Z",
+  "generatedAt": "2026-10-27T18:52:57.800Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T18:47:57.777Z",
+    "fetchedAt": "2026-10-27T18:52:57.800Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔥 NEW ARC RAIDERS PROJECT?! 👀 LET'S GET INTO IT!",
       "game_name": "ARC Raiders",
-      "viewer_count": 107,
+      "viewer_count": 114,
       "follower_count": 14814,
       "language": "en",
       "started_at": "2026-10-27T18:28:59Z",
