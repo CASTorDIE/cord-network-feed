@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-27T10:57:58.005Z",
+  "generatedAt": "2026-10-27T11:02:57.999Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T10:57:58.005Z",
+    "fetchedAt": "2026-10-27T11:02:57.999Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Co-Working and Idle Moon Sweeping with Viewers! | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Moon Sweepers",
-      "viewer_count": 115,
+      "viewer_count": 110,
       "follower_count": 10314,
       "language": "en",
       "started_at": "2026-10-27T02:20:13Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
+    },
+    {
+      "user_login": "memella",
+      "user_name": "memella",
+      "is_live": true,
+      "title": "singing + piano = live music requests🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
+      "game_name": "Music",
+      "viewer_count": 2,
+      "follower_count": 438,
+      "language": "en",
+      "started_at": "2026-10-27T10:58:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/memella",
+      "description": "I'm not very good at it - but I do it anyway"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -141,7 +156,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 10804,
+      "follower_count": 10805,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -448,21 +463,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a5416ea-82c3-4c48-b978-476de0de93df-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/laconsgamingnook",
       "description": "I'm Lacon (Lay-Kin) & This is Our Little Zoo, Here we enjoy diving into our Favorite life Sim games like, Dreamlight Valley, Palia, Paralives, Loftia, etc. Don't forget to not rush and take it all in, You deserve it!"
-    },
-    {
-      "user_login": "memella",
-      "user_name": "memella",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 438,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/memella",
-      "description": "I'm not very good at it - but I do it anyway"
     },
     {
       "user_login": "mrcarameldrizzle",
