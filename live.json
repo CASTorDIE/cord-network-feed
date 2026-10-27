@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T12:27:58.224Z",
+  "generatedAt": "2026-10-27T12:32:58.377Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T12:27:58.224Z",
+    "fetchedAt": "2026-10-27T12:32:58.377Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Co-Working and Idle Moon Sweeping with Viewers! | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Moon Sweepers",
-      "viewer_count": 102,
+      "viewer_count": 106,
       "follower_count": 10314,
       "language": "en",
       "started_at": "2026-10-27T02:20:13Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "singing + piano = live music requests🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 22,
-      "follower_count": 439,
+      "viewer_count": 17,
+      "follower_count": 440,
       "language": "en",
       "started_at": "2026-10-27T10:58:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
