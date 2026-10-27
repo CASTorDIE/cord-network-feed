@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-10-27T14:52:57.407Z",
+  "generatedAt": "2026-10-27T14:57:57.433Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T14:52:57.407Z",
+    "fetchedAt": "2026-10-27T14:57:57.433Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
-    {
-      "user_login": "gibsontales",
-      "user_name": "GibsonTales",
-      "is_live": true,
-      "title": "Horror Games Back-to-Back 😭 Spooky Scary Time | Scawy Demo + Summer of '58",
-      "game_name": "Games + Demos",
-      "viewer_count": 18,
-      "follower_count": 1043,
-      "language": "en",
-      "started_at": "2026-10-27T12:43:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gibsontales",
-      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
-    },
     {
       "user_login": "laconsgamingnook",
       "user_name": "LaconsGamingNook",
       "is_live": true,
       "title": "Preparing for Keepsake Sea DLC, Seafaring Star Path [Next Stream Nov 2nd @ 9am CST] !Puzzle",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "follower_count": 197,
       "language": "en",
       "started_at": "2026-10-27T13:59:35Z",
@@ -343,6 +328,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "gibsontales",
+      "user_name": "GibsonTales",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1043,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gibsontales",
+      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
     },
     {
       "user_login": "gmclay_",
