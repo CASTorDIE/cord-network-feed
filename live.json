@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T18:37:57.824Z",
+  "generatedAt": "2026-10-27T18:42:57.829Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T18:37:57.824Z",
+    "fetchedAt": "2026-10-27T18:42:57.829Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,9 +19,9 @@
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🔥 NEW ARC RAIDERS PROJECT?! 👀 LET'S GET INTO IT!",
-      "game_name": "Just Chatting",
-      "viewer_count": 49,
-      "follower_count": 14815,
+      "game_name": "ARC Raiders",
+      "viewer_count": 90,
+      "follower_count": 14814,
       "language": "en",
       "started_at": "2026-10-27T18:28:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
