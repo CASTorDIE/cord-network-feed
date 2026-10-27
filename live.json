@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T12:47:58.231Z",
+  "generatedAt": "2026-10-27T12:52:58.181Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T12:47:58.231Z",
+    "fetchedAt": "2026-10-27T12:52:58.181Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "singing + piano = live music requests🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 15,
+      "viewer_count": 18,
       "follower_count": 440,
       "language": "en",
       "started_at": "2026-10-27T10:58:31Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Horror Games Back-to-Back 😭 Spooky Scary Time | Scawy Demo + Summer of '58",
       "game_name": "Scawy Game",
-      "viewer_count": 1,
+      "viewer_count": 13,
       "follower_count": 1039,
       "language": "en",
       "started_at": "2026-10-27T12:43:09Z",
