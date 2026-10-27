@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T14:22:57.274Z",
+  "generatedAt": "2026-10-27T14:27:57.310Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T14:22:57.274Z",
+    "fetchedAt": "2026-10-27T14:27:57.310Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Horror Games Back-to-Back 😭 Spooky Scary Time | Scawy Demo + Summer of '58",
       "game_name": "Games + Demos",
-      "viewer_count": 18,
+      "viewer_count": 19,
       "follower_count": 1043,
       "language": "en",
       "started_at": "2026-10-27T12:43:09Z",
