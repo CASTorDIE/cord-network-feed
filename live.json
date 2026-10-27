@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T22:42:58.069Z",
+  "generatedAt": "2026-10-27T22:47:58.112Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T22:42:58.069Z",
+    "fetchedAt": "2026-10-27T22:47:58.112Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔥 NEW ARC RAIDERS PROJECT?! 👀 LET'S GET INTO IT!",
       "game_name": "ARC Raiders",
-      "viewer_count": 104,
+      "viewer_count": 125,
       "follower_count": 14855,
       "language": "en",
       "started_at": "2026-10-27T22:17:01Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Duels Are Driving Me Insane 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 43,
+      "viewer_count": 46,
       "follower_count": 9116,
       "language": "en",
       "started_at": "2026-10-27T22:19:33Z",
