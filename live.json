@@ -1,42 +1,27 @@
 {
-  "generatedAt": "2026-10-27T22:47:58.112Z",
+  "generatedAt": "2026-10-27T22:52:58.148Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T22:47:58.112Z",
+    "fetchedAt": "2026-10-27T22:52:58.148Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
-    {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "🔥 NEW ARC RAIDERS PROJECT?! 👀 LET'S GET INTO IT!",
-      "game_name": "ARC Raiders",
-      "viewer_count": 125,
-      "follower_count": 14855,
-      "language": "en",
-      "started_at": "2026-10-27T22:17:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
     {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": true,
       "title": "Duels Are Driving Me Insane 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 46,
-      "follower_count": 9116,
+      "viewer_count": 45,
+      "follower_count": 9117,
       "language": "en",
       "started_at": "2026-10-27T22:19:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -201,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 120415,
+      "follower_count": 120416,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -555,6 +540,21 @@
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
     },
     {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 14855,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
       "user_login": "slimchungusgaming",
       "user_name": "SlimChungusGaming",
       "is_live": false,
@@ -576,7 +576,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 459,
+      "follower_count": 460,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
