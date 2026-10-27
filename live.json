@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T15:22:57.476Z",
+  "generatedAt": "2026-10-27T15:27:57.412Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T15:22:57.476Z",
+    "fetchedAt": "2026-10-27T15:27:57.412Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Preparing for Keepsake Sea DLC, Seafaring Star Path [Next Stream Nov 2nd @ 9am CST] !Puzzle",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 197,
       "language": "en",
       "started_at": "2026-10-27T13:59:35Z",
