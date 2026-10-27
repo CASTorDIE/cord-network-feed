@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T22:52:58.148Z",
+  "generatedAt": "2026-10-27T22:57:58.149Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T22:52:58.148Z",
+    "fetchedAt": "2026-10-27T22:57:58.149Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Duels Are Driving Me Insane 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 45,
-      "follower_count": 9117,
+      "viewer_count": 48,
+      "follower_count": 9118,
       "language": "en",
       "started_at": "2026-10-27T22:19:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
