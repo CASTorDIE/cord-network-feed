@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T02:32:57.415Z",
+  "generatedAt": "2026-10-27T02:37:57.276Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T02:32:57.415Z",
+    "fetchedAt": "2026-10-27T02:37:57.276Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 996🧄!discord🧄THIS GARLIC EMOJI IS LOWKEY SUS FR FR🧄LOK IIKE A BALL SACK DO IT NOT🧄FR IT ACTUALLY COULD JUST LIK EB",
       "game_name": "Rocket League",
-      "viewer_count": 633,
-      "follower_count": 120343,
+      "viewer_count": 641,
+      "follower_count": 120346,
       "language": "en",
       "started_at": "2026-10-27T00:08:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| FNAF Night and then Moon Sweeping with Viewers! | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Five Nights at Freddy's",
-      "viewer_count": 34,
+      "viewer_count": 46,
       "follower_count": 10314,
       "language": "en",
       "started_at": "2026-10-27T02:20:13Z",
