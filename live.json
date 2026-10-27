@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T00:22:58.003Z",
+  "generatedAt": "2026-10-27T00:28:00.908Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T00:22:58.003Z",
+    "fetchedAt": "2026-10-27T00:28:00.908Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 996🧄!discord🧄THIS GARLIC EMOJI IS LOWKEY SUS FR FR🧄LOK IIKE A BALL SACK DO IT NOT🧄FR IT ACTUALLY COULD JUST LIK EB",
       "game_name": "Rocket League",
-      "viewer_count": 197,
-      "follower_count": 120250,
+      "viewer_count": 229,
+      "follower_count": 120252,
       "language": "en",
       "started_at": "2026-10-27T00:08:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "DROPS! | Alien: Isolation on HARD | !links !discord",
       "game_name": "Alien: Isolation",
-      "viewer_count": 37,
+      "viewer_count": 35,
       "follower_count": 698,
       "language": "en",
       "started_at": "2026-10-26T21:32:35Z",
