@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T14:37:57.317Z",
+  "generatedAt": "2026-10-27T14:42:57.420Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T14:37:57.317Z",
+    "fetchedAt": "2026-10-27T14:42:57.420Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Horror Games Back-to-Back 😭 Spooky Scary Time | Scawy Demo + Summer of '58",
       "game_name": "Games + Demos",
-      "viewer_count": 19,
+      "viewer_count": 20,
       "follower_count": 1043,
       "language": "en",
       "started_at": "2026-10-27T12:43:09Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Preparing for Keepsake Sea DLC, Seafaring Star Path [Next Stream Nov 2nd @ 9am CST] !Puzzle",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "follower_count": 197,
       "language": "en",
       "started_at": "2026-10-27T13:59:35Z",
