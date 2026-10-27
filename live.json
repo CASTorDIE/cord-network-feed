@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T02:57:57.331Z",
+  "generatedAt": "2026-10-27T03:02:57.395Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T02:57:57.331Z",
+    "fetchedAt": "2026-10-27T03:02:57.395Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 996🧄!discord🧄THIS GARLIC EMOJI IS LOWKEY SUS FR FR🧄LOK IIKE A BALL SACK DO IT NOT🧄FR IT ACTUALLY COULD JUST LIK EB",
       "game_name": "Rocket League",
-      "viewer_count": 633,
-      "follower_count": 120362,
+      "viewer_count": 625,
+      "follower_count": 120368,
       "language": "en",
       "started_at": "2026-10-27T00:08:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| Only Moon Sweeping with Viewers! | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Moon Sweepers",
-      "viewer_count": 74,
+      "viewer_count": 79,
       "follower_count": 10314,
       "language": "en",
       "started_at": "2026-10-27T02:20:13Z",
