@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T12:52:58.181Z",
+  "generatedAt": "2026-10-27T12:57:58.222Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T12:52:58.181Z",
+    "fetchedAt": "2026-10-27T12:57:58.222Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "memella",
-      "user_name": "memella",
-      "is_live": true,
-      "title": "singing + piano = live music requests🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
-      "game_name": "Music",
-      "viewer_count": 18,
-      "follower_count": 440,
-      "language": "en",
-      "started_at": "2026-10-27T10:58:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/memella",
-      "description": "I'm not very good at it - but I do it anyway"
-    },
-    {
       "user_login": "gibsontales",
       "user_name": "GibsonTales",
       "is_live": true,
       "title": "Horror Games Back-to-Back 😭 Spooky Scary Time | Scawy Demo + Summer of '58",
       "game_name": "Scawy Game",
-      "viewer_count": 13,
+      "viewer_count": 16,
       "follower_count": 1039,
       "language": "en",
       "started_at": "2026-10-27T12:43:09Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gibsontales",
       "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
+    },
+    {
+      "user_login": "memella",
+      "user_name": "memella",
+      "is_live": true,
+      "title": "singing + piano = live music requests🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
+      "game_name": "Music",
+      "viewer_count": 15,
+      "follower_count": 440,
+      "language": "en",
+      "started_at": "2026-10-27T10:58:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_memella-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3786761-851c-4020-aed5-6c4bd51f2202-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/memella",
+      "description": "I'm not very good at it - but I do it anyway"
     },
     {
       "user_login": "4kaizen_gaming",
