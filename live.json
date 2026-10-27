@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T06:52:57.716Z",
+  "generatedAt": "2026-10-27T06:57:57.725Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T06:52:57.716Z",
+    "fetchedAt": "2026-10-27T06:57:57.725Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Only Moon Sweeping with Viewers! | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Moon Sweepers",
-      "viewer_count": 111,
+      "viewer_count": 113,
       "follower_count": 10314,
       "language": "en",
       "started_at": "2026-10-27T02:20:13Z",
@@ -546,7 +546,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14818,
+      "follower_count": 14817,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
