@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T09:32:57.923Z",
+  "generatedAt": "2026-10-27T09:37:57.906Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-27T09:32:57.923Z",
+    "fetchedAt": "2026-10-27T09:37:57.906Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "She Drives Like a Girl II First Ever Playthrough Ep 3 II !Discord !Wishlist",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
-      "follower_count": 332,
+      "viewer_count": 6,
+      "follower_count": 331,
       "language": "en",
       "started_at": "2026-10-27T07:57:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
