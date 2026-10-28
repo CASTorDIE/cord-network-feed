@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T05:07:58.128Z",
+  "generatedAt": "2026-10-28T05:12:57.944Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-28T05:07:58.128Z",
+    "fetchedAt": "2026-10-28T05:12:57.944Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Blind DSIII, UNC is done with DS2...time for 3",
       "game_name": "DARK SOULS III",
-      "viewer_count": 11,
+      "viewer_count": 10,
       "follower_count": 320,
       "language": "en",
       "started_at": "2026-10-28T00:59:58Z",
