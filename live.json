@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T19:32:58.231Z",
+  "generatedAt": "2026-10-28T19:37:58.278Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-28T19:32:58.231Z",
+    "fetchedAt": "2026-10-28T19:37:58.278Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Dreamsnaps and yaps|Jax 4 Partner! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 45,
-      "follower_count": 2937,
+      "viewer_count": 47,
+      "follower_count": 2938,
       "language": "en",
       "started_at": "2026-10-28T18:59:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
