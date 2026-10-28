@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T19:03:12.180Z",
+  "generatedAt": "2026-10-28T19:07:58.230Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-28T19:03:12.180Z",
+    "fetchedAt": "2026-10-28T19:07:58.230Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Dreamsnaps and yaps|Jax 4 Partner! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 2,
+      "viewer_count": 13,
       "follower_count": 2937,
       "language": "en",
       "started_at": "2026-10-28T18:59:07Z",
