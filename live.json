@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-28T00:57:57.269Z",
+  "generatedAt": "2026-10-28T01:02:57.268Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-28T00:57:57.269Z",
+    "fetchedAt": "2026-10-28T01:02:57.268Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 997⛺!discord⛺WE ARE PITCHING A TENT⛺BECAUSE WE ARE GOING ON A CAMPING ADVENTURE TO GRAND CHAMPION⛺I WILL BE JERKING OF",
       "game_name": "Rocket League",
-      "viewer_count": 376,
-      "follower_count": 120441,
+      "viewer_count": 346,
+      "follower_count": 120445,
       "language": "en",
       "started_at": "2026-10-28T00:02:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Dom w Viewers! 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 44,
+      "viewer_count": 42,
       "follower_count": 9119,
       "language": "en",
       "started_at": "2026-10-27T22:19:33Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "HORROR FARMING SIM?! | Village in the Shade | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Village in the Shade",
-      "viewer_count": 15,
+      "viewer_count": 20,
       "follower_count": 1745,
       "language": "en",
       "started_at": "2026-10-27T23:56:14Z",
@@ -92,14 +92,14 @@
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
+      "is_live": true,
+      "title": "Blind DSIII, UNC is done with DS2...time for 3",
+      "game_name": "DARK SOULS III",
+      "viewer_count": 1,
       "follower_count": 320,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
+      "language": "en",
+      "started_at": "2026-10-28T00:59:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
