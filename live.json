@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T12:32:57.563Z",
+  "generatedAt": "2026-10-28T12:37:57.602Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-28T12:32:57.563Z",
+    "fetchedAt": "2026-10-28T12:37:57.602Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
