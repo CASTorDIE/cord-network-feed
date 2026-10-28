@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T21:57:58.304Z",
+  "generatedAt": "2026-10-28T22:02:58.502Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-28T21:57:58.304Z",
+    "fetchedAt": "2026-10-28T22:02:58.502Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "|DROPS| Dom w Viewers! 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 80,
-      "follower_count": 9121,
+      "viewer_count": 81,
+      "follower_count": 9123,
       "language": "en",
       "started_at": "2026-10-28T20:36:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 120609,
+      "follower_count": 120611,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
