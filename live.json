@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T20:42:58.497Z",
+  "generatedAt": "2026-10-28T20:48:01.199Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-28T20:42:58.497Z",
+    "fetchedAt": "2026-10-28T20:48:01.199Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Dreamsnaps and yaps|Jax 4 Partner! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 61,
+      "viewer_count": 68,
       "follower_count": 2940,
       "language": "en",
       "started_at": "2026-10-28T18:59:07Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "|DROPS| Dom w Viewers! 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 24,
+      "viewer_count": 27,
       "follower_count": 9120,
       "language": "en",
       "started_at": "2026-10-28T20:36:50Z",
