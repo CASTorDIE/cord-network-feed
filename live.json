@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T03:07:57.475Z",
+  "generatedAt": "2026-10-28T03:12:57.551Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-28T03:07:57.475Z",
+    "fetchedAt": "2026-10-28T03:12:57.551Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 997⛺!discord⛺WE ARE PITCHING A TENT⛺BECAUSE WE ARE GOING ON A CAMPING ADVENTURE TO GRAND CHAMPION⛺I WILL BE JERKING OF",
       "game_name": "Rocket League",
-      "viewer_count": 609,
-      "follower_count": 120558,
+      "viewer_count": 588,
+      "follower_count": 120559,
       "language": "en",
       "started_at": "2026-10-28T00:02:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Blind DSIII, UNC is done with DS2...time for 3",
       "game_name": "DARK SOULS III",
-      "viewer_count": 15,
+      "viewer_count": 12,
       "follower_count": 320,
       "language": "en",
       "started_at": "2026-10-28T00:59:58Z",
