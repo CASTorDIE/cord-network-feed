@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T13:52:57.837Z",
+  "generatedAt": "2026-10-28T13:57:57.833Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-28T13:52:57.837Z",
+    "fetchedAt": "2026-10-28T13:57:57.833Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "2 Short Horror Games... How Bad Could This Get? 😭 | September 7th & Callus",
       "game_name": "Games + Demos",
-      "viewer_count": 21,
+      "viewer_count": 23,
       "follower_count": 1045,
       "language": "en",
       "started_at": "2026-10-28T12:45:22Z",
