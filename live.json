@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T07:27:58.124Z",
+  "generatedAt": "2026-10-28T07:32:59.442Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-28T07:27:58.124Z",
+    "fetchedAt": "2026-10-28T07:32:59.442Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[18+] Bad Vibes. Worse Decisions.| Silent Hill 2 | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 10,
-      "follower_count": 1318,
+      "viewer_count": 19,
+      "follower_count": 1319,
       "language": "en",
       "started_at": "2026-10-28T07:02:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
