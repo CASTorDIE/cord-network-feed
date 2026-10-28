@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T23:37:58.385Z",
+  "generatedAt": "2026-10-28T23:42:58.417Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-28T23:37:58.385Z",
+    "fetchedAt": "2026-10-28T23:42:58.417Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| Dom w Viewers! 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 102,
+      "viewer_count": 97,
       "follower_count": 9123,
       "language": "en",
       "started_at": "2026-10-28T20:36:50Z",
