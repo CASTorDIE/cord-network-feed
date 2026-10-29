@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T05:32:57.823Z",
+  "generatedAt": "2026-10-29T05:37:57.779Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-29T05:32:57.823Z",
+    "fetchedAt": "2026-10-29T05:37:57.779Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES & KARAOKE NIGHT | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Delta Force",
-      "viewer_count": 100,
+      "viewer_count": 95,
       "follower_count": 10314,
       "language": "en",
       "started_at": "2026-10-29T02:44:04Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Tenebris Somnia",
       "game_name": "Games + Demos",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-10-29T04:08:36Z",
