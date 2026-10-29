@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T09:17:58.317Z",
+  "generatedAt": "2026-10-29T09:22:58.250Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-29T09:17:58.317Z",
+    "fetchedAt": "2026-10-29T09:22:58.250Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "We're saying goodbye to sprites II !Discord !Wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 13,
+      "viewer_count": 8,
       "follower_count": 331,
       "language": "en",
       "started_at": "2026-10-29T05:58:25Z",
