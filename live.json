@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T20:42:58.540Z",
+  "generatedAt": "2026-10-29T20:47:58.298Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-29T20:42:58.540Z",
+    "fetchedAt": "2026-10-29T20:47:58.298Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "JUMPING OFF A 500 FT CLIFF",
       "game_name": "Just Chatting",
-      "viewer_count": 68,
+      "viewer_count": 69,
       "follower_count": 2579,
       "language": "en",
       "started_at": "2026-10-29T20:31:39Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "💀 THE WELFARE RAIDER STRIKES AGAIN! | ARC RAIDERS",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
-      "follower_count": 14863,
+      "viewer_count": 42,
+      "follower_count": 14862,
       "language": "en",
       "started_at": "2026-10-29T20:41:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
