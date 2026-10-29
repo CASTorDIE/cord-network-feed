@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-29T00:52:58.372Z",
+  "generatedAt": "2026-10-29T00:57:58.476Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-29T00:52:58.372Z",
+    "fetchedAt": "2026-10-29T00:57:58.476Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 998🦈!discord🦈WEEEEEEEEEEEEEE🦈ITS LIKE IM ON A ROLLER COASTER BUT IT ENDS BY CRASHING INTO A BRICK WALL🦈WOOOOOOOOOO",
       "game_name": "Rocket League",
-      "viewer_count": 293,
+      "viewer_count": 319,
       "follower_count": 120624,
       "language": "en",
       "started_at": "2026-10-29T00:18:48Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "|DROPS| Dom w Viewers! 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 106,
-      "follower_count": 9125,
+      "viewer_count": 100,
+      "follower_count": 9126,
       "language": "en",
       "started_at": "2026-10-28T20:36:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
@@ -47,17 +47,32 @@
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
+      "is_live": true,
+      "title": "BLIND DSIII Surprise, surprise...I am lost",
+      "game_name": "DARK SOULS III",
+      "viewer_count": 0,
       "follower_count": 320,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
+      "language": "en",
+      "started_at": "2026-10-29T00:56:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "🎃 CORPSE BRIDE | UNCAPPED THON IN 4 DAYS | !oct !move !merch",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 10807,
+      "language": "en",
+      "started_at": "2026-10-29T00:57:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
       "user_login": "alfieduu",
@@ -148,21 +163,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
-    },
-    {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 10807,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
       "user_login": "boww_wolf",
