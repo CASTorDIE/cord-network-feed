@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T20:57:58.258Z",
+  "generatedAt": "2026-10-29T21:02:58.208Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-29T20:57:58.258Z",
+    "fetchedAt": "2026-10-29T21:02:58.208Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "💀 THE WELFARE RAIDER STRIKES AGAIN! | ARC RAIDERS",
       "game_name": "ARC Raiders",
-      "viewer_count": 85,
+      "viewer_count": 100,
       "follower_count": 14861,
       "language": "en",
       "started_at": "2026-10-29T20:41:20Z",
