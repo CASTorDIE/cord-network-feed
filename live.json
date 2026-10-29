@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-10-29T04:17:57.750Z",
+  "generatedAt": "2026-10-29T04:22:57.743Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-29T04:17:57.750Z",
+    "fetchedAt": "2026-10-29T04:22:57.743Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 998🦈!discord🦈WEEEEEEEEEEEEEE🦈ITS LIKE IM ON A ROLLER COASTER BUT IT ENDS BY CRASHING INTO A BRICK WALL🦈WOOOOOOOOOO",
-      "game_name": "Rocket League",
-      "viewer_count": 342,
-      "follower_count": 121020,
-      "language": "en",
-      "started_at": "2026-10-29T00:18:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| MARBLES & KARAOKE NIGHT | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Marbles on Stream",
-      "viewer_count": 98,
+      "viewer_count": 96,
       "follower_count": 10313,
       "language": "en",
       "started_at": "2026-10-29T02:44:04Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "BLIND DSIII Surprise, surprise...I am lost",
       "game_name": "DARK SOULS III",
-      "viewer_count": 15,
+      "viewer_count": 14,
       "follower_count": 321,
       "language": "en",
       "started_at": "2026-10-29T00:56:48Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Tenebris Somnia",
       "game_name": "Games + Demos",
-      "viewer_count": 4,
+      "viewer_count": 9,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-10-29T04:08:36Z",
@@ -208,6 +193,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 121020,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
