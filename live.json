@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T06:22:57.931Z",
+  "generatedAt": "2026-10-29T06:27:57.977Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-29T06:22:57.931Z",
+    "fetchedAt": "2026-10-29T06:27:57.977Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES & KARAOKE NIGHT - THE MOON | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Moon Sweepers",
-      "viewer_count": 88,
+      "viewer_count": 91,
       "follower_count": 10314,
       "language": "en",
       "started_at": "2026-10-29T02:44:04Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Tenebris Somnia",
       "game_name": "Games + Demos",
-      "viewer_count": 8,
+      "viewer_count": 9,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-10-29T04:08:36Z",
