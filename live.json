@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T04:32:57.728Z",
+  "generatedAt": "2026-10-29T04:37:57.764Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-29T04:32:57.728Z",
+    "fetchedAt": "2026-10-29T04:37:57.764Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES & KARAOKE NIGHT | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Marbles on Stream",
-      "viewer_count": 100,
+      "viewer_count": 97,
       "follower_count": 10313,
       "language": "en",
       "started_at": "2026-10-29T02:44:04Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "BLIND DSIII Surprise, surprise...I am lost",
       "game_name": "DARK SOULS III",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "follower_count": 321,
       "language": "en",
       "started_at": "2026-10-29T00:56:48Z",
