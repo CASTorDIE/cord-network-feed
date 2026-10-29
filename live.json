@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T20:07:58.210Z",
+  "generatedAt": "2026-10-29T20:12:58.250Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-29T20:07:58.210Z",
+    "fetchedAt": "2026-10-29T20:12:58.250Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "JUMPING OFF A 500 FT CLIFF",
       "game_name": "Just Chatting",
-      "viewer_count": 67,
+      "viewer_count": 71,
       "follower_count": 2579,
       "language": "en",
       "started_at": "2026-10-29T19:54:02Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 121030,
+      "follower_count": 121031,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
