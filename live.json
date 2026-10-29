@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T21:07:58.592Z",
+  "generatedAt": "2026-10-29T21:12:58.344Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-29T21:07:58.592Z",
+    "fetchedAt": "2026-10-29T21:12:58.344Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "💀 THE WELFARE RAIDER STRIKES AGAIN! | ARC RAIDERS",
       "game_name": "ARC Raiders",
-      "viewer_count": 102,
-      "follower_count": 14861,
+      "viewer_count": 100,
+      "follower_count": 14860,
       "language": "en",
       "started_at": "2026-10-29T20:41:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
