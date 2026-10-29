@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T07:27:58.068Z",
+  "generatedAt": "2026-10-29T07:32:58.240Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-29T07:27:58.068Z",
+    "fetchedAt": "2026-10-29T07:32:58.240Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GYG Mukbang II !Discord !Wishlist",
       "game_name": "Just Chatting",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 330,
       "language": "en",
       "started_at": "2026-10-29T05:58:25Z",
