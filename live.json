@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T21:37:58.861Z",
+  "generatedAt": "2026-10-29T21:42:58.302Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-29T21:37:58.861Z",
+    "fetchedAt": "2026-10-29T21:42:58.302Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "💀 THE WELFARE RAIDER STRIKES AGAIN! | ARC RAIDERS",
       "game_name": "ARC Raiders",
-      "viewer_count": 121,
+      "viewer_count": 82,
       "follower_count": 14862,
       "language": "en",
       "started_at": "2026-10-29T20:41:20Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Curry Barker's new short film THEN Tenebris Somnia! | Help me with the puzzles! | !links !discord",
       "game_name": "Tenebris Somnia",
-      "viewer_count": 10,
+      "viewer_count": 14,
       "follower_count": 703,
       "language": "en",
       "started_at": "2026-10-29T21:31:34Z",
