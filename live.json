@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T20:52:58.373Z",
+  "generatedAt": "2026-10-29T20:57:58.258Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-29T20:52:58.373Z",
+    "fetchedAt": "2026-10-29T20:57:58.258Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,9 +19,9 @@
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "💀 THE WELFARE RAIDER STRIKES AGAIN! | ARC RAIDERS",
-      "game_name": "Just Chatting",
-      "viewer_count": 63,
-      "follower_count": 14862,
+      "game_name": "ARC Raiders",
+      "viewer_count": 85,
+      "follower_count": 14861,
       "language": "en",
       "started_at": "2026-10-29T20:41:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
