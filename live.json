@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T04:02:57.964Z",
+  "generatedAt": "2026-10-30T04:07:57.967Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T04:02:57.964Z",
+    "fetchedAt": "2026-10-30T04:07:57.967Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 999🥞!discord🥞PANCAKE TASTE GOOD AND ALSO GOOD FOOD🥞BUT EAT TOO MUCH AND YOU GET FAT🥞THIS WORLD WAS DESIGNED TO CON",
       "game_name": "Rocket League",
-      "viewer_count": 380,
-      "follower_count": 121178,
+      "viewer_count": 338,
+      "follower_count": 121182,
       "language": "en",
       "started_at": "2026-10-30T00:10:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "🎃 SLYTHERIN | UNCAPPED THON IN 3 DAYS | !oct !move !merch",
-      "game_name": "The Mortuary Assistant",
-      "viewer_count": 59,
-      "follower_count": 10816,
-      "language": "en",
-      "started_at": "2026-10-30T00:35:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "Halloween is near!! Where is my candy! || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 56,
+      "viewer_count": 62,
       "follower_count": 6426,
       "language": "en",
       "started_at": "2026-10-29T23:34:59Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
       "twitch_url": "https://www.twitch.tv/ao_zora_",
       "description": "I sing and play games. Sometimes I bake"
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "🎃 SLYTHERIN | UNCAPPED THON IN 3 DAYS | !oct !move !merch",
+      "game_name": "The Mortuary Assistant",
+      "viewer_count": 62,
+      "follower_count": 10816,
+      "language": "en",
+      "started_at": "2026-10-30T00:35:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
       "user_login": "4kaizen_gaming",
