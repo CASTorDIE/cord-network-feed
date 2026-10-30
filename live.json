@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-30T02:02:57.761Z",
+  "generatedAt": "2026-10-30T02:07:57.795Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T02:02:57.761Z",
+    "fetchedAt": "2026-10-30T02:07:57.795Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 999🥞!discord🥞PANCAKE TASTE GOOD AND ALSO GOOD FOOD🥞BUT EAT TOO MUCH AND YOU GET FAT🥞THIS WORLD WAS DESIGNED TO CON",
       "game_name": "Rocket League",
-      "viewer_count": 706,
-      "follower_count": 121090,
+      "viewer_count": 615,
+      "follower_count": 121095,
       "language": "en",
       "started_at": "2026-10-30T00:10:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🎃 SLYTHERIN | UNCAPPED THON IN 3 DAYS | !oct !move !merch",
       "game_name": "Just Chatting",
-      "viewer_count": 58,
-      "follower_count": 10816,
+      "viewer_count": 60,
+      "follower_count": 10815,
       "language": "en",
       "started_at": "2026-10-30T00:35:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Halloween is near!! Where is my candy! || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 34,
+      "viewer_count": 37,
       "follower_count": 6427,
       "language": "en",
       "started_at": "2026-10-29T23:34:59Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "BLIND DSIII Time to decide on a path!",
       "game_name": "DARK SOULS III",
-      "viewer_count": 19,
+      "viewer_count": 15,
       "follower_count": 327,
       "language": "en",
       "started_at": "2026-10-30T00:59:38Z",
@@ -88,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "okay who's next 😡",
-      "game_name": "Batman: Return to Arkham - Arkham City",
-      "viewer_count": 1,
-      "follower_count": 407,
-      "language": "en",
-      "started_at": "2026-10-29T23:04:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "alfieduu",
@@ -193,6 +178,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 407,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
@@ -546,7 +546,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14877,
+      "follower_count": 14878,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
