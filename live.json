@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T13:32:57.905Z",
+  "generatedAt": "2026-10-30T13:37:57.909Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T13:32:57.905Z",
+    "fetchedAt": "2026-10-30T13:37:57.909Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "New Mascot Horror... How Bad Could This Get? 😭 | Giggleland",
       "game_name": "Games + Demos",
-      "viewer_count": 26,
+      "viewer_count": 28,
       "follower_count": 1056,
       "language": "en",
       "started_at": "2026-10-30T12:50:21Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Netflix Is Getting Into HORROR?! Are These Games Actually SCARY? | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 9,
+      "viewer_count": 12,
       "follower_count": 5132,
       "language": "en",
       "started_at": "2026-10-30T13:10:32Z",
