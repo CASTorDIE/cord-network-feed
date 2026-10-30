@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T07:17:58.292Z",
+  "generatedAt": "2026-10-30T07:22:58.337Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T07:17:58.292Z",
+    "fetchedAt": "2026-10-30T07:22:58.337Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "This Collection is so not getting Finished II !Discord !Wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 331,
       "language": "en",
       "started_at": "2026-10-30T07:01:45Z",
