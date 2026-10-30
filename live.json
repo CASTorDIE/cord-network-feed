@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T09:02:57.442Z",
+  "generatedAt": "2026-10-30T09:07:57.476Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T09:02:57.442Z",
+    "fetchedAt": "2026-10-30T09:07:57.476Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "This Collection is so not getting Finished II !Discord !Wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 331,
       "language": "en",
       "started_at": "2026-10-30T07:01:45Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "I'm Sick but I got access to Jurrassic Architect     !charity",
       "game_name": "Jurassic Architect",
-      "viewer_count": 2,
-      "follower_count": 418,
+      "viewer_count": 1,
+      "follower_count": 417,
       "language": "en",
       "started_at": "2026-10-30T08:55:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fallentitanandy-960x540.jpg",
