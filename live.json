@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T10:07:57.556Z",
+  "generatedAt": "2026-10-30T10:12:57.514Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T10:07:57.556Z",
+    "fetchedAt": "2026-10-30T10:12:57.514Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "This Collection is so not getting Finished II !Discord !Wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 5,
-      "follower_count": 331,
+      "viewer_count": 6,
+      "follower_count": 332,
       "language": "en",
       "started_at": "2026-10-30T07:01:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
