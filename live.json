@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-30T02:22:57.757Z",
+  "generatedAt": "2026-10-30T02:27:58.027Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T02:22:57.757Z",
+    "fetchedAt": "2026-10-30T02:27:58.027Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 999🥞!discord🥞PANCAKE TASTE GOOD AND ALSO GOOD FOOD🥞BUT EAT TOO MUCH AND YOU GET FAT🥞THIS WORLD WAS DESIGNED TO CON",
       "game_name": "Rocket League",
-      "viewer_count": 595,
-      "follower_count": 121102,
+      "viewer_count": 534,
+      "follower_count": 121104,
       "language": "en",
       "started_at": "2026-10-30T00:10:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🎃 SLYTHERIN | UNCAPPED THON IN 3 DAYS | !oct !move !merch",
       "game_name": "Just Chatting",
-      "viewer_count": 67,
-      "follower_count": 10815,
+      "viewer_count": 62,
+      "follower_count": 10814,
       "language": "en",
       "started_at": "2026-10-30T00:35:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Halloween is near!! Where is my candy! || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 34,
+      "viewer_count": 43,
       "follower_count": 6427,
       "language": "en",
       "started_at": "2026-10-29T23:34:59Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "BLIND DSIII Time to decide on a path!",
       "game_name": "DARK SOULS III",
-      "viewer_count": 18,
+      "viewer_count": 19,
       "follower_count": 327,
       "language": "en",
       "started_at": "2026-10-30T00:59:38Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
-      "user_login": "wispy_witch",
-      "user_name": "wispy_witch",
-      "is_live": true,
-      "title": "HORROR FARMING SIM?! | Village in the Shade | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "Village in the Shade",
-      "viewer_count": 15,
-      "follower_count": 1749,
-      "language": "en",
-      "started_at": "2026-10-29T23:54:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
     },
     {
       "user_login": "alfieduu",
@@ -643,6 +628,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wexra",
       "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
+      "user_login": "wispy_witch",
+      "user_name": "wispy_witch",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1749,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wispy_witch",
+      "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
     },
     {
       "user_login": "zaldar87",
