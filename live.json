@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T23:27:57.800Z",
+  "generatedAt": "2026-10-30T23:32:57.903Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T23:27:57.800Z",
+    "fetchedAt": "2026-10-30T23:32:57.903Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "|DROPS| 1v1ing Viewers! 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 110,
+      "viewer_count": 112,
       "follower_count": 9137,
       "language": "en",
       "started_at": "2026-10-30T22:08:15Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🎃 GHOST NIGHT | ZERO TWO COSPLAY | UNCAPPED THON IN 2 DAYS | !oct !move !merch",
       "game_name": "Just Chatting",
-      "viewer_count": 51,
-      "follower_count": 10812,
+      "viewer_count": 45,
+      "follower_count": 10813,
       "language": "en",
       "started_at": "2026-10-30T23:10:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
