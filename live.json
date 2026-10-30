@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T06:32:58.260Z",
+  "generatedAt": "2026-10-30T06:37:58.231Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T06:32:58.260Z",
+    "fetchedAt": "2026-10-30T06:37:58.231Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Tenebris Somnia",
       "game_name": "Games + Demos",
-      "viewer_count": 8,
+      "viewer_count": 12,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-10-30T04:23:10Z",
