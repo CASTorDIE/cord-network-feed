@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T13:27:57.922Z",
+  "generatedAt": "2026-10-30T13:32:57.905Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T13:27:57.922Z",
+    "fetchedAt": "2026-10-30T13:32:57.905Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "New Mascot Horror... How Bad Could This Get? 😭 | Giggleland",
       "game_name": "Games + Demos",
-      "viewer_count": 23,
+      "viewer_count": 26,
       "follower_count": 1056,
       "language": "en",
       "started_at": "2026-10-30T12:50:21Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "Netflix Is Getting Into HORROR?! Are These Games Actually SCARY? | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 11,
-      "follower_count": 5133,
+      "viewer_count": 9,
+      "follower_count": 5132,
       "language": "en",
       "started_at": "2026-10-30T13:10:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
