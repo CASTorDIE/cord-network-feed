@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T12:52:57.868Z",
+  "generatedAt": "2026-10-30T12:57:57.756Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T12:52:57.868Z",
+    "fetchedAt": "2026-10-30T12:57:57.756Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "New Mascot Horror... How Bad Could This Get? 😭 | Giggleland",
       "game_name": "Games + Demos",
-      "viewer_count": 12,
+      "viewer_count": 18,
       "follower_count": 1056,
       "language": "en",
       "started_at": "2026-10-30T12:50:21Z",
@@ -531,7 +531,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14879,
+      "follower_count": 14878,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
