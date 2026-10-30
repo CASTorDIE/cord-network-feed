@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T15:42:58.191Z",
+  "generatedAt": "2026-10-30T15:47:58.125Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T15:42:58.191Z",
+    "fetchedAt": "2026-10-30T15:47:58.125Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Netflix Is Getting Into HORROR?! Are These Games Actually SCARY? | !hype !newvlog !gamevideo",
       "game_name": "Just Chatting",
-      "viewer_count": 17,
+      "viewer_count": 16,
       "follower_count": 5132,
       "language": "en",
       "started_at": "2026-10-30T13:10:32Z",
