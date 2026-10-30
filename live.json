@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-30T04:07:57.967Z",
+  "generatedAt": "2026-10-30T04:12:58.008Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T04:07:57.967Z",
+    "fetchedAt": "2026-10-30T04:12:58.008Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 999🥞!discord🥞PANCAKE TASTE GOOD AND ALSO GOOD FOOD🥞BUT EAT TOO MUCH AND YOU GET FAT🥞THIS WORLD WAS DESIGNED TO CON",
       "game_name": "Rocket League",
-      "viewer_count": 338,
-      "follower_count": 121182,
+      "viewer_count": 349,
+      "follower_count": 121185,
       "language": "en",
       "started_at": "2026-10-30T00:10:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Halloween is near!! Where is my candy! || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 62,
+      "viewer_count": 63,
       "follower_count": 6426,
       "language": "en",
       "started_at": "2026-10-29T23:34:59Z",
@@ -45,28 +45,13 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "🎃 SLYTHERIN | UNCAPPED THON IN 3 DAYS | !oct !move !merch",
-      "game_name": "The Mortuary Assistant",
-      "viewer_count": 62,
-      "follower_count": 10816,
-      "language": "en",
-      "started_at": "2026-10-30T00:35:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "BLIND DSIII Time to decide on a path!",
       "game_name": "DARK SOULS III",
-      "viewer_count": 18,
-      "follower_count": 327,
+      "viewer_count": 19,
+      "follower_count": 329,
       "language": "en",
       "started_at": "2026-10-30T00:59:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
@@ -148,6 +133,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 10816,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
       "user_login": "boww_wolf",
