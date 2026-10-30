@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-30T00:57:57.672Z",
+  "generatedAt": "2026-10-30T01:02:57.710Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T00:57:57.672Z",
+    "fetchedAt": "2026-10-30T01:02:57.710Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 8,
+    "offlineCount": 36
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 999🥞!discord🥞PANCAKE TASTE GOOD AND ALSO GOOD FOOD🥞BUT EAT TOO MUCH AND YOU GET FAT🥞THIS WORLD WAS DESIGNED TO CON",
       "game_name": "Rocket League",
-      "viewer_count": 287,
-      "follower_count": 121041,
+      "viewer_count": 293,
+      "follower_count": 121043,
       "language": "en",
       "started_at": "2026-10-30T00:10:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃 SLYTHERIN | UNCAPPED THON IN 3 DAYS | !oct !move !merch",
       "game_name": "Just Chatting",
-      "viewer_count": 59,
+      "viewer_count": 51,
       "follower_count": 10816,
       "language": "en",
       "started_at": "2026-10-30T00:35:44Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Halloween is near!! Where is my candy! || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 37,
+      "viewer_count": 38,
       "follower_count": 6427,
       "language": "en",
       "started_at": "2026-10-29T23:34:59Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Curry Barker's new short film THEN Tenebris Somnia! | Help me with the puzzles! | !links !discord",
       "game_name": "Tenebris Somnia",
-      "viewer_count": 22,
+      "viewer_count": 20,
       "follower_count": 704,
       "language": "en",
       "started_at": "2026-10-29T21:31:34Z",
@@ -75,12 +75,27 @@
       "description": "I'm too scared to play horror games alone! Steaming every Monday and Thursday at 5:30 PM EST! I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
     },
     {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": true,
+      "title": "BLIND DSIII Time to decide on a path!",
+      "game_name": "DARK SOULS III",
+      "viewer_count": 8,
+      "follower_count": 323,
+      "language": "en",
+      "started_at": "2026-10-30T00:59:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
       "user_login": "wispy_witch",
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "HORROR FARMING SIM?! | Village in the Shade | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Village in the Shade",
-      "viewer_count": 9,
+      "viewer_count": 7,
       "follower_count": 1747,
       "language": "en",
       "started_at": "2026-10-29T23:54:39Z",
@@ -118,21 +133,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 323,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "alfieduu",
@@ -561,7 +561,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14876,
+      "follower_count": 14877,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
