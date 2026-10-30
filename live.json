@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-30T01:57:57.801Z",
+  "generatedAt": "2026-10-30T02:02:57.761Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T01:57:57.801Z",
+    "fetchedAt": "2026-10-30T02:02:57.761Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 999🥞!discord🥞PANCAKE TASTE GOOD AND ALSO GOOD FOOD🥞BUT EAT TOO MUCH AND YOU GET FAT🥞THIS WORLD WAS DESIGNED TO CON",
       "game_name": "Rocket League",
-      "viewer_count": 601,
-      "follower_count": 121088,
+      "viewer_count": 706,
+      "follower_count": 121090,
       "language": "en",
       "started_at": "2026-10-30T00:10:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🎃 SLYTHERIN | UNCAPPED THON IN 3 DAYS | !oct !move !merch",
       "game_name": "Just Chatting",
-      "viewer_count": 55,
-      "follower_count": 10817,
+      "viewer_count": 58,
+      "follower_count": 10816,
       "language": "en",
       "started_at": "2026-10-30T00:35:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Halloween is near!! Where is my candy! || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 36,
+      "viewer_count": 34,
       "follower_count": 6427,
       "language": "en",
       "started_at": "2026-10-29T23:34:59Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "BLIND DSIII Time to decide on a path!",
       "game_name": "DARK SOULS III",
-      "viewer_count": 18,
+      "viewer_count": 19,
       "follower_count": 327,
       "language": "en",
       "started_at": "2026-10-30T00:59:38Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "HORROR FARMING SIM?! | Village in the Shade | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Village in the Shade",
-      "viewer_count": 12,
+      "viewer_count": 10,
       "follower_count": 1748,
       "language": "en",
       "started_at": "2026-10-29T23:54:39Z",
@@ -95,7 +95,7 @@
       "is_live": true,
       "title": "okay who's next 😡",
       "game_name": "Batman: Return to Arkham - Arkham City",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 407,
       "language": "en",
       "started_at": "2026-10-29T23:04:07Z",
@@ -103,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": true,
-      "title": "TG Thursday - You bite me, I sacktap you.",
-      "game_name": "Redfall",
-      "viewer_count": 2,
-      "follower_count": 26,
-      "language": "en",
-      "started_at": "2026-10-29T23:11:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "alfieduu",
@@ -598,6 +583,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 26,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
