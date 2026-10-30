@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T04:27:58.047Z",
+  "generatedAt": "2026-10-30T04:32:58.049Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-30T04:27:58.047Z",
+    "fetchedAt": "2026-10-30T04:32:58.049Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Halloween is near!! Where is my candy! || !merch !throne !daki",
       "game_name": "Little Witch in the Woods",
-      "viewer_count": 71,
+      "viewer_count": 62,
       "follower_count": 6426,
       "language": "en",
       "started_at": "2026-10-29T23:34:59Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | Tenebris Somnia",
       "game_name": "Games + Demos",
-      "viewer_count": 4,
+      "viewer_count": 7,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-10-30T04:23:10Z",
