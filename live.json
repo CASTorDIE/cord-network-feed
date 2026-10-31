@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-31T03:07:58.304Z",
+  "generatedAt": "2026-10-31T03:12:58.246Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T03:07:58.304Z",
+    "fetchedAt": "2026-10-31T03:12:58.246Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1000🍑!discord🍑1000 STREAMS OF LOCKING IN AND GRINDING🍑TRYING TO ACHIEVE OUR GOALS🍑WE FAILED BUT WE HAD FUN WAHOOOO",
       "game_name": "Rocket League",
-      "viewer_count": 683,
-      "follower_count": 121294,
+      "viewer_count": 665,
+      "follower_count": 121298,
       "language": "en",
       "started_at": "2026-10-31T00:33:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -34,8 +34,8 @@
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| REANIMAL | !discord !telegram !vrc !micro  | Microscape Addict",
-      "game_name": "REANIMAL",
-      "viewer_count": 90,
+      "game_name": "Just Chatting",
+      "viewer_count": 92,
       "follower_count": 10314,
       "language": "en",
       "started_at": "2026-10-31T02:09:52Z",
@@ -48,9 +48,9 @@
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
-      "title": "🎃 GHOST NIGHT | ZERO TWO COSPLAY | UNCAPPED THON IN 2 DAYS | !oct !move !merch",
+      "title": "🎃 TRYNA WIN ON ANCIENT | UNCAPPED THON IN 2 DAYS | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 52,
+      "viewer_count": 62,
       "follower_count": 10812,
       "language": "en",
       "started_at": "2026-10-30T23:10:02Z",
@@ -60,27 +60,12 @@
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": true,
-      "title": "For Honor Player Tries DEADLOCK 💃🏼 !join !discord !ubi !code",
-      "game_name": "Deadlock",
-      "viewer_count": 44,
-      "follower_count": 9140,
-      "language": "en",
-      "started_at": "2026-10-30T22:08:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
-    },
-    {
       "user_login": "gibsontales",
       "user_name": "GibsonTales",
       "is_live": true,
       "title": "Can These Horror Shorts Actually Scare Us? 😭 |  Reactions",
       "game_name": "Just Chatting",
-      "viewer_count": 24,
+      "viewer_count": 27,
       "follower_count": 1060,
       "language": "en",
       "started_at": "2026-10-31T00:49:28Z",
@@ -95,7 +80,7 @@
       "is_live": true,
       "title": "BLIND DSIII. Day 4!",
       "game_name": "DARK SOULS III",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 329,
       "language": "en",
       "started_at": "2026-10-31T00:56:09Z",
@@ -643,6 +628,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/viridisbytes",
       "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
+    },
+    {
+      "user_login": "wexra",
+      "user_name": "Wexra",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 9140,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "wispy_witch",
