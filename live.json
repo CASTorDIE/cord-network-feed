@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T05:02:57.534Z",
+  "generatedAt": "2026-10-31T05:07:57.555Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T05:02:57.534Z",
+    "fetchedAt": "2026-10-31T05:07:57.555Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "🎃 TRYNA WIN ON ANCIENT | UNCAPPED THON IN 2 DAYS | !oct !move !merch",
-      "game_name": "Counter-Strike",
-      "viewer_count": 55,
-      "follower_count": 10816,
-      "language": "en",
-      "started_at": "2026-10-30T23:10:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| Art and Stickers! | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Art",
-      "viewer_count": 48,
+      "viewer_count": 57,
       "follower_count": 10314,
       "language": "en",
       "started_at": "2026-10-31T04:34:59Z",
@@ -45,12 +30,27 @@
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "🎃 TRYNA WIN ON ANCIENT | UNCAPPED THON IN 2 DAYS | !oct !move !merch",
+      "game_name": "Counter-Strike",
+      "viewer_count": 54,
+      "follower_count": 10816,
+      "language": "en",
+      "started_at": "2026-10-30T23:10:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b948bfc7-822d-40b6-813d-d369da6fd527-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
+    },
+    {
       "user_login": "dingo_dynasty",
       "user_name": "Dingo_Dynasty",
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | PUT THE FRIES IN BAG!!!!",
       "game_name": "Games + Demos",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-10-31T04:05:02Z",
