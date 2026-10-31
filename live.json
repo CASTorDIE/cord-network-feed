@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T16:22:57.553Z",
+  "generatedAt": "2026-10-31T16:27:57.511Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T16:22:57.553Z",
+    "fetchedAt": "2026-10-31T16:27:57.511Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "👻Drops👻 Palia Patch Notes, Cozy Chaos & Ghost Town Pumpkin Festival! 👻| !hype !newvlog !gamevideo",
       "game_name": "The Annual Ghost Town Pumpkin Festival",
-      "viewer_count": 49,
+      "viewer_count": 48,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-10-31T13:18:31Z",
