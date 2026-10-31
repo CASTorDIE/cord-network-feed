@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-31T04:57:58.958Z",
+  "generatedAt": "2026-10-31T05:02:57.534Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T04:57:58.958Z",
+    "fetchedAt": "2026-10-31T05:02:57.534Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃 TRYNA WIN ON ANCIENT | UNCAPPED THON IN 2 DAYS | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 59,
+      "viewer_count": 55,
       "follower_count": 10816,
       "language": "en",
       "started_at": "2026-10-30T23:10:02Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🦊🦇| Art and Stickers! | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Art",
-      "viewer_count": 45,
+      "viewer_count": 48,
       "follower_count": 10314,
       "language": "en",
       "started_at": "2026-10-31T04:34:59Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | PUT THE FRIES IN BAG!!!!",
       "game_name": "Games + Demos",
-      "viewer_count": 12,
+      "viewer_count": 10,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-10-31T04:05:02Z",
@@ -62,14 +62,14 @@
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "BLIND DSIII. Day 4!",
-      "game_name": "DARK SOULS III",
-      "viewer_count": 11,
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
       "follower_count": 329,
-      "language": "en",
-      "started_at": "2026-10-31T00:56:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
