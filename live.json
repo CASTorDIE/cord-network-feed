@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T06:57:57.566Z",
+  "generatedAt": "2026-10-31T07:02:57.640Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T06:57:57.566Z",
+    "fetchedAt": "2026-10-31T07:02:57.640Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | PUT THE FRIES IN BAG!!!!",
       "game_name": "Games + Demos",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-10-31T04:05:02Z",
