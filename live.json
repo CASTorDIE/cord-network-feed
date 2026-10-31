@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T23:12:58.158Z",
+  "generatedAt": "2026-10-31T23:17:58.254Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T23:12:58.158Z",
+    "fetchedAt": "2026-10-31T23:17:58.254Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🎃👻 Happy HALLOWEEN Raiders!| ARC RAIDERS",
-      "game_name": "Just Chatting",
-      "viewer_count": 119,
+      "game_name": "ARC Raiders",
+      "viewer_count": 97,
       "follower_count": 14883,
       "language": "en",
       "started_at": "2026-10-31T22:48:59Z",
