@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T19:17:58.006Z",
+  "generatedAt": "2026-10-31T19:22:57.832Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T19:17:58.006Z",
+    "fetchedAt": "2026-10-31T19:22:57.832Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "I'm putting in my two weeks notice!!! | The Mortuary Assistant | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "The Mortuary Assistant",
-      "viewer_count": 15,
-      "follower_count": 1751,
+      "viewer_count": 17,
+      "follower_count": 1752,
       "language": "en",
       "started_at": "2026-10-31T16:58:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
@@ -216,7 +216,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 121330,
+      "follower_count": 121331,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
