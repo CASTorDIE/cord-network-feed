@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-31T01:52:58.160Z",
+  "generatedAt": "2026-10-31T01:57:58.149Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T01:52:58.160Z",
+    "fetchedAt": "2026-10-31T01:57:58.149Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1000🍑!discord🍑1000 STREAMS OF LOCKING IN AND GRINDING🍑TRYING TO ACHIEVE OUR GOALS🍑WE FAILED BUT WE HAD FUN WAHOOOO",
       "game_name": "Rocket League",
-      "viewer_count": 489,
-      "follower_count": 121232,
+      "viewer_count": 502,
+      "follower_count": 121235,
       "language": "en",
       "started_at": "2026-10-31T00:33:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "For Honor Player Tries DEADLOCK 💃🏼 !join !discord !ubi !code",
       "game_name": "Deadlock",
-      "viewer_count": 53,
+      "viewer_count": 54,
       "follower_count": 9140,
       "language": "en",
       "started_at": "2026-10-30T22:08:15Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🎃 GHOST NIGHT | ZERO TWO COSPLAY | UNCAPPED THON IN 2 DAYS | !oct !move !merch",
       "game_name": "MECCHA CHAMELEON",
-      "viewer_count": 49,
+      "viewer_count": 48,
       "follower_count": 10812,
       "language": "en",
       "started_at": "2026-10-30T23:10:02Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Can These Horror Shorts Actually Scare Us? 😭 |  Reactions",
       "game_name": "Just Chatting",
-      "viewer_count": 23,
+      "viewer_count": 29,
       "follower_count": 1058,
       "language": "en",
       "started_at": "2026-10-31T00:49:28Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "BLIND DSIII. Day 4!",
       "game_name": "DARK SOULS III",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 329,
       "language": "en",
       "started_at": "2026-10-31T00:56:09Z",
@@ -88,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Testin a new deck in DMO",
-      "game_name": "Yu-Gi-Oh! Master Duel",
-      "viewer_count": 1,
-      "follower_count": 407,
-      "language": "en",
-      "started_at": "2026-10-30T23:02:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "alfieduu",
@@ -208,6 +193,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 407,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
