@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T09:22:57.825Z",
+  "generatedAt": "2026-10-31T09:27:57.888Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T09:22:57.825Z",
+    "fetchedAt": "2026-10-31T09:27:57.888Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] Bad Vibes. Worse Decisions.| Silent Hill 2 | !advanced !discord !lurk !time !clip |",
       "game_name": "SILENT HILL 2",
-      "viewer_count": 16,
+      "viewer_count": 13,
       "follower_count": 1320,
       "language": "en",
       "started_at": "2026-10-31T07:03:28Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Spooky Scary Saturday II !Discord !Wishlist",
       "game_name": "Phasmophobia",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 332,
       "language": "en",
       "started_at": "2026-10-31T07:59:13Z",
