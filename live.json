@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T20:37:57.902Z",
+  "generatedAt": "2026-10-31T20:42:57.889Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T20:37:57.902Z",
+    "fetchedAt": "2026-10-31T20:42:57.889Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I'm putting in my two weeks notice!!! | The Mortuary Assistant | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "The Mortuary Assistant",
-      "viewer_count": 18,
+      "viewer_count": 19,
       "follower_count": 1753,
       "language": "en",
       "started_at": "2026-10-31T16:58:22Z",
