@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T17:27:57.791Z",
+  "generatedAt": "2026-10-31T17:32:58.095Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T17:27:57.791Z",
+    "fetchedAt": "2026-10-31T17:32:58.095Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -30,6 +30,21 @@
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
     },
     {
+      "user_login": "tehchno",
+      "user_name": "tehchno",
+      "is_live": true,
+      "title": "New Game",
+      "game_name": "Soulframe",
+      "viewer_count": 5,
+      "follower_count": 460,
+      "language": "en",
+      "started_at": "2026-10-31T16:56:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tehchno-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/tehchno",
+      "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
       "user_login": "zombaesempai",
       "user_name": "ZombaeSempai",
       "is_live": true,
@@ -43,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7129ede2-61eb-42b7-a23a-6268e69d3390-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zombaesempai",
       "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
-    },
-    {
-      "user_login": "tehchno",
-      "user_name": "tehchno",
-      "is_live": true,
-      "title": "New Game",
-      "game_name": "Soulframe",
-      "viewer_count": 4,
-      "follower_count": 460,
-      "language": "en",
-      "started_at": "2026-10-31T16:56:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tehchno-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/tehchno",
-      "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
     },
     {
       "user_login": "thepuckgoa",
@@ -231,7 +231,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 121329,
+      "follower_count": 121330,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -441,7 +441,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2951,
+      "follower_count": 2952,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
