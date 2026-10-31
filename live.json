@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T06:12:57.516Z",
+  "generatedAt": "2026-10-31T06:17:57.625Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T06:12:57.516Z",
+    "fetchedAt": "2026-10-31T06:17:57.625Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Art and Stickers! | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Art",
-      "viewer_count": 84,
+      "viewer_count": 87,
       "follower_count": 10313,
       "language": "en",
       "started_at": "2026-10-31T04:34:59Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👻 HAPPY DINGOWEEN 👻 | PUT THE FRIES IN BAG!!!!",
       "game_name": "Games + Demos",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-10-31T04:05:02Z",
