@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T16:07:57.550Z",
+  "generatedAt": "2026-10-31T16:12:57.558Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T16:07:57.550Z",
+    "fetchedAt": "2026-10-31T16:12:57.558Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "BeckyBPlays",
       "is_live": true,
       "title": "👻Drops👻 Palia Patch Notes, Cozy Chaos & Ghost Town Pumpkin Festival! 👻| !hype !newvlog !gamevideo",
-      "game_name": "Palia",
-      "viewer_count": 71,
+      "game_name": "The Annual Ghost Town Pumpkin Festival",
+      "viewer_count": 65,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-10-31T13:18:31Z",
@@ -30,27 +30,12 @@
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
-      "user_login": "zombaesempai",
-      "user_name": "ZombaeSempai",
-      "is_live": true,
-      "title": "Happy Halloween Spooky Babes🎃🖤 | Here to make poo decisions w/ @bonnetdiaries | Be Safe Out There!",
-      "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 7,
-      "follower_count": 554,
-      "language": "en",
-      "started_at": "2026-10-31T15:21:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7129ede2-61eb-42b7-a23a-6268e69d3390-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zombaesempai",
-      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
-    },
-    {
       "user_login": "wispy_witch",
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "I'm putting in my two weeks notice!!! | The Mortuary Assistant | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 5,
       "follower_count": 1752,
       "language": "en",
       "started_at": "2026-10-31T16:05:21Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
+    },
+    {
+      "user_login": "zombaesempai",
+      "user_name": "ZombaeSempai",
+      "is_live": true,
+      "title": "Happy Halloween Spooky Babes🎃🖤 | Here to make poo decisions w/ @bonnetdiaries | Be Safe Out There!",
+      "game_name": "The Dark Pictures Anthology: House of Ashes",
+      "viewer_count": 5,
+      "follower_count": 554,
+      "language": "en",
+      "started_at": "2026-10-31T15:21:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7129ede2-61eb-42b7-a23a-6268e69d3390-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zombaesempai",
+      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 121329,
+      "follower_count": 121328,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
