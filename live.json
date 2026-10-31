@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T14:52:58.492Z",
+  "generatedAt": "2026-10-31T14:57:58.335Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T14:52:58.492Z",
+    "fetchedAt": "2026-10-31T14:57:58.335Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Decorating for the King of Halloween! |Jax 4 Partner! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 78,
+      "viewer_count": 89,
       "follower_count": 2950,
       "language": "en",
       "started_at": "2026-10-31T11:54:51Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👻Drops👻 Palia Patch Notes, Cozy Chaos & Ghost Town Pumpkin Festival! 👻| !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 41,
+      "viewer_count": 47,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-10-31T13:18:31Z",
