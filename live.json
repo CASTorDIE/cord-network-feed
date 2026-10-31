@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-31T18:32:57.714Z",
+  "generatedAt": "2026-10-31T18:37:57.774Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T18:32:57.714Z",
+    "fetchedAt": "2026-10-31T18:37:57.774Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "I'm putting in my two weeks notice!!! | The Mortuary Assistant | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "The Mortuary Assistant",
-      "viewer_count": 15,
+      "viewer_count": 16,
       "follower_count": 1751,
       "language": "en",
       "started_at": "2026-10-31T16:58:22Z",
@@ -28,21 +28,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
-    },
-    {
-      "user_login": "zombaesempai",
-      "user_name": "ZombaeSempai",
-      "is_live": true,
-      "title": "Happy Halloween Spooky Babes🎃🖤 | Here to make poo decisions w/ @bonnetdiaries | Be Safe Out There!",
-      "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 8,
-      "follower_count": 554,
-      "language": "en",
-      "started_at": "2026-10-31T15:21:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7129ede2-61eb-42b7-a23a-6268e69d3390-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zombaesempai",
-      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     },
     {
       "user_login": "tehchno",
@@ -673,6 +658,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
+    },
+    {
+      "user_login": "zombaesempai",
+      "user_name": "ZombaeSempai",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 554,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7129ede2-61eb-42b7-a23a-6268e69d3390-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zombaesempai",
+      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     }
   ]
 }
