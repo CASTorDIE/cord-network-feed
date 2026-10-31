@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T11:02:58.000Z",
+  "generatedAt": "2026-10-31T11:07:58.147Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T11:02:58.000Z",
+    "fetchedAt": "2026-10-31T11:07:58.147Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Spooky Scary Saturday II !Discord !Wishlist",
       "game_name": "Phasmophobia",
-      "viewer_count": 8,
+      "viewer_count": 9,
       "follower_count": 333,
       "language": "en",
       "started_at": "2026-10-31T07:59:13Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 121330,
+      "follower_count": 121329,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
