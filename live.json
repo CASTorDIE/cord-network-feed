@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T06:17:57.625Z",
+  "generatedAt": "2026-10-31T06:22:57.570Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T06:17:57.625Z",
+    "fetchedAt": "2026-10-31T06:22:57.570Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Art and Stickers! | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Art",
-      "viewer_count": 87,
+      "viewer_count": 81,
       "follower_count": 10313,
       "language": "en",
       "started_at": "2026-10-31T04:34:59Z",
