@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T12:02:58.081Z",
+  "generatedAt": "2026-10-31T12:07:58.110Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T12:02:58.081Z",
+    "fetchedAt": "2026-10-31T12:07:58.110Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Decorating for the King of Halloween! |Jax 4 Partner! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 18,
-      "follower_count": 2943,
+      "viewer_count": 49,
+      "follower_count": 2944,
       "language": "en",
       "started_at": "2026-10-31T11:54:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Spooky Scary Saturday II !Discord !Wishlist",
       "game_name": "Phasmophobia",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 334,
       "language": "en",
       "started_at": "2026-10-31T07:59:13Z",
