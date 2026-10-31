@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T05:07:57.555Z",
+  "generatedAt": "2026-10-31T05:12:57.489Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T05:07:57.555Z",
+    "fetchedAt": "2026-10-31T05:12:57.489Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Art and Stickers! | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Art",
-      "viewer_count": 57,
+      "viewer_count": 67,
       "follower_count": 10314,
       "language": "en",
       "started_at": "2026-10-31T04:34:59Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃 TRYNA WIN ON ANCIENT | UNCAPPED THON IN 2 DAYS | !oct !move !merch",
       "game_name": "Counter-Strike",
-      "viewer_count": 54,
+      "viewer_count": 57,
       "follower_count": 10816,
       "language": "en",
       "started_at": "2026-10-30T23:10:02Z",
