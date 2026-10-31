@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T00:07:57.899Z",
+  "generatedAt": "2026-10-31T00:12:58.118Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T00:07:57.899Z",
+    "fetchedAt": "2026-10-31T00:12:58.118Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃 GHOST NIGHT | ZERO TWO COSPLAY | UNCAPPED THON IN 2 DAYS | !oct !move !merch",
       "game_name": "Fall Guys",
-      "viewer_count": 33,
+      "viewer_count": 41,
       "follower_count": 10812,
       "language": "en",
       "started_at": "2026-10-30T23:10:02Z",
