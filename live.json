@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T16:47:57.653Z",
+  "generatedAt": "2026-10-31T16:52:57.643Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T16:47:57.653Z",
+    "fetchedAt": "2026-10-31T16:52:57.643Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "👻Drops👻 Palia Patch Notes, Cozy Chaos & Ghost Town Pumpkin Festival! 👻| !hype !newvlog !gamevideo",
       "game_name": "The Annual Ghost Town Pumpkin Festival",
-      "viewer_count": 41,
+      "viewer_count": 39,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-10-31T13:18:31Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Happy Halloween Spooky Babes🎃🖤 | Here to make poo decisions w/ @bonnetdiaries | Be Safe Out There!",
       "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 10,
+      "viewer_count": 7,
       "follower_count": 554,
       "language": "en",
       "started_at": "2026-10-31T15:21:28Z",
