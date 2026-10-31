@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T20:52:57.952Z",
+  "generatedAt": "2026-10-31T20:57:57.959Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T20:52:57.952Z",
+    "fetchedAt": "2026-10-31T20:57:57.959Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "BLIND DSIII. Quick smol strem!",
       "game_name": "DARK SOULS III",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 329,
       "language": "en",
       "started_at": "2026-10-31T20:11:41Z",
