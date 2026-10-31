@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-10-31T17:02:57.614Z",
+  "generatedAt": "2026-10-31T17:07:57.642Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T17:02:57.614Z",
+    "fetchedAt": "2026-10-31T17:07:57.642Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
-    {
-      "user_login": "beckybplays",
-      "user_name": "BeckyBPlays",
-      "is_live": true,
-      "title": "👻Drops👻 Palia Patch Notes, Cozy Chaos & Ghost Town Pumpkin Festival! 👻| !hype !newvlog !gamevideo",
-      "game_name": "Palia",
-      "viewer_count": 34,
-      "follower_count": 5130,
-      "language": "en",
-      "started_at": "2026-10-31T13:18:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/beckybplays",
-      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
-    },
     {
       "user_login": "wispy_witch",
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "I'm putting in my two weeks notice!!! | The Mortuary Assistant | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "The Mortuary Assistant",
-      "viewer_count": 9,
+      "viewer_count": 12,
       "follower_count": 1752,
       "language": "en",
       "started_at": "2026-10-31T16:58:22Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "Happy Halloween Spooky Babes🎃🖤 | Here to make poo decisions w/ @bonnetdiaries | Be Safe Out There!",
       "game_name": "The Dark Pictures Anthology: House of Ashes",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 554,
       "language": "en",
       "started_at": "2026-10-31T15:21:28Z",
@@ -80,7 +65,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming - Village of Shadows or Bust.",
       "game_name": "Resident Evil Village",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 26,
       "language": "en",
       "started_at": "2026-10-31T16:59:59Z",
@@ -178,6 +163,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "beckybplays",
+      "user_name": "BeckyBPlays",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 5130,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/beckybplays",
+      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
       "user_login": "billygoat",
