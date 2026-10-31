@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T23:02:58.203Z",
+  "generatedAt": "2026-10-31T23:07:58.191Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T23:02:58.203Z",
+    "fetchedAt": "2026-10-31T23:07:58.191Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃👻 Happy HALLOWEEN Raiders!| ARC RAIDERS",
       "game_name": "Just Chatting",
-      "viewer_count": 82,
+      "viewer_count": 102,
       "follower_count": 14883,
       "language": "en",
       "started_at": "2026-10-31T22:48:59Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "TG Saturday Shuffle - Calling Shotgun in all the Wrong Ways!",
       "game_name": "7 Days to Die",
-      "viewer_count": 0,
+      "viewer_count": 3,
       "follower_count": 26,
       "language": "en",
       "started_at": "2026-10-31T23:00:46Z",
