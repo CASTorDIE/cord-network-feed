@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-31T16:57:58.032Z",
+  "generatedAt": "2026-10-31T17:02:57.614Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T16:57:58.032Z",
+    "fetchedAt": "2026-10-31T17:02:57.614Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -19,8 +19,8 @@
       "user_name": "BeckyBPlays",
       "is_live": true,
       "title": "👻Drops👻 Palia Patch Notes, Cozy Chaos & Ghost Town Pumpkin Festival! 👻| !hype !newvlog !gamevideo",
-      "game_name": "The Annual Ghost Town Pumpkin Festival",
-      "viewer_count": 37,
+      "game_name": "Palia",
+      "viewer_count": 34,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-10-31T13:18:31Z",
@@ -34,11 +34,11 @@
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "I'm putting in my two weeks notice!!! | The Mortuary Assistant | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "Just Chatting",
-      "viewer_count": 12,
+      "game_name": "The Mortuary Assistant",
+      "viewer_count": 9,
       "follower_count": 1752,
       "language": "en",
-      "started_at": "2026-10-31T16:05:21Z",
+      "started_at": "2026-10-31T16:58:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "New Game",
       "game_name": "Soulframe",
-      "viewer_count": 0,
+      "viewer_count": 3,
       "follower_count": 460,
       "language": "en",
       "started_at": "2026-10-31T16:56:45Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": true,
+      "title": "Steel Reaper Gaming - Village of Shadows or Bust.",
+      "game_name": "Resident Evil Village",
+      "viewer_count": 2,
+      "follower_count": 26,
+      "language": "en",
+      "started_at": "2026-10-31T16:59:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -598,21 +613,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/slimchungusgaming",
       "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 26,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
