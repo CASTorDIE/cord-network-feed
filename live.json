@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T14:07:58.300Z",
+  "generatedAt": "2026-10-31T14:12:58.306Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T14:07:58.300Z",
+    "fetchedAt": "2026-10-31T14:12:58.306Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Decorating for the King of Halloween! |Jax 4 Partner! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 74,
+      "viewer_count": 79,
       "follower_count": 2947,
       "language": "en",
       "started_at": "2026-10-31T11:54:51Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "👻Drops👻 Palia Patch Notes, Cozy Chaos & Ghost Town Pumpkin Festival! 👻| !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 35,
-      "follower_count": 5131,
+      "viewer_count": 41,
+      "follower_count": 5130,
       "language": "en",
       "started_at": "2026-10-31T13:18:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
