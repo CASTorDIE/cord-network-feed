@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-31T15:17:58.466Z",
+  "generatedAt": "2026-10-31T15:22:58.414Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-10-31T15:17:58.466Z",
+    "fetchedAt": "2026-10-31T15:22:58.414Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "Decorating for the King of Halloween! |Jax 4 Partner! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 78,
-      "follower_count": 2951,
+      "viewer_count": 75,
+      "follower_count": 2952,
       "language": "en",
       "started_at": "2026-10-31T11:54:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "👻Drops👻 Palia Patch Notes, Cozy Chaos & Ghost Town Pumpkin Festival! 👻| !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 47,
+      "viewer_count": 48,
       "follower_count": 5130,
       "language": "en",
       "started_at": "2026-10-31T13:18:31Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
+      "user_login": "zombaesempai",
+      "user_name": "ZombaeSempai",
+      "is_live": true,
+      "title": "Happy Halloween Spooky Babes🎃🖤 | Here to make poo decisions w/ @bonnetdiaries | Be Safe Out There!",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 554,
+      "language": "en",
+      "started_at": "2026-10-31T15:21:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zombaesempai-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7129ede2-61eb-42b7-a23a-6268e69d3390-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zombaesempai",
+      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -186,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 121327,
+      "follower_count": 121328,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -658,21 +673,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
-    {
-      "user_login": "zombaesempai",
-      "user_name": "ZombaeSempai",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 554,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7129ede2-61eb-42b7-a23a-6268e69d3390-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zombaesempai",
-      "description": "Gamer | Indie Game Dev | Cozy ↔ Horror | Weirdo for life, looking for the other weirdos! ♥"
     }
   ]
 }
