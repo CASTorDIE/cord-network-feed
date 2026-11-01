@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T21:22:58.291Z",
+  "generatedAt": "2026-11-01T21:27:58.287Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T21:22:58.291Z",
+    "fetchedAt": "2026-11-01T21:27:58.287Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "billygoat",
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED GUAM THON !thon !goals !move",
-      "game_name": "Just Chatting",
-      "viewer_count": 104,
+      "game_name": "Counter-Strike",
+      "viewer_count": 78,
       "follower_count": 10817,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "BACK HOME! LETS CATCH UP!!",
       "game_name": "Just Chatting",
-      "viewer_count": 51,
+      "viewer_count": 50,
       "follower_count": 2577,
       "language": "en",
       "started_at": "2026-11-01T20:52:55Z",
