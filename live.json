@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T05:42:57.764Z",
+  "generatedAt": "2026-11-01T05:47:57.713Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T05:42:57.764Z",
+    "fetchedAt": "2026-11-01T05:47:57.713Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃👻 Happy HALLOWEEN Raiders!| ARC RAIDERS",
       "game_name": "ARC Raiders",
-      "viewer_count": 114,
+      "viewer_count": 112,
       "follower_count": 14938,
       "language": "en",
       "started_at": "2026-10-31T22:48:59Z",
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 47,
+      "follower_count": 48,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
