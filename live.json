@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T20:57:58.256Z",
+  "generatedAt": "2026-11-01T21:02:58.382Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T20:57:58.256Z",
+    "fetchedAt": "2026-11-01T21:02:58.382Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Just Chatting",
-      "viewer_count": 114,
+      "viewer_count": 115,
       "follower_count": 10818,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "BACK HOME! LETS CATCH UP!!",
       "game_name": "Just Chatting",
-      "viewer_count": 17,
+      "viewer_count": 54,
       "follower_count": 2577,
       "language": "en",
       "started_at": "2026-11-01T20:52:55Z",
