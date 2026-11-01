@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T16:37:57.727Z",
+  "generatedAt": "2026-11-01T16:42:57.714Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T16:37:57.727Z",
+    "fetchedAt": "2026-11-01T16:42:57.714Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "All ABOARD!!! |Jax 4 Partner! |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 91,
+      "viewer_count": 83,
       "follower_count": 2963,
       "language": "en",
       "started_at": "2026-11-01T13:00:55Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🧸 NEW PLUSHIES in Palia! Then Cozy Storytime in Woodo 🌿| !hype !newvlog !gamevideo",
       "game_name": "Palia",
-      "viewer_count": 40,
+      "viewer_count": 35,
       "follower_count": 5131,
       "language": "en",
       "started_at": "2026-11-01T14:05:09Z",
