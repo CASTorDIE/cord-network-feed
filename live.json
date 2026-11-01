@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T22:37:58.315Z",
+  "generatedAt": "2026-11-01T22:42:58.385Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T22:37:58.315Z",
+    "fetchedAt": "2026-11-01T22:42:58.385Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 291,
-      "follower_count": 10862,
+      "viewer_count": 268,
+      "follower_count": 10867,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ฅ(=ↀωↀ=)ฅ",
       "game_name": "Yakuza 0",
-      "viewer_count": 6,
+      "viewer_count": 8,
       "follower_count": 349,
       "language": "en",
       "started_at": "2026-11-01T21:57:45Z",
