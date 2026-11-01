@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T17:02:57.770Z",
+  "generatedAt": "2026-11-01T17:07:57.708Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T17:02:57.770Z",
+    "fetchedAt": "2026-11-01T17:07:57.708Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🧸 NEW PLUSHIES in Palia! Then Cozy Storytime in Woodo 🌿| !hype !newvlog !gamevideo",
       "game_name": "Woodo",
-      "viewer_count": 27,
+      "viewer_count": 24,
       "follower_count": 5131,
       "language": "en",
       "started_at": "2026-11-01T14:05:09Z",
