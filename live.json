@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T00:07:58.240Z",
+  "generatedAt": "2026-11-01T00:12:58.298Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T00:07:58.240Z",
+    "fetchedAt": "2026-11-01T00:12:58.298Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,12 +15,27 @@
   },
   "streamers": [
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 1001🐅!discord🐅HALLOWEEN COSTUEM REVEEAL🐅THE BSET HOLLOWEEN COSTUEM YOU WEILL SEE ON TWTEICH THIS YEAR🐅NOBODY DOES",
+      "game_name": "Rocket League",
+      "viewer_count": 231,
+      "follower_count": 121333,
+      "language": "en",
+      "started_at": "2026-11-01T00:04:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🎃👻 Happy HALLOWEEN Raiders!| ARC RAIDERS",
       "game_name": "ARC Raiders",
-      "viewer_count": 188,
+      "viewer_count": 198,
       "follower_count": 14906,
       "language": "en",
       "started_at": "2026-10-31T22:48:59Z",
@@ -28,21 +43,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/skavstheworld",
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 1001🐅!discord🐅HALLOWEEN COSTUEM REVEEAL🐅THE BSET HOLLOWEEN COSTUEM YOU WEILL SEE ON TWTEICH THIS YEAR🐅NOBODY DOES",
-      "game_name": "Rocket League",
-      "viewer_count": 34,
-      "follower_count": 121332,
-      "language": "en",
-      "started_at": "2026-11-01T00:04:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "thepuckgoa",
