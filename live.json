@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T19:57:58.122Z",
+  "generatedAt": "2026-11-01T20:02:58.188Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T19:57:58.122Z",
+    "fetchedAt": "2026-11-01T20:02:58.188Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED THON !thon !goals !move",
       "game_name": "Just Chatting",
-      "viewer_count": 78,
-      "follower_count": 10819,
+      "viewer_count": 107,
+      "follower_count": 10820,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming - Ethan Winters is having a rough day! (Village of Shadows difficulty)",
       "game_name": "Resident Evil Village",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 26,
       "language": "en",
       "started_at": "2026-11-01T18:03:28Z",
