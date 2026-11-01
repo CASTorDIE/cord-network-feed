@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T19:42:58.034Z",
+  "generatedAt": "2026-11-01T19:47:58.124Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T19:42:58.034Z",
+    "fetchedAt": "2026-11-01T19:47:58.124Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED THON !thon !goals !move",
       "game_name": "Just Chatting",
-      "viewer_count": 84,
-      "follower_count": 10818,
+      "viewer_count": 93,
+      "follower_count": 10819,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
