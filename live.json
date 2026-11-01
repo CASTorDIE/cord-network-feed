@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T18:07:57.949Z",
+  "generatedAt": "2026-11-01T18:12:57.963Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T18:07:57.949Z",
+    "fetchedAt": "2026-11-01T18:12:57.963Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Steel Reaper Gaming - Ethan Winters is having a rough day! (Village of Shadows difficulty)",
       "game_name": "Resident Evil Village",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 26,
       "language": "en",
       "started_at": "2026-11-01T18:03:28Z",
