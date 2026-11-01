@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T23:02:58.396Z",
+  "generatedAt": "2026-11-01T23:07:58.397Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T23:02:58.396Z",
+    "fetchedAt": "2026-11-01T23:07:58.397Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 197,
+      "viewer_count": 189,
       "follower_count": 10870,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "ฅ(=ↀωↀ=)ฅ",
       "game_name": "Yakuza 0",
-      "viewer_count": 8,
+      "viewer_count": 7,
       "follower_count": 349,
       "language": "en",
       "started_at": "2026-11-01T21:57:45Z",
