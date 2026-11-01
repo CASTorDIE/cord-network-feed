@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T22:22:58.275Z",
+  "generatedAt": "2026-11-01T22:27:58.368Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T22:22:58.275Z",
+    "fetchedAt": "2026-11-01T22:27:58.368Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 105,
+      "viewer_count": 80,
       "follower_count": 10816,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -531,7 +531,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 14941,
+      "follower_count": 14940,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
