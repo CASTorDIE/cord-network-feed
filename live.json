@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T03:52:57.543Z",
+  "generatedAt": "2026-11-01T03:57:57.515Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T03:52:57.543Z",
+    "fetchedAt": "2026-11-01T03:57:57.515Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1001🐅!discord🐅HALLOWEEN COSTUEM REVEEAL🐅THE BSET HOLLOWEEN COSTUEM YOU WEILL SEE ON TWTEICH THIS YEAR🐅NOBODY DOES",
       "game_name": "Rocket League",
-      "viewer_count": 505,
-      "follower_count": 121561,
+      "viewer_count": 486,
+      "follower_count": 121562,
       "language": "en",
       "started_at": "2026-11-01T00:04:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃👻 Happy HALLOWEEN Raiders!| ARC RAIDERS",
       "game_name": "ARC Raiders",
-      "viewer_count": 159,
+      "viewer_count": 157,
       "follower_count": 14934,
       "language": "en",
       "started_at": "2026-10-31T22:48:59Z",
