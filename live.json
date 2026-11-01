@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T19:12:58.030Z",
+  "generatedAt": "2026-11-01T19:17:57.989Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T19:12:58.030Z",
+    "fetchedAt": "2026-11-01T19:17:57.989Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED THON !thon !goals !move",
       "game_name": "Just Chatting",
-      "viewer_count": 37,
+      "viewer_count": 50,
       "follower_count": 10814,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 121586,
+      "follower_count": 121587,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
