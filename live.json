@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T01:02:58.325Z",
+  "generatedAt": "2026-11-01T01:07:58.402Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T01:02:58.325Z",
+    "fetchedAt": "2026-11-01T01:07:58.402Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1001🐅!discord🐅HALLOWEEN COSTUEM REVEEAL🐅THE BSET HOLLOWEEN COSTUEM YOU WEILL SEE ON TWTEICH THIS YEAR🐅NOBODY DOES",
       "game_name": "Rocket League",
-      "viewer_count": 438,
-      "follower_count": 121364,
+      "viewer_count": 428,
+      "follower_count": 121367,
       "language": "en",
       "started_at": "2026-11-01T00:04:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "☾          ✦    🦇     ✦         🦇     ╔══════════════════╗    ║   THE UNKNOWN    ║    ║     AWAITS...    ║    ╚══════════════════╝",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "follower_count": 349,
       "language": "en",
       "started_at": "2026-11-01T00:20:45Z",
