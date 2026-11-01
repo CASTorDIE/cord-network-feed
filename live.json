@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-11-01T03:57:57.515Z",
+  "generatedAt": "2026-11-01T04:02:57.607Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-01T03:57:57.515Z",
+    "fetchedAt": "2026-11-01T04:02:57.607Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 1001🐅!discord🐅HALLOWEEN COSTUEM REVEEAL🐅THE BSET HOLLOWEEN COSTUEM YOU WEILL SEE ON TWTEICH THIS YEAR🐅NOBODY DOES",
-      "game_name": "Rocket League",
-      "viewer_count": 486,
-      "follower_count": 121562,
-      "language": "en",
-      "started_at": "2026-11-01T00:04:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🎃👻 Happy HALLOWEEN Raiders!| ARC RAIDERS",
       "game_name": "ARC Raiders",
-      "viewer_count": 157,
+      "viewer_count": 153,
       "follower_count": 14934,
       "language": "en",
       "started_at": "2026-10-31T22:48:59Z",
@@ -193,6 +178,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 121562,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
