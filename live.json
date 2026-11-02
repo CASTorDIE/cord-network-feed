@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T06:17:58.134Z",
+  "generatedAt": "2026-11-02T06:22:58.065Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T06:17:58.134Z",
+    "fetchedAt": "2026-11-02T06:22:58.065Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 115,
+      "viewer_count": 111,
       "follower_count": 10888,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "definitely a professional coder || !merch !throne !daki",
       "game_name": "The Farmer Was Replaced",
-      "viewer_count": 77,
+      "viewer_count": 73,
       "follower_count": 6428,
       "language": "en",
       "started_at": "2026-11-02T01:02:48Z",
