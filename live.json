@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T21:27:57.538Z",
+  "generatedAt": "2026-11-02T21:32:57.526Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T21:27:57.538Z",
+    "fetchedAt": "2026-11-02T21:32:57.526Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 2 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Phantom Blade Zero",
-      "viewer_count": 180,
+      "viewer_count": 170,
       "follower_count": 10895,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
