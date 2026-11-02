@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T00:27:57.526Z",
+  "generatedAt": "2026-11-02T00:32:57.527Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T00:27:57.526Z",
+    "fetchedAt": "2026-11-02T00:32:57.527Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 148,
-      "follower_count": 10876,
+      "viewer_count": 138,
+      "follower_count": 10877,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 121604,
+      "follower_count": 121605,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
