@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T20:57:57.505Z",
+  "generatedAt": "2026-11-02T21:02:57.564Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T20:57:57.505Z",
+    "fetchedAt": "2026-11-02T21:02:57.564Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,9 +19,9 @@
       "user_name": "billygoat",
       "is_live": true,
       "title": "🎃DAY 2 of UNCAPPED GUAM THON !thon !goals !move",
-      "game_name": "Co-working & Studying",
+      "game_name": "Phantom Blade Zero",
       "viewer_count": 105,
-      "follower_count": 10882,
+      "follower_count": 10883,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
