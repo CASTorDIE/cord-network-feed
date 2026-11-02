@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-02T06:57:58.238Z",
+  "generatedAt": "2026-11-02T07:02:58.187Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T06:57:58.238Z",
+    "fetchedAt": "2026-11-02T07:02:58.187Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 95,
+      "viewer_count": 91,
       "follower_count": 10888,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "definitely a professional coder || !merch !throne !daki",
       "game_name": "The Farmer Was Replaced",
-      "viewer_count": 71,
+      "viewer_count": 70,
       "follower_count": 6430,
       "language": "en",
       "started_at": "2026-11-02T01:02:48Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0077311c-4ec4-49ae-9809-ee605319629a-profile_image-300x300.jpg",
       "twitch_url": "https://www.twitch.tv/ao_zora_",
       "description": "I sing and play games. Sometimes I bake"
+    },
+    {
+      "user_login": "viridisbytes",
+      "user_name": "ViridisBytes",
+      "is_live": true,
+      "title": "[18+] Bad Vibes. Worse Decisions | Silent Hill 2 | !advanced !discord !lurk !time !clip |",
+      "game_name": "Just Chatting",
+      "viewer_count": 1,
+      "follower_count": 1328,
+      "language": "en",
+      "started_at": "2026-11-02T07:02:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/viridisbytes",
+      "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -600,21 +615,6 @@
       "description": "yoyo my name is Joe and on this channel we chill, play games and listen to a genre i love which is Vaporwave. "
     },
     {
-      "user_login": "viridisbytes",
-      "user_name": "ViridisBytes",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 1328,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/viridisbytes",
-      "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
-    },
-    {
       "user_login": "wexra",
       "user_name": "Wexra",
       "is_live": false,
@@ -636,7 +636,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 1752,
+      "follower_count": 1753,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
