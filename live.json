@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T08:07:58.245Z",
+  "generatedAt": "2026-11-02T08:12:58.332Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T08:07:58.245Z",
+    "fetchedAt": "2026-11-02T08:12:58.332Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 79,
+      "viewer_count": 76,
       "follower_count": 10889,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "[18+] Bad Vibes. Worse Decisions | Silent Hill 2 | !advanced !discord !lurk !time !clip |",
       "game_name": "SILENT HILL 2",
-      "viewer_count": 12,
+      "viewer_count": 15,
       "follower_count": 1330,
       "language": "en",
       "started_at": "2026-11-02T07:02:10Z",
