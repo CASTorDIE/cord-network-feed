@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T04:42:58.009Z",
+  "generatedAt": "2026-11-02T04:47:57.910Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T04:42:58.009Z",
+    "fetchedAt": "2026-11-02T04:47:57.910Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1002👨!discord👨‍🦲GC1 NOW👨‍🦲TODAY IS THE DAY👨‍🦲WE ARE GAMERS GAMIGN AND WEHN GAMERS GAME WE GET THE NEW RANK WHI",
       "game_name": "Rocket League",
-      "viewer_count": 972,
-      "follower_count": 122017,
+      "viewer_count": 962,
+      "follower_count": 122026,
       "language": "en",
       "started_at": "2026-11-02T01:06:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "definitely a professional coder || !merch !throne !daki",
       "game_name": "The Farmer Was Replaced",
-      "viewer_count": 51,
+      "viewer_count": 54,
       "follower_count": 6428,
       "language": "en",
       "started_at": "2026-11-02T01:02:48Z",
