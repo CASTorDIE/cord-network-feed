@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T19:17:58.389Z",
+  "generatedAt": "2026-11-02T19:22:58.505Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T19:17:58.389Z",
+    "fetchedAt": "2026-11-02T19:22:58.505Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃DAY 2 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Co-working & Studying",
-      "viewer_count": 91,
-      "follower_count": 10884,
+      "viewer_count": 98,
+      "follower_count": 10883,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 122103,
+      "follower_count": 122102,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
