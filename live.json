@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T23:27:57.739Z",
+  "generatedAt": "2026-11-02T23:32:57.760Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T23:27:57.739Z",
+    "fetchedAt": "2026-11-02T23:32:57.760Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 2 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Phantom Blade Zero",
-      "viewer_count": 140,
+      "viewer_count": 134,
       "follower_count": 10906,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Post Halloween Blues! | Is it... the END??? | Tenebris Somnia! | !discord !inks",
       "game_name": "Tenebris Somnia",
-      "viewer_count": 24,
+      "viewer_count": 26,
       "follower_count": 705,
       "language": "en",
       "started_at": "2026-11-02T22:27:37Z",
