@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T16:37:58.093Z",
+  "generatedAt": "2026-11-02T16:42:59.282Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T16:37:58.093Z",
+    "fetchedAt": "2026-11-02T16:42:59.282Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 61,
+      "viewer_count": 63,
       "follower_count": 10886,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 122096,
+      "follower_count": 122097,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
