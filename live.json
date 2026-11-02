@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T14:57:57.967Z",
+  "generatedAt": "2026-11-02T15:02:57.951Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T14:57:57.967Z",
+    "fetchedAt": "2026-11-02T15:02:57.951Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 68,
-      "follower_count": 10886,
+      "viewer_count": 65,
+      "follower_count": 10887,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 122088,
+      "follower_count": 122087,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
