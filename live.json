@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T16:12:58.031Z",
+  "generatedAt": "2026-11-02T16:17:58.053Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T16:12:58.031Z",
+    "fetchedAt": "2026-11-02T16:17:58.053Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Celebrating on the Island [Next Stream Nov 3rd @ 12pm CST] !Puzzle",
       "game_name": "Animal Crossing: New Horizons",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "follower_count": 199,
       "language": "en",
       "started_at": "2026-11-02T14:55:53Z",
