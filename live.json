@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T06:42:58.151Z",
+  "generatedAt": "2026-11-02T06:47:58.163Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T06:42:58.151Z",
+    "fetchedAt": "2026-11-02T06:47:58.163Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 1 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 101,
+      "viewer_count": 98,
       "follower_count": 10888,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "definitely a professional coder || !merch !throne !daki",
       "game_name": "The Farmer Was Replaced",
-      "viewer_count": 64,
-      "follower_count": 6429,
+      "viewer_count": 70,
+      "follower_count": 6430,
       "language": "en",
       "started_at": "2026-11-02T01:02:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ao_zora_-960x540.jpg",
