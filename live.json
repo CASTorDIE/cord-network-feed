@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T22:32:58.150Z",
+  "generatedAt": "2026-11-03T22:37:58.107Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-03T22:32:58.150Z",
+    "fetchedAt": "2026-11-03T22:37:58.107Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "THIS WAS NOT SUPPOSED TO HAPPEN... 💀 | DROPS Enabled - !discord",
       "game_name": "Just Chatting",
-      "viewer_count": 87,
+      "viewer_count": 96,
       "follower_count": 14946,
       "language": "en",
       "started_at": "2026-11-03T22:23:03Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃DAY 3 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 77,
+      "viewer_count": 84,
       "follower_count": 10915,
       "language": "en",
       "started_at": "2026-11-03T19:06:14Z",
