@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-03T22:37:58.107Z",
+  "generatedAt": "2026-11-03T22:42:58.076Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-03T22:37:58.107Z",
+    "fetchedAt": "2026-11-03T22:42:58.076Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -19,8 +19,8 @@
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "THIS WAS NOT SUPPOSED TO HAPPEN... 💀 | DROPS Enabled - !discord",
-      "game_name": "Just Chatting",
-      "viewer_count": 96,
+      "game_name": "ARC Raiders",
+      "viewer_count": 109,
       "follower_count": 14946,
       "language": "en",
       "started_at": "2026-11-03T22:23:03Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃DAY 3 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 84,
+      "viewer_count": 94,
       "follower_count": 10915,
       "language": "en",
       "started_at": "2026-11-03T19:06:14Z",
@@ -43,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": true,
+      "title": "ฅ(=ↀωↀ=)ฅ",
+      "game_name": "Yakuza 0",
+      "viewer_count": 3,
+      "follower_count": 349,
+      "language": "en",
+      "started_at": "2026-11-03T22:39:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -313,21 +328,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
-    },
-    {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 349,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
       "user_login": "gibsontales",
