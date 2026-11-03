@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T05:27:58.312Z",
+  "generatedAt": "2026-11-03T05:32:58.340Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-03T05:27:58.312Z",
+    "fetchedAt": "2026-11-03T05:32:58.340Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| EGG w/ @novarainart  @tundrastars & @wolf_luciana | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "CRACK",
-      "viewer_count": 111,
+      "viewer_count": 116,
       "follower_count": 10311,
       "language": "en",
       "started_at": "2026-11-03T03:50:27Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🎃DAY 2 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 98,
-      "follower_count": 10910,
+      "viewer_count": 97,
+      "follower_count": 10911,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
