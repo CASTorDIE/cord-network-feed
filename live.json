@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-03T01:07:58.023Z",
+  "generatedAt": "2026-11-03T01:12:57.935Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-03T01:07:58.023Z",
+    "fetchedAt": "2026-11-03T01:12:57.935Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 2 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 128,
+      "viewer_count": 120,
       "follower_count": 10907,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "BACK HOME 💎  END OF AN ERA 💎 YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 80,
+      "viewer_count": 78,
       "follower_count": 2577,
       "language": "en",
       "started_at": "2026-11-02T23:37:31Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Post Halloween Blues! | Is it... the END??? | Tenebris Somnia! | !discord !inks",
       "game_name": "Tenebris Somnia",
-      "viewer_count": 24,
+      "viewer_count": 22,
       "follower_count": 706,
       "language": "en",
       "started_at": "2026-11-02T22:27:37Z",
@@ -60,12 +60,27 @@
       "description": "I'm too scared to play horror games alone! Steaming every Monday and Thursday at 5:30 PM EST! I have corgis and kitties running around! We have community movie nights every Sunday at 6pm EST w/ The Gibson Tales! Business inquires: heather@horrorheather.com"
     },
     {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 1003😁!discord😁WE ARE HITTING GC1 TONIGHT😁IM THE GREATEST GAMER TO EVERY TOUCH GAMING😁IM GOING TO BE TOUCHING MY TE",
+      "game_name": "Rocket League",
+      "viewer_count": 20,
+      "follower_count": 122127,
+      "language": "en",
+      "started_at": "2026-11-03T01:09:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
       "user_login": "bribeecool10",
       "user_name": "bribeecool10",
       "is_live": true,
       "title": "Here we go again",
       "game_name": "Fortnite",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 408,
       "language": "en",
       "started_at": "2026-11-03T00:38:36Z",
@@ -178,21 +193,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 122127,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
