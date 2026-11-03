@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T23:57:57.785Z",
+  "generatedAt": "2026-11-03T00:02:57.837Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-02T23:57:57.785Z",
+    "fetchedAt": "2026-11-03T00:02:57.837Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "BACK HOME 💎  END OF AN ERA 💎 YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 84,
+      "viewer_count": 78,
       "follower_count": 2577,
       "language": "en",
       "started_at": "2026-11-02T23:37:31Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Post Halloween Blues! | Is it... the END??? | Tenebris Somnia! | !discord !inks",
       "game_name": "Tenebris Somnia",
-      "viewer_count": 18,
+      "viewer_count": 17,
       "follower_count": 705,
       "language": "en",
       "started_at": "2026-11-02T22:27:37Z",
