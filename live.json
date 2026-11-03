@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T09:12:57.757Z",
+  "generatedAt": "2026-11-03T09:17:57.822Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-03T09:12:57.757Z",
+    "fetchedAt": "2026-11-03T09:17:57.822Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "[18+] Bad Vibes. Worse Decisions | Silent Hill 2 | !advanced !discord !lurk !time !clip |",
       "game_name": "SILENT HILL 2",
-      "viewer_count": 18,
+      "viewer_count": 19,
       "follower_count": 1340,
       "language": "en",
       "started_at": "2026-11-03T07:01:48Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "GTA 5 Story - First Ever Playthrough Ep 4 II !Discord !Wishlist",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 333,
       "language": "en",
       "started_at": "2026-11-03T07:58:02Z",
