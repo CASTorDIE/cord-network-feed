@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T18:32:57.637Z",
+  "generatedAt": "2026-11-03T18:37:57.703Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-03T18:32:57.637Z",
+    "fetchedAt": "2026-11-03T18:37:57.703Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 3 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Co-working & Studying",
-      "viewer_count": 63,
+      "viewer_count": 59,
       "follower_count": 10916,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 122657,
+      "follower_count": 122658,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
