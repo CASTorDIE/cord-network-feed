@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-03T22:22:58.055Z",
+  "generatedAt": "2026-11-03T22:27:58.088Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-03T22:22:58.055Z",
+    "fetchedAt": "2026-11-03T22:27:58.088Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 1,
-    "offlineCount": 43
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 3 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 77,
+      "viewer_count": 82,
       "follower_count": 10915,
       "language": "en",
       "started_at": "2026-11-03T19:06:14Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": true,
+      "title": "THIS WAS NOT SUPPOSED TO HAPPEN... 💀 | DROPS Enabled - !discord",
+      "game_name": "Just Chatting",
+      "viewer_count": 20,
+      "follower_count": 14946,
+      "language": "en",
+      "started_at": "2026-11-03T22:23:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -171,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 122664,
+      "follower_count": 122663,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -525,21 +540,6 @@
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
     },
     {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 14946,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
-    {
       "user_login": "slimchungusgaming",
       "user_name": "SlimChungusGaming",
       "is_live": false,
@@ -636,7 +636,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 1756,
+      "follower_count": 1755,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
