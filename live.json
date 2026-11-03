@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T18:07:57.653Z",
+  "generatedAt": "2026-11-03T18:12:57.605Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-03T18:07:57.653Z",
+    "fetchedAt": "2026-11-03T18:12:57.605Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 3 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Co-working & Studying",
-      "viewer_count": 62,
+      "viewer_count": 61,
       "follower_count": 10916,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Day 1 of Loftia is Finally here [Next Stream Nov 4th @ 9am CST] !Puzzle",
       "game_name": "Loftia",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "follower_count": 202,
       "language": "en",
       "started_at": "2026-11-03T18:06:24Z",
