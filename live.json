@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-03T02:37:58.148Z",
+  "generatedAt": "2026-11-03T02:42:58.056Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-03T02:37:58.148Z",
+    "fetchedAt": "2026-11-03T02:42:58.056Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1003😁!discord😁WE ARE HITTING GC1 TONIGHT😁IM THE GREATEST GAMER TO EVERY TOUCH GAMING😁IM GOING TO BE TOUCHING MY TE",
       "game_name": "Rocket League",
-      "viewer_count": 1037,
-      "follower_count": 122234,
+      "viewer_count": 1107,
+      "follower_count": 122239,
       "language": "en",
       "started_at": "2026-11-03T01:09:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃DAY 2 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 115,
+      "viewer_count": 103,
       "follower_count": 10909,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -45,27 +45,12 @@
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "BACK HOME 💎  END OF AN ERA 💎 YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
-      "game_name": "Games + Demos",
-      "viewer_count": 78,
-      "follower_count": 2578,
-      "language": "en",
-      "started_at": "2026-11-02T23:37:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "horror_heather",
       "user_name": "horror_heather",
       "is_live": true,
       "title": "Post Halloween Blues! | Is it... the END??? | Tenebris Somnia! | !discord !inks",
       "game_name": "Tenebris Somnia",
-      "viewer_count": 25,
+      "viewer_count": 26,
       "follower_count": 707,
       "language": "en",
       "started_at": "2026-11-02T22:27:37Z",
@@ -163,6 +148,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 2578,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "beckybplays",
