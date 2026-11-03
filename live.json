@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-03T03:22:58.112Z",
+  "generatedAt": "2026-11-03T03:27:58.141Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-03T03:22:58.112Z",
+    "fetchedAt": "2026-11-03T03:27:58.141Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1003😁!discord😁WE ARE HITTING GC1 TONIGHT😁IM THE GREATEST GAMER TO EVERY TOUCH GAMING😁IM GOING TO BE TOUCHING MY TE",
       "game_name": "Rocket League",
-      "viewer_count": 1148,
-      "follower_count": 122337,
+      "viewer_count": 1167,
+      "follower_count": 122348,
       "language": "en",
       "started_at": "2026-11-03T01:09:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃DAY 2 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 117,
+      "viewer_count": 112,
       "follower_count": 10909,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🦊🦇| EGG w/ @novarainart  @tundrastars & @wolf_luciana | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "CRACK",
-      "viewer_count": 58,
+      "viewer_count": 62,
       "follower_count": 10311,
       "language": "en",
       "started_at": "2026-11-03T03:00:49Z",
@@ -58,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Here we go again",
-      "game_name": "Fortnite",
-      "viewer_count": 2,
-      "follower_count": 408,
-      "language": "en",
-      "started_at": "2026-11-03T00:38:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -193,6 +178,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 408,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
