@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T13:07:58.043Z",
+  "generatedAt": "2026-11-03T13:12:58.031Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-03T13:07:58.043Z",
+    "fetchedAt": "2026-11-03T13:12:58.031Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 2 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 45,
+      "viewer_count": 44,
       "follower_count": 10914,
       "language": "en",
       "started_at": "2026-11-01T19:06:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "singing + piano = live music requests🎵🎹🎸👩🏻‍🎤 || #AUS !sl !sr",
       "game_name": "Music",
-      "viewer_count": 17,
+      "viewer_count": 13,
       "follower_count": 444,
       "language": "en",
       "started_at": "2026-11-03T10:58:02Z",
