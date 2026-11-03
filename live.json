@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T03:37:58.210Z",
+  "generatedAt": "2026-11-03T03:42:58.175Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-03T03:37:58.210Z",
+    "fetchedAt": "2026-11-03T03:42:58.175Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1003😁!discord😁WE ARE HITTING GC1 TONIGHT😁IM THE GREATEST GAMER TO EVERY TOUCH GAMING😁IM GOING TO BE TOUCHING MY TE",
       "game_name": "Rocket League",
-      "viewer_count": 1165,
-      "follower_count": 122365,
+      "viewer_count": 1186,
+      "follower_count": 122385,
       "language": "en",
       "started_at": "2026-11-03T01:09:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🦊🦇| EGG w/ @novarainart  @tundrastars & @wolf_luciana | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "CRACK",
-      "viewer_count": 79,
+      "viewer_count": 82,
       "follower_count": 10311,
       "language": "en",
       "started_at": "2026-11-03T03:00:49Z",
