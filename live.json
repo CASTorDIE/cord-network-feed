@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T18:07:57.840Z",
+  "generatedAt": "2026-11-04T18:12:57.817Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T18:07:57.840Z",
+    "fetchedAt": "2026-11-04T18:12:57.817Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 4 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Just Chatting",
-      "viewer_count": 7,
+      "viewer_count": 30,
       "follower_count": 10921,
       "language": "en",
       "started_at": "2026-11-04T18:04:12Z",
