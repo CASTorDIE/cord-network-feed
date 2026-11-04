@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T05:22:57.361Z",
+  "generatedAt": "2026-11-04T05:27:57.358Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T05:22:57.361Z",
+    "fetchedAt": "2026-11-04T05:27:57.358Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "Blind DSIII",
       "game_name": "DARK SOULS III",
       "viewer_count": 12,
-      "follower_count": 329,
+      "follower_count": 330,
       "language": "en",
       "started_at": "2026-11-04T01:56:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Breaking up With My Boyfriend | Tenebris Somnia",
       "game_name": "Games + Demos",
-      "viewer_count": 3,
+      "viewer_count": 6,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-11-04T05:16:22Z",
