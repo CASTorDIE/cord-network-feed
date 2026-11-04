@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-04T03:07:57.576Z",
+  "generatedAt": "2026-11-04T03:12:57.595Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T03:07:57.576Z",
+    "fetchedAt": "2026-11-04T03:12:57.595Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1004💈!discord💈WE ARE ONLY 1 GAME OFF OF GC RIGHT NOW💈ITS TIME FOR US TO CLIMB UP💈WE ARE GOING TO GET UP TO GRAND C",
       "game_name": "Rocket League",
-      "viewer_count": 1259,
-      "follower_count": 122884,
+      "viewer_count": 1217,
+      "follower_count": 122886,
       "language": "en",
       "started_at": "2026-11-04T01:05:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃DAY 3 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 123,
+      "viewer_count": 130,
       "follower_count": 10918,
       "language": "en",
       "started_at": "2026-11-03T19:06:14Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 58,
+      "viewer_count": 55,
       "follower_count": 2579,
       "language": "en",
       "started_at": "2026-11-04T00:04:28Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Street Fighter 6 grind to Ultimate Master followed by Bling DSIII",
       "game_name": "Street Fighter 6",
-      "viewer_count": 16,
+      "viewer_count": 18,
       "follower_count": 329,
       "language": "en",
       "started_at": "2026-11-04T01:56:48Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Lets jump into DMO",
-      "game_name": "Yu-Gi-Oh! Master Duel",
-      "viewer_count": 1,
-      "follower_count": 408,
-      "language": "en",
-      "started_at": "2026-11-04T00:09:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "alfieduu",
@@ -178,6 +163,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 408,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
