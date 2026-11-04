@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T04:37:57.276Z",
+  "generatedAt": "2026-11-04T04:42:57.321Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T04:37:57.276Z",
+    "fetchedAt": "2026-11-04T04:42:57.321Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Blind DSIII",
       "game_name": "DARK SOULS III",
-      "viewer_count": 8,
+      "viewer_count": 7,
       "follower_count": 329,
       "language": "en",
       "started_at": "2026-11-04T01:56:48Z",
