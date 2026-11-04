@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T12:22:58.210Z",
+  "generatedAt": "2026-11-04T12:27:58.250Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T12:22:58.210Z",
+    "fetchedAt": "2026-11-04T12:27:58.250Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "[18+] Bad Vibes. Worse Decisions | Silent Hill 2 | !advanced !discord !lurk !time !clip |",
       "game_name": "SILENT HILL 2",
-      "viewer_count": 14,
-      "follower_count": 1345,
+      "viewer_count": 13,
+      "follower_count": 1346,
       "language": "en",
       "started_at": "2026-11-04T07:16:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
