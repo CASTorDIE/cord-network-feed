@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T05:27:57.358Z",
+  "generatedAt": "2026-11-04T05:32:57.360Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T05:27:57.358Z",
+    "fetchedAt": "2026-11-04T05:32:57.360Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Blind DSIII",
       "game_name": "DARK SOULS III",
-      "viewer_count": 12,
+      "viewer_count": 14,
       "follower_count": 330,
       "language": "en",
       "started_at": "2026-11-04T01:56:48Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Breaking up With My Boyfriend | Tenebris Somnia",
       "game_name": "Games + Demos",
-      "viewer_count": 6,
+      "viewer_count": 9,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-11-04T05:16:22Z",
