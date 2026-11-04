@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-04T02:57:57.584Z",
+  "generatedAt": "2026-11-04T03:02:57.490Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T02:57:57.584Z",
+    "fetchedAt": "2026-11-04T03:02:57.490Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1004💈!discord💈WE ARE ONLY 1 GAME OFF OF GC RIGHT NOW💈ITS TIME FOR US TO CLIMB UP💈WE ARE GOING TO GET UP TO GRAND C",
       "game_name": "Rocket League",
-      "viewer_count": 1355,
-      "follower_count": 122862,
+      "viewer_count": 1259,
+      "follower_count": 122868,
       "language": "en",
       "started_at": "2026-11-04T01:05:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🎃DAY 3 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 113,
-      "follower_count": 10917,
+      "viewer_count": 133,
+      "follower_count": 10918,
       "language": "en",
       "started_at": "2026-11-03T19:06:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 61,
+      "viewer_count": 59,
       "follower_count": 2579,
       "language": "en",
       "started_at": "2026-11-04T00:04:28Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Street Fighter 6 grind to Ultimate Master followed by Bling DSIII",
       "game_name": "Street Fighter 6",
-      "viewer_count": 19,
+      "viewer_count": 15,
       "follower_count": 329,
       "language": "en",
       "started_at": "2026-11-04T01:56:48Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": true,
-      "title": "TG Tuesday - These bosses out here killin' folks!",
-      "game_name": "Remnant: From the Ashes",
-      "viewer_count": 3,
-      "follower_count": 26,
-      "language": "en",
-      "started_at": "2026-11-04T00:16:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "bribeecool10",
@@ -583,6 +568,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 26,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
