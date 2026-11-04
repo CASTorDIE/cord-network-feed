@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T18:12:57.817Z",
+  "generatedAt": "2026-11-04T18:17:57.916Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T18:12:57.817Z",
+    "fetchedAt": "2026-11-04T18:17:57.916Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃DAY 4 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Just Chatting",
-      "viewer_count": 30,
-      "follower_count": 10921,
+      "viewer_count": 42,
+      "follower_count": 10922,
       "language": "en",
       "started_at": "2026-11-04T18:04:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
