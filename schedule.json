@@ -1,22 +1,88 @@
 {
-  "generatedAt": "2026-11-04T19:24:40.150Z",
+  "generatedAt": "2026-11-04T20:43:18.704Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": null,
+    "updatedAt": "2026-11-04T19:24:40.135Z",
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 0,
-    "firstDate": null,
-    "lastDate": null,
+    "entryCount": 5,
+    "firstDate": "2026-11-01",
+    "lastDate": "2026-11-06",
     "windowStart": "2026-11-01",
     "windowEnd": "2027-02-02",
     "invalidEntryCount": 0,
     "duplicateEntryCount": 0
   },
-  "entries": []
+  "entries": [
+    {
+      "id": "evt_jax_2026-11-01",
+      "date": "2026-11-01",
+      "dateLabel": "Sunday, November 1st",
+      "weekday": "Sunday",
+      "streamer": "JaxsBerryPatch",
+      "title": "Disney Dreamlight Valley",
+      "timeMinutes": 420,
+      "timeLabel": "7:00 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/jaxsberrypatch"
+    },
+    {
+      "id": "evt_gibson_2026-11-01",
+      "date": "2026-11-01",
+      "dateLabel": "Sunday, November 1st",
+      "weekday": "Sunday",
+      "streamer": "GibsonTales",
+      "title": "Community Movie Night",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
+      "id": "evt_horror_heather_2026-11-01",
+      "date": "2026-11-01",
+      "dateLabel": "Sunday, November 1st",
+      "weekday": "Sunday",
+      "streamer": "Horror_Heather",
+      "title": "Movie Night",
+      "timeMinutes": 1020,
+      "timeLabel": "5:00 PM",
+      "highlight": "green",
+      "pillLabel": "SPECIAL",
+      "url": "https://www.twitch.tv/horror_heather"
+    },
+    {
+      "id": "evt_gibson_gta_2026-11-04",
+      "date": "2026-11-04",
+      "dateLabel": "Wed, Nov 4",
+      "weekday": "",
+      "streamer": "GibsonTales",
+      "title": "GTA V",
+      "timeMinutes": 450,
+      "timeLabel": "7:30 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
+    },
+    {
+      "id": "evt_gibson_gta_2026-11-06",
+      "date": "2026-11-06",
+      "dateLabel": "Fri, Nov 6",
+      "weekday": "",
+      "streamer": "GibsonTales",
+      "title": "GTA V",
+      "timeMinutes": 450,
+      "timeLabel": "7:30 AM",
+      "highlight": "",
+      "pillLabel": "",
+      "url": "https://www.twitch.tv/gibsontales"
+    }
+  ]
 }
