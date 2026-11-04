@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-04T02:17:58.426Z",
+  "generatedAt": "2026-11-04T02:22:57.600Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T02:17:58.426Z",
+    "fetchedAt": "2026-11-04T02:22:57.600Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 9,
-    "offlineCount": 35
+    "liveCount": 8,
+    "offlineCount": 36
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1004💈!discord💈WE ARE ONLY 1 GAME OFF OF GC RIGHT NOW💈ITS TIME FOR US TO CLIMB UP💈WE ARE GOING TO GET UP TO GRAND C",
       "game_name": "Rocket League",
-      "viewer_count": 1117,
-      "follower_count": 122765,
+      "viewer_count": 1102,
+      "follower_count": 122775,
       "language": "en",
       "started_at": "2026-11-04T01:05:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "THIS WAS NOT SUPPOSED TO HAPPEN... 💀 | DROPS Enabled - !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 181,
+      "viewer_count": 169,
       "follower_count": 14999,
       "language": "en",
       "started_at": "2026-11-03T22:23:03Z",
@@ -50,8 +50,8 @@
       "is_live": true,
       "title": "🎃DAY 3 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 95,
-      "follower_count": 10915,
+      "viewer_count": 96,
+      "follower_count": 10914,
       "language": "en",
       "started_at": "2026-11-03T19:06:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 56,
+      "viewer_count": 57,
       "follower_count": 2577,
       "language": "en",
       "started_at": "2026-11-04T00:04:28Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "Street Fighter 6 grind to Ultimate Master followed by Bling DSIII",
       "game_name": "Street Fighter 6",
-      "viewer_count": 21,
+      "viewer_count": 17,
       "follower_count": 329,
       "language": "en",
       "started_at": "2026-11-04T01:56:48Z",
@@ -90,27 +90,12 @@
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
-      "user_login": "beckybplays",
-      "user_name": "BeckyBPlays",
-      "is_live": true,
-      "title": "Welcome Back to Loftia! 💚 Let's Start This Adventure Together! ~Loftia Partner~| !hype !newvlog !gamevideo",
-      "game_name": "Loftia",
-      "viewer_count": 16,
-      "follower_count": 5129,
-      "language": "en",
-      "started_at": "2026-11-03T23:32:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckybplays-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/beckybplays",
-      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
-    },
-    {
       "user_login": "wispy_witch",
       "user_name": "wispy_witch",
       "is_live": true,
       "title": "Clip Contest Winner: @L0rd0fRand0m | Village in the Shade | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
       "game_name": "Village in the Shade",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "follower_count": 1755,
       "language": "en",
       "started_at": "2026-11-04T00:56:19Z",
@@ -208,6 +193,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3033d501-164d-4f62-9f8b-772715d7c4a1-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/astral_celestial",
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
+    },
+    {
+      "user_login": "beckybplays",
+      "user_name": "BeckyBPlays",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 5129,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/beckybplays",
+      "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
     },
     {
       "user_login": "boww_wolf",
