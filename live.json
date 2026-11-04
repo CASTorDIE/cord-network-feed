@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T23:02:59.718Z",
+  "generatedAt": "2026-11-04T23:07:59.731Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T23:02:59.718Z",
+    "fetchedAt": "2026-11-04T23:07:59.731Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 4 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Marbles on Stream",
-      "viewer_count": 124,
+      "viewer_count": 110,
       "follower_count": 10940,
       "language": "en",
       "started_at": "2026-11-04T18:04:12Z",
