@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T23:22:58.764Z",
+  "generatedAt": "2026-11-04T23:27:58.765Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T23:22:58.764Z",
+    "fetchedAt": "2026-11-04T23:27:58.765Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🎃DAY 4 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Marbles on Stream",
-      "viewer_count": 171,
-      "follower_count": 10944,
+      "viewer_count": 166,
+      "follower_count": 10943,
       "language": "en",
       "started_at": "2026-11-04T18:04:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 123025,
+      "follower_count": 123026,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
