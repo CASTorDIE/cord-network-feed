@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T08:47:57.794Z",
+  "generatedAt": "2026-11-04T08:52:57.797Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T08:47:57.794Z",
+    "fetchedAt": "2026-11-04T08:52:57.797Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] Bad Vibes. Worse Decisions | Silent Hill 2 | !advanced !discord !lurk !time !clip |",
       "game_name": "SILENT HILL 2",
-      "viewer_count": 18,
+      "viewer_count": 16,
       "follower_count": 1343,
       "language": "en",
       "started_at": "2026-11-04T07:16:42Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "At This Point I'm Begging for the Pirate Token II !Discord !Wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "follower_count": 339,
       "language": "en",
       "started_at": "2026-11-04T06:29:17Z",
