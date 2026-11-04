@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T20:12:58.168Z",
+  "generatedAt": "2026-11-04T20:17:58.232Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T20:12:58.168Z",
+    "fetchedAt": "2026-11-04T20:17:58.232Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🎃DAY 4 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Marbles on Stream",
-      "viewer_count": 69,
+      "viewer_count": 65,
       "follower_count": 10927,
       "language": "en",
       "started_at": "2026-11-04T18:04:12Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Lets play this cutie game! |Jax 4 Partner! |!library !discord !tip !linktree !merch|",
       "game_name": "Loftia",
-      "viewer_count": 37,
+      "viewer_count": 38,
       "follower_count": 2963,
       "language": "en",
       "started_at": "2026-11-04T19:31:49Z",
