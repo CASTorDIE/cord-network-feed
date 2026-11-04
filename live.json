@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-11-04T04:17:58.266Z",
+  "generatedAt": "2026-11-04T04:22:58.223Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T04:17:58.266Z",
+    "fetchedAt": "2026-11-04T04:22:58.223Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 1004💈!discord💈WE ARE ONLY 1 GAME OFF OF GC RIGHT NOW💈ITS TIME FOR US TO CLIMB UP💈WE ARE GOING TO GET UP TO GRAND C",
-      "game_name": "Rocket League",
-      "viewer_count": 953,
-      "follower_count": 122963,
-      "language": "en",
-      "started_at": "2026-11-04T01:05:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 48,
+      "viewer_count": 49,
       "follower_count": 2580,
       "language": "en",
       "started_at": "2026-11-04T00:04:28Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "🎃DAY 3 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 28,
+      "viewer_count": 30,
       "follower_count": 10919,
       "language": "en",
       "started_at": "2026-11-03T19:06:14Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "Blind DSIII",
       "game_name": "DARK SOULS III",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 329,
       "language": "en",
       "started_at": "2026-11-04T01:56:48Z",
@@ -178,6 +163,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 122975,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
