@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-04T00:07:58.229Z",
+  "generatedAt": "2026-11-04T00:12:58.215Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T00:07:58.229Z",
+    "fetchedAt": "2026-11-04T00:12:58.215Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "THIS WAS NOT SUPPOSED TO HAPPEN... 💀 | DROPS Enabled - !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 159,
-      "follower_count": 14967,
+      "viewer_count": 156,
+      "follower_count": 14969,
       "language": "en",
       "started_at": "2026-11-03T22:23:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃DAY 3 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 82,
+      "viewer_count": 80,
       "follower_count": 10916,
       "language": "en",
       "started_at": "2026-11-03T19:06:14Z",
@@ -45,12 +45,27 @@
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
+      "game_name": "Just Chatting",
+      "viewer_count": 56,
+      "follower_count": 2577,
+      "language": "en",
+      "started_at": "2026-11-04T00:04:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
       "user_login": "beckybplays",
       "user_name": "BeckyBPlays",
       "is_live": true,
       "title": "Welcome Back to Loftia! 💚 Let's Start This Adventure Together! ~Loftia Partner~| !hype !newvlog !gamevideo",
       "game_name": "Loftia",
-      "viewer_count": 10,
+      "viewer_count": 14,
       "follower_count": 5129,
       "language": "en",
       "started_at": "2026-11-03T23:32:22Z",
@@ -65,7 +80,7 @@
       "is_live": true,
       "title": "ฅ(=ↀωↀ=)ฅ",
       "game_name": "Yakuza 0",
-      "viewer_count": 5,
+      "viewer_count": 7,
       "follower_count": 349,
       "language": "en",
       "started_at": "2026-11-03T22:39:01Z",
@@ -75,19 +90,19 @@
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
       "is_live": true,
-      "title": "YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
-      "game_name": "Just Chatting",
-      "viewer_count": 4,
-      "follower_count": 2577,
+      "title": "Lets jump into DMO",
+      "game_name": "Yu-Gi-Oh! Master Duel",
+      "viewer_count": 1,
+      "follower_count": 408,
       "language": "en",
-      "started_at": "2026-11-04T00:04:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+      "started_at": "2026-11-04T00:09:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -178,21 +193,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 408,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "brycexd",
