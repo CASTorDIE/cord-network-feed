@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T15:27:57.531Z",
+  "generatedAt": "2026-11-04T15:32:57.515Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T15:27:57.531Z",
+    "fetchedAt": "2026-11-04T15:32:57.515Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Questing in the Hanging Gardens - Loftia Partner [Next Stream Nov 9th @ 9am CST] !Puzzle",
       "game_name": "Loftia",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "follower_count": 202,
       "language": "en",
       "started_at": "2026-11-04T14:59:18Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 122999,
+      "follower_count": 123000,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
