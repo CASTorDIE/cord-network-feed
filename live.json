@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T06:57:57.605Z",
+  "generatedAt": "2026-11-04T07:02:57.607Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T06:57:57.605Z",
+    "fetchedAt": "2026-11-04T07:02:57.607Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Breaking up With My Boyfriend | Tenebris Somnia",
       "game_name": "Games + Demos",
-      "viewer_count": 11,
+      "viewer_count": 10,
       "follower_count": 907,
       "language": "en",
       "started_at": "2026-11-04T05:16:22Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "At This Point I'm Begging for the Pirate Token II !Discord !Wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 337,
       "language": "en",
       "started_at": "2026-11-04T06:29:17Z",
