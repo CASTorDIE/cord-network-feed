@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-04T00:02:58.139Z",
+  "generatedAt": "2026-11-04T00:07:58.229Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T00:02:58.139Z",
+    "fetchedAt": "2026-11-04T00:07:58.229Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "THIS WAS NOT SUPPOSED TO HAPPEN... 💀 | DROPS Enabled - !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 166,
-      "follower_count": 14965,
+      "viewer_count": 159,
+      "follower_count": 14967,
       "language": "en",
       "started_at": "2026-11-03T22:23:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃DAY 3 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 89,
+      "viewer_count": 82,
       "follower_count": 10916,
       "language": "en",
       "started_at": "2026-11-03T19:06:14Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Welcome Back to Loftia! 💚 Let's Start This Adventure Together! ~Loftia Partner~| !hype !newvlog !gamevideo",
       "game_name": "Loftia",
-      "viewer_count": 14,
+      "viewer_count": 10,
       "follower_count": 5129,
       "language": "en",
       "started_at": "2026-11-03T23:32:22Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
+      "game_name": "Just Chatting",
+      "viewer_count": 4,
+      "follower_count": 2577,
+      "language": "en",
+      "started_at": "2026-11-04T00:04:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -150,21 +165,6 @@
       "description": " Welcome to the  channel, you beautiful people. I'm new to streaming you will see a lot of me playing  various games so. Follow and subscribe and  grab a seat it's about to be a journey!!!!!"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 2577,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "boww_wolf",
       "user_name": "boww_wolf",
       "is_live": false,
@@ -201,7 +201,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 122663,
+      "follower_count": 122665,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
