@@ -1,27 +1,42 @@
 {
-  "generatedAt": "2026-11-04T01:02:58.265Z",
+  "generatedAt": "2026-11-04T01:07:58.268Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T01:02:58.265Z",
+    "fetchedAt": "2026-11-04T01:07:58.268Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 8,
-    "offlineCount": 36
+    "liveCount": 9,
+    "offlineCount": 35
   },
   "streamers": [
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 1004💈!discord💈WE ARE ONLY 1 GAME OFF OF GC RIGHT NOW💈ITS TIME FOR US TO CLIMB UP💈WE ARE GOING TO GET UP TO GRAND C",
+      "game_name": "Rocket League",
+      "viewer_count": 300,
+      "follower_count": 122681,
+      "language": "en",
+      "started_at": "2026-11-04T01:05:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
     {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "THIS WAS NOT SUPPOSED TO HAPPEN... 💀 | DROPS Enabled - !discord",
       "game_name": "ARC Raiders",
-      "viewer_count": 152,
-      "follower_count": 14980,
+      "viewer_count": 159,
+      "follower_count": 14979,
       "language": "en",
       "started_at": "2026-11-03T22:23:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +50,7 @@
       "is_live": true,
       "title": "🎃DAY 3 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 85,
+      "viewer_count": 92,
       "follower_count": 10916,
       "language": "en",
       "started_at": "2026-11-03T19:06:14Z",
@@ -65,7 +80,7 @@
       "is_live": true,
       "title": "Welcome Back to Loftia! 💚 Let's Start This Adventure Together! ~Loftia Partner~| !hype !newvlog !gamevideo",
       "game_name": "Loftia",
-      "viewer_count": 15,
+      "viewer_count": 16,
       "follower_count": 5129,
       "language": "en",
       "started_at": "2026-11-03T23:32:22Z",
@@ -73,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2abc4443-3590-43b4-a143-d97494fc7906-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/beckybplays",
       "description": "I may or may not be Becky with the good hair but either way, the hair is pretty amazing~ I'm just a variety streamer who loves playing a little bit of everything and building a community of amazing gamers/ streamers too. "
+    },
+    {
+      "user_login": "wispy_witch",
+      "user_name": "wispy_witch",
+      "is_live": true,
+      "title": "Picking Clip Contest Winner! | Village in the Shade | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
+      "game_name": "Just Chatting",
+      "viewer_count": 12,
+      "follower_count": 1755,
+      "language": "en",
+      "started_at": "2026-11-04T00:56:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wispy_witch",
+      "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
     },
     {
       "user_login": "gatito_maldito",
@@ -90,21 +120,6 @@
       "description": "I’m a conversational variety streamer who turns random moments, games, jokes, and rabbit holes into something worth watching. Gatitomaldito18@gmail.com"
     },
     {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Lets jump into DMO",
-      "game_name": "Yu-Gi-Oh! Master Duel",
-      "viewer_count": 2,
-      "follower_count": 408,
-      "language": "en",
-      "started_at": "2026-11-04T00:09:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
       "user_login": "thepuckgoa",
       "user_name": "ThePuckGOA",
       "is_live": true,
@@ -120,19 +135,19 @@
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
-      "user_login": "wispy_witch",
-      "user_name": "wispy_witch",
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
       "is_live": true,
-      "title": "Picking Clip Contest Winner! | Village in the Shade | [18+] 🎀!SubGoal 🎀 !Discord 🎀 !Store 🎀",
-      "game_name": "Just Chatting",
-      "viewer_count": 2,
-      "follower_count": 1755,
+      "title": "Lets jump into DMO",
+      "game_name": "Yu-Gi-Oh! Master Duel",
+      "viewer_count": 1,
+      "follower_count": 408,
       "language": "en",
-      "started_at": "2026-11-04T00:56:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wispy_witch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wispy_witch",
-      "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
+      "started_at": "2026-11-04T00:09:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -223,21 +238,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 122677,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
