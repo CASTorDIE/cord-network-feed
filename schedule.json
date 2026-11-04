@@ -1,75 +1,22 @@
 {
-  "generatedAt": "2026-10-28T23:31:57.144Z",
+  "generatedAt": "2026-11-04T19:24:40.150Z",
   "schemaVersion": 2,
   "timezone": "America/Chicago",
   "source": {
     "name": "scheduler",
     "input": "data/shared/scheduler.json",
     "recoveredInput": false,
-    "updatedAt": "2026-10-28T23:31:57.114Z",
+    "updatedAt": null,
     "timezone": "America/Chicago"
   },
   "summary": {
-    "entryCount": 4,
-    "firstDate": "2026-10-28",
-    "lastDate": "2026-11-01",
-    "windowStart": "2026-10-25",
-    "windowEnd": "2027-01-26",
+    "entryCount": 0,
+    "firstDate": null,
+    "lastDate": null,
+    "windowStart": "2026-11-01",
+    "windowEnd": "2027-02-02",
     "invalidEntryCount": 0,
     "duplicateEntryCount": 0
   },
-  "entries": [
-    {
-      "id": "evt_jax_2026-10-28",
-      "date": "2026-10-28",
-      "dateLabel": "Wednesday, October 28th",
-      "weekday": "Wednesday",
-      "streamer": "JaxsBerryPatch",
-      "title": "Untitled stream",
-      "timeMinutes": 990,
-      "timeLabel": "4:30 PM",
-      "highlight": "",
-      "pillLabel": "",
-      "url": "https://www.twitch.tv/jaxsberrypatch"
-    },
-    {
-      "id": "evt_jax_2026-10-30",
-      "date": "2026-10-30",
-      "dateLabel": "Friday, October 30th",
-      "weekday": "Friday",
-      "streamer": "JaxsBerryPatch",
-      "title": "Untitled stream",
-      "timeMinutes": 870,
-      "timeLabel": "2:30 PM",
-      "highlight": "",
-      "pillLabel": "",
-      "url": "https://www.twitch.tv/jaxsberrypatch"
-    },
-    {
-      "id": "evt_jax_2026-10-31",
-      "date": "2026-10-31",
-      "dateLabel": "Saturday, October 31st",
-      "weekday": "Saturday",
-      "streamer": "JaxsBerryPatch",
-      "title": "Untitled stream",
-      "timeMinutes": 420,
-      "timeLabel": "7:00 AM",
-      "highlight": "",
-      "pillLabel": "",
-      "url": "https://www.twitch.tv/jaxsberrypatch"
-    },
-    {
-      "id": "evt_jax_2026-11-01",
-      "date": "2026-11-01",
-      "dateLabel": "Sunday, November 1st",
-      "weekday": "Sunday",
-      "streamer": "JaxsBerryPatch",
-      "title": "Untitled stream",
-      "timeMinutes": 420,
-      "timeLabel": "7:00 AM",
-      "highlight": "",
-      "pillLabel": "",
-      "url": "https://www.twitch.tv/jaxsberrypatch"
-    }
-  ]
+  "entries": []
 }
