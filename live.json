@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T18:32:57.851Z",
+  "generatedAt": "2026-11-04T18:37:57.932Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-04T18:32:57.851Z",
+    "fetchedAt": "2026-11-04T18:37:57.932Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "billygoat",
       "is_live": true,
       "title": "🎃DAY 4 of UNCAPPED GUAM THON !thon !goals !move",
-      "game_name": "Just Chatting",
-      "viewer_count": 70,
+      "game_name": "Marbles on Stream",
+      "viewer_count": 64,
       "follower_count": 10923,
       "language": "en",
       "started_at": "2026-11-04T18:04:12Z",
