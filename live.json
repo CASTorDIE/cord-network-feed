@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-05T03:47:58.961Z",
+  "generatedAt": "2026-11-05T03:52:58.931Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-05T03:47:58.961Z",
+    "fetchedAt": "2026-11-05T03:52:58.931Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1005🫦!discord🫦HEY HANDSOME🫦LOOKING FOR A STREAM TO WATCH🫦DON'T WATCH THIS ONE🫦I'M PLAYING REALLY  BAD AND TANKING",
       "game_name": "Rocket League",
-      "viewer_count": 974,
-      "follower_count": 123222,
+      "viewer_count": 992,
+      "follower_count": 123224,
       "language": "en",
       "started_at": "2026-11-05T01:07:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🎃DAY 4 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 134,
+      "viewer_count": 140,
       "follower_count": 10966,
       "language": "en",
       "started_at": "2026-11-04T18:04:12Z",
@@ -45,27 +45,12 @@
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
-      "game_name": "Games + Demos",
-      "viewer_count": 43,
-      "follower_count": 2580,
-      "language": "en",
-      "started_at": "2026-11-04T23:38:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "ao_zora_",
       "user_name": "Ao_Zora_",
       "is_live": true,
       "title": "Relearning art...haha || !merch !throne !daki",
       "game_name": "Art",
-      "viewer_count": 39,
+      "viewer_count": 47,
       "follower_count": 6430,
       "language": "en",
       "started_at": "2026-11-05T00:31:59Z",
@@ -75,19 +60,19 @@
       "description": "I sing and play games. Sometimes I bake"
     },
     {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
       "is_live": true,
-      "title": "One last randomizer before the remake releases! | Randomizer! | 04/11/2026",
-      "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 8,
-      "follower_count": 728,
+      "title": "YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
+      "game_name": "Games + Demos",
+      "viewer_count": 46,
+      "follower_count": 2580,
       "language": "en",
-      "started_at": "2026-11-05T01:38:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
+      "started_at": "2026-11-04T23:38:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -95,7 +80,7 @@
       "is_live": true,
       "title": "Blind DSIII! Time to finish these dragon nerds",
       "game_name": "DARK SOULS III",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 331,
       "language": "en",
       "started_at": "2026-11-05T01:56:06Z",
@@ -283,6 +268,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/fallentitanandy",
       "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
+    },
+    {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 729,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "floodwater_",
