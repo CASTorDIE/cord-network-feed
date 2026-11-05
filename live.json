@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-05T01:37:58.973Z",
+  "generatedAt": "2026-11-05T01:42:58.563Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-05T01:37:58.973Z",
+    "fetchedAt": "2026-11-05T01:42:58.563Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1005🫦!discord🫦HEY HANDSOME🫦LOOKING FOR A STREAM TO WATCH🫦DON'T WATCH THIS ONE🫦I'M PLAYING REALLY  BAD AND TANKING",
       "game_name": "Rocket League",
-      "viewer_count": 537,
-      "follower_count": 123052,
+      "viewer_count": 595,
+      "follower_count": 123059,
       "language": "en",
       "started_at": "2026-11-05T01:07:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🎃DAY 4 of UNCAPPED GUAM THON !thon !goals !move",
       "game_name": "Just Chatting",
-      "viewer_count": 106,
-      "follower_count": 10948,
+      "viewer_count": 105,
+      "follower_count": 10949,
       "language": "en",
       "started_at": "2026-11-04T18:04:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "song requests here! >> !SL || !merch !throne !daki",
       "game_name": "Music",
-      "viewer_count": 72,
+      "viewer_count": 67,
       "follower_count": 6428,
       "language": "en",
       "started_at": "2026-11-05T00:31:59Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Games + Demos",
-      "viewer_count": 61,
+      "viewer_count": 59,
       "follower_count": 2580,
       "language": "en",
       "started_at": "2026-11-04T23:38:12Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": true,
+      "title": "One last randomizer before the remake releases! | Randomizer! | 04/11/2026",
+      "game_name": "The Legend of Zelda: Ocarina of Time",
+      "viewer_count": 1,
+      "follower_count": 728,
+      "language": "en",
+      "started_at": "2026-11-05T01:38:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -268,21 +283,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/fallentitanandy",
       "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
-    },
-    {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 728,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "floodwater_",
