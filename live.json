@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T21:38:01.645Z",
+  "generatedAt": "2026-11-17T21:43:02.853Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-17T21:38:01.645Z",
+    "fetchedAt": "2026-11-17T21:43:02.853Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴POST TC26 | GUAM THON DAY 11 | !thon !goals !move",
       "game_name": "Just Chatting",
-      "viewer_count": 63,
+      "viewer_count": 60,
       "follower_count": 11123,
       "language": "en",
       "started_at": "2026-11-17T21:00:06Z",
@@ -34,8 +34,8 @@
       "user_name": "Desertrose",
       "is_live": true,
       "title": "Twitchcon recap!",
-      "game_name": "Just Chatting",
-      "viewer_count": 6,
+      "game_name": "Loftia",
+      "viewer_count": 8,
       "follower_count": 1058,
       "language": "en",
       "started_at": "2026-11-17T20:43:08Z",
