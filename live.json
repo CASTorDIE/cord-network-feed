@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T20:53:01.238Z",
+  "generatedAt": "2026-11-17T20:58:01.239Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-17T20:53:01.238Z",
+    "fetchedAt": "2026-11-17T20:58:01.239Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Twitchcon recap!",
       "game_name": "Just Chatting",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "follower_count": 1057,
       "language": "en",
       "started_at": "2026-11-17T20:43:08Z",
