@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T21:47:59.125Z",
+  "generatedAt": "2026-11-18T21:52:59.148Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-18T21:47:59.125Z",
+    "fetchedAt": "2026-11-18T21:52:59.148Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅WORLD'S FIRST GTA 6 COMPLETION WORLD RECORD SPEEDRUN✅DAY 1019✅!discord",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 1115,
-      "follower_count": 128744,
+      "viewer_count": 1147,
+      "follower_count": 128750,
       "language": "en",
       "started_at": "2026-11-18T10:35:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 1 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 63,
+      "viewer_count": 65,
       "follower_count": 2660,
       "language": "en",
       "started_at": "2026-11-18T18:07:53Z",
