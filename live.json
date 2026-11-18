@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T12:42:59.000Z",
+  "generatedAt": "2026-11-18T12:47:59.001Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-18T12:42:59.000Z",
+    "fetchedAt": "2026-11-18T12:47:59.001Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅WORLD'S FIRST GTA 6 COMPLETION WORLD RECORD SPEEDRUN✅DAY 1019✅!discord",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 660,
-      "follower_count": 127330,
+      "viewer_count": 624,
+      "follower_count": 127344,
       "language": "en",
       "started_at": "2026-11-18T10:35:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴SLEEP TIME SEE YALL IN AM | GUAM THON DAY 11 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 47,
+      "viewer_count": 45,
       "follower_count": 11143,
       "language": "en",
       "started_at": "2026-11-17T21:00:06Z",
