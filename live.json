@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T10:12:58.755Z",
+  "generatedAt": "2026-11-18T10:17:58.749Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-18T10:12:58.755Z",
+    "fetchedAt": "2026-11-18T10:17:58.749Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴SLEEP TIME SEE YALL IN AM | GUAM THON DAY 11 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 44,
+      "viewer_count": 47,
       "follower_count": 11140,
       "language": "en",
       "started_at": "2026-11-17T21:00:06Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 127093,
+      "follower_count": 127094,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
