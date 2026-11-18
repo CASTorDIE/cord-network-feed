@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-18T15:37:58.185Z",
+  "generatedAt": "2026-11-18T15:42:58.181Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-18T15:37:58.185Z",
+    "fetchedAt": "2026-11-18T15:42:58.181Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅WORLD'S FIRST GTA 6 COMPLETION WORLD RECORD SPEEDRUN✅DAY 1019✅!discord",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 1694,
-      "follower_count": 127927,
+      "viewer_count": 1627,
+      "follower_count": 127978,
       "language": "en",
       "started_at": "2026-11-18T10:35:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴SLEEP TIME SEE YALL IN AM | GUAM THON DAY 11 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 45,
+      "viewer_count": 46,
       "follower_count": 11144,
       "language": "en",
       "started_at": "2026-11-17T21:00:06Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Captain Jax Hook reporting for KeepSake Sea day! Badge drops on!!  |!library !discord !tip !linktree !merch|",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 45,
+      "viewer_count": 44,
       "follower_count": 3037,
       "language": "en",
       "started_at": "2026-11-18T13:43:28Z",
@@ -60,27 +60,12 @@
       "description": "🍓 Welcome to JaxsBerryPatch! ✨ Cozy games, creative builds & chaotic fun! I’m Jax, streaming Disney Dreamlight Valley & Minecraft. Come get comfy, hang out, and let’s create a little magic together! 🌸💕 Come hang out, 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
     {
-      "user_login": "gibsontales",
-      "user_name": "GibsonTales",
-      "is_live": true,
-      "title": "ONE LAST GTA V Stream Before GTA VI Tomorrow 😭 | Trevor Chaos",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 20,
-      "follower_count": 1096,
-      "language": "en",
-      "started_at": "2026-11-18T13:49:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gibsontales",
-      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
-    },
-    {
       "user_login": "laconsgamingnook",
       "user_name": "LaconsGamingNook",
       "is_live": true,
       "title": "Day 1 of Keepsake Sea - I'm gonna Cry [Next Stream Nov 23rd @ 9am CST]",
       "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 232,
       "language": "en",
       "started_at": "2026-11-18T14:57:49Z",
@@ -373,6 +358,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I'm a conversationalist. We play games, tell stories, crack jokes, and follow curiosity wherever it takes us.Sometimes we learn something. Sometimes we just enjoy the ride."
+    },
+    {
+      "user_login": "gibsontales",
+      "user_name": "GibsonTales",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1096,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gibsontales",
+      "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
     },
     {
       "user_login": "gmclay_",
