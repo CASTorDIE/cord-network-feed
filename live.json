@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T18:52:59.513Z",
+  "generatedAt": "2026-11-18T18:57:58.786Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-18T18:52:59.513Z",
+    "fetchedAt": "2026-11-18T18:57:58.786Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "✅WORLD'S FIRST GTA 6 COMPLETION WORLD RECORD SPEEDRUN✅DAY 1019✅!discord",
       "game_name": "Grand Theft Auto VI",
       "viewer_count": 894,
-      "follower_count": 128357,
+      "follower_count": 128365,
       "language": "en",
       "started_at": "2026-11-18T10:35:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 1 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 59,
+      "viewer_count": 55,
       "follower_count": 2654,
       "language": "en",
       "started_at": "2026-11-18T18:07:53Z",
@@ -45,27 +45,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "jaxsberrypatch",
-      "user_name": "jaxsberrypatch",
-      "is_live": true,
-      "title": "Captain Jax Hook reporting for KeepSake Sea day! Badge drops on!!  |!library !discord !tip !linktree !merch|",
-      "game_name": "Disney Dreamlight Valley",
-      "viewer_count": 32,
-      "follower_count": 3040,
-      "language": "en",
-      "started_at": "2026-11-18T15:48:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dda8d42-ec86-4f5d-902d-2f82894b4b4a-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
-      "description": "🍓 Welcome to JaxsBerryPatch! ✨ Cozy games, creative builds & chaotic fun! I’m Jax, streaming Disney Dreamlight Valley & Minecraft. Come get comfy, hang out, and let’s create a little magic together! 🌸💕 Come hang out, 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
-    },
-    {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
       "title": "🌴GTA 6 WAITING ROOM | GUAM THON DAY 12 | !thon !goals !move",
       "game_name": "Co-working & Studying",
-      "viewer_count": 17,
+      "viewer_count": 52,
       "follower_count": 11144,
       "language": "en",
       "started_at": "2026-11-18T18:48:08Z",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/billygoat",
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
+    },
+    {
+      "user_login": "jaxsberrypatch",
+      "user_name": "jaxsberrypatch",
+      "is_live": true,
+      "title": "Captain Jax Hook reporting for KeepSake Sea day! Badge drops on!!  |!library !discord !tip !linktree !merch|",
+      "game_name": "Disney Dreamlight Valley",
+      "viewer_count": 35,
+      "follower_count": 3040,
+      "language": "en",
+      "started_at": "2026-11-18T15:48:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaxsberrypatch-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dda8d42-ec86-4f5d-902d-2f82894b4b4a-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/jaxsberrypatch",
+      "description": "🍓 Welcome to JaxsBerryPatch! ✨ Cozy games, creative builds & chaotic fun! I’m Jax, streaming Disney Dreamlight Valley & Minecraft. Come get comfy, hang out, and let’s create a little magic together! 🌸💕 Come hang out, 💌 Business: jaxsberrypatch@gmail.com Gift me: https://throne.com/jaxsberrypatch"
     },
     {
       "user_login": "4kaizen_gaming",
