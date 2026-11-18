@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-18T05:03:01.633Z",
+  "generatedAt": "2026-11-18T05:08:03.833Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-18T05:03:01.633Z",
+    "fetchedAt": "2026-11-18T05:08:03.833Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1018🌰!discord🌰LAST TIME EVER PLAYING ROCKET LEAGUE🌰WE ARE DONE PLAYING ROCKET LEAGUE FOREVER🌰I AM QUITTING THE GAM",
       "game_name": "Rocket League",
-      "viewer_count": 487,
-      "follower_count": 127078,
+      "viewer_count": 495,
+      "follower_count": 127082,
       "language": "en",
       "started_at": "2026-11-18T01:10:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴POST TC26 | GUAM THON DAY 11 | !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 87,
+      "viewer_count": 93,
       "follower_count": 11138,
       "language": "en",
       "started_at": "2026-11-17T21:00:06Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 1 Blind Play. UNC tries to learn to Git Gud",
       "game_name": "Hades II",
-      "viewer_count": 13,
+      "viewer_count": 12,
       "follower_count": 340,
       "language": "en",
       "started_at": "2026-11-18T01:55:20Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
+      "user_login": "dingo_dynasty",
+      "user_name": "Dingo_Dynasty",
+      "is_live": true,
+      "title": "Is This Game Hard??? | Hollow Night",
+      "game_name": "Hollow Knight",
+      "viewer_count": 2,
+      "follower_count": 904,
+      "language": "en",
+      "started_at": "2026-11-18T05:03:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
+      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
       "user_login": "alfieduu",
@@ -238,21 +253,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
-      "user_login": "dingo_dynasty",
-      "user_name": "Dingo_Dynasty",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 904,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
-      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
       "user_login": "fallentitanandy",
