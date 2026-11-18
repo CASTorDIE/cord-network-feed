@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-18T00:03:02.528Z",
+  "generatedAt": "2026-11-18T00:08:02.203Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-18T00:03:02.528Z",
+    "fetchedAt": "2026-11-18T00:08:02.203Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🌴POST TC26 | GUAM THON DAY 11 | !thon !goals !move",
       "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 88,
-      "follower_count": 11126,
+      "viewer_count": 80,
+      "follower_count": 11127,
       "language": "en",
       "started_at": "2026-11-17T21:00:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 65,
+      "viewer_count": 68,
       "follower_count": 2650,
       "language": "en",
       "started_at": "2026-11-17T23:42:05Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "DAY 4 OF BEGGING UBI FOR CAT EARS PIRATE 💃🏼 !join !discord !ubi !code",
       "game_name": "For Honor",
-      "viewer_count": 46,
+      "viewer_count": 48,
       "follower_count": 9173,
       "language": "en",
       "started_at": "2026-11-17T23:18:20Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Twitchcon recap!",
       "game_name": "Loftia",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 1057,
       "language": "en",
       "started_at": "2026-11-17T20:43:08Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/desertrose",
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
+    },
+    {
+      "user_login": "thepuckgoa",
+      "user_name": "ThePuckGOA",
+      "is_live": true,
+      "title": "TG Tuesday - Searching the boss pool!",
+      "game_name": "Remnant: From the Ashes",
+      "viewer_count": 0,
+      "follower_count": 25,
+      "language": "en",
+      "started_at": "2026-11-18T00:06:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepuckgoa-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/thepuckgoa",
+      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -583,21 +598,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/tehchno",
       "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
-    },
-    {
-      "user_login": "thepuckgoa",
-      "user_name": "ThePuckGOA",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 25,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/thepuckgoa",
-      "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
     },
     {
       "user_login": "vaporwavejoe",
