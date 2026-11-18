@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-11-18T05:13:02.391Z",
+  "generatedAt": "2026-11-18T05:18:01.467Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-18T05:13:02.391Z",
+    "fetchedAt": "2026-11-18T05:18:01.467Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 1018🌰!discord🌰LAST TIME EVER PLAYING ROCKET LEAGUE🌰WE ARE DONE PLAYING ROCKET LEAGUE FOREVER🌰I AM QUITTING THE GAM",
-      "game_name": "Rocket League",
-      "viewer_count": 457,
-      "follower_count": 127083,
-      "language": "en",
-      "started_at": "2026-11-18T01:10:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
       "title": "🌴POST TC26 | GUAM THON DAY 11 | !thon !goals !move",
       "game_name": "Counter-Strike",
-      "viewer_count": 92,
+      "viewer_count": 95,
       "follower_count": 11138,
       "language": "en",
       "started_at": "2026-11-17T21:00:06Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "Day 1 Blind Play. UNC tries to learn to Git Gud",
       "game_name": "Hades II",
-      "viewer_count": 14,
+      "viewer_count": 16,
       "follower_count": 340,
       "language": "en",
       "started_at": "2026-11-18T01:55:20Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "Is This Game Hard??? | Hollow Night",
       "game_name": "Hollow Knight",
-      "viewer_count": 5,
+      "viewer_count": 9,
       "follower_count": 904,
       "language": "en",
       "started_at": "2026-11-18T05:03:34Z",
@@ -193,6 +178,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 127086,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
