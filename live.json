@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-18T01:53:02.410Z",
+  "generatedAt": "2026-11-18T01:58:02.092Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-18T01:53:02.410Z",
+    "fetchedAt": "2026-11-18T01:58:02.092Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1018🌰!discord🌰LAST TIME EVER PLAYING ROCKET LEAGUE🌰WE ARE DONE PLAYING ROCKET LEAGUE FOREVER🌰I AM QUITTING THE GAM",
       "game_name": "Rocket League",
-      "viewer_count": 549,
-      "follower_count": 126957,
+      "viewer_count": 615,
+      "follower_count": 126958,
       "language": "en",
       "started_at": "2026-11-18T01:10:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "YAPPING THEN GAMING 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 87,
+      "viewer_count": 83,
       "follower_count": 2651,
       "language": "en",
       "started_at": "2026-11-17T23:42:05Z",
@@ -60,6 +60,21 @@
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": true,
+      "title": "Day 1 Blind Play. UNC tries to learn to Git Gud",
+      "game_name": "Hades II",
+      "viewer_count": 15,
+      "follower_count": 341,
+      "language": "en",
+      "started_at": "2026-11-18T01:55:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
       "user_login": "thepuckgoa",
       "user_name": "ThePuckGOA",
       "is_live": true,
@@ -73,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 341,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "alfieduu",
