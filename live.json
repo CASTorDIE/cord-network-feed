@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T06:53:01.556Z",
+  "generatedAt": "2026-11-18T06:58:01.832Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-18T06:53:01.556Z",
+    "fetchedAt": "2026-11-18T06:58:01.832Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴SLEEP TIME SEE YALL IN AM | GUAM THON DAY 11 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 69,
+      "viewer_count": 68,
       "follower_count": 11140,
       "language": "en",
       "started_at": "2026-11-17T21:00:06Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Is This Game Hard??? | Hollow Night",
       "game_name": "Hollow Knight",
-      "viewer_count": 5,
+      "viewer_count": 8,
       "follower_count": 904,
       "language": "en",
       "started_at": "2026-11-18T05:03:34Z",
