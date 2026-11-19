@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T05:32:58.948Z",
+  "generatedAt": "2026-11-19T05:37:58.827Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-19T05:32:58.948Z",
+    "fetchedAt": "2026-11-19T05:37:58.827Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅WORLD'S FIRST GTA 6 COMPLETION WORLD RECORD SPEEDRUN✅DAY 1019✅!discord",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 1747,
-      "follower_count": 130232,
+      "viewer_count": 1536,
+      "follower_count": 130237,
       "language": "en",
       "started_at": "2026-11-18T10:35:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴GTA 6 LAUNCH HYPE!!! | GUAM THON DAY 12 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 75,
+      "viewer_count": 81,
       "follower_count": 11152,
       "language": "en",
       "started_at": "2026-11-18T18:48:08Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 1 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 51,
+      "viewer_count": 46,
       "follower_count": 2661,
       "language": "en",
       "started_at": "2026-11-18T18:07:53Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": true,
+      "title": "Looking for Truth in the Storm | First Playthrough [Episode 5] | 10/11/2026",
+      "game_name": "The Legend of Zelda: Ocarina of Time",
+      "viewer_count": 10,
+      "follower_count": 730,
+      "language": "en",
+      "started_at": "2026-11-19T02:16:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -73,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
-    },
-    {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": true,
-      "title": "Looking for Truth in the Storm | First Playthrough [Episode 5] | 10/11/2026",
-      "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 8,
-      "follower_count": 730,
-      "language": "en",
-      "started_at": "2026-11-19T02:16:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "alfieduu",
