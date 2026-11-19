@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T20:37:58.383Z",
+  "generatedAt": "2026-11-19T20:42:58.474Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-19T20:37:58.383Z",
+    "fetchedAt": "2026-11-19T20:42:58.474Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🚨 Back Whats been going on here? 💰",
       "game_name": "Just Chatting",
-      "viewer_count": 98,
-      "follower_count": 15096,
+      "viewer_count": 106,
+      "follower_count": 15097,
       "language": "en",
       "started_at": "2026-11-19T20:13:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 2 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 59,
+      "viewer_count": 58,
       "follower_count": 2659,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
