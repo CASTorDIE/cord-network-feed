@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T23:32:58.597Z",
+  "generatedAt": "2026-11-19T23:37:58.644Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-19T23:32:58.597Z",
+    "fetchedAt": "2026-11-19T23:37:58.644Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅WORLD'S FIRST GTA 6 COMPLETION WORLD RECORD SPEEDRUN✅DAY 1019✅!discord",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 1429,
-      "follower_count": 132288,
+      "viewer_count": 1516,
+      "follower_count": 132293,
       "language": "en",
       "started_at": "2026-11-18T10:35:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "SCAWY GAME | How many screams today?? | !links !clip",
       "game_name": "Scawy Game",
-      "viewer_count": 26,
+      "viewer_count": 29,
       "follower_count": 729,
       "language": "en",
       "started_at": "2026-11-19T22:29:47Z",
