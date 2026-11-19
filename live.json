@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T22:07:58.663Z",
+  "generatedAt": "2026-11-19T22:12:58.623Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-19T22:07:58.663Z",
+    "fetchedAt": "2026-11-19T22:12:58.623Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "✅WORLD'S FIRST GTA 6 COMPLETION WORLD RECORD SPEEDRUN✅DAY 1019✅!discord",
       "game_name": "Grand Theft Auto VI",
       "viewer_count": 1448,
-      "follower_count": 132217,
+      "follower_count": 132221,
       "language": "en",
       "started_at": "2026-11-18T10:35:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
