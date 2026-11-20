@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T04:42:59.389Z",
+  "generatedAt": "2026-11-20T04:47:59.425Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T04:42:59.389Z",
+    "fetchedAt": "2026-11-20T04:47:59.425Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 2 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 53,
+      "viewer_count": 47,
       "follower_count": 2664,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Day 3 Blind Play. UNC goes to the surface for the first time",
       "game_name": "Hades II",
-      "viewer_count": 8,
+      "viewer_count": 7,
       "follower_count": 341,
       "language": "en",
       "started_at": "2026-11-20T01:55:19Z",
