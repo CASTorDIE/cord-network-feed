@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T06:37:59.625Z",
+  "generatedAt": "2026-11-20T06:42:59.493Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T06:37:59.625Z",
+    "fetchedAt": "2026-11-20T06:42:59.493Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Is This Game Hard??? | Hollow Night",
       "game_name": "Hollow Knight",
-      "viewer_count": 10,
+      "viewer_count": 12,
       "follower_count": 905,
       "language": "en",
       "started_at": "2026-11-20T05:08:48Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Cold War Zombies Camo Run II !Discord !WishlistIU",
       "game_name": "Call of Duty: Black Ops Cold War",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "follower_count": 342,
       "language": "en",
       "started_at": "2026-11-20T06:21:34Z",
