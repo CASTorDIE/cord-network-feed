@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T07:07:58.348Z",
+  "generatedAt": "2026-11-20T07:12:58.547Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T07:07:58.348Z",
+    "fetchedAt": "2026-11-20T07:12:58.547Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 2 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 55,
+      "viewer_count": 56,
       "follower_count": 2665,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Cold War Zombies Camo Run II !Discord !WishlistIU",
       "game_name": "Call of Duty: Black Ops Cold War",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 342,
       "language": "en",
       "started_at": "2026-11-20T06:21:34Z",
