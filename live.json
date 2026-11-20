@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T04:32:59.336Z",
+  "generatedAt": "2026-11-20T04:37:59.419Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T04:32:59.336Z",
+    "fetchedAt": "2026-11-20T04:37:59.419Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 2 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 50,
+      "viewer_count": 54,
       "follower_count": 2664,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
@@ -30,27 +30,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": true,
-      "title": "Yakuza 0 | From Hitman to Real Estate Agent?! | !discord !clip",
-      "game_name": "Yakuza 0",
-      "viewer_count": 7,
-      "follower_count": 353,
-      "language": "en",
-      "started_at": "2026-11-20T01:21:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I'm a conversationalist. We play games, tell stories, crack jokes, and follow curiosity wherever it takes us.Sometimes we learn something. Sometimes we just enjoy the ride."
-    },
-    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Day 3 Blind Play. UNC goes to the surface for the first time",
       "game_name": "Hades II",
-      "viewer_count": 5,
+      "viewer_count": 7,
       "follower_count": 341,
       "language": "en",
       "started_at": "2026-11-20T01:55:19Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": true,
+      "title": "Yakuza 0 | From Hitman to Real Estate Agent?! | !discord !clip",
+      "game_name": "Yakuza 0",
+      "viewer_count": 5,
+      "follower_count": 353,
+      "language": "en",
+      "started_at": "2026-11-20T01:21:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I'm a conversationalist. We play games, tell stories, crack jokes, and follow curiosity wherever it takes us.Sometimes we learn something. Sometimes we just enjoy the ride."
     },
     {
       "user_login": "alfieduu",
