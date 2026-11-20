@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T08:22:58.494Z",
+  "generatedAt": "2026-11-20T08:27:58.400Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T08:22:58.494Z",
+    "fetchedAt": "2026-11-20T08:27:58.400Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Cold War Zombies Camo Run II !Discord !WishlistIU",
       "game_name": "Call of Duty: Black Ops Cold War",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 343,
       "language": "en",
       "started_at": "2026-11-20T06:21:34Z",
