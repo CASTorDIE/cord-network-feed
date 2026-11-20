@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-11-20T04:12:59.410Z",
+  "generatedAt": "2026-11-20T04:17:59.385Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T04:12:59.410Z",
+    "fetchedAt": "2026-11-20T04:17:59.385Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
-    {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": true,
-      "title": "🚨 Back Whats been going on here? 💰",
-      "game_name": "ROB RUN",
-      "viewer_count": 86,
-      "follower_count": 15099,
-      "language": "en",
-      "started_at": "2026-11-19T20:13:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
-    },
     {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 2 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 49,
+      "viewer_count": 50,
       "follower_count": 2663,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "Day 3 Blind Play. UNC goes to the surface for the first time",
       "game_name": "Hades II",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "follower_count": 341,
       "language": "en",
       "started_at": "2026-11-20T01:55:19Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "Yakuza 0 | From Hitman to Real Estate Agent?! | !discord !clip",
       "game_name": "Yakuza 0",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 353,
       "language": "en",
       "started_at": "2026-11-20T01:21:40Z",
@@ -201,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 132536,
+      "follower_count": 132534,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -538,6 +523,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
+    },
+    {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 15099,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "slimchungusgaming",
