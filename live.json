@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T20:27:58.660Z",
+  "generatedAt": "2026-11-20T20:32:58.526Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T20:27:58.660Z",
+    "fetchedAt": "2026-11-20T20:32:58.526Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "GTA IS PEAK?",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 5,
+      "viewer_count": 7,
       "follower_count": 392,
       "language": "en",
       "started_at": "2026-11-20T20:11:03Z",
