@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T22:27:58.782Z",
+  "generatedAt": "2026-11-20T22:32:58.825Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T22:27:58.782Z",
+    "fetchedAt": "2026-11-20T22:32:58.825Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 72,
+      "viewer_count": 76,
       "follower_count": 2671,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴HELL YEAH EYEBROWS | GUAM THON DAY 13 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 23,
+      "viewer_count": 26,
       "follower_count": 11155,
       "language": "en",
       "started_at": "2026-11-20T22:21:57Z",
