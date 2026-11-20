@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T05:17:59.439Z",
+  "generatedAt": "2026-11-20T05:22:59.436Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T05:17:59.439Z",
+    "fetchedAt": "2026-11-20T05:22:59.436Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 2 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 48,
+      "viewer_count": 51,
       "follower_count": 2664,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Is This Game Hard??? | Hollow Night",
       "game_name": "Hollow Knight",
-      "viewer_count": 8,
+      "viewer_count": 7,
       "follower_count": 905,
       "language": "en",
       "started_at": "2026-11-20T05:08:48Z",
