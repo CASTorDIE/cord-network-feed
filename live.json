@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-20T03:42:59.439Z",
+  "generatedAt": "2026-11-20T03:47:59.375Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T03:42:59.439Z",
+    "fetchedAt": "2026-11-20T03:47:59.375Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🚨 Back Whats been going on here? 💰",
       "game_name": "ROB RUN",
-      "viewer_count": 90,
-      "follower_count": 15097,
+      "viewer_count": 95,
+      "follower_count": 15098,
       "language": "en",
       "started_at": "2026-11-19T20:13:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 2 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 58,
-      "follower_count": 2662,
+      "viewer_count": 54,
+      "follower_count": 2663,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 3 Blind Play. UNC goes to the surface for the first time",
       "game_name": "Hades II",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "follower_count": 341,
       "language": "en",
       "started_at": "2026-11-20T01:55:19Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "Yakuza 0 | From Hitman to Real Estate Agent?! | !discord !clip",
       "game_name": "Yakuza 0",
-      "viewer_count": 7,
+      "viewer_count": 4,
       "follower_count": 353,
       "language": "en",
       "started_at": "2026-11-20T01:21:40Z",
@@ -73,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gatito_maldito",
       "description": "I'm a conversationalist. We play games, tell stories, crack jokes, and follow curiosity wherever it takes us.Sometimes we learn something. Sometimes we just enjoy the ride."
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Shiny hunting competition for Charity",
-      "game_name": "Pokémon Legends: Z-A",
-      "viewer_count": 1,
-      "follower_count": 408,
-      "language": "en",
-      "started_at": "2026-11-20T01:04:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "alfieduu",
@@ -193,6 +178,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 408,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "brycexd",
