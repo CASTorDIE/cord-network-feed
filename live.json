@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T06:07:59.452Z",
+  "generatedAt": "2026-11-20T06:12:59.465Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T06:07:59.452Z",
+    "fetchedAt": "2026-11-20T06:12:59.465Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Is This Game Hard??? | Hollow Night",
       "game_name": "Hollow Knight",
-      "viewer_count": 15,
+      "viewer_count": 12,
       "follower_count": 905,
       "language": "en",
       "started_at": "2026-11-20T05:08:48Z",
