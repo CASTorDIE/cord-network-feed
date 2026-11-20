@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T09:27:58.694Z",
+  "generatedAt": "2026-11-20T09:32:58.592Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T09:27:58.694Z",
+    "fetchedAt": "2026-11-20T09:32:58.592Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 2 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 40,
+      "viewer_count": 42,
       "follower_count": 2665,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Is it easier to find the pirate token now?? II !Discord !Wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "follower_count": 343,
       "language": "en",
       "started_at": "2026-11-20T06:21:34Z",
