@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T20:47:58.793Z",
+  "generatedAt": "2026-11-20T20:52:58.626Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T20:47:58.793Z",
+    "fetchedAt": "2026-11-20T20:52:58.626Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 81,
+      "viewer_count": 75,
       "follower_count": 2670,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 132592,
+      "follower_count": 132593,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
