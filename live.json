@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T22:57:58.849Z",
+  "generatedAt": "2026-11-20T23:02:58.824Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T22:57:58.849Z",
+    "fetchedAt": "2026-11-20T23:02:58.824Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴HELL YEAH EYEBROWS | GUAM THON DAY 13 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 52,
+      "viewer_count": 37,
       "follower_count": 11156,
       "language": "en",
       "started_at": "2026-11-20T22:21:57Z",
@@ -381,7 +381,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 736,
+      "follower_count": 737,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
