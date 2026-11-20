@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T21:17:58.868Z",
+  "generatedAt": "2026-11-20T21:22:58.798Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T21:17:58.868Z",
+    "fetchedAt": "2026-11-20T21:22:58.798Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "GTA6 MARATHON, DAY 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
       "viewer_count": 74,
-      "follower_count": 2670,
+      "follower_count": 2671,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 132594,
+      "follower_count": 132596,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
