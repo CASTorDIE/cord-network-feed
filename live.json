@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T10:52:58.663Z",
+  "generatedAt": "2026-11-20T10:57:58.835Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T10:52:58.663Z",
+    "fetchedAt": "2026-11-20T10:57:58.835Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 2 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 29,
+      "viewer_count": 30,
       "follower_count": 2665,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 132539,
+      "follower_count": 132540,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
