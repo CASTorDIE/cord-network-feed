@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T18:12:58.431Z",
+  "generatedAt": "2026-11-20T18:17:58.379Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T18:12:58.431Z",
+    "fetchedAt": "2026-11-20T18:17:58.379Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 99,
+      "viewer_count": 90,
       "follower_count": 2668,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "We’re Sharing ONE Controller in GTA 6 | This Could Get Ugly 😭",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 96,
+      "viewer_count": 89,
       "follower_count": 1220,
       "language": "en",
       "started_at": "2026-11-20T13:57:13Z",
