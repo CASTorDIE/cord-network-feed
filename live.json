@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T08:27:58.400Z",
+  "generatedAt": "2026-11-20T08:32:58.512Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-20T08:27:58.400Z",
+    "fetchedAt": "2026-11-20T08:32:58.512Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 2 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 44,
+      "viewer_count": 47,
       "follower_count": 2665,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "Cold War Zombies Camo Run II !Discord !WishlistIU",
       "game_name": "Call of Duty: Black Ops Cold War",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 343,
       "language": "en",
       "started_at": "2026-11-20T06:21:34Z",
