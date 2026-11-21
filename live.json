@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-21T01:57:59.028Z",
+  "generatedAt": "2026-11-21T02:02:59.059Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-21T01:57:59.028Z",
+    "fetchedAt": "2026-11-21T02:02:59.059Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Just Chatting",
-      "viewer_count": 67,
+      "viewer_count": 63,
       "follower_count": 2669,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴HELL YEAH EYEBROWS | GUAM THON DAY 13 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 63,
+      "viewer_count": 60,
       "follower_count": 11159,
       "language": "en",
       "started_at": "2026-11-20T22:21:57Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "GTA IS PEAK?",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 8,
+      "viewer_count": 9,
       "follower_count": 392,
       "language": "en",
       "started_at": "2026-11-20T20:11:03Z",
@@ -58,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/slimchungusgaming",
       "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
+    },
+    {
+      "user_login": "4kaizen_gaming",
+      "user_name": "4kaizen_gaming",
+      "is_live": true,
+      "title": "Day 4 Blind Play. UNC Grinds out the first win",
+      "game_name": "Hades II",
+      "viewer_count": 8,
+      "follower_count": 341,
+      "language": "en",
+      "started_at": "2026-11-21T01:59:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
+      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "bribeecool10",
@@ -73,21 +88,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "4kaizen_gaming",
-      "user_name": "4kaizen_gaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 341,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
-      "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
     },
     {
       "user_login": "alfieduu",
