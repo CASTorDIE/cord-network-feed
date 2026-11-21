@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T22:17:58.903Z",
+  "generatedAt": "2026-11-21T22:22:58.876Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-21T22:17:58.903Z",
+    "fetchedAt": "2026-11-21T22:22:58.876Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "GTA6 MARATHON, DAY 4 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
-      "game_name": "Grand Theft Auto VI",
-      "viewer_count": 58,
-      "follower_count": 2670,
-      "language": "en",
-      "started_at": "2026-11-21T18:46:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
       "title": "🌴AHHHHHH | GUAM THON DAY 14 | !thon !goals !move",
       "game_name": "Just Chatting",
-      "viewer_count": 51,
+      "viewer_count": 62,
       "follower_count": 11182,
       "language": "en",
       "started_at": "2026-11-21T20:52:28Z",
@@ -45,12 +30,27 @@
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "GTA6 MARATHON, DAY 4 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
+      "game_name": "Grand Theft Auto VI",
+      "viewer_count": 53,
+      "follower_count": 2670,
+      "language": "en",
+      "started_at": "2026-11-21T18:46:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
       "user_login": "padbae",
       "user_name": "padbae",
       "is_live": true,
       "title": "♡ TYPE TEAM CHALLENGE: Fire!!! ♡ ⋆(๑•ᴗ•๑) | Cobblemon 1.8 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 12,
+      "viewer_count": 8,
       "follower_count": 1380,
       "language": "en",
       "started_at": "2026-11-21T21:04:40Z",
