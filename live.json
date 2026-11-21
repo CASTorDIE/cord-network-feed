@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T02:32:59.107Z",
+  "generatedAt": "2026-11-21T02:37:59.095Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-21T02:32:59.107Z",
+    "fetchedAt": "2026-11-21T02:37:59.095Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴HELL YEAH EYEBROWS | GUAM THON DAY 13 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 63,
+      "viewer_count": 73,
       "follower_count": 11160,
       "language": "en",
       "started_at": "2026-11-20T22:21:57Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Day 4 Blind Play. UNC Grinds out the first win",
       "game_name": "Hades II",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "follower_count": 341,
       "language": "en",
       "started_at": "2026-11-21T01:59:52Z",
