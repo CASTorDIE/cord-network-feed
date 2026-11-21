@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T20:52:58.846Z",
+  "generatedAt": "2026-11-21T20:57:58.881Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-21T20:52:58.846Z",
+    "fetchedAt": "2026-11-21T20:57:58.881Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 4 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 55,
+      "viewer_count": 58,
       "follower_count": 2670,
       "language": "en",
       "started_at": "2026-11-21T18:46:13Z",
@@ -28,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "🌴AHHHHHH | GUAM THON DAY 14 | !thon !goals !move",
+      "game_name": "Just Chatting",
+      "viewer_count": 35,
+      "follower_count": 11182,
+      "language": "en",
+      "started_at": "2026-11-21T20:52:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
       "user_login": "thepuckgoa",
@@ -43,21 +58,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "🌴AHHHHHH | GUAM THON DAY 14 | !thon !goals !move",
-      "game_name": "Just Chatting",
-      "viewer_count": 0,
-      "follower_count": 11182,
-      "language": "en",
-      "started_at": "2026-11-21T20:52:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
       "user_login": "4kaizen_gaming",
