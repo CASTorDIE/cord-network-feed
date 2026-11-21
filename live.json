@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T19:32:58.557Z",
+  "generatedAt": "2026-11-21T19:37:58.759Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-21T19:32:58.557Z",
+    "fetchedAt": "2026-11-21T19:37:58.759Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴SLEEPING | GUAM THON DAY 13 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 66,
+      "viewer_count": 60,
       "follower_count": 11182,
       "language": "en",
       "started_at": "2026-11-20T22:21:57Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 4 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 49,
+      "viewer_count": 51,
       "follower_count": 2670,
       "language": "en",
       "started_at": "2026-11-21T18:46:13Z",
