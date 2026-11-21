@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-21T07:22:58.575Z",
+  "generatedAt": "2026-11-21T07:27:58.497Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-21T07:22:58.575Z",
+    "fetchedAt": "2026-11-21T07:27:58.497Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 3,
+    "offlineCount": 41
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Testing things and maybe OoT later | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 157,
+      "viewer_count": 147,
       "follower_count": 10377,
       "language": "en",
       "started_at": "2026-11-21T03:31:53Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴HELL YEAH EYEBROWS | GUAM THON DAY 13 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 90,
+      "viewer_count": 85,
       "follower_count": 11176,
       "language": "en",
       "started_at": "2026-11-20T22:21:57Z",
@@ -49,30 +49,15 @@
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
-      "game_name": "Grand Theft Auto VI",
-      "viewer_count": 47,
-      "follower_count": 2670,
+      "game_name": "I'm Only Sleeping",
+      "viewer_count": 45,
+      "follower_count": 2671,
       "language": "en",
       "started_at": "2026-11-19T17:06:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
-      "user_login": "dingo_dynasty",
-      "user_name": "Dingo_Dynasty",
-      "is_live": true,
-      "title": "Is This Game Hard??? | Hollow Night",
-      "game_name": "Hollow Knight",
-      "viewer_count": 4,
-      "follower_count": 904,
-      "language": "en",
-      "started_at": "2026-11-21T05:06:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dingo_dynasty-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
-      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
     },
     {
       "user_login": "4kaizen_gaming",
@@ -270,6 +255,21 @@
       "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
+      "user_login": "dingo_dynasty",
+      "user_name": "Dingo_Dynasty",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 904,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73000f7-6903-41c7-a801-69fd6254fead-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/dingo_dynasty",
+      "description": "👑Welcome to Dingo Dynasty — a kingdom for funny adventures, all the games, and mental health. I am Sammy — a variety streamer that plays RPGs, narration, first playthroughs, Fortnite, MMOs, indie games and the occasional spooky game. Business Inquiries: dingodynastyllc@gmail.com "
+    },
+    {
       "user_login": "fallentitanandy",
       "user_name": "FallenTitanAndy",
       "is_live": false,
@@ -336,7 +336,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 1232,
+      "follower_count": 1233,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
