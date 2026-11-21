@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T02:52:59.430Z",
+  "generatedAt": "2026-11-21T02:57:59.261Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-21T02:52:59.430Z",
+    "fetchedAt": "2026-11-21T02:57:59.261Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "GTA6 MARATHON, DAY 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
-      "game_name": "Grand Theft Auto VI",
-      "viewer_count": 58,
-      "follower_count": 2670,
-      "language": "en",
-      "started_at": "2026-11-19T17:06:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
       "title": "🌴HELL YEAH EYEBROWS | GUAM THON DAY 13 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 49,
+      "viewer_count": 64,
       "follower_count": 11160,
       "language": "en",
       "started_at": "2026-11-20T22:21:57Z",
@@ -45,12 +30,27 @@
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "GTA6 MARATHON, DAY 3 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
+      "game_name": "Grand Theft Auto VI",
+      "viewer_count": 52,
+      "follower_count": 2670,
+      "language": "en",
+      "started_at": "2026-11-19T17:06:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "Day 4 Blind Play. UNC Grinds out the first win",
       "game_name": "Hades II",
-      "viewer_count": 11,
+      "viewer_count": 9,
       "follower_count": 341,
       "language": "en",
       "started_at": "2026-11-21T01:59:52Z",
