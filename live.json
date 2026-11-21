@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T21:07:58.944Z",
+  "generatedAt": "2026-11-21T21:12:58.814Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-21T21:07:58.944Z",
+    "fetchedAt": "2026-11-21T21:12:58.814Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "♡ TYPE TEAM CHALLENGE: Fire!!! ♡ ⋆(๑•ᴗ•๑) | Cobblemon 1.8 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 6,
+      "viewer_count": 14,
       "follower_count": 1380,
       "language": "en",
       "started_at": "2026-11-21T21:04:40Z",
