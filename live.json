@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T10:12:59.652Z",
+  "generatedAt": "2026-11-22T10:18:01.067Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-22T10:12:59.652Z",
+    "fetchedAt": "2026-11-22T10:18:01.067Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴SLEEP TIME | GUAM THON DAY 15 IN AM | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 110,
+      "viewer_count": 108,
       "follower_count": 11213,
       "language": "en",
       "started_at": "2026-11-21T20:52:28Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 132732,
+      "follower_count": 132733,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
