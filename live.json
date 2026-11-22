@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T00:47:59.236Z",
+  "generatedAt": "2026-11-22T00:52:59.153Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-22T00:47:59.236Z",
+    "fetchedAt": "2026-11-22T00:52:59.153Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 4 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 72,
+      "viewer_count": 69,
       "follower_count": 2672,
       "language": "en",
       "started_at": "2026-11-21T18:46:13Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "IT'S MY BIRTHDAY! 🎉 GTA 6 + GIVEAWAYS",
       "game_name": "Just Chatting",
-      "viewer_count": 26,
+      "viewer_count": 43,
       "follower_count": 15101,
       "language": "en",
       "started_at": "2026-11-22T00:45:54Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "♡ TYPE TEAM CHALLENGE: Fire!!! ♡ ⋆(๑•ᴗ•๑) | Cobblemon 1.8 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 16,
+      "viewer_count": 17,
       "follower_count": 1380,
       "language": "en",
       "started_at": "2026-11-21T21:04:40Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/padbae",
       "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": true,
+      "title": "Yakuza 0 | Kiryu vs. Five Billionaires?! | !discord !clip",
+      "game_name": "Yakuza 0",
+      "viewer_count": 5,
+      "follower_count": 353,
+      "language": "en",
+      "started_at": "2026-11-22T00:42:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I'm a conversationalist. We play games, tell stories, crack jokes, and follow curiosity wherever it takes us.Sometimes we learn something. Sometimes we just enjoy the ride."
     },
     {
       "user_login": "thepuckgoa",
@@ -88,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": true,
-      "title": "Yakuza 0 | Kiryu vs. Five Billionaires?! | !discord !clip",
-      "game_name": "Yakuza 0",
-      "viewer_count": 1,
-      "follower_count": 353,
-      "language": "en",
-      "started_at": "2026-11-22T00:42:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I'm a conversationalist. We play games, tell stories, crack jokes, and follow curiosity wherever it takes us.Sometimes we learn something. Sometimes we just enjoy the ride."
     },
     {
       "user_login": "4kaizen_gaming",
