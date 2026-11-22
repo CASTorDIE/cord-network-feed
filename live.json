@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T06:42:58.808Z",
+  "generatedAt": "2026-11-22T06:47:58.808Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-22T06:42:58.808Z",
+    "fetchedAt": "2026-11-22T06:47:58.808Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "IT'S MY BIRTHDAY! 🎉 GTA 6 + GIVEAWAYS",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 107,
-      "follower_count": 15126,
+      "viewer_count": 117,
+      "follower_count": 15125,
       "language": "en",
       "started_at": "2026-11-22T00:45:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 4 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 63,
+      "viewer_count": 60,
       "follower_count": 2675,
       "language": "en",
       "started_at": "2026-11-21T18:46:13Z",
