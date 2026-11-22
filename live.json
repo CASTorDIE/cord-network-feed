@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T22:57:59.317Z",
+  "generatedAt": "2026-11-22T23:02:59.211Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-22T22:57:59.317Z",
+    "fetchedAt": "2026-11-22T23:02:59.211Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅WORLD'S FIRST 100% PLAY THROUGH DAY 2✅DAY 1021✅!discord",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 165,
-      "follower_count": 132736,
+      "viewer_count": 177,
+      "follower_count": 132735,
       "language": "en",
       "started_at": "2026-11-22T22:40:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 5 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 76,
+      "viewer_count": 69,
       "follower_count": 2678,
       "language": "en",
       "started_at": "2026-11-22T18:13:47Z",
