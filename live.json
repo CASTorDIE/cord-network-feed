@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T21:17:59.204Z",
+  "generatedAt": "2026-11-22T21:22:58.975Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-22T21:17:59.204Z",
+    "fetchedAt": "2026-11-22T21:22:58.975Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🌴I LOVE GTA | GUAM THON DAY 15 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 73,
-      "follower_count": 11214,
+      "viewer_count": 90,
+      "follower_count": 11215,
       "language": "en",
       "started_at": "2026-11-21T20:52:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 5 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 51,
+      "viewer_count": 53,
       "follower_count": 2678,
       "language": "en",
       "started_at": "2026-11-22T18:13:47Z",
