@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-22T00:42:59.101Z",
+  "generatedAt": "2026-11-22T00:47:59.236Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-22T00:42:59.101Z",
+    "fetchedAt": "2026-11-22T00:47:59.236Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🌴AHHHHHH | GUAM THON DAY 14 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 71,
-      "follower_count": 11185,
+      "viewer_count": 73,
+      "follower_count": 11186,
       "language": "en",
       "started_at": "2026-11-21T20:52:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 4 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 68,
+      "viewer_count": 72,
       "follower_count": 2672,
       "language": "en",
       "started_at": "2026-11-21T18:46:13Z",
@@ -45,12 +45,27 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
+      "user_login": "skavstheworld",
+      "user_name": "SkaVsTheWorld",
+      "is_live": true,
+      "title": "IT'S MY BIRTHDAY! 🎉 GTA 6 + GIVEAWAYS",
+      "game_name": "Just Chatting",
+      "viewer_count": 26,
+      "follower_count": 15101,
+      "language": "en",
+      "started_at": "2026-11-22T00:45:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/skavstheworld",
+      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
       "user_login": "padbae",
       "user_name": "padbae",
       "is_live": true,
       "title": "♡ TYPE TEAM CHALLENGE: Fire!!! ♡ ⋆(๑•ᴗ•๑) | Cobblemon 1.8 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 18,
+      "viewer_count": 16,
       "follower_count": 1380,
       "language": "en",
       "started_at": "2026-11-21T21:04:40Z",
@@ -80,7 +95,7 @@
       "is_live": true,
       "title": "Yakuza 0 | Kiryu vs. Five Billionaires?! | !discord !clip",
       "game_name": "Yakuza 0",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "follower_count": 353,
       "language": "en",
       "started_at": "2026-11-22T00:42:22Z",
@@ -538,21 +553,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
-    },
-    {
-      "user_login": "skavstheworld",
-      "user_name": "SkaVsTheWorld",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 15101,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/skavstheworld",
-      "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
       "user_login": "slimchungusgaming",
