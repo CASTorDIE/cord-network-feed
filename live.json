@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T19:48:01.304Z",
+  "generatedAt": "2026-11-22T19:52:59.074Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-22T19:48:01.304Z",
+    "fetchedAt": "2026-11-22T19:52:59.074Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -21,7 +21,7 @@
       "title": "🌴SLEEP TIME | GUAM THON DAY 15 IN AM | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
       "viewer_count": 83,
-      "follower_count": 11213,
+      "follower_count": 11214,
       "language": "en",
       "started_at": "2026-11-21T20:52:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 5 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 71,
+      "viewer_count": 63,
       "follower_count": 2677,
       "language": "en",
       "started_at": "2026-11-22T18:13:47Z",
