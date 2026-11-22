@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T00:57:59.204Z",
+  "generatedAt": "2026-11-22T01:02:59.268Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-22T00:57:59.204Z",
+    "fetchedAt": "2026-11-22T01:02:59.268Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "IT'S MY BIRTHDAY! 🎉 GTA 6 + GIVEAWAYS",
       "game_name": "Just Chatting",
-      "viewer_count": 80,
-      "follower_count": 15102,
+      "viewer_count": 101,
+      "follower_count": 15105,
       "language": "en",
       "started_at": "2026-11-22T00:45:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "🌴AHHHHHH | GUAM THON DAY 14 | !thon !goals !move",
-      "game_name": "Grand Theft Auto VI",
-      "viewer_count": 71,
-      "follower_count": 11187,
-      "language": "en",
-      "started_at": "2026-11-21T20:52:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "ayejohnson",
       "user_name": "ayejohnson",
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 4 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 69,
+      "viewer_count": 78,
       "follower_count": 2672,
       "language": "en",
       "started_at": "2026-11-21T18:46:13Z",
@@ -60,19 +45,19 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "padbae",
-      "user_name": "padbae",
+      "user_login": "billygoat",
+      "user_name": "billygoat",
       "is_live": true,
-      "title": "♡ TYPE TEAM CHALLENGE: Fire!!! ♡ ⋆(๑•ᴗ•๑) | Cobblemon 1.8 | !lurk !sus !discord !gfuel !patreon",
-      "game_name": "Minecraft",
-      "viewer_count": 16,
-      "follower_count": 1380,
+      "title": "🌴AHHHHHH | GUAM THON DAY 14 | !thon !goals !move",
+      "game_name": "Grand Theft Auto VI",
+      "viewer_count": 76,
+      "follower_count": 11187,
       "language": "en",
-      "started_at": "2026-11-21T21:04:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_padbae-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/padbae",
-      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
+      "started_at": "2026-11-21T20:52:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
       "user_login": "gatito_maldito",
@@ -103,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅WORLD'S FIRST 100% PLAY THROUGH✅DAY 1020✅!discord",
+      "game_name": "Grand Theft Auto VI",
+      "viewer_count": 0,
+      "follower_count": 132656,
+      "language": "en",
+      "started_at": "2026-11-22T01:02:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -223,21 +223,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 132656,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
@@ -538,6 +523,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1132c17-c3f8-4b58-beee-f0c43232628e-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/nimbuskfrost",
       "description": "twitch: Infinitehavoconline"
+    },
+    {
+      "user_login": "padbae",
+      "user_name": "padbae",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 1380,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50d5a85e-f921-436f-af50-3f99ac5cc0f3-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/padbae",
+      "description": "Professional Shape Shifter | SoCal Cosplayer business inquiries: xopadbae@gmail.com"
     },
     {
       "user_login": "rickett_raffy",
