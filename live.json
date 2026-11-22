@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-11-22T00:37:59.174Z",
+  "generatedAt": "2026-11-22T00:42:59.101Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-22T00:37:59.174Z",
+    "fetchedAt": "2026-11-22T00:42:59.101Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
-    {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "GTA6 MARATHON, DAY 4 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
-      "game_name": "Grand Theft Auto VI",
-      "viewer_count": 69,
-      "follower_count": 2672,
-      "language": "en",
-      "started_at": "2026-11-21T18:46:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
     {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
       "title": "🌴AHHHHHH | GUAM THON DAY 14 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 67,
+      "viewer_count": 71,
       "follower_count": 11185,
       "language": "en",
       "started_at": "2026-11-21T20:52:28Z",
@@ -45,12 +30,27 @@
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "GTA6 MARATHON, DAY 4 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
+      "game_name": "Grand Theft Auto VI",
+      "viewer_count": 68,
+      "follower_count": 2672,
+      "language": "en",
+      "started_at": "2026-11-21T18:46:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
       "user_login": "padbae",
       "user_name": "padbae",
       "is_live": true,
       "title": "♡ TYPE TEAM CHALLENGE: Fire!!! ♡ ⋆(๑•ᴗ•๑) | Cobblemon 1.8 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Minecraft",
-      "viewer_count": 20,
+      "viewer_count": 18,
       "follower_count": 1380,
       "language": "en",
       "started_at": "2026-11-21T21:04:40Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": true,
+      "title": "Yakuza 0 | Kiryu vs. Five Billionaires?! | !discord !clip",
+      "game_name": "Yakuza 0",
+      "viewer_count": 0,
+      "follower_count": 353,
+      "language": "en",
+      "started_at": "2026-11-22T00:42:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I'm a conversationalist. We play games, tell stories, crack jokes, and follow curiosity wherever it takes us.Sometimes we learn something. Sometimes we just enjoy the ride."
     },
     {
       "user_login": "4kaizen_gaming",
@@ -328,21 +343,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ed7749d-5644-4655-8b8b-9b66e66a33c0-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/floodwater_",
       "description": "I'm FloodWater! Your average gamer with an above average sense of humor 😁.  Drop in and ride the wave 😎                       *Positive Vibes Only*"
-    },
-    {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 353,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I'm a conversationalist. We play games, tell stories, crack jokes, and follow curiosity wherever it takes us.Sometimes we learn something. Sometimes we just enjoy the ride."
     },
     {
       "user_login": "gibsontales",
