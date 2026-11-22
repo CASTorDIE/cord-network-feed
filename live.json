@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T02:57:59.195Z",
+  "generatedAt": "2026-11-22T03:02:58.424Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-22T02:57:59.195Z",
+    "fetchedAt": "2026-11-22T03:02:58.424Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅WORLD'S FIRST 100% PLAY THROUGH✅DAY 1020✅!discord",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 285,
+      "viewer_count": 271,
       "follower_count": 132687,
       "language": "en",
       "started_at": "2026-11-22T01:02:40Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "IT'S MY BIRTHDAY! 🎉 GTA 6 + GIVEAWAYS",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 130,
+      "viewer_count": 126,
       "follower_count": 15118,
       "language": "en",
       "started_at": "2026-11-22T00:45:54Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🌴AHHHHHH | GUAM THON DAY 14 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 105,
+      "viewer_count": 99,
       "follower_count": 11186,
       "language": "en",
       "started_at": "2026-11-21T20:52:28Z",
@@ -65,7 +65,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 4 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 72,
+      "viewer_count": 69,
       "follower_count": 2672,
       "language": "en",
       "started_at": "2026-11-21T18:46:13Z",
@@ -90,21 +90,6 @@
       "description": "I'm a conversationalist. We play games, tell stories, crack jokes, and follow curiosity wherever it takes us.Sometimes we learn something. Sometimes we just enjoy the ride."
     },
     {
-      "user_login": "tehchno",
-      "user_name": "tehchno",
-      "is_live": true,
-      "title": "Literally My First Time here",
-      "game_name": "Cyberpunk 2077",
-      "viewer_count": 3,
-      "follower_count": 460,
-      "language": "en",
-      "started_at": "2026-11-22T02:26:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tehchno-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/tehchno",
-      "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
-    },
-    {
       "user_login": "bribeecool10",
       "user_name": "bribeecool10",
       "is_live": true,
@@ -118,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "tehchno",
+      "user_name": "tehchno",
+      "is_live": true,
+      "title": "Literally My First Time here",
+      "game_name": "Cyberpunk 2077",
+      "viewer_count": 2,
+      "follower_count": 460,
+      "language": "en",
+      "started_at": "2026-11-22T02:26:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tehchno-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c49dab6-fadb-44fa-82ea-49bc93a6f107-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/tehchno",
+      "description": "Tehchno • Your friendly neighborhood pirate playing indie games • Check out my tiktok to stay up to date on indie games • Software engineer • YapOmatic • Cofounder of VirtualDeck •"
     },
     {
       "user_login": "thepuckgoa",
