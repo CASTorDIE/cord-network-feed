@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T01:17:59.276Z",
+  "generatedAt": "2026-11-22T01:22:59.211Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-22T01:17:59.276Z",
+    "fetchedAt": "2026-11-22T01:22:59.211Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅WORLD'S FIRST 100% PLAY THROUGH✅DAY 1020✅!discord",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 237,
-      "follower_count": 132651,
+      "viewer_count": 273,
+      "follower_count": 132652,
       "language": "en",
       "started_at": "2026-11-22T01:02:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "IT'S MY BIRTHDAY! 🎉 GTA 6 + GIVEAWAYS",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 124,
-      "follower_count": 15106,
+      "viewer_count": 128,
+      "follower_count": 15107,
       "language": "en",
       "started_at": "2026-11-22T00:45:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "🌴AHHHHHH | GUAM THON DAY 14 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 85,
+      "viewer_count": 72,
       "follower_count": 11186,
       "language": "en",
       "started_at": "2026-11-21T20:52:28Z",
@@ -90,21 +90,6 @@
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
-      "user_login": "gatito_maldito",
-      "user_name": "gatito_maldito",
-      "is_live": true,
-      "title": "Yakuza 0 | Kiryu vs. Five Billionaires?! | !discord !clip",
-      "game_name": "Yakuza 0",
-      "viewer_count": 2,
-      "follower_count": 353,
-      "language": "en",
-      "started_at": "2026-11-22T00:42:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/gatito_maldito",
-      "description": "I'm a conversationalist. We play games, tell stories, crack jokes, and follow curiosity wherever it takes us.Sometimes we learn something. Sometimes we just enjoy the ride."
-    },
-    {
       "user_login": "thepuckgoa",
       "user_name": "ThePuckGOA",
       "is_live": true,
@@ -118,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
+    },
+    {
+      "user_login": "gatito_maldito",
+      "user_name": "gatito_maldito",
+      "is_live": true,
+      "title": "Yakuza 0 | Kiryu vs. Five Billionaires?! | !discord !clip",
+      "game_name": "Yakuza 0",
+      "viewer_count": 1,
+      "follower_count": 353,
+      "language": "en",
+      "started_at": "2026-11-22T00:42:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gatito_maldito-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c6b959c-8aa8-4f43-803a-ac7a6caaad4d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/gatito_maldito",
+      "description": "I'm a conversationalist. We play games, tell stories, crack jokes, and follow curiosity wherever it takes us.Sometimes we learn something. Sometimes we just enjoy the ride."
     },
     {
       "user_login": "4kaizen_gaming",
