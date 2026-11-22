@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T09:07:58.998Z",
+  "generatedAt": "2026-11-22T09:12:59.015Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-22T09:07:58.998Z",
+    "fetchedAt": "2026-11-22T09:12:59.015Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴AHHHHHH | GUAM THON DAY 14 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 143,
+      "viewer_count": 146,
       "follower_count": 11211,
       "language": "en",
       "started_at": "2026-11-21T20:52:28Z",
