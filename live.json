@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T17:07:58.983Z",
+  "generatedAt": "2026-11-23T17:12:59.086Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-23T17:07:58.983Z",
+    "fetchedAt": "2026-11-23T17:12:59.086Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴SLEEP TIME SEE YALL IN AM | GUAM THON DAY 15 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 62,
+      "viewer_count": 54,
       "follower_count": 11219,
       "language": "en",
       "started_at": "2026-11-21T20:52:28Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 5 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 28,
+      "viewer_count": 36,
       "follower_count": 2680,
       "language": "en",
       "started_at": "2026-11-22T18:13:47Z",
