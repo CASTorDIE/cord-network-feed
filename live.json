@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T09:57:59.356Z",
+  "generatedAt": "2026-11-23T10:03:03.267Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-23T09:57:59.356Z",
+    "fetchedAt": "2026-11-23T10:03:03.267Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🌴SLEEP TIME SEE YALL IN AM | GUAM THON DAY 15 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 41,
-      "follower_count": 11219,
+      "viewer_count": 46,
+      "follower_count": 11218,
       "language": "en",
       "started_at": "2026-11-21T20:52:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
