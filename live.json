@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-23T02:52:58.646Z",
+  "generatedAt": "2026-11-23T02:57:58.514Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-23T02:52:58.646Z",
+    "fetchedAt": "2026-11-23T02:57:58.514Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅WORLD'S FIRST 100% PLAY THROUGH DAY 2✅DAY 1021✅!discord",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 279,
-      "follower_count": 132799,
+      "viewer_count": 268,
+      "follower_count": 132802,
       "language": "en",
       "started_at": "2026-11-22T22:40:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴I LOVE GTA | GUAM THON DAY 15 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 120,
+      "viewer_count": 124,
       "follower_count": 11221,
       "language": "en",
       "started_at": "2026-11-21T20:52:28Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 5 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 66,
+      "viewer_count": 67,
       "follower_count": 2679,
       "language": "en",
       "started_at": "2026-11-22T18:13:47Z",
@@ -60,27 +60,12 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "Last chance to for the giveaway",
-      "game_name": "Fortnite",
-      "viewer_count": 4,
-      "follower_count": 408,
-      "language": "en",
-      "started_at": "2026-11-22T23:58:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
       "user_login": "gatito_maldito",
       "user_name": "gatito_maldito",
       "is_live": true,
       "title": "The Yakuza Want Kiryu DEAD | Yakuza 0 | !discord !clip",
       "game_name": "Yakuza 0",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "follower_count": 352,
       "language": "en",
       "started_at": "2026-11-22T23:24:19Z",
@@ -193,6 +178,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 408,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
