@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T03:27:58.921Z",
+  "generatedAt": "2026-11-24T03:32:58.985Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T03:27:58.921Z",
+    "fetchedAt": "2026-11-24T03:32:58.985Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅MY LAST DAY ON GTA 6✅DAY 1022✅!discord",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 349,
-      "follower_count": 132879,
+      "viewer_count": 320,
+      "follower_count": 132880,
       "language": "en",
       "started_at": "2026-11-24T01:02:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴FA REACT THEN VICE CITY | GUAM THON DAY 16 | !thon !goals !move",
       "game_name": "Just Chatting",
-      "viewer_count": 142,
+      "viewer_count": 132,
       "follower_count": 11221,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -45,27 +45,12 @@
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
-      "user_login": "ayejohnson",
-      "user_name": "ayejohnson",
-      "is_live": true,
-      "title": "GTA6 MARATHON, DAY 6 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
-      "game_name": "Grand Theft Auto VI",
-      "viewer_count": 76,
-      "follower_count": 2682,
-      "language": "en",
-      "started_at": "2026-11-23T18:25:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/ayejohnson",
-      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
-    },
-    {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| Chat Gameshow and More OoT later | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Just Chatting",
-      "viewer_count": 68,
+      "viewer_count": 74,
       "follower_count": 10384,
       "language": "en",
       "started_at": "2026-11-24T03:01:58Z",
@@ -73,6 +58,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
+    },
+    {
+      "user_login": "ayejohnson",
+      "user_name": "ayejohnson",
+      "is_live": true,
+      "title": "GTA6 MARATHON, DAY 6 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
+      "game_name": "Grand Theft Auto VI",
+      "viewer_count": 71,
+      "follower_count": 2682,
+      "language": "en",
+      "started_at": "2026-11-23T18:25:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/ayejohnson",
+      "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
       "user_login": "4kaizen_gaming",
