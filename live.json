@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T02:57:58.880Z",
+  "generatedAt": "2026-11-24T03:02:59.066Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T02:57:58.880Z",
+    "fetchedAt": "2026-11-24T03:02:59.066Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅MY LAST DAY ON GTA 6✅DAY 1022✅!discord",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 403,
-      "follower_count": 132868,
+      "viewer_count": 432,
+      "follower_count": 132871,
       "language": "en",
       "started_at": "2026-11-24T01:02:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴FA REACT THEN VICE CITY | GUAM THON DAY 16 | !thon !goals !move",
       "game_name": "Just Chatting",
-      "viewer_count": 110,
+      "viewer_count": 107,
       "follower_count": 11220,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "GTA6 MARATHON, DAY 6 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 77,
+      "viewer_count": 72,
       "follower_count": 2681,
       "language": "en",
       "started_at": "2026-11-23T18:25:33Z",
@@ -60,19 +60,19 @@
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
     },
     {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
+      "user_login": "zaldar87",
+      "user_name": "Zaldar87",
       "is_live": true,
-      "title": "Starting the week with some achievementt hunting",
-      "game_name": "Warhammer Survivors",
-      "viewer_count": 3,
-      "follower_count": 408,
+      "title": "🦊🦇| Chat Gameshow and More OoT later | !discord !telegram !vrc !micro  | Microscape Addict",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "follower_count": 10384,
       "language": "en",
-      "started_at": "2026-11-24T00:13:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+      "started_at": "2026-11-24T03:01:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zaldar87",
+      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "4kaizen_gaming",
@@ -178,6 +178,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 408,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
@@ -643,21 +658,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
-    },
-    {
-      "user_login": "zaldar87",
-      "user_name": "Zaldar87",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 10384,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zaldar87",
-      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "zombaesempai",
