@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T20:57:58.529Z",
+  "generatedAt": "2026-11-24T21:02:58.817Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T20:57:58.529Z",
+    "fetchedAt": "2026-11-24T21:02:58.817Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "🌴VICE CITY TIME AHHHHHH | GUAM THON DAY 17 | !thon !goals !move",
-      "game_name": "Grand Theft Auto VI",
-      "viewer_count": 100,
-      "follower_count": 11227,
-      "language": "en",
-      "started_at": "2026-11-23T20:22:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🔴 GTA 6: Chapter 2 | MORE GTA 6 GIVEAWAYS! 🎁 | First Playthrough",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 96,
+      "viewer_count": 107,
       "follower_count": 15156,
       "language": "en",
       "started_at": "2026-11-24T20:14:58Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d01fde-6c66-4327-a0f0-02ddaeb226eb-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/skavstheworld",
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "🌴VICE CITY TIME AHHHHHH | GUAM THON DAY 17 | !thon !goals !move",
+      "game_name": "Grand Theft Auto VI",
+      "viewer_count": 99,
+      "follower_count": 11227,
+      "language": "en",
+      "started_at": "2026-11-23T20:22:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
       "user_login": "4kaizen_gaming",
