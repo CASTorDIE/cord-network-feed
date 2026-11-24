@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T06:07:59.205Z",
+  "generatedAt": "2026-11-24T06:12:59.260Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T06:07:59.205Z",
+    "fetchedAt": "2026-11-24T06:12:59.260Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Chat Gameshow and More OoT later | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 99,
+      "viewer_count": 93,
       "follower_count": 10384,
       "language": "en",
       "started_at": "2026-11-24T03:01:58Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴SLEEPING SEE YALL IN THE AM | GUAM THON DAY 16 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 63,
+      "viewer_count": 61,
       "follower_count": 11222,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
