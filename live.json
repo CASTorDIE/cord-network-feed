@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T14:12:58.818Z",
+  "generatedAt": "2026-11-24T14:17:59.048Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T14:12:58.818Z",
+    "fetchedAt": "2026-11-24T14:17:59.048Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -15,27 +15,12 @@
   },
   "streamers": [
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "🌴SLEEPING SEE YALL IN THE AM | GUAM THON DAY 16 | !thon !goals !move",
-      "game_name": "I'm Only Sleeping",
-      "viewer_count": 47,
-      "follower_count": 11224,
-      "language": "en",
-      "started_at": "2026-11-23T20:22:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "gibsontales",
       "user_name": "GibsonTales",
       "is_live": true,
       "title": "We’re Sharing ONE Controller in GTA 6 | We need $5,000 for our future and currently have $50 😭 Get on the couch we're making money in GTA 6",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 43,
+      "viewer_count": 53,
       "follower_count": 1237,
       "language": "en",
       "started_at": "2026-11-24T13:48:09Z",
@@ -43,6 +28,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40e177e1-29a7-410d-b005-7267de89f29a-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/gibsontales",
       "description": "We're Shayla and Trevor, the couple behind GibsonTales, your favorite gaming couple! We are bringing back the fun of couch co-op gaming with laughter, scares, screams, and some playful roasting. 📧 teamgibsontales@gmail.com "
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "🌴SLEEPING SEE YALL IN THE AM | GUAM THON DAY 16 | !thon !goals !move",
+      "game_name": "I'm Only Sleeping",
+      "viewer_count": 49,
+      "follower_count": 11224,
+      "language": "en",
+      "started_at": "2026-11-23T20:22:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
       "user_login": "4kaizen_gaming",
