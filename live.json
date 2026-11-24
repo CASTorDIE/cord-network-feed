@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T04:47:59.194Z",
+  "generatedAt": "2026-11-24T04:52:59.157Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T04:47:59.194Z",
+    "fetchedAt": "2026-11-24T04:52:59.157Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅MY LAST DAY ON GTA 6✅DAY 1022✅!discord",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 301,
-      "follower_count": 132896,
+      "viewer_count": 309,
+      "follower_count": 132897,
       "language": "en",
       "started_at": "2026-11-24T01:02:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "🌴SLEEPING SEE YALL IN THE AM | GUAM THON DAY 16 | !thon !goals !move",
-      "game_name": "I'm Only Sleeping",
-      "viewer_count": 98,
-      "follower_count": 11222,
-      "language": "en",
-      "started_at": "2026-11-23T20:22:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "zaldar87",
       "user_name": "Zaldar87",
       "is_live": true,
       "title": "🦊🦇| Chat Gameshow and More OoT later | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 95,
+      "viewer_count": 97,
       "follower_count": 10384,
       "language": "en",
       "started_at": "2026-11-24T03:01:58Z",
@@ -58,6 +43,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/zaldar87",
       "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
+    },
+    {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "🌴SLEEPING SEE YALL IN THE AM | GUAM THON DAY 16 | !thon !goals !move",
+      "game_name": "I'm Only Sleeping",
+      "viewer_count": 93,
+      "follower_count": 11222,
+      "language": "en",
+      "started_at": "2026-11-23T20:22:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -651,7 +651,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 1759,
+      "follower_count": 1760,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
