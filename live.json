@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T18:12:58.286Z",
+  "generatedAt": "2026-11-24T18:17:58.340Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T18:12:58.286Z",
+    "fetchedAt": "2026-11-24T18:17:58.340Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "billygoat",
       "is_live": true,
       "title": "🌴SLEEPING SEE YALL IN THE AM | GUAM THON DAY 16 | !thon !goals !move",
-      "game_name": "Just Chatting",
-      "viewer_count": 70,
+      "game_name": "Grand Theft Auto VI",
+      "viewer_count": 66,
       "follower_count": 11224,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
