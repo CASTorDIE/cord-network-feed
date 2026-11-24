@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T07:57:58.499Z",
+  "generatedAt": "2026-11-24T08:02:58.452Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T07:57:58.499Z",
+    "fetchedAt": "2026-11-24T08:02:58.452Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| Chat Gameshow and More OoT later | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 106,
+      "viewer_count": 109,
       "follower_count": 10383,
       "language": "en",
       "started_at": "2026-11-24T03:01:58Z",
