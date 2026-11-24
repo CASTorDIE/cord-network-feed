@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T23:07:58.905Z",
+  "generatedAt": "2026-11-24T23:12:58.916Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T23:07:58.905Z",
+    "fetchedAt": "2026-11-24T23:12:58.916Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 GTA 6: Chapter 2 | MORE GTA 6 GIVEAWAYS! 🎁 | First Playthrough",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 120,
+      "viewer_count": 130,
       "follower_count": 15164,
       "language": "en",
       "started_at": "2026-11-24T20:14:58Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴VICE CITY TIME AHHHHHH | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 104,
+      "viewer_count": 102,
       "follower_count": 11230,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
