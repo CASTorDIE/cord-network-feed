@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-11-24T08:27:58.392Z",
+  "generatedAt": "2026-11-24T08:32:58.524Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T08:27:58.392Z",
+    "fetchedAt": "2026-11-24T08:32:58.524Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
-    {
-      "user_login": "zaldar87",
-      "user_name": "Zaldar87",
-      "is_live": true,
-      "title": "🦊🦇| Chat Gameshow and More OoT later | !discord !telegram !vrc !micro  | Microscape Addict",
-      "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 111,
-      "follower_count": 10383,
-      "language": "en",
-      "started_at": "2026-11-24T03:01:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaldar87-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/zaldar87",
-      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
-    },
     {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
       "title": "🌴SLEEPING SEE YALL IN THE AM | GUAM THON DAY 16 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 51,
+      "viewer_count": 52,
       "follower_count": 11222,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "I play like I'm ranked dirt II !Discord !Wishlist",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "follower_count": 342,
       "language": "en",
       "started_at": "2026-11-24T08:10:35Z",
@@ -658,6 +643,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/896375a0-0dde-4c80-9156-35abb9d80ec9-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/wispy_witch",
       "description": "⋆˖⁺‧₊☽ Don't Judge a Book By It's Cover ☾₊‧⁺˖⋆Wispy is a wisp spirit cursed to inhabit different vessels to survive! She welcomes all sorts of beasts, humans, and monsters into The Parlor. But beware and behave, to Wispy, you're either a fresh, new 𝐅𝐑𝐈𝐄𝐍𝐃 or a fresh, new 𝐅𝐀𝐂𝐄~ ♡"
+    },
+    {
+      "user_login": "zaldar87",
+      "user_name": "Zaldar87",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 10383,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9ec0985-cb39-4dcf-9688-e048614fe13b-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/zaldar87",
+      "description": "Just some furry on the internet.  Spreading joy, laughter, and happiness wherever and whenever I can."
     },
     {
       "user_login": "zombaesempai",
