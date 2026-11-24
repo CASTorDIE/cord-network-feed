@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T21:37:58.499Z",
+  "generatedAt": "2026-11-24T21:42:58.597Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T21:37:58.499Z",
+    "fetchedAt": "2026-11-24T21:42:58.597Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴VICE CITY TIME AHHHHHH | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 112,
+      "viewer_count": 115,
       "follower_count": 11226,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🔴 GTA 6: Chapter 2 | MORE GTA 6 GIVEAWAYS! 🎁 | First Playthrough",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 108,
-      "follower_count": 15158,
+      "viewer_count": 115,
+      "follower_count": 15159,
       "language": "en",
       "started_at": "2026-11-24T20:14:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
