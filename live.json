@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T22:52:58.698Z",
+  "generatedAt": "2026-11-24T22:57:58.734Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T22:52:58.698Z",
+    "fetchedAt": "2026-11-24T22:57:58.734Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 GTA 6: Chapter 2 | MORE GTA 6 GIVEAWAYS! 🎁 | First Playthrough",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 118,
+      "viewer_count": 125,
       "follower_count": 15164,
       "language": "en",
       "started_at": "2026-11-24T20:14:58Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🌴VICE CITY TIME AHHHHHH | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 91,
-      "follower_count": 11229,
+      "viewer_count": 98,
+      "follower_count": 11230,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
