@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T17:52:59.963Z",
+  "generatedAt": "2026-11-24T17:57:59.409Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T17:52:59.963Z",
+    "fetchedAt": "2026-11-24T17:57:59.409Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴SLEEPING SEE YALL IN THE AM | GUAM THON DAY 16 | !thon !goals !move",
       "game_name": "Just Chatting",
-      "viewer_count": 59,
+      "viewer_count": 60,
       "follower_count": 11224,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -171,7 +171,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 132914,
+      "follower_count": 132913,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
