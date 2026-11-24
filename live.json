@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T08:52:58.429Z",
+  "generatedAt": "2026-11-24T08:57:58.482Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T08:52:58.429Z",
+    "fetchedAt": "2026-11-24T08:57:58.482Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴SLEEPING SEE YALL IN THE AM | GUAM THON DAY 16 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 52,
+      "viewer_count": 50,
       "follower_count": 11222,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 132910,
+      "follower_count": 132911,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
