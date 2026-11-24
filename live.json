@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T20:02:59.389Z",
+  "generatedAt": "2026-11-24T20:07:58.499Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T20:02:59.389Z",
+    "fetchedAt": "2026-11-24T20:07:58.499Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴VICE CITY TIME AHHHHHH | GUAM THON DAY 16 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 88,
+      "viewer_count": 96,
       "follower_count": 11227,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "♡ TESTING VERTICAL - NOT A REAL STREAM ♡ ⋆(๑•ᴗ•๑) | Cobblemon 1.8 | !lurk !sus !discord !gfuel !patreon",
       "game_name": "Test, Test",
-      "viewer_count": 0,
+      "viewer_count": 8,
       "follower_count": 1379,
       "language": "en",
       "started_at": "2026-11-24T20:00:54Z",
