@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T09:52:58.544Z",
+  "generatedAt": "2026-11-24T09:57:58.733Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T09:52:58.544Z",
+    "fetchedAt": "2026-11-24T09:57:58.733Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴SLEEPING SEE YALL IN THE AM | GUAM THON DAY 16 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 49,
+      "viewer_count": 52,
       "follower_count": 11222,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I play like I'm ranked dirt II !Discord !Wishlist",
       "game_name": "Rainbow Six Siege",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "follower_count": 345,
       "language": "en",
       "started_at": "2026-11-24T08:10:35Z",
