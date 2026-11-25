@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T15:52:59.338Z",
+  "generatedAt": "2026-11-25T15:57:59.306Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T15:52:59.338Z",
+    "fetchedAt": "2026-11-25T15:57:59.306Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "We’re Sharing ONE Controller in GTA 6 | Get on the couch we're making money in GTA 6",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 77,
-      "follower_count": 1306,
+      "viewer_count": 75,
+      "follower_count": 1307,
       "language": "en",
       "started_at": "2026-11-25T13:56:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
