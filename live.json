@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-25T02:47:59.181Z",
+  "generatedAt": "2026-11-25T02:52:59.084Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T02:47:59.181Z",
+    "fetchedAt": "2026-11-25T02:52:59.084Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1023✅!discord🦁WE AR EBACK ON THE ROCKE TLEAGUE GAMING SECTION🦁THAT MEANS IT IS TIME FOR US TO BE GAMERS ON THE GAMIN",
       "game_name": "Rocket League",
-      "viewer_count": 678,
-      "follower_count": 132937,
+      "viewer_count": 670,
+      "follower_count": 132935,
       "language": "en",
       "started_at": "2026-11-25T01:09:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴VICE CITY TIME AHHHHHH | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 107,
+      "viewer_count": 110,
       "follower_count": 11236,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -45,12 +45,27 @@
       "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
     },
     {
+      "user_login": "wexra",
+      "user_name": "Wexra",
+      "is_live": true,
+      "title": "I Love For Honor and For Honor Loves Me! 💃🏼 !join !discord !ubi !code",
+      "game_name": "For Honor",
+      "viewer_count": 11,
+      "follower_count": 9171,
+      "language": "en",
+      "started_at": "2026-11-25T02:48:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexra-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/wexra",
+      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
+    },
+    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "UNC tries new weapon aspect and fails horribly (probably)",
       "game_name": "Hades II",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "follower_count": 344,
       "language": "en",
       "started_at": "2026-11-25T01:58:30Z",
@@ -65,7 +80,7 @@
       "is_live": true,
       "title": "The SHADOW of the day, Will make Ganon gray | First Playthrough [Episode 6] | 24/11/2026 - Learning Any% Speedrun after beating the game",
       "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 8,
+      "viewer_count": 9,
       "follower_count": 732,
       "language": "en",
       "started_at": "2026-11-25T00:29:19Z",
@@ -80,7 +95,7 @@
       "is_live": true,
       "title": "Grand Theft Auto 6 the musical on ice, as seen in theaters, streaming on netflix, now on blueray directors cut edition in color 30fps",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 392,
       "language": "en",
       "started_at": "2026-11-25T00:58:40Z",
@@ -171,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 2681,
+      "follower_count": 2680,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
@@ -613,21 +628,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3594b32-0154-46b4-a7b6-cb5325c9d394-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/viridisbytes",
       "description": "・❥・ Streamer of whispers and wild nights. I pour comfort like cocktails and corrupt pixels with a smile. Stay awhile-- your place is already waiting.viridis.bytes@gmail.com"
-    },
-    {
-      "user_login": "wexra",
-      "user_name": "Wexra",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 9171,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/573a56a3-8cd9-45be-8405-d8b5dd8c2bb6-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/wexra",
-      "description": "|Ubisoft Partner| Welcome/Bienvenue! I'm Wexra, a content creator who adores For Honor and R6! Thanks for stopping by and I hope you'll stick around! ⚔️ For Honor Streamer 🎧Logitech Partner ⚡ Rogue Energy Sponsor 🌻 SMACKIN' Sponsor 💜 Lupus Warrior"
     },
     {
       "user_login": "wispy_witch",
