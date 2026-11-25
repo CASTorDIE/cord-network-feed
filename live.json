@@ -1,27 +1,42 @@
 {
-  "generatedAt": "2026-11-25T01:07:58.979Z",
+  "generatedAt": "2026-11-25T01:12:58.998Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T01:07:58.979Z",
+    "fetchedAt": "2026-11-25T01:12:58.998Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 8,
+    "offlineCount": 36
   },
   "streamers": [
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 1023✅!discord🦁WE AR EBACK ON THE ROCKE TLEAGUE GAMING SECTION🦁THAT MEANS IT IS TIME FOR US TO BE GAMERS ON THE GAMIN",
+      "game_name": "Rocket League",
+      "viewer_count": 183,
+      "follower_count": 132911,
+      "language": "en",
+      "started_at": "2026-11-25T01:09:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
     {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🔴 GTA 6: Chapter 2 | MORE GTA 6 GIVEAWAYS! 🎁 | First Playthrough",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 132,
-      "follower_count": 15168,
+      "viewer_count": 128,
+      "follower_count": 15169,
       "language": "en",
       "started_at": "2026-11-24T20:14:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skavstheworld-960x540.jpg",
@@ -35,7 +50,7 @@
       "is_live": true,
       "title": "🌴VICE CITY TIME AHHHHHH | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 109,
+      "viewer_count": 104,
       "follower_count": 11235,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -50,8 +65,8 @@
       "is_live": true,
       "title": "The SHADOW of the day, Will make Ganon gray | First Playthrough [Episode 6] | 24/11/2026 - Learning Any% Speedrun after beating the game",
       "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 6,
-      "follower_count": 731,
+      "viewer_count": 7,
+      "follower_count": 732,
       "language": "en",
       "started_at": "2026-11-25T00:29:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
@@ -60,27 +75,12 @@
       "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
-      "user_login": "desertrose",
-      "user_name": "Desertrose",
-      "is_live": true,
-      "title": "I took a nap :c | Tall Orders | !kofi",
-      "game_name": "Games + Demos",
-      "viewer_count": 4,
-      "follower_count": 1057,
-      "language": "en",
-      "started_at": "2026-11-25T00:10:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/desertrose",
-      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
-    },
-    {
       "user_login": "slimchungusgaming",
       "user_name": "SlimChungusGaming",
       "is_live": true,
       "title": "Grand Theft Auto 6 the musical on ice, as seen in theaters, streaming on netflix, now on blueray directors cut edition in color 30fps",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "follower_count": 392,
       "language": "en",
       "started_at": "2026-11-25T00:58:40Z",
@@ -88,6 +88,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/slimchungusgaming",
       "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
+    },
+    {
+      "user_login": "desertrose",
+      "user_name": "Desertrose",
+      "is_live": true,
+      "title": "I took a nap :c | Tall Orders | !kofi",
+      "game_name": "Games + Demos",
+      "viewer_count": 2,
+      "follower_count": 1057,
+      "language": "en",
+      "started_at": "2026-11-25T00:10:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_desertrose-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc615fb2-6d9e-4f83-899b-7714ca8d380e-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/desertrose",
+      "description": "I’m your short, sweet, and a little bit spicy streamer. I really enjoy co-streaming and playing a wide variety of game genres including puzzles, simulators, and pretty much any indie game! | For business inquiries only: desertrosetwitch@gmail.com | Proud member of the Twitch Women's Guild 🌸 |"
     },
     {
       "user_login": "thepuckgoa",
@@ -238,21 +253,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 132914,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
