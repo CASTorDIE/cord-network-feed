@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T22:27:58.945Z",
+  "generatedAt": "2026-11-25T22:32:59.197Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T22:27:58.945Z",
+    "fetchedAt": "2026-11-25T22:32:59.197Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴VICE CITY | GUAM THON DAY 18 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 110,
+      "viewer_count": 114,
       "follower_count": 11255,
       "language": "en",
       "started_at": "2026-11-25T16:25:45Z",
@@ -36,7 +36,7 @@
       "title": "EXPLORING GTA 6! EASTER EGGS, SIDE MISSIONS, ETC 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
       "viewer_count": 35,
-      "follower_count": 2680,
+      "follower_count": 2681,
       "language": "en",
       "started_at": "2026-11-25T22:18:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
