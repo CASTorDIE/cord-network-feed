@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T13:27:59.201Z",
+  "generatedAt": "2026-11-25T13:32:59.029Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T13:27:59.201Z",
+    "fetchedAt": "2026-11-25T13:32:59.029Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴SLEEPING SEE YOU IN THE AM | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 49,
+      "viewer_count": 50,
       "follower_count": 11237,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
