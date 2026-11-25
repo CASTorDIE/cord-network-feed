@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T23:32:59.122Z",
+  "generatedAt": "2026-11-25T23:37:59.128Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T23:32:59.122Z",
+    "fetchedAt": "2026-11-25T23:37:59.128Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴VICE CITY | GUAM THON DAY 18 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 118,
+      "viewer_count": 126,
       "follower_count": 11257,
       "language": "en",
       "started_at": "2026-11-25T16:25:45Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "EXPLORING GTA 6! EASTER EGGS, SIDE MISSIONS, ETC 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 44,
+      "viewer_count": 42,
       "follower_count": 2682,
       "language": "en",
       "started_at": "2026-11-25T22:18:26Z",
