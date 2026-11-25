@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-25T06:02:58.602Z",
+  "generatedAt": "2026-11-25T06:07:58.560Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T06:02:58.602Z",
+    "fetchedAt": "2026-11-25T06:07:58.560Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 2,
+    "offlineCount": 42
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴SLEEPING SEE YOU IN THE AM | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 55,
+      "viewer_count": 57,
       "follower_count": 11237,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I Love Women 💃🏼 !join !discord !ubi !code",
       "game_name": "Deadlock",
-      "viewer_count": 21,
+      "viewer_count": 22,
       "follower_count": 9172,
       "language": "en",
       "started_at": "2026-11-25T02:48:32Z",
@@ -47,14 +47,14 @@
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "UNC tries new weapon aspect and fails horribly (probably)",
-      "game_name": "Hades II",
-      "viewer_count": 14,
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
       "follower_count": 344,
-      "language": "en",
-      "started_at": "2026-11-25T01:58:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 133027,
+      "follower_count": 133028,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
