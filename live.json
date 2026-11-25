@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-25T00:57:59.066Z",
+  "generatedAt": "2026-11-25T01:02:59.004Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T00:57:59.066Z",
+    "fetchedAt": "2026-11-25T01:02:59.004Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 6,
-    "offlineCount": 38
+    "liveCount": 7,
+    "offlineCount": 37
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🔴 GTA 6: Chapter 2 | MORE GTA 6 GIVEAWAYS! 🎁 | First Playthrough",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 127,
+      "viewer_count": 122,
       "follower_count": 15166,
       "language": "en",
       "started_at": "2026-11-24T20:14:58Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴VICE CITY TIME AHHHHHH | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 103,
+      "viewer_count": 81,
       "follower_count": 11235,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "The SHADOW of the day, Will make Ganon gray | First Playthrough [Episode 6] | 24/11/2026 - Learning Any% Speedrun after beating the game",
       "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "follower_count": 731,
       "language": "en",
       "started_at": "2026-11-25T00:29:19Z",
@@ -63,8 +63,8 @@
       "user_login": "desertrose",
       "user_name": "Desertrose",
       "is_live": true,
-      "title": "I took a nap :c",
-      "game_name": "Gemporium",
+      "title": "I took a nap :c | Tall Orders | !kofi",
+      "game_name": "Games + Demos",
       "viewer_count": 2,
       "follower_count": 1057,
       "language": "en",
@@ -103,6 +103,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "slimchungusgaming",
+      "user_name": "SlimChungusGaming",
+      "is_live": true,
+      "title": "Grand Theft Auto 6 the musical on ice, as seen in theaters, streaming on netflix, now on blueray directors cut edition in color 30fps",
+      "game_name": "Grand Theft Auto VI",
+      "viewer_count": 1,
+      "follower_count": 392,
+      "language": "en",
+      "started_at": "2026-11-25T00:58:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimchungusgaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
+      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -553,21 +568,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39e882dc-bb65-4cd9-9e4c-26e9c02b447b-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/rickett_raffy",
       "description": "Hi it’s me Raffy 👋🏼 Streaming Tuesday - Saturday Keep an eye out for times as scheduled streams haven’t been locked in yet 🥰 Can’t wait to see you there 💜 Toodles "
-    },
-    {
-      "user_login": "slimchungusgaming",
-      "user_name": "SlimChungusGaming",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 392,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
-      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "tehchno",
