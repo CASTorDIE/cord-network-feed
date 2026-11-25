@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T08:07:58.563Z",
+  "generatedAt": "2026-11-25T08:12:58.628Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T08:07:58.563Z",
+    "fetchedAt": "2026-11-25T08:12:58.628Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴SLEEPING SEE YOU IN THE AM | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 54,
+      "viewer_count": 50,
       "follower_count": 11237,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "BREAKING NEWS II Still Trying To Find The Token II !Discord !Wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 2,
-      "follower_count": 345,
+      "viewer_count": 4,
+      "follower_count": 346,
       "language": "en",
       "started_at": "2026-11-25T07:23:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rickett_raffy-960x540.jpg",
