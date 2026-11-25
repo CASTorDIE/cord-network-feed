@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T10:07:58.796Z",
+  "generatedAt": "2026-11-25T10:12:58.747Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T10:07:58.796Z",
+    "fetchedAt": "2026-11-25T10:12:58.747Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "🌴SLEEPING SEE YOU IN THE AM | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 46,
-      "follower_count": 11237,
+      "viewer_count": 45,
+      "follower_count": 11236,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -561,7 +561,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 460,
+      "follower_count": 461,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
