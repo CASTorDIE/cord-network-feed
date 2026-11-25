@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T23:57:58.894Z",
+  "generatedAt": "2026-11-25T00:02:58.922Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-24T23:57:58.894Z",
+    "fetchedAt": "2026-11-25T00:02:58.922Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴VICE CITY TIME AHHHHHH | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 99,
+      "viewer_count": 129,
       "follower_count": 11233,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 132916,
+      "follower_count": 132915,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
