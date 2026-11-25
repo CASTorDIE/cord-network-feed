@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T07:12:58.591Z",
+  "generatedAt": "2026-11-25T07:17:58.530Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T07:12:58.591Z",
+    "fetchedAt": "2026-11-25T07:17:58.530Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴SLEEPING SEE YOU IN THE AM | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 58,
+      "viewer_count": 60,
       "follower_count": 11237,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "BREAKING NEWS II Still Trying To Find The Token II !Discord !Wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 6,
+      "viewer_count": 4,
       "follower_count": 345,
       "language": "en",
       "started_at": "2026-11-25T06:08:38Z",
