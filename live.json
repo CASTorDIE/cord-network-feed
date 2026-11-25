@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T14:32:59.209Z",
+  "generatedAt": "2026-11-25T14:37:59.205Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T14:32:59.209Z",
+    "fetchedAt": "2026-11-25T14:37:59.205Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "We’re Sharing ONE Controller in GTA 6 | Get on the couch we're making money in GTA 6",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 58,
-      "follower_count": 1278,
+      "viewer_count": 70,
+      "follower_count": 1283,
       "language": "en",
       "started_at": "2026-11-25T13:56:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gibsontales-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "🌴SLEEPING SEE YOU IN THE AM | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 50,
+      "viewer_count": 54,
       "follower_count": 11237,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
