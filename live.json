@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T06:12:58.533Z",
+  "generatedAt": "2026-11-25T06:17:58.593Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T06:12:58.533Z",
+    "fetchedAt": "2026-11-25T06:17:58.593Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🌴SLEEPING SEE YOU IN THE AM | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 59,
+      "viewer_count": 62,
       "follower_count": 11237,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I Love Women 💃🏼 !join !discord !ubi !code",
       "game_name": "Deadlock",
-      "viewer_count": 23,
+      "viewer_count": 24,
       "follower_count": 9172,
       "language": "en",
       "started_at": "2026-11-25T02:48:32Z",
