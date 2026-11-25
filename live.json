@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T02:02:58.944Z",
+  "generatedAt": "2026-11-25T02:07:59.284Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T02:02:58.944Z",
+    "fetchedAt": "2026-11-25T02:07:59.284Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1023✅!discord🦁WE AR EBACK ON THE ROCKE TLEAGUE GAMING SECTION🦁THAT MEANS IT IS TIME FOR US TO BE GAMERS ON THE GAMIN",
       "game_name": "Rocket League",
-      "viewer_count": 481,
+      "viewer_count": 456,
       "follower_count": 132916,
       "language": "en",
       "started_at": "2026-11-25T01:09:40Z",
@@ -30,27 +30,12 @@
       "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
-      "user_login": "billygoat",
-      "user_name": "billygoat",
-      "is_live": true,
-      "title": "🌴VICE CITY TIME AHHHHHH | GUAM THON DAY 17 | !thon !goals !move",
-      "game_name": "Grand Theft Auto VI",
-      "viewer_count": 114,
-      "follower_count": 11235,
-      "language": "en",
-      "started_at": "2026-11-23T20:22:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/billygoat",
-      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
-    },
-    {
       "user_login": "skavstheworld",
       "user_name": "SkaVsTheWorld",
       "is_live": true,
       "title": "🔴 GTA 6: Chapter 2 | MORE GTA 6 GIVEAWAYS! 🎁 | First Playthrough",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 103,
+      "viewer_count": 123,
       "follower_count": 15170,
       "language": "en",
       "started_at": "2026-11-24T20:14:58Z",
@@ -60,12 +45,27 @@
       "description": "Hey, I’m Ska! 👾🖤 Welcome to my little corner of gaming. I’ve been building an amazing community of awesome people. Stick around if you’re up for some laughs and good times!"
     },
     {
+      "user_login": "billygoat",
+      "user_name": "billygoat",
+      "is_live": true,
+      "title": "🌴VICE CITY TIME AHHHHHH | GUAM THON DAY 17 | !thon !goals !move",
+      "game_name": "Grand Theft Auto VI",
+      "viewer_count": 101,
+      "follower_count": 11235,
+      "language": "en",
+      "started_at": "2026-11-23T20:22:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd87992-ba7b-4e74-95f9-67640acac650-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/billygoat",
+      "description": "♡Hey! I play a variety of games from souls to shooters! Check out out my About Page for more info♡"
+    },
+    {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
       "is_live": true,
       "title": "UNC tries new weapon aspect and fails horribly (probably)",
       "game_name": "Hades II",
-      "viewer_count": 5,
+      "viewer_count": 10,
       "follower_count": 343,
       "language": "en",
       "started_at": "2026-11-25T01:58:30Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
+    },
+    {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": true,
+      "title": "The SHADOW of the day, Will make Ganon gray | First Playthrough [Episode 6] | 24/11/2026 - Learning Any% Speedrun after beating the game",
+      "game_name": "The Legend of Zelda: Ocarina of Time",
+      "viewer_count": 5,
+      "follower_count": 732,
+      "language": "en",
+      "started_at": "2026-11-25T00:29:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "slimchungusgaming",
@@ -88,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/slimchungusgaming",
       "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
-    },
-    {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": true,
-      "title": "The SHADOW of the day, Will make Ganon gray | First Playthrough [Episode 6] | 24/11/2026 - Learning Any% Speedrun after beating the game",
-      "game_name": "The Legend of Zelda: Ocarina of Time",
-      "viewer_count": 4,
-      "follower_count": 732,
-      "language": "en",
-      "started_at": "2026-11-25T00:29:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "desertrose",
