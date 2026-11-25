@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-25T02:42:59.290Z",
+  "generatedAt": "2026-11-25T02:47:59.181Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T02:42:59.290Z",
+    "fetchedAt": "2026-11-25T02:47:59.181Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 7,
-    "offlineCount": 37
+    "liveCount": 6,
+    "offlineCount": 38
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1023✅!discord🦁WE AR EBACK ON THE ROCKE TLEAGUE GAMING SECTION🦁THAT MEANS IT IS TIME FOR US TO BE GAMERS ON THE GAMIN",
       "game_name": "Rocket League",
-      "viewer_count": 643,
-      "follower_count": 132936,
+      "viewer_count": 678,
+      "follower_count": 132937,
       "language": "en",
       "started_at": "2026-11-25T01:09:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "🌴VICE CITY TIME AHHHHHH | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 109,
-      "follower_count": 11235,
+      "viewer_count": 107,
+      "follower_count": 11236,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_billygoat-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "UNC tries new weapon aspect and fails horribly (probably)",
       "game_name": "Hades II",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "follower_count": 344,
       "language": "en",
       "started_at": "2026-11-25T01:58:30Z",
@@ -80,7 +80,7 @@
       "is_live": true,
       "title": "Grand Theft Auto 6 the musical on ice, as seen in theaters, streaming on netflix, now on blueray directors cut edition in color 30fps",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "follower_count": 392,
       "language": "en",
       "started_at": "2026-11-25T00:58:40Z",
@@ -103,21 +103,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82aa48f3-63e2-4c5a-b994-42c480386a0c-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/thepuckgoa",
       "description": "Team Grenade founder TG07. GT: PuckGOA. For more search Facebook: @HaloTeamGrenade Youtube: PuckGOA TikTok: @puckgoa Discord: puckgoa"
-    },
-    {
-      "user_login": "bribeecool10",
-      "user_name": "bribeecool10",
-      "is_live": true,
-      "title": "time to turn on my brain fr",
-      "game_name": "XCOM 2",
-      "viewer_count": 1,
-      "follower_count": 408,
-      "language": "en",
-      "started_at": "2026-11-25T00:05:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bribeecool10-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
-      "twitch_url": "https://www.twitch.tv/bribeecool10",
-      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "alfieduu",
@@ -223,6 +208,21 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
+    },
+    {
+      "user_login": "bribeecool10",
+      "user_name": "bribeecool10",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 408,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
+      "twitch_url": "https://www.twitch.tv/bribeecool10",
+      "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
     },
     {
       "user_login": "daniii_phantommm",
@@ -561,7 +561,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 15174,
+      "follower_count": 15175,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
