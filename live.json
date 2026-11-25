@@ -1,41 +1,26 @@
 {
-  "generatedAt": "2026-11-25T05:17:58.603Z",
+  "generatedAt": "2026-11-25T05:22:58.510Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-25T05:17:58.603Z",
+    "fetchedAt": "2026-11-25T05:22:58.510Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 5,
-    "offlineCount": 39
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": true,
-      "title": "✅24/7 DROP STREAM✅DAY 1023✅!discord🦁WE AR EBACK ON THE ROCKE TLEAGUE GAMING SECTION🦁THAT MEANS IT IS TIME FOR US TO BE GAMERS ON THE GAMIN",
-      "game_name": "Rocket League",
-      "viewer_count": 540,
-      "follower_count": 133030,
-      "language": "en",
-      "started_at": "2026-11-25T01:09:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
-    },
     {
       "user_login": "billygoat",
       "user_name": "billygoat",
       "is_live": true,
       "title": "🌴SLEEPING SEE YOU IN THE AM | GUAM THON DAY 17 | !thon !goals !move",
       "game_name": "I'm Only Sleeping",
-      "viewer_count": 76,
+      "viewer_count": 77,
       "follower_count": 11237,
       "language": "en",
       "started_at": "2026-11-23T20:22:39Z",
@@ -50,7 +35,7 @@
       "is_live": true,
       "title": "I Love Women 💃🏼 !join !discord !ubi !code",
       "game_name": "Deadlock",
-      "viewer_count": 24,
+      "viewer_count": 19,
       "follower_count": 9172,
       "language": "en",
       "started_at": "2026-11-25T02:48:32Z",
@@ -65,7 +50,7 @@
       "is_live": true,
       "title": "UNC tries new weapon aspect and fails horribly (probably)",
       "game_name": "Hades II",
-      "viewer_count": 8,
+      "viewer_count": 10,
       "follower_count": 344,
       "language": "en",
       "started_at": "2026-11-25T01:58:30Z",
@@ -208,6 +193,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
+      "follower_count": 133028,
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
