@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T21:57:59.217Z",
+  "generatedAt": "2026-11-26T22:02:59.148Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-26T21:57:59.217Z",
+    "fetchedAt": "2026-11-26T22:02:59.148Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "Time to stuff Chronos like a turkey! Early stream.",
       "game_name": "Hades II",
-      "viewer_count": 12,
+      "viewer_count": 9,
       "follower_count": 347,
       "language": "en",
       "started_at": "2026-11-26T20:01:37Z",
