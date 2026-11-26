@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-26T01:07:59.215Z",
+  "generatedAt": "2026-11-26T01:12:59.261Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-26T01:07:59.215Z",
+    "fetchedAt": "2026-11-26T01:12:59.261Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 3,
-    "offlineCount": 41
+    "liveCount": 4,
+    "offlineCount": 40
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "EXPLORING GTA 6! EASTER EGGS, SIDE MISSIONS, ETC 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 47,
+      "viewer_count": 54,
       "follower_count": 2685,
       "language": "en",
       "started_at": "2026-11-25T22:18:26Z",
@@ -28,6 +28,36 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51c5f1bd-81e6-4fa8-8412-05cbb633416f-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/ayejohnson",
       "description": "Live everyday @ 6:30PM EST - Business email - Ayejohnson626@gmail.com - Catch a stream! Link Below 👇 for all socials!"
+    },
+    {
+      "user_login": "brycexd",
+      "user_name": "BrycexD",
+      "is_live": true,
+      "title": "✅24/7 DROP STREAM✅DAY 1024✅!discord🍌HOLY MOLY WE ARE GAMING MORE ROCKET LEAGUE🍌WAHOOO WE LOVE ROCKE TLEAGUE WE ARE REALLY JUST OUT HERE GA",
+      "game_name": "Rocket League",
+      "viewer_count": 4,
+      "follower_count": 133039,
+      "language": "en",
+      "started_at": "2026-11-26T01:09:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/brycexd",
+      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
+    },
+    {
+      "user_login": "slimchungusgaming",
+      "user_name": "SlimChungusGaming",
+      "is_live": true,
+      "title": "GRAND THEFT AUTO VI MEETS ANGRY ITALIAN",
+      "game_name": "Grand Theft Auto VI",
+      "viewer_count": 2,
+      "follower_count": 392,
+      "language": "en",
+      "started_at": "2026-11-26T00:39:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimchungusgaming-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
+      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "bribeecool10",
@@ -43,21 +73,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
-    },
-    {
-      "user_login": "slimchungusgaming",
-      "user_name": "SlimChungusGaming",
-      "is_live": true,
-      "title": "GRAND THEFT AUTO VI MEETS ANGRY ITALIAN",
-      "game_name": "Grand Theft Auto VI",
-      "viewer_count": 1,
-      "follower_count": 392,
-      "language": "en",
-      "started_at": "2026-11-26T00:39:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimchungusgaming-960x540.jpg",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9458eb41-f094-4b58-b921-208a62c5c41c-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/slimchungusgaming",
-      "description": "Streamer & Entertainer! Here to make you laugh and provide at least 2 hours of fun whenever I get the free time, Could be once a week, Could be Once every 2 days, Scheduling is hard"
     },
     {
       "user_login": "4kaizen_gaming",
@@ -178,21 +193,6 @@
       "profile_image_url": "",
       "twitch_url": "https://www.twitch.tv/boww_wolf",
       "description": ""
-    },
-    {
-      "user_login": "brycexd",
-      "user_name": "BrycexD",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 133042,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/586359be-6f52-493c-969a-5c3ea862f12f-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/brycexd",
-      "description": "Hey guys. Let's have a good time BUSINESS INQUIRIES: BrycexD@dulcedo.com"
     },
     {
       "user_login": "daniii_phantommm",
