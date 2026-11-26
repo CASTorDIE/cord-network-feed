@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T00:17:59.144Z",
+  "generatedAt": "2026-11-26T00:22:59.710Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-26T00:17:59.144Z",
+    "fetchedAt": "2026-11-26T00:22:59.710Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "EXPLORING GTA 6! EASTER EGGS, SIDE MISSIONS, ETC 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 49,
-      "follower_count": 2683,
+      "viewer_count": 44,
+      "follower_count": 2684,
       "language": "en",
       "started_at": "2026-11-25T22:18:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayejohnson-960x540.jpg",
