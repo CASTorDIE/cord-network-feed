@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T11:27:59.268Z",
+  "generatedAt": "2026-11-26T11:32:59.198Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-26T11:27:59.268Z",
+    "fetchedAt": "2026-11-26T11:32:59.198Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] The Return of The Board | Control | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 37,
+      "viewer_count": 32,
       "follower_count": 1355,
       "language": "en",
       "started_at": "2026-11-26T07:00:20Z",
