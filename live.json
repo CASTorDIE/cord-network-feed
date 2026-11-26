@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T10:12:59.219Z",
+  "generatedAt": "2026-11-26T10:17:59.288Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-26T10:12:59.219Z",
+    "fetchedAt": "2026-11-26T10:17:59.288Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "[18+] The Return of The Board | Control | !advanced !discord !lurk !time !clip |",
       "game_name": "Control",
-      "viewer_count": 18,
+      "viewer_count": 21,
       "follower_count": 1356,
       "language": "en",
       "started_at": "2026-11-26T07:00:20Z",
@@ -186,7 +186,7 @@
       "title": "",
       "game_name": "",
       "viewer_count": null,
-      "follower_count": 133129,
+      "follower_count": 133128,
       "language": "",
       "started_at": "",
       "thumbnail_url": "",
