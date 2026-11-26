@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-26T02:37:58.342Z",
+  "generatedAt": "2026-11-26T02:42:58.329Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-26T02:37:58.342Z",
+    "fetchedAt": "2026-11-26T02:42:58.329Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 4,
-    "offlineCount": 40
+    "liveCount": 5,
+    "offlineCount": 39
   },
   "streamers": [
     {
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1024✅!discord🍌HOLY MOLY WE ARE GAMING MORE ROCKET LEAGUE🍌WAHOOO WE LOVE ROCKE TLEAGUE WE ARE REALLY JUST OUT HERE GA",
       "game_name": "Rocket League",
-      "viewer_count": 511,
-      "follower_count": 133068,
+      "viewer_count": 549,
+      "follower_count": 133069,
       "language": "en",
       "started_at": "2026-11-26T01:09:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "EXPLORING GTA 6! EASTER EGGS, SIDE MISSIONS, ETC 💎 GET YOUR SNACKS AND GET IN HERE 💎 !DISCORD !YOUTUBE !MERCH",
       "game_name": "Grand Theft Auto VI",
-      "viewer_count": 80,
+      "viewer_count": 83,
       "follower_count": 2707,
       "language": "en",
       "started_at": "2026-11-25T22:18:26Z",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "I think we are close to beating the base game!",
       "game_name": "Hades II",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "follower_count": 343,
       "language": "en",
       "started_at": "2026-11-26T01:55:30Z",
@@ -73,6 +73,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77227aad-b78c-4ded-b02f-482ce74adc21-profile_image-300x300.jpeg",
       "twitch_url": "https://www.twitch.tv/bribeecool10",
       "description": "I'm a variety Stream who Raises money for my local children's hospital through Extralife every stream"
+    },
+    {
+      "user_login": "faytefireix",
+      "user_name": "FayteFireix",
+      "is_live": true,
+      "title": "Speedrun Learning! Why are Jump Slash Cancels the bane of my existence right now??? | 25/11/2026 - Learning Any% Speedrun",
+      "game_name": "The Legend of Zelda: Ocarina of Time",
+      "viewer_count": 1,
+      "follower_count": 733,
+      "language": "en",
+      "started_at": "2026-11-26T02:37:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faytefireix-960x540.jpg",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
+      "twitch_url": "https://www.twitch.tv/faytefireix",
+      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "alfieduu",
@@ -268,21 +283,6 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b1f911-aff3-4426-9f97-b43190456285-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/fallentitanandy",
       "description": "Hey Folks FallenTitanAndy here. I am From Brisbane, Queensland, Australia. I Suffer from Depression, Anxiety, ADD, ADHD and Stagefright. So if I'm not talking that would be why. I'm a hard working Person who currently works for A Retail Store so my Hours Very from time to time. "
-    },
-    {
-      "user_login": "faytefireix",
-      "user_name": "FayteFireix",
-      "is_live": false,
-      "title": "",
-      "game_name": "",
-      "viewer_count": null,
-      "follower_count": 733,
-      "language": "",
-      "started_at": "",
-      "thumbnail_url": "",
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2d6ead4-2f68-47bc-bc94-853cf411084d-profile_image-300x300.png",
-      "twitch_url": "https://www.twitch.tv/faytefireix",
-      "description": "By day, I work in IT and parent. By night, I chase RPG storylines & speedruns for your entertainment! Proud father, balancing dad life with variety streaming. Get ready for some laughs, some fails, and a whole lot of fun! || For business inquiries: Info@FireixMedia.com"
     },
     {
       "user_login": "floodwater_",
