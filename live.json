@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-26T06:37:58.778Z",
+  "generatedAt": "2026-11-26T06:42:58.870Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-26T06:37:58.778Z",
+    "fetchedAt": "2026-11-26T06:42:58.870Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
   "summary": {
     "streamerCount": 44,
-    "liveCount": 2,
-    "offlineCount": 42
+    "liveCount": 1,
+    "offlineCount": 43
   },
   "streamers": [
     {
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE RETURNS | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Marbles on Stream",
-      "viewer_count": 116,
+      "viewer_count": 114,
       "follower_count": 10390,
       "language": "en",
       "started_at": "2026-11-26T03:14:08Z",
@@ -32,14 +32,14 @@
     {
       "user_login": "4kaizen_gaming",
       "user_name": "4kaizen_gaming",
-      "is_live": true,
-      "title": "I think we are close to beating the base game!",
-      "game_name": "Hades II",
-      "viewer_count": 14,
+      "is_live": false,
+      "title": "",
+      "game_name": "",
+      "viewer_count": null,
       "follower_count": 344,
-      "language": "en",
-      "started_at": "2026-11-26T01:55:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_4kaizen_gaming-960x540.jpg",
+      "language": "",
+      "started_at": "",
+      "thumbnail_url": "",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80754222-ce96-417a-b7db-53591adecc51-profile_image-300x300.png",
       "twitch_url": "https://www.twitch.tv/4kaizen_gaming",
       "description": "Old and disabled! Broken but not useless. If you enjoy watching people struggle with difficult games, you are in the right place!"
