@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T05:27:58.712Z",
+  "generatedAt": "2026-11-26T05:32:58.660Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-26T05:27:58.712Z",
+    "fetchedAt": "2026-11-26T05:32:58.660Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE RETURNS | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Marbles on Stream",
-      "viewer_count": 113,
+      "viewer_count": 116,
       "follower_count": 10391,
       "language": "en",
       "started_at": "2026-11-26T03:14:08Z",
@@ -35,7 +35,7 @@
       "is_live": true,
       "title": "I think we are close to beating the base game!",
       "game_name": "Hades II",
-      "viewer_count": 15,
+      "viewer_count": 14,
       "follower_count": 344,
       "language": "en",
       "started_at": "2026-11-26T01:55:30Z",
