@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T11:07:59.199Z",
+  "generatedAt": "2026-11-26T11:12:59.227Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-26T11:07:59.199Z",
+    "fetchedAt": "2026-11-26T11:12:59.227Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -19,8 +19,8 @@
       "user_name": "ViridisBytes",
       "is_live": true,
       "title": "[18+] The Return of The Board | Control | !advanced !discord !lurk !time !clip |",
-      "game_name": "Control",
-      "viewer_count": 32,
+      "game_name": "Just Chatting",
+      "viewer_count": 33,
       "follower_count": 1356,
       "language": "en",
       "started_at": "2026-11-26T07:00:20Z",
