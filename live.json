@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T06:12:58.877Z",
+  "generatedAt": "2026-11-26T06:17:58.789Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-26T06:12:58.877Z",
+    "fetchedAt": "2026-11-26T06:17:58.789Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,7 +20,7 @@
       "is_live": true,
       "title": "🦊🦇| MARBLES, KARAOKE, & MICROSCAPE RETURNS | !discord !telegram !vrc !micro  | Microscape Addict",
       "game_name": "Marbles on Stream",
-      "viewer_count": 121,
+      "viewer_count": 123,
       "follower_count": 10390,
       "language": "en",
       "started_at": "2026-11-26T03:14:08Z",
