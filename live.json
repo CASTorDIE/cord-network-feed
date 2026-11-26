@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T07:52:59.383Z",
+  "generatedAt": "2026-11-26T07:57:58.892Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-26T07:52:59.383Z",
+    "fetchedAt": "2026-11-26T07:57:58.892Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -35,8 +35,8 @@
       "is_live": true,
       "title": "[18+] The Return of The Board | Control | !advanced !discord !lurk !time !clip |",
       "game_name": "Just Chatting",
-      "viewer_count": 13,
-      "follower_count": 1355,
+      "viewer_count": 8,
+      "follower_count": 1356,
       "language": "en",
       "started_at": "2026-11-26T07:00:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viridisbytes-960x540.jpg",
@@ -50,7 +50,7 @@
       "is_live": true,
       "title": "Will we find the gold sprites or the token first?? II !Discord !Wishlist",
       "game_name": "Fortnite",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "follower_count": 352,
       "language": "en",
       "started_at": "2026-11-26T07:08:36Z",
