@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T02:37:58.772Z",
+  "generatedAt": "2026-11-27T02:42:58.677Z",
   "schemaVersion": 1,
   "source": {
     "name": "twitch-streams",
     "input": "data/twitch-streams.json",
-    "fetchedAt": "2026-11-27T02:37:58.772Z",
+    "fetchedAt": "2026-11-27T02:42:58.677Z",
     "source": "twitch-helix-streams",
     "requestedCount": 44
   },
@@ -20,8 +20,8 @@
       "is_live": true,
       "title": "✅24/7 DROP STREAM✅DAY 1025✅!discord🦃HAPPY THANKSGIVING🦃WE ARE REMEMBERING PILGRIM TODAY🦃WE LOVE HER SO MUCH MAY SHE BE RESTING EASY I MIS",
       "game_name": "Rocket League",
-      "viewer_count": 524,
-      "follower_count": 133159,
+      "viewer_count": 556,
+      "follower_count": 133161,
       "language": "en",
       "started_at": "2026-11-27T01:11:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brycexd-960x540.jpg",
